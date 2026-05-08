@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "game-watch-the-legend-of-zelda",
+    "name": "Game & Watch: The Legend of Zelda",
+    "franchise": {
+      "series": "Game & Watch",
+      "subseries": "The Legend of Zelda"
+    },
+    "release": "2021-11-12",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": null,
+      "era": "classic"
+    },
+    "cover": "game-watch-zelda",
+    "event": "The Legend of Zelda 35th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "game-watch-super-mario-bros",
+    "name": "Game & Watch: Super Mario Bros.",
+    "cover": "game-watch-mario",
+    "franchise": {
+      "series": "Game & Watch",
+      "subseries": null
+    },
+    "release": "2020-11-13",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": null,
+      "era": "classic"
+    },
+    "event": "Super Mario Bros. 35th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "game-boy",
+    "name": "Game Boy",
+    "cover": "game-boy",
+    "franchise": {
+      "series": "Game Boy",
+      "subseries": null
+    },
+    "release": "1990-09-28",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "generation": 4,
+      "era": "8-bit"
+    },
+    "variants": [
+      {
+        "name": "Off White",
+        "cover": "game-boy"
+      }
+    ],
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "game-boy-color",
+    "name": "Game Boy Color",
+    "cover": "gbc",
+    "franchise": {
+      "series": "Game Boy",
+      "subseries": null
+    },
+    "release": "1998-11-23",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "generation": 5,
+      "era": "8-bit"
+    },
+    "variants": [
+      {
+        "name": "Atomic Purple",
+        "cover": "gbc"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "game-boy-advance",
+    "name": "Game Boy Advance",
+    "cover": "game-boy-advance",
+    "franchise": {
+      "series": "Game Boy",
+      "subseries": "Game Boy Advance"
+    },
+    "release": "2001-06-22",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "family": "game-boy-advance",
+      "generation": 6,
+      "era": "32-bit"
+    },
+    "variants": [
+      {
+        "name": "Glacier",
+        "cover": "game-boy-advance"
+      },
+      {
+        "name": "White",
+        "cover": "gba-white"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "game-boy-advance-sp",
+    "name": "Game Boy Advance SP",
+    "cover": "game-boy-advance-sp",
+    "franchise": {
+      "series": "Game Boy",
+      "subseries": "Game Boy Advance"
+    },
+    "release": "2003-03-23",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "family": "game-boy-advance",
+      "generation": 6,
+      "era": "32-bit"
+    },
+    "variants": [
+      {
+        "name": "Platinum",
+        "cover": "game-boy-advance-sp"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-dsi-xl",
+    "name": "Nintendo DSi XL",
+    "cover": "ds-i-xl",
+    "franchise": {
+      "series": "Nintendo DS",
+      "subseries": "DSi"
+    },
+    "release": "2010-03-05",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "family": "nintendo-dsi",
+      "generation": 7,
+      "era": "128-bit"
+    },
+    "variants": [
+      {
+        "name": "Burgundy",
+        "cover": "ds-i-xl"
+      }
+    ],
+    "wishlist": true,
+    "notes": "Used to own"
+  },
+  {
+    "id": "nintendo-2ds",
+    "name": "Nintendo 2DS",
+    "cover": "2ds",
+    "franchise": {
+      "series": "Nintendo 3DS",
+      "subseries": "2DS"
+    },
+    "release": "2013-10-12",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "family": "nintendo-3ds",
+      "generation": 8,
+      "era": "720p"
+    },
+    "variants": [
+      {
+        "name": "Blue",
+        "cover": "2ds"
+      }
+    ],
+    "wishlist": true,
+    "notes": "Used to own"
+  },
+  {
+    "id": "new-nintendo-3ds-xl",
+    "name": "New Nintendo 3DS XL",
+    "cover": "new-3ds-xl",
+    "franchise": {
+      "series": "Nintendo 3DS",
+      "subseries": "New 3DS"
+    },
+    "release": "2017-07-30",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "handheld",
+      "family": "nintendo-3ds",
+      "generation": 8,
+      "era": "720p"
+    },
+    "variants": [
+      {
+        "name": "Orange & Black",
+        "cover": "new-3ds-xl"
+      }
+    ],
+    "main": true,
+    "notes": null
+  },
+  {
+    "id": "nintendo-classic-mini-nintendo-entertainment-system",
+    "name": "Nintendo Classic Mini: Nintendo Entertainment System",
+    "cover": "nes-classic",
+    "franchise": {
+      "series": "Classic Mini",
+      "subseries": "Nintendo Entertainment System"
+    },
+    "release": "2016-11-11",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 3,
+      "era": "8-bit"
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-classic-mini-nintendo-entertainment-system-controller",
+    "name": "Nintendo Classic Mini: Nintendo Entertainment System Controller",
+    "cover": "nes-classic-controller",
+    "franchise": {
+      "series": "Classic Mini",
+      "subseries": "Nintendo Entertainment System"
+    },
+    "release": "2016-11-11",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 3,
+      "compatible_with": [
+        "nintendo-classic-mini-nintendo-entertainment-system",
+        "nintendo-classic-mini-super-nintendo-entertainment-system",
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-classic-mini-super-nintendo-entertainment-system",
+    "name": "Nintendo Classic Mini: Super Nintendo Entertainment System",
+    "cover": "snes-classic",
+    "franchise": {
+      "series": "Classic Mini",
+      "subseries": "Super Nintendo Entertainment System"
+    },
+    "release": "2017-09-29",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 4,
+      "era": "16-bit"
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-classic-mini-super-nintendo-entertainment-system-controller",
+    "name": "Nintendo Classic Mini: Super Nintendo Entertainment System Controller",
+    "cover": "snes-classic-controller",
+    "franchise": {
+      "series": "Classic Mini",
+      "subseries": "Super Nintendo Entertainment System"
+    },
+    "release": "2017-09-29",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 4,
+      "compatible_with": [
+        "nintendo-classic-mini-nintendo-entertainment-system",
+        "nintendo-classic-mini-super-nintendo-entertainment-system",
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-gamecube",
+    "name": "GameCube",
+    "cover": "gamecube",
+    "franchise": {
+      "series": "GameCube",
+      "subseries": null
+    },
+    "release": "2003-05-03",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 6,
+      "era": "128-bit"
+    },
+    "variants": [
+      {
+        "name": "Platinum",
+        "cover": "gamecube"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-gamecube-controller",
+    "name": "GameCube Controller",
+    "cover": "gamecube-controller",
+    "franchise": {
+      "series": "GameCube",
+      "subseries": null
+    },
+    "release": "2001-09-14",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 6,
+      "compatible_with": [
+        "nintendo-gamecube",
+        "nintendo-wii"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Platinum",
+        "cover": "gamecube-controller-platinum"
+      },
+      {
+        "name": "Indigo",
+        "cover": "gamecube-controller-indigo"
+      },
+      {
+        "name": "Jet Black",
+        "cover": "gamecube-controller-jet-black"
+      },
+      {
+        "name": "Spice Orange",
+        "cover": "gamecube-controller-spice-orange"
+      },
+      {
+        "name": "Emerald Blue",
+        "cover": "gamecube-controller-emerald-blue"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-game-boy-player-controller",
+    "name": "Game Boy Player Controller",
+    "cover": "game-boy-controller",
+    "franchise": {
+      "series": "GameCube",
+      "subseries": "Game Boy Advance"
+    },
+    "release": "2003-09-14",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 6,
+      "compatible_with": [
+        "nintendo-gamecube",
+        "nintendo-wii"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Indigo",
+        "cover": "game-boy-controller"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii",
+    "name": "Wii",
+    "cover": "wii",
+    "franchise": {
+      "series": "Wii",
+      "subseries": null
+    },
+    "release": "2006-12-08",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "family": "nintendo-wii",
+      "generation": 7,
+      "era": "720p"
+    },
+    "variants": [
+      {
+        "name": "White",
+        "cover": "wii"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-remote-plus",
+    "name": "Wii Remote Plus",
+    "cover": "wii-remote-plus-black",
+    "franchise": {
+      "series": "Wii",
+      "subseries": null
+    },
+    "release": "2010-11-05",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 7,
+      "compatible_with": [
+        "nintendo-wii",
+        "nintendo-wii-u"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Black",
+        "cover": "wii-remote-plus-black"
+      },
+      {
+        "name": "The Legend of Zelda: Skyward Sword Edition",
+        "cover": "wii-remote-zelda",
+        "event": "The Legend of Zelda 25th Anniversary"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-remote",
+    "name": "Wii Remote",
+    "cover": "wii-remote",
+    "franchise": {
+      "series": "Wii",
+      "subseries": null
+    },
+    "release": "2006-12-08",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 7,
+      "compatible_with": [
+        "nintendo-wii",
+        "nintendo-wii-u"
+      ]
+    },
+    "variants": [
+      {
+        "name": "White",
+        "cover": "wii-remote"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-nunchuck",
+    "name": "Nunchuck",
+    "cover": "nunchuck",
+    "franchise": {
+      "series": "Wii",
+      "subseries": null
+    },
+    "release": "2006-12-08",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "accessory",
+      "generation": 7,
+      "compatible_with": [
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+      ]
+    },
+    "variants": [
+      {
+        "name": "White",
+        "cover": "nunchuck"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-classic-controller-pro",
+    "name": "Classic Controller Pro",
+    "cover": "classic-controller-pro",
+    "franchise": {
+      "series": "Wii",
+      "subseries": null
+    },
+    "release": "2009-11-20",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 7,
+      "compatible_with": [
+        "nintendo-classic-mini-nintendo-entertainment-system",
+        "nintendo-classic-mini-super-nintendo-entertainment-system",
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Black",
+        "cover": "classic-controller-pro"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-balance-board",
+    "name": "Wii Balance Board",
+    "cover": "balance-board",
+    "franchise": {
+      "series": "Wii",
+      "subseries": null
+    },
+    "release": "2008-04-26",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "accessory",
+      "generation": 7,
+      "compatible_with": [
+        "nintendo-wii",
+        "nintendo-wii-u"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-u",
+    "name": "Wii U",
+    "cover": "wii-u",
+    "franchise": {
+      "series": "Wii U",
+      "subseries": null
+    },
+    "release": "2012-11-30",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 8,
+      "era": "1080p"
+    },
+    "variants": [
+      {
+        "name": "Premium",
+        "cover": "wii-u"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-u-gamepad",
+    "name": "Wii U Gamepad",
+    "cover": "wii-u-gamepad",
+    "franchise": {
+      "series": "Wii U",
+      "subseries": null
+    },
+    "release": "2012-11-30",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 8,
+      "compatible_with": [
+        "nintendo-wii-u"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Black",
+        "cover": "wii-u-gamepad"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-wii-u-pro-controller",
+    "name": "Wii U Pro Controller",
+    "cover": "wii-u-pro-controller",
+    "franchise": {
+      "series": "Wii U",
+      "subseries": null
+    },
+    "release": "2012-11-30",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 8,
+      "compatible_with": [
+        "nintendo-wii-u"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Black",
+        "cover": "wii-u-pro-controller",
+        "owned": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-switch",
+    "name": "Switch",
+    "cover": "switch",
+    "franchise": {
+      "series": "Switch",
+      "subseries": null
+    },
+    "release": "2017-03-03",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "hybrid",
+      "generation": 8,
+      "era": "1080p"
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-switch-2",
+    "name": "Switch 2",
+    "cover": "switch-2",
+    "franchise": {
+      "series": "Switch 2",
+      "subseries": null
+    },
+    "release": "2025-06-05",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "hybrid",
+      "generation": 9,
+      "era": "4k"
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-gamecube-controller-switch2",
+    "name": "GameCube Controller",
+    "cover": "gamecube-controller-switch2",
+    "franchise": {
+      "series": "Switch 2",
+      "subseries": "GameCube"
+    },
+    "release": "2025-06-05",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 6,
+      "compatible_with": [
+        "nintendo-switch-2"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-joy-con",
+    "name": "Joy-Con",
+    "cover": "joy-con-neon",
+    "franchise": {
+      "series": "Switch",
+      "subseries": null
+    },
+    "release": "2017-03-03",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 8,
+      "compatible_with": [
+        "nintendo-switch",
+        "nintendo-switch-2"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Neon Red & Neon Blue",
+        "cover": "joy-con-neon"
+      },
+      {
+        "name": "The Legend of Zelda: Skyward Sword HD Edition",
+        "cover": "joy-con-zelda",
+        "event": "The Legend of Zelda: Skyward Sword 10th Anniversary"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nintendo-joy-con-2",
+    "name": "Joy-Con 2",
+    "cover": "joy-con-2",
+    "franchise": {
+      "series": "Switch 2",
+      "subseries": null
+    },
+    "release": "2025-06-05",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 9,
+      "compatible_with": [
+        "nintendo-switch-2"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-switch-pro-controller",
+    "name": "Switch Pro Controller",
+    "cover": "switch-pro-controller",
+    "franchise": {
+      "series": "Switch",
+      "subseries": null
+    },
+    "release": "2017-03-03",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 8,
+      "compatible_with": [
+        "nintendo-switch",
+        "nintendo-switch-2"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-64-controller-switch",
+    "name": "Nintendo 64 Controller",
+    "cover": "n64-controller",
+    "franchise": {
+      "series": "Switch",
+      "subseries": "Nintendo 64"
+    },
+    "release": "2021-10-26",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 5,
+      "compatible_with": [
+        "nintendo-switch",
+        "nintendo-switch-2"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-64-controller",
+    "name": "Nintendo 64 Controller",
+    "cover": "n64-controller-grey",
+    "franchise": {
+      "series": "Nintendo 64",
+      "subseries": null
+    },
+    "release": "1997-03-01",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 5,
+      "compatible_with": [
+        "nintendo-64"
+      ]
+    },
+    "variants": [
+      {
+        "name": "Solid Grey",
+        "cover": "n64-controller-grey",
+        "wishlist": true
+      },
+      {
+        "name": "Mario Kart",
+        "cover": "n64-controller-black"
+      }
+    ],
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "super-nintendo-entertainment-system-controller-switch",
+    "name": "Super Nintendo Entertainment System Controller",
+    "cover": "snes-controller",
+    "franchise": {
+      "series": "Switch",
+      "subseries": "Super Nintendo Entertainment System"
+    },
+    "release": "2020-03-03",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "controller",
+      "generation": 4,
+      "compatible_with": [
+        "nintendo-switch",
+        "nintendo-switch-2"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "nintendo-64",
+    "name": "Nintendo 64",
+    "cover": "n64",
+    "franchise": {
+      "series": "64",
+      "subseries": null
+    },
+    "release": "1997-03-01",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 5,
+      "era": "32-bit"
+    },
+    "variants": [
+      {
+        "name": "Solid Grey",
+        "cover": "n64"
+      }
+    ],
+    "wishlist": true,
+    "notes": "Used to own"
+  },
+  {
+    "id": "playstation-2",
+    "name": "PlayStation 2",
+    "cover": "ps2",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": "PlayStation 2"
+    },
+    "release": "2000-11-24",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 6,
+      "era": "128-bit"
+    },
+    "wishlist": true,
+    "notes": "Used to own"
+  },
+  {
+    "id": "playstation-3",
+    "name": "PlayStation 3",
+    "cover": "ps3",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": "PlayStation 3"
+    },
+    "release": "2007-03-23",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 7,
+      "era": "720p"
+    },
+    "notes": "Does not turn on"
+  },
+  {
+    "id": "dualshock-2",
+    "name": "DualShock 2",
+    "cover": "dualshock2",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": "PlayStation 2"
+    },
+    "release": "2000-11-24",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "controller",
+      "generation": 6,
+      "compatible_with": [
+        "playstation-2"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "dualshock-3",
+    "name": "DualShock 3",
+    "cover": "dualshock3",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": "PlayStation 3"
+    },
+    "release": "2007-03-23",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "controller",
+      "generation": 7,
+      "compatible_with": [
+        "playstation-3"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "dualshock-4",
+    "name": "DualShock 4",
+    "cover": "dualshock4",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": "PlayStation 4"
+    },
+    "release": "2013-11-15",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "controller",
+      "generation": 8
+    },
+    "notes": null
+  },
+  {
+    "id": "playstation-classic",
+    "name": "PlayStation Classic",
+    "cover": "playstation-classic",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": null
+    },
+    "release": "2018-12-03",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 5,
+      "era": "32-bit"
+    },
+    "notes": null
+  },
+  {
+    "id": "playstation-classic-controller",
+    "name": "PlayStation Classic Controller",
+    "cover": "playstation-controller",
+    "franchise": {
+      "series": "PlayStation",
+      "subseries": null
+    },
+    "release": "2018-12-03",
+    "type": "hardware",
+    "company": "Sony",
+    "hardware": {
+      "category": "controller",
+      "generation": 5,
+      "compatible_with": [
+        "playstation-classic"
+      ]
+    },
+    "notes": "USB A Plug"
+  },
+  {
+    "id": "mega-drive-mini",
+    "name": "Mega Drive Mini",
+    "cover": "mega-drive-mini",
+    "franchise": {
+      "series": "Mega Drive",
+      "subseries": null
+    },
+    "release": "2019-09-19",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 4,
+      "era": "16-bit"
+    },
+    "notes": null
+  },
+  {
+    "id": "mega-drive-mini-controller",
+    "name": "Mega Drive Mini Controller",
+    "cover": "mega-drive-mini-controller",
+    "franchise": {
+      "series": "Mega Drive",
+      "subseries": null
+    },
+    "release": "2019-09-19",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "controller",
+      "generation": 4,
+      "compatible_with": [
+        "mega-drive-mini",
+        "mega-drive-mini-2"
+      ]
+    },
+    "notes": "USB A Plug"
+  },
+  {
+    "id": "dreamcast",
+    "name": "Dreamcast",
+    "cover": "dreamcast",
+    "franchise": {
+      "series": "Dreamcast",
+      "subseries": null
+    },
+    "release": "1999-10-14",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 6,
+      "era": "128-bit"
+    },
+    "notes": "Turns on, no output"
+  },
+  {
+    "id": "dreamcast-controller",
+    "name": "Dreamcast Controller",
+    "cover": "dreamcast-controller",
+    "franchise": {
+      "series": "Dreamcast",
+      "subseries": null
+    },
+    "release": "1999-10-14",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "controller",
+      "generation": 6,
+      "compatible_with": [
+        "dreamcast"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "saturn-wireless-controller",
+    "name": "Saturn Wireless Controller",
+    "cover": "saturn-wireless-controller",
+    "franchise": {
+      "series": "Saturn",
+      "subseries": null
+    },
+    "release": "2019-01-01",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "controller",
+      "generation": 5
+    },
+    "variants": [
+      {
+        "name": null,
+        "cover": "saturn-wireless-controller",
+        "owned": true
+      }
+    ],
+    "notes": "Bluetooth connection"
+  },
+  {
+    "id": "xbox-360",
+    "name": "Xbox 360",
+    "cover": "xbox-360",
+    "franchise": {
+      "series": "Xbox",
+      "subseries": "Xbox 360"
+    },
+    "release": "2005-12-02",
+    "type": "hardware",
+    "company": "MicroSoft",
+    "hardware": {
+      "category": "console",
+      "form": "home",
+      "generation": 7,
+      "era": "720p"
+    },
+    "variants": [
+      {
+        "name": null,
+        "cover": "xbox-360",
+        "owned": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "xbox-360-controller",
+    "name": "Xbox 360 Controller",
+    "cover": "xbox-360-controller",
+    "franchise": {
+      "series": "Xbox",
+      "subseries": "Xbox 360"
+    },
+    "release": "2005-12-02",
+    "type": "hardware",
+    "company": "MicroSoft",
+    "hardware": {
+      "category": "controller",
+      "generation": 7,
+      "compatible_with": [
+        "xbox-360"
+      ]
+    },
+    "notes": "USB A Plug"
+  },
+  {
+    "id": "xbox-wireless-controller",
+    "name": "Xbox Wireless Controller",
+    "cover": "xbox-wireless-controller",
+    "franchise": {
+      "series": "Xbox",
+      "subseries": "Xbox Series"
+    },
+    "release": "2020-10-10",
+    "type": "hardware",
+    "company": "MicroSoft",
+    "hardware": {
+      "category": "controller",
+      "generation": 9
+    },
+    "notes": null
+  },
+  {
+    "id": "virtual-boy-for-nintendo-switch",
+    "name": "Virtual Boy for Nintendo Switch",
+    "cover": "vboy",
+    "franchise": {
+      "series": "Nintendo Switch",
+      "subseries": "Virtual Boy"
+    },
+    "release": "2026-02-17",
+    "type": "hardware",
+    "company": "Nintendo",
+    "hardware": {
+      "category": "accessory",
+      "generation": 5,
+      "compatible_with": [
+        "nintendo-switch",
+        "nintendo-switch-2"
+      ],
+      "era": "32-bit"
+    },
+    "notes": "Required accessory for Virtual Boy - Nintendo Classics."
+  },
+  {
+    "id": "mvs-mini",
+    "name": "Unico MVS Mini",
+    "cover": "mvs-mini",
+    "franchise": {
+      "series": "Neo Geo",
+      "subseries": "MVS"
+    },
+    "release": "2018-07-24",
+    "type": "hardware",
+    "company": "SNK",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": null,
+      "era": "16-bit"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "mvs-mini-pad",
+    "name": "Unico MVS Mini GamePad",
+    "cover": "mvs-mini-pad",
+    "franchise": {
+      "series": "Neo Geo",
+      "subseries": "MVS"
+    },
+    "release": "2018-07-24",
+    "type": "hardware",
+    "company": "SNK",
+    "hardware": {
+      "category": "controller",
+      "generation": null,
+      "compatible_with": [
+        "mvs-mini"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "sega-astro-city-mini",
+    "name": "Astro City Mini",
+    "cover": "astro-city-mini",
+    "franchise": {
+      "series": "Astro City",
+      "subseries": null
+    },
+    "release": "2020-12-17",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": null,
+      "era": "16-bit"
+    },
+    "wishlist": true,
+    "notes": null,
+    "event": "Go Sega 60th Anniversary"
+  },
+  {
+    "id": "sega-astro-city-mini-stick",
+    "name": "Astro City Mini Arcade Stick",
+    "cover": "astro-city-mini-stick",
+    "franchise": {
+      "series": "Astro City",
+      "subseries": null
+    },
+    "release": "2020-12-17",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "controller",
+      "generation": null,
+      "compatible_with": [
+        "sega-astro-city-mini"
+      ]
+    },
+    "wishlist": true,
+    "notes": null,
+    "event": "Go Sega 60th Anniversary"
+  },
+  {
+    "id": "taito-egret-ii-mini",
+    "name": "Taito Egret II Mini",
+    "cover": "egret-ii-mini",
+    "franchise": {
+      "series": "Egret II",
+      "subseries": null
+    },
+    "release": "2022-03-02",
+    "type": "hardware",
+    "company": "Taito",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": null,
+      "era": "16-bit"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "taito-egret-ii-mini-panel",
+    "name": "Taito Egret II Mini Control Panel",
+    "cover": "egret-ii-mini-panel",
+    "franchise": {
+      "series": "Egret II",
+      "subseries": null
+    },
+    "release": "2022-03-02",
+    "type": "hardware",
+    "company": "Taito",
+    "hardware": {
+      "category": "controller",
+      "generation": null,
+      "compatible_with": [
+        "taito-egret-ii-mini"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "taito-egret-ii-mini-paddle",
+    "name": "Taito Egret II Mini Paddle and Trackball",
+    "cover": "egret-ii-mini-paddle",
+    "franchise": {
+      "series": "Egret II",
+      "subseries": null
+    },
+    "release": "2022-03-02",
+    "type": "hardware",
+    "company": "Taito",
+    "hardware": {
+      "category": "controller",
+      "generation": null,
+      "compatible_with": [
+        "taito-egret-ii-mini"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "nec-pc-engine-coregrafx-mini",
+    "name": "PC Engine CoreGrafx Mini",
+    "cover": "pc-engine-mini",
+    "franchise": {
+      "series": "PC Engine",
+      "subseries": null
+    },
+    "release": "2020-03-19",
+    "type": "hardware",
+    "company": "NEC / Konami",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 4,
+      "era": "16-bit"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "nec-pc-engine-coregrafx-mini-controller",
+    "name": "PC Engine CoreGrafx Mini Controller",
+    "cover": "pc-engine-mini-controller",
+    "franchise": {
+      "series": "PC Engine",
+      "subseries": null
+    },
+    "release": "2020-03-19",
+    "type": "hardware",
+    "company": "NEC / Konami",
+    "hardware": {
+      "category": "controller",
+      "generation": 4,
+      "compatible_with": [
+        "nec-pc-engine-coregrafx-mini"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "mega-drive-mini-2",
+    "name": "Mega Drive Mini 2",
+    "cover": "mega-drive-mini-2",
+    "franchise": {
+      "series": "Mega Drive",
+      "subseries": null
+    },
+    "release": "2022-10-27",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 4,
+      "era": "16-bit"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "mega-drive-mini-2-controller",
+    "name": "Mega Drive Mini 2",
+    "cover": "mega-drive-mini-2-controller",
+    "franchise": {
+      "series": "Mega Drive",
+      "subseries": null
+    },
+    "release": "2022-10-27",
+    "type": "hardware",
+    "company": "Sega",
+    "hardware": {
+      "category": "controller",
+      "generation": 4,
+      "compatible_with": [
+        "mega-drive-mini",
+        "mega-drive-mini-2"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "a500-mini",
+    "name": "The A500 Mini",
+    "cover": "a500-mini",
+    "franchise": {
+      "series": "Amiga",
+      "subseries": "A500"
+    },
+    "release": "2022-03-25",
+    "type": "hardware",
+    "company": "Retro Games Ltd",
+    "hardware": {
+      "category": "computer",
+      "form": "dedicated",
+      "era": "classic"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "c64-mini",
+    "name": "The C64 Mini",
+    "cover": "c64-mini",
+    "franchise": {
+      "series": "Commodore",
+      "subseries": "Commodore 64"
+    },
+    "release": "2018-01-29",
+    "type": "hardware",
+    "company": "Retro Games Ltd",
+    "hardware": {
+      "category": "computer",
+      "form": "dedicated",
+      "era": "8-bit"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "spectrum",
+    "name": "The Spectrum",
+    "cover": "spectrum",
+    "franchise": {
+      "series": "ZX Spectrum",
+      "subseries": null
+    },
+    "release": "2018-04-15",
+    "type": "hardware",
+    "company": "Retro Games Ltd",
+    "hardware": {
+      "category": "computer",
+      "form": "dedicated",
+      "era": "8-bit"
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "the-joystick",
+    "name": "The Joystick",
+    "cover": "the-joystick",
+    "franchise": {
+      "series": null,
+      "subseries": null
+    },
+    "release": "2018-01-29",
+    "type": "hardware",
+    "company": "Retro Games Ltd",
+    "hardware": {
+      "category": "controller",
+      "compatible_with": [
+        "c64-mini",
+        "a500-mini",
+        "spectrum"
+      ]
+    },
+    "wishlist": true,
+    "notes": null
+  },
+  {
+    "id": "atari-flashback-x",
+    "name": "Atari Flashback X",
+    "cover": "atari-flashback-x",
+    "franchise": {
+      "series": "Atari Flashback",
+      "subseries": null
+    },
+    "release": "2019-12-30",
+    "type": "hardware",
+    "company": "Atari / AtGames",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 2,
+      "era": "classic"
+    },
+    "wishlist": true,
+    "notes": "Atari 2600-style plug-and-play mini console with built-in games."
+  },
+  {
+    "id": "intellivision-sprint",
+    "name": "Intellivision Sprint",
+    "cover": "intellivision-sprint",
+    "franchise": {
+      "series": "Intellivision",
+      "subseries": null
+    },
+    "release": "2025-12-05",
+    "type": "hardware",
+    "company": "Atari / PLAION",
+    "hardware": {
+      "category": "console",
+      "form": "dedicated",
+      "generation": 2,
+      "era": "classic"
+    },
+    "wishlist": true,
+    "notes": "Modern Intellivision-style mini console with HDMI, wireless controllers, and 45 built-in games."
+  }
+]

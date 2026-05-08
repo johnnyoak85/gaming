@@ -1,0 +1,3924 @@
+[
+  {
+    "id": "kicks-amiibo",
+    "name": "Kicks",
+    "cover": "https://amiibo.life/assets/figures/amiibo/animal-crossing/kicks-50c24896a2ecdbee97eec1c3ee57f04f9acdae47f597f43512bac5eb5247f17b.png",
+    "franchise": {
+      "series": "Animal Crossing",
+      "subseries": null,
+      "wave": "Animal Crossing Wave 2"
+    },
+    "release": "2015-12-17",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "kirby-amiibo",
+    "name": "Kirby",
+    "cover": "https://amiibo.life/assets/figures/amiibo/kirby/kirby-12640479f11f52186e612b938a2e36284135b56d0bf3de4a558b53a7cc83cf85.png",
+    "franchise": {
+      "series": "Kirby",
+      "subseries": null,
+      "wave": "Kirby: Planet Robobot Wave"
+    },
+    "release": "2016-04-28",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-and-the-rainbow-paintbrush",
+        "function": "Allows for unlimited Star Dashes"
+      },
+      {
+        "game": "bye-bye-boxboy",
+        "function": "Unlock a costume resembling this character"
+      },
+      {
+        "game": "kirbys-blowout-blast",
+        "function": "Build a statue in the plaza that plays music"
+      },
+      {
+        "game": "kirby-star-allies",
+        "function": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "kirbys-extra-epic-yarn",
+        "function": "Equip a power-up hat matching the character"
+      },
+      {
+        "game": "kirby-and-the-forgotten-land",
+        "function": "Receive star coins and a boost item"
+      },
+      {
+        "game": "kirbys-return-to-dream-land-deluxe",
+        "function": "Receive more useful items"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the UFO copy ability and a health item"
+      },
+      {
+        "game": "super-kirby-clash",
+        "function": "Receive 20 Fragments"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "meta-knight-amiibo",
+    "name": "Meta Knight",
+    "cover": "https://amiibo.life/assets/figures/amiibo/kirby/meta-knight-77a67cd720d9cdfbe295ea0a7c1605be7d6dcaf81e4c3c843a17d06e3da98733.png",
+    "franchise": {
+      "series": "Kirby",
+      "subseries": null,
+      "wave": "Kirby: Planet Robobot Wave"
+    },
+    "release": "2016-04-28",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-and-the-rainbow-paintbrush",
+        "function": "Allows for fast dashing through weaker enemies"
+      },
+      {
+        "game": "bye-bye-boxboy",
+        "function": "Unlock a costume resembling this character"
+      },
+      {
+        "game": "kirbys-blowout-blast",
+        "function": "Build a statue in the plaza that plays music"
+      },
+      {
+        "game": "kirby-star-allies",
+        "function": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "kirbys-extra-epic-yarn",
+        "function": "Equip a power-up hat matching the character"
+      },
+      {
+        "game": "kirby-and-the-forgotten-land",
+        "function": "Receive star coins and a boost item"
+      },
+      {
+        "game": "kirbys-return-to-dream-land-deluxe",
+        "function": "Receive more useful items"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Sword copy ability with Meta Knight costume and a health item"
+      },
+      {
+        "game": "super-kirby-clash",
+        "function": "Receive 20 Fragments"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "king-dedede-amiibo",
+    "name": "King Dedede",
+    "cover": "https://amiibo.life/assets/figures/amiibo/kirby/king-dedede-39f66d7c015c09c8c459745f08cfe38eeb1ac88cfacdb427ee2ff4ae14c4b85b.png",
+    "franchise": {
+      "series": "Kirby",
+      "subseries": null,
+      "wave": "Kirby: Planet Robobot Wave"
+    },
+    "release": "2016-04-28",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-and-the-rainbow-paintbrush",
+        "function": "Provides two extra hit points"
+      },
+      {
+        "game": "bye-bye-boxboy",
+        "function": "Unlock a costume resembling this character"
+      },
+      {
+        "game": "kirbys-blowout-blast",
+        "function": "Build a statue in the plaza that plays music"
+      },
+      {
+        "game": "kirby-star-allies",
+        "function": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "kirbys-extra-epic-yarn",
+        "function": "Equip a power-up hat matching the character"
+      },
+      {
+        "game": "kirby-and-the-forgotten-land",
+        "function": "Receive star coins and a boost item"
+      },
+      {
+        "game": "kirbys-return-to-dream-land-deluxe",
+        "function": "Receive more useful items"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Hammer copy ability with Dedede costume and a health item"
+      },
+      {
+        "game": "super-kirby-clash",
+        "function": "Receive 20 Fragments"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "waddle-dee-amiibo",
+    "name": "Waddle Dee",
+    "cover": "https://amiibo.life/assets/figures/amiibo/kirby/waddle-dee-6187e716e3d2311c219969802c815e3d9f12bfcd5b84a330ad840df54459fe6d.png",
+    "franchise": {
+      "series": "Kirby",
+      "subseries": null,
+      "wave": "Kirby: Planet Robobot Wave"
+    },
+    "release": "2016-04-28",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "bye-bye-boxboy",
+        "function": "Unlock a costume resembling this character"
+      },
+      {
+        "game": "kirbys-blowout-blast",
+        "function": "Build a statue in the plaza that plays music"
+      },
+      {
+        "game": "kirby-star-allies",
+        "function": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "kirbys-extra-epic-yarn",
+        "function": "Equip a power-up hat matching the character"
+      },
+      {
+        "game": "kirby-and-the-forgotten-land",
+        "function": "Receive star coins and a boost item"
+      },
+      {
+        "game": "kirbys-return-to-dream-land-deluxe",
+        "function": "Receive more useful items"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Parasol copy ability with bandana and a health item"
+      },
+      {
+        "game": "super-kirby-clash",
+        "function": "Receive 20 Fragments"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "samus-aran-amiibo",
+    "name": "Samus Aran",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/samus-aran-21be83cedd42498c0677951ffcfc200771580d1a5e8a735e436cb8ce7578cdb8.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid: Samus Returns",
+      "wave": "Metroid Wave 1: Samus Returns"
+    },
+    "release": "2017-09-15",
+    "owned": true,
+    "type": "amiibo",
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Bomb copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Galactic Bounty Hunter costume"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Replenish a random amount of health once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "metroid-amiibo",
+    "name": "Metroid",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/metroid-6856d1f7e2d7b8a448a883f090431fb13ab92920e48bcf173307c70953917d76.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid: Samus Returns",
+      "wave": "Metroid Wave 1: Samus Returns"
+    },
+    "release": "2017-09-15",
+    "owned": true,
+    "type": "amiibo",
+    "functionality": [
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Place a Metroid Marker indicating the closest Metroid on map | Unlock Fusion difficulty mode and play with Fusion suit"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Replenish a random amount of missiles once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": "Body is squishy"
+  },
+  {
+    "id": "samus-amiibo-metroid",
+    "name": "Samus",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/samus-6cfec0fa378ec5991f84f5910e0042ffc8628d6784f871aa7731df165441b3f1.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid Dread",
+      "wave": "Metroid Wave 2: Metroid Dread"
+    },
+    "release": "2021-10-08",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Bomb copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Galactic Bounty Hunter costume"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Permanently increase health by 100 | Restore a random amount of health once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "e-m-m-i-amiibo",
+    "name": "E.M.M.I.",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/e-m-m-i-8d598142bf8ea71d6f4cf17a5c6d0e1718bafb460458262090bcccbb5d89660e.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid Dread",
+      "wave": "Metroid Wave 2: Metroid Dread"
+    },
+    "release": "2021-10-08",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Permanently increase missile capacity by 10 | Replenish a random amount of missiles once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "inkling-squid-amiibo",
+    "name": "Inkling Squid",
+    "cover": "https://amiibo.life/assets/figures/amiibo/splatoon/inkling-squid-4480133eda5adc7bcff15606ecc372a776b4cd12d68b4981a63d899e84ee2353.png",
+    "franchise": {
+      "series": "Splatoon",
+      "subseries": null,
+      "wave": "Splatoon Wave 1"
+    },
+    "release": "2015-05-28",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Poison copy ability and a health item"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mario-amiibo",
+    "name": "Mario",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-38dac6fb5b25f6d3e03cab6c444def0fc873b2bc4a6a5ccdcf3dc032023588d3.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 1"
+    },
+    "release": "2015-03-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fire copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Pot Flower | Change to character-themed decoration in Bellabel Park hub"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "luigi-amiibo",
+    "name": "Luigi",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/luigi-200bffedbaf46f332cdb983b1dc656d141706fcd8d6d472450f96adbb2406e0f.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Luigi",
+      "wave": "Super Mario Wave 1"
+    },
+    "release": "2015-03-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Get a chance to revive when you run out of health / Furniture hiding a Speedy Spirit will light up"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive a character-based costume"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a particular power-up depending on the amiibo"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "peach-amiibo",
+    "name": "Peach",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/peach-4bff74fab806413dd378a5d886bc2bcd30a79593b7e4034350bf3e3b8595d5ad.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Princess Peach",
+      "wave": "Super Mario Wave 1"
+    },
+    "release": "2015-03-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive a life-up heart"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "bowser-amiibo",
+    "name": "Bowser",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/bowser-cb6c1d0e50bbcd8d68b7e2d954337fb0edf224ccb284490dcaef1d2a71bee45d.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 1"
+    },
+    "release": "2015-03-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Make Fury Bowser appear"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Chain Chomp weapon"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Reveal regional coin locations"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "wario-amiibo",
+    "name": "Wario",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/wario-4796d725f26aea32602a6ac6351d2a94216b13086f9f2e22c2760a51d07d67c2.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Wario",
+      "wave": "Super Mario Wave 3"
+    },
+    "release": "2016-10-07",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive a character-based costume"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "boo-amiibo",
+    "name": "Boo",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/boo-f804c6ab58cb1b4981e9d494626bb03288f948a9914f9a16406ddcf2a12a582c.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 3"
+    },
+    "release": "2016-10-07",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Make the map show the locations of up to three hidden Boos in the mansion that have escaped capture"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Chain Chomp weapon"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest | Receive a stamp, equipment, and a special ability for Bowser's Minions mode (Read+Write)"
+      }
+    ],
+    "notes": "Glows in the dark"
+  },
+  {
+    "id": "donkey-kong-amiibo",
+    "name": "Donkey Kong",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/donkey-kong-69a6219c94940c5385b37f52327039d9d4978ff08d63d9f5ba344c4168dd3dd4.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Donkey Kong",
+      "wave": "Super Mario Wave 2"
+    },
+    "release": "2016-10-07",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fighter copy ability and a health item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "donkey-kong-bananza",
+        "function": "Unlock Pauline's Diva Dress early | Spawn explosive golden KONG tiles"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Flower Pot"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "waluigi-amiibo",
+    "name": "Waluigi",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/waluigi-46903949ba2d1a7c494650be6e8a96cd5265c97ffad6a41482988cf059940f07.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 3"
+    },
+    "release": "2016-10-20",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive a character-based costume"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mario-wedding-amiibo",
+    "name": "Mario",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-wedding-outfit-20d1109e627beb2d751aca3c6b8042d04c8948a2235650384e16e365e9ee4463.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Super Mario Odyssey",
+      "wave": "Super Mario Wave 5: Super Mario Odyssey"
+    },
+    "release": "2017-10-27",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fire copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive Mario's Top Hat and Tuxedo | Gain temporary invincibility"
+      },
+      {
+        "game": "captain-toad-treasure-tracker",
+        "function": "Unlock Super Mario Odyssey-themed levels early"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the Character"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Pot Flower | Change to character-themed decoration in Bellabel Park hub"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "peach-wedding-amiibo",
+    "name": "Peach",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/peach-wedding-outfit-fb37e65fcf6e114c43aa9daff566a509b5cbed97cddda4a40f890e80e80df669.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Super Mario Odyssey",
+      "wave": "Super Mario Wave 5: Super Mario Odyssey"
+    },
+    "release": "2017-10-27",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character | Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "captain-toad-treasure-tracker",
+        "function": "Unlock Super Mario Odyssey-themed levels early"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive a character-based costume | Receive a life-up heart"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "bowser-wedding-amiibo",
+    "name": "Bowser",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/bowser-wedding-outfit-26de45dd1ec86dae4b191c35e1256e61d56811591fa7ad1ba34a914236f35534.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Super Mario Odyssey",
+      "wave": "Super Mario Wave 5: Super Mario Odyssey"
+    },
+    "release": "2017-10-27",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character | Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "captain-toad-treasure-tracker",
+        "function": "Unlock Super Mario Odyssey-themed levels early"
+      },
+      {
+        "game": "super-mario-odyssey",
+        "function": "Receive a character-based costume | Reveal regional coin locations"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Make Fury Bowser appear"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Chain Chomp weapon"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "cat-mario-amiibo",
+    "name": "Cat Mario",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/cat-mario-1ee1d04b2d5e55c0bb31dea0bde8f508b7fc492740cc4c5ac2d8c109780cec5c.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Super Mario 3D World",
+      "wave": "Super Mario Wave 6: Super Mario 3D World + Bowser's Fury"
+    },
+    "release": "2021-02-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fire copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the Character"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a White Invincibility Bell item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a White Invincibility Bell item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Pot Flower | Change to character-themed decoration in Bellabel Park hub"
+      }
+    ],
+    "event": "Super Mario Bros. 35th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "cat-peach-amiibo",
+    "name": "Cat Peach",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/cat-peach-164d42ae254300dd9e944dcb758a6ddfa677b5bd909f5cab3b587b858d83139c.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Super Mario 3D World",
+      "wave": "Super Mario Wave 6: Super Mario 3D World + Bowser's Fury"
+    },
+    "release": "2021-02-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Bell, Fire Flower, Boomerang Flower, Super Leaf, Super Mushroom, Lucky Bell, Super Star, Invincibility Leaf, or Invincibility Bell."
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Bell, Fire Flower, Boomerang Flower, Super Leaf, Super Mushroom, Lucky Bell, Super Star, Invincibility Leaf, or Invincibility Bell."
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      }
+    ],
+    "event": "Super Mario Bros. 35th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "mario-classic-colors-amiibo",
+    "name": "Mario Classic Colors",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario-bros-30th-anniversary/mario-classic-colors-f8900daea10f605fd6131f461c0af0fa60a00faec50bcb5567365d0118886ecc.png",
+    "franchise": {
+      "series": "Super Mario Bros. 30th Anniversary",
+      "subseries": "Super Mario"
+    },
+    "release": "2015-09-10",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fire copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Pot Flower | Change to character-themed decoration in Bellabel Park hub"
+      }
+    ],
+    "event": "Super Mario Bros. 30th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "wolf-link-amiibo",
+    "name": "Wolf Link • Twilight Princess",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/wolf-link-1c66f97ee5fd7be7cb1cc88c9538dad0991cfb34a686b7f3c7b41756d3c5bbda.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 1: Twilight Princess 10th Anniversary"
+    },
+    "release": "2016-03-04",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Mirror of Twilight Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Bring Wolf Link into the game as a partner character"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Unlock the Cave of Shadows, and save hearts to the amiibo for future use in the Cave and Breath of the Wild (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "event": "The Legend of Zelda: Twilight Princess 10th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "link-the-legend-of-zelda-amiibo",
+    "name": "Link • The Legend of Zelda",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-the-legend-of-zelda-763382821fdbff3cf1351912e8ba070b340e71c4d250f8e272cb9c462f13611a.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 2: 30th Anniversary"
+    },
+    "release": "2016-12-01",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Pixel Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-ocarina-of-time-amiibo",
+    "name": "Link • Ocarina of Time",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-ocarina-of-time-52f7c96d458974410ffce13239a6fbe7d2d051aa4b0e6e82cc255e6903138878.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 2: 30th Anniversary"
+    },
+    "release": "2016-12-01",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Lon Lon Ranch Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "toon-link-the-wind-waker-amiibo",
+    "name": "Toon Link • The Wind Waker",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/toon-link-the-wind-waker-6d1e41b4527068102ca705e7827f7b50ab2c8f0e254d9b82842839ccf413193b.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 2: 30th Anniversary"
+    },
+    "release": "2016-12-01",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the King of Red Lions Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher | Unlock the amiibo-exclusive Spinner weapon"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zelda-the-wind-waker-amiibo",
+    "name": "Zelda • The Wind Waker",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/zelda-the-wind-waker-e57048162b78ad03bb01bb0d7f293c3edf918afaf759205cabe0b534f6360d0b.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 2: 30th Anniversary"
+    },
+    "release": "2016-12-01",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Bygone-Royal Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of hearts, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-archer-amiibo",
+    "name": "Link • Archer",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-archer-177ebee11b19980a255c2eb83119a40b738386ba170775621dcb22eda6aaaf8e.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 3: Breath of the Wild"
+    },
+    "release": "2017-03-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Tunic of Memories Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-rider-amiibo",
+    "name": "Link • Rider",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-rider-1a287729570b450b900a69da57fa7c45bf59da9cd0a59dbc126f4097209a055b.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 3: Breath of the Wild"
+    },
+    "release": "2017-03-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Hylian-Hood Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "guardian-amiibo",
+    "name": "Guardian",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/guardian-d2985394b186ead289c2e998d2b08642fc9c38185f968453134f7b2999b3a6cd.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 3: Breath of the Wild"
+    },
+    "release": "2017-03-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Ancient-Sheikah Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": "Legs are maleable and poseable"
+  },
+  {
+    "id": "zelda-amiibo-the-legend-of-zelda",
+    "name": "Zelda",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/zelda-d159794518400dd333ab0f0534b0046eb520ed93c7b03f616f42ddaa9682b855.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 3: Breath of the Wild"
+    },
+    "release": "2017-03-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Hyrule-Princess Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of hearts, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "bokoblin-amiibo",
+    "name": "Bokoblin",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/bokoblin-0c84e070fbdbb18ccbd209d0a44558286b7bf145bc0039073ff43cdaf3ba1eb0.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 3: Breath of the Wild"
+    },
+    "release": "2017-03-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Bokoblin Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-majora-s-mask-amiibo",
+    "name": "Link • Majora's Mask",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-majora-s-mask-8f7965c9e38aa43ff16c5e018546dd70457bcdaed6575bc78edb126b9c87cdc7.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 4: 30th Anniversary"
+    },
+    "release": "2017-06-23",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Majora's Mask Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-twilight-princess-amiibo",
+    "name": "Link • Twilight Princess",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-twilight-princess-02345e12c0b72f63bab51dcf5a7a64854f259a61ca81472a0c8c962a3c6d820d.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 4: 30th Anniversary"
+    },
+    "release": "2017-06-23",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Mirror of Twilight Fabric | Bring Epona into the game as a rideable horse | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Bring Epona into the game as a rideable horse | Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-skyward-sword-amiibo",
+    "name": "Link • Skyward Sword",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-skyward-sword-cdb514a393c920f5ac39bfb6070fc45a487adad739378a3e8886384bcfe40b51.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": null,
+      "wave": "The Legend of Zelda Wave 4: 30th Anniversary"
+    },
+    "release": "2017-06-23",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Sword-Spirit Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mipha-amiibo",
+    "name": "Mipha",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/mipha-zora-champion-c568d80a6cd3c75ac475f9220823edc98e1d4f1c728e5d100f35442ed45b2d2d.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 5: Breath of the Wild Champions"
+    },
+    "release": "2017-11-10",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Zora-Champion Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "daruk-amiibo",
+    "name": "Daruk",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/daruk-goron-champion-2847a7568bbfefd12f67aa761d6690b7bdfe7ad64939460a6b5ce52b83cde0aa.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 5: Breath of the Wild Champions"
+    },
+    "release": "2017-11-10",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Goron-Champion Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "revali-amiibo",
+    "name": "Revali",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/revali-rito-champion-48e90903cebd7b4e46e787b931ba94e3cb4d694cea815f7761636c6b311e6f47.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 5: Breath of the Wild Champions"
+    },
+    "release": "2017-11-10",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Rito-Champion Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "urbosa-amiibo",
+    "name": "Urbosa",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/urbosa-gerudo-champion-6a546e809b1d40f59df12191c90cf5c1b6ce423c782134260cfa9aac9008fcbb.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Breath of the Wild",
+      "wave": "The Legend of Zelda Wave 5: Breath of the Wild Champions"
+    },
+    "release": "2017-11-10",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Gerudo-Champion Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Receive a Spirit of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-awakening-amiibo",
+    "name": "Link",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-link-s-awakening-672c08737177a7d10e8629ecb1c1aabe0202344c58d0698d15906d83c1aaba25.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Link's Awakening",
+      "wave": "The Legend of Zelda Wave 6: Link's Awakening"
+    },
+    "release": "2019-09-20",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Egg Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zelda-loftwing-skyward-sword-amiibo",
+    "name": "Zelda & Loftwing • Skyward Sword HD",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/zelda-loftwing-skyward-sword-ce26fa83ffb03587c8cc8961676f0ae5e0cca38dd9f7054728f5d84d2693e006.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda Wave: Skyward Sword",
+      "wave": "The Legend of Zelda Wave 7: Skyward Sword HD"
+    },
+    "release": "2021-07-16",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Goddess Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-skyward-sword-hd",
+        "function": "Quickly travel between the surface and the sky"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of hearts, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "event": "The Legend of Zelda: Skyward Sword 10th Anniversary",
+    "notes": null
+  },
+  {
+    "id": "link-tears-of-the-kingdom-amiibo",
+    "name": "Link",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-tears-of-the-kingdom-4d0447110fe19ec05b437f666a47d481dee580a970860704123ae82b337f1524.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 8: Tears of the Kingdom"
+    },
+    "release": "2023-05-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Champion's Leathers Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zelda-tears-of-the-kingdom-amiibo",
+    "name": "Zelda",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/zelda-tears-of-the-kingdom-da54798f110518e1dced7a570aa67d2f425f8b6d436bc7b56060f63a8e012bf1.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 9: Tears of the Kingdom"
+    },
+    "release": "2023-11-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Princess Zelda Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of hearts, once a day per amiibo"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ganondorf-tears-of-the-kingdom-amiibo",
+    "name": "Ganondorf",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/ganondorf-tears-of-the-kingdom-cd90cd1f8249d40889773641aa251db5e8d4ace5c939169808ed1fa68144e2c5.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 9: Tears of the Kingdom"
+    },
+    "release": "2023-11-03",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Gerudo King Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive materials and a rare or exclusive item"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Take twice as much damage from enemies and the environment"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "link-amiibo",
+    "name": "Link",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/link-dd08e5a444bdba4c458592b169ade2fcfd0ac2e2c93d64bebd32da34a815e198.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "The Legend of Zelda",
+      "number": "05",
+      "wave": "Super Smash Bros. Wave 1"
+    },
+    "release": "2014-11-21",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Sword copy ability and a health item"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Hero of Hyrule costume"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Bring Epona into the game as a rideable horse | Receive Cap/Tunic/Trousers of Twilight | Receive rare materials"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-links-awakening-switch",
+        "function": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Drops stat-increasing and Hylian materials or a weapon for Link"
+      },
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Mirror of Twilight Fabric | Bring Epona into the game as a rideable horse | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock the Red Tunic outfit | Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "samus-amiibo-super-smash-bros",
+    "name": "Samus",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/samus-7531679eb7ffe793e3f919cee370e7fd0b856d6bb79be90ddb398e4a70779ca0.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Metroid",
+      "number": "07",
+      "wave": "Super Smash Bros. Wave 1"
+    },
+    "release": "2014-11-21",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Bomb copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Galactic Bounty Hunter costume"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Restore a random amount of health once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zelda-amiibo-super-smash-bros",
+    "name": "Zelda",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/zelda-9edfb9a03c999c345f9e6e78763160d6e75299b1896abbe9ae6de4ea5de28fe6.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "The Legend of Zelda",
+      "number": "13",
+      "wave": "Super Smash Bros. Wave 2"
+    },
+    "release": "2014-12-06",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of hearts"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Mirror copy ability and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive Twilight Bow | Receive rare materials"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-links-awakening-switch",
+        "function": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Drops stat-increasing and Hylian materials and jewels or a weapon for Zelda"
+      },
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Princess of Twilight Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock the Blue Attire outfit | Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "toon-link-amiibo",
+    "name": "Toon Link",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/toon-link-576b9c35c4ed7a3e3b83f33542d248af3ed69b13bab430b5d290cea452ca8bbf.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "The Legend of Zelda",
+      "number": "22",
+      "wave": "Super Smash Bros. Wave 3"
+    },
+    "release": "2015-01-22",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Cutter copy ability and a health item"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Hero of Hyrule costume"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive Cap/Tunic/Trousers of the Wind | Receive Seabreeze Boomerang | Receive rare materials"
+      },
+      {
+        "game": "the-legend-of-zelda-links-awakening-switch",
+        "function": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Drops stat-increasing and Hylian materials or a weapon for Link"
+      },
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the King of Red Lions Fabric | Bring Epona into the game as a rideable horse | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock the Red Tunic outfit | Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "sheik-amiibo",
+    "name": "Sheik",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/sheik-95e796956462404ff2c8c181a3b44187aa2e8f95b385d0bbf60c7bbcdafc4755.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "The Legend of Zelda",
+      "number": "23",
+      "wave": "Super Smash Bros. Wave 3"
+    },
+    "release": "2015-01-22",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of hearts"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Mirror copy ability and a health item"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive Sheik's Mask | Receive rare materials"
+      },
+      {
+        "game": "the-legend-of-zelda-links-awakening-switch",
+        "function": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Drops stat-increasing and Hylian materials and jewels or a weapon for Zelda"
+      },
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Sheik Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock the Blue Attire outfit | Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mega-man-amiibo",
+    "name": "Mega Man",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/mega-man-6f3cd762197e9c54a1de79aa49afbfb06682b941dbc1c6b25a2347d97ac20c24.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Mega Man",
+      "number": "27",
+      "wave": "Super Smash Bros. Wave 3"
+    },
+    "release": "2015-01-29",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "mega-man-legacy-collection",
+        "function": "Unlock 11 exclusive challenge stages designed by fans"
+      },
+      {
+        "game": "mega-man-legacy-collection",
+        "function": "Unlock new platforming challenges"
+      },
+      {
+        "game": "mega-man-11",
+        "function": "Receive E Tanks and other useful in-game items"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "pac-man-amiibo",
+    "name": "Pac-Man",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/pac-man-caac508591f72ec9c2bea130de441f35ebb0aba5785dd27a67af1e6d0f670372.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Pac-Man",
+      "number": "35",
+      "wave": "Super Smash Bros. Wave 4"
+    },
+    "release": "2015-04-24",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zero-suit-samus-amiibo",
+    "name": "Zero Suit Samus",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/zero-suit-samus-45c311e20a48da3e0bf0e8da9035878c9c86d693eed5e1c82c85a8ea80fc7562.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Metroid",
+      "number": "40",
+      "wave": "Super Smash Bros. Wave 6"
+    },
+    "release": "2015-06-11",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Whip copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Galactic Bounty Hunter costume"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Restore a random amount of health once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ganondorf-amiibo",
+    "name": "Ganondorf",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/ganondorf-3157a321bcc5acf6b23c186f5b223601ccd3b5e601c1f7e46c2994f37e6dfc6c.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "The Legend of Zelda",
+      "number": "41",
+      "wave": "Super Smash Bros. Wave 6"
+    },
+    "release": "2015-06-11",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "hyrule-warriors",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Take twice as much damage from enemies and the environment"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Poison copy ability and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive Sword of the Six Sages | Receive rare materials"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-links-awakening-switch",
+        "function": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Drops monster parts or a weapon for Calamity Ganon"
+      },
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Demon King Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock the Black Cat Clothes outfit | Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "bayonetta-player-2-amiibo",
+    "name": "Bayonetta Player 2",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/bayonetta-player-2-944070b10b9d6a5ecdadb178a7695f940bea4219a60f3ec1c29cfb9961c66c09.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Bayonetta",
+      "number": "62",
+      "wave": "Super Smash Bros. Wave 10"
+    },
+    "release": "2017-07-21",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Super Mirror and Super Mirror 64 and all the costumes they contain"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ridley-amiibo",
+    "name": "Ridley",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/ridley-4db2e2f05ff336ac367269bff564681aad048d091e6608ca91611ea2180d400a.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Metroid",
+      "number": "65",
+      "wave": "Super Smash Bros. Wave 11"
+    },
+    "release": "2018-12-07",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Restore a random amount of missiles once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "piranha-plant-amiibo",
+    "name": "Piranha Plant",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/piranha-plant-4383286615bfb098a76a7b20e1268848b7997386f0c400beca0bbe18d15a589a.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Super Mario",
+      "number": "66",
+      "wave": "Super Smash Bros. Wave 12"
+    },
+    "release": "2019-02-15",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Flower Pot"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "young-link-amiibo",
+    "name": "Young Link",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/young-link-93405375766a1e5324e403657b00f553da83c5f9d4cb00bec123318458c44540.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "The Legend of Zelda",
+      "number": "70",
+      "wave": "Super Smash Bros. Wave 13"
+    },
+    "release": "2019-04-12",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "hyrule-warriors",
+        "function": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "hyrule-warriors-legends",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "the-legend-of-zelda-twilight-princess-hd",
+        "function": "Get a refill of arrows"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Sword copy ability and a health item"
+      },
+      {
+        "game": "the-legend-of-zelda-breath-of-the-wild",
+        "function": "Receive rare materials"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Hero of Hyrule costume"
+      },
+      {
+        "game": "hyrule-warriors-definitive-edition",
+        "function": "Receive a weapon rated 3 stars or higher"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "the-legend-of-zelda-links-awakening-switch",
+        "function": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+      },
+      {
+        "game": "hyrule-warriors-age-of-calamity",
+        "function": "Drops stat-increasing and Hylian materials or a weapon for Link"
+      },
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Lon Lon Ranch Fabric | Bring Epona into the game as a rideable horse | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "the-legend-of-zelda-echoes-of-wisdom",
+        "function": "Unlock the Red Tunic outfit | Receive smoothie ingredients"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "simon-amiibo",
+    "name": "Simon",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/simon-1badba282be11580382e6158ffdede8767068157f7d4a2c18edc577030fb280c.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Castlevania",
+      "number": "78",
+      "wave": "Super Smash Bros. Wave 16"
+    },
+    "release": "2019-11-08",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "dark-samus-amiibo",
+    "name": "Dark Samus",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/dark-samus-cb736a714c0f9080dfbdd0b48706f2275ae40b3040e2cb1c0434311d0295fcef.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Metroid",
+      "number": "81",
+      "wave": "Super Smash Bros. Wave 17"
+    },
+    "release": "2020-01-17",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-dread",
+        "function": "Restore a random amount of missiles once per day"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Play musical jingle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "richter-amiibo",
+    "name": "Richter",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/richter-6e2a41450e58cd73c459fb3404c7e536443d13d2ad8a5e71de62236e182c00ee.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Castlevania",
+      "number": "82",
+      "wave": "Super Smash Bros. Wave 17"
+    },
+    "release": "2020-01-17",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tulin-amiibo",
+    "name": "Tulin",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/tulin-6b9006899ebab3a6b605dc53a99ec33948be739ced46c6a14394c20b7bb214cd.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 10: Tears of the Kingdom Sages"
+    },
+    "release": "2025-06-05",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Sage of Wind Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "yunobo-amiibo",
+    "name": "Yunobo",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/yunobo-fbdee8700069e0ed0f239a5609beb006b252ed00a510dc5a97cd5b19d0bc8662.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 10: Tears of the Kingdom Sages"
+    },
+    "release": "2025-06-05",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Sage of Fire Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "sidon-amiibo",
+    "name": "Sidon",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/sidon-6c5aca8ce57704b637a0cb5019d4e94851a1aac636b631be8e4b1c9949aa74fb.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 10: Tears of the Kingdom Sages"
+    },
+    "release": "2025-06-05",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Sage of Water Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "riju-amiibo",
+    "name": "Riju",
+    "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/riju-edd507e449b1f8affd3811a0b77912e20ab2eed836b6288b9ef9f575b70af04e.png",
+    "franchise": {
+      "series": "The Legend of Zelda",
+      "subseries": "The Legend of Zelda: Tears of the Kingdom",
+      "wave": "The Legend of Zelda Wave 10: Tears of the Kingdom Sages"
+    },
+    "release": "2025-06-05",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "the-legend-of-zelda-tears-of-the-kingdom",
+        "function": "Receive the Sage of Lightning Fabric | Receive materials and a weapon or rare item"
+      },
+      {
+        "game": "hyrule-warriors-age-of-imprisonment",
+        "function": "Receive specific crafting materials or a weapon for the character"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a Legend of Zelda-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "donkey-kong-pauline-amiibo",
+    "name": "Donkey Kong & Pauline",
+    "cover": "https://amiibo.life/assets/figures/amiibo/donkey-kong/donkey-kong-pauline-5a8fc74e56946aefa8b6627cdcaf79668fb06ad3b2615711a3a2368ef59dba0c.png",
+    "franchise": {
+      "series": "Donkey Kong",
+      "subseries": null
+    },
+    "release": "2025-07-17",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fighter copy ability and a health item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive a Fire Flower"
+      },
+      {
+        "game": "donkey-kong-bananza",
+        "function": "Unlock Pauline's Diva Dress early | Spawn explosive golden KONG tiles"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive a Super Flower Pot"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "king-k-rool-amiibo",
+    "name": "King K. Rool",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/king-k-rool-2f179a53c8e0da9a25c73751ed28c075429c9418e11b4b3eeb4058fcb3db3183.png",
+    "franchise": {
+      "series": "Super Smash Bros.",
+      "subseries": "Donkey Kong",
+      "number": "67",
+      "wave": "Super Smash Bros. Wave 12"
+    },
+    "release": "2019-02-15",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "donkey-kong-bananza",
+        "function": "Spawn explosive golden KONG tiles"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "rosalina-amiibo",
+    "name": "Rosalina",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/rosalina-6fb5acc4de5b6e2d9206c5f396de35b74ea7c180c6fd237a02a3d246dd32eb89.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 3"
+    },
+    "release": "2016-10-07",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "daisy-amiibo",
+    "name": "Daisy",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/daisy-f012f96c3310ee9ac40f0a9682fbae2503cc53a17d7831d8160808ed7db58686.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 3"
+    },
+    "release": "2016-10-20",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a coin"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock a costume based on the character (short-hair version)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "samus-metroid-prime-4-amiibo",
+    "name": "Samus",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/samus-metroid-prime-4-1601af9c5123dbff9e806aef2707de2868b5d2eaf2cea8053d3ede553f421960.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid Prime 4",
+      "wave": "Metroid Wave 3: Metroid Prime 4"
+    },
+    "release": "2025-11-06",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Bomb copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Galactic Bounty Hunter costume"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Change background music while riding Vi-O-La / Replenish health and boost max health by 99 once per day"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "samus-vi-o-la-amiibo",
+    "name": "Samus & Vi-O-La",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/samus-vi-o-la-462368bf458acc181a6bc18c2573b20047e304e50991fdda4f75d22119e62c94.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid Prime 4",
+      "wave": "Metroid Wave 3: Metroid Prime 4"
+    },
+    "release": "2025-11-06",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Bomb copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "metroid-samus-returns",
+        "function": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+      },
+      {
+        "game": "bayonetta-2",
+        "function": "Unlock the Galactic Bounty Hunter costume"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "Change Vi-O-La's color / Improve Vi-O-La boost regeneration once per day / See total distance traveled on Vi-O-La"
+      }
+    ],
+    "notes": "Wider than normal"
+  },
+  {
+    "id": "sylux-amiibo",
+    "name": "Sylux",
+    "cover": "https://amiibo.life/assets/figures/amiibo/metroid/sylux-13be3d3c7dce6f897a7ea969bf7a521aecc54a63db63ee44d5981345b3e36bde.png",
+    "franchise": {
+      "series": "Metroid",
+      "subseries": "Metroid Prime 4",
+      "wave": "Metroid Wave 3: Metroid Prime 4"
+    },
+    "release": "2025-12-04",
+    "type": "amiibo",
+    "owned": true,
+    "functionality": [
+      {
+        "game": "metroid-prime-4-beyond",
+        "function": "View a particular completed cutscene after beating game without needing 100% completion / Hear a random voice line from Sylux"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mario-and-luma-amiibo",
+    "name": "Mario and Luma",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 8: Super Mario Galaxy"
+    },
+    "release": "2026-04-02",
+    "type": "amiibo",
+    "owned": false,
+    "functionality": [
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      },
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle (Read+Write)"
+      }
+    ],
+    "event": "Super Mario Bros. 40th Anniversary",
+    "notes": "Larger than usual"
+  },
+  {
+    "id": "rosalina-and-lumas-amiibo",
+    "name": "Rosalina and Lumas",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/rosalina-and-lumas-f51a3258399488c3b6b6fc665d76a5c396c3d4f083dca24b8c5a6f5473bf0b65.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": null,
+      "wave": "Super Mario Wave 8: Super Mario Galaxy"
+    },
+    "release": "2026-04-02",
+    "type": "amiibo",
+    "owned": false,
+    "functionality": [
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+      },
+      {
+        "game": "mario-kart-8-deluxe",
+        "function": "Unlock a character-themed Mii racing suit"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby a Copy ability based on the character's abilities and a health item"
+      }
+    ],
+    "event": "Super Mario Bros. 40th Anniversary",
+    "notes": "Larger than usual"
+  },
+  {
+    "id": "elephant-mario-amiibo",
+    "name": "Elephant Mario",
+    "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/elephant-mario-9e586b2b7b77fe7b6b6f18c98efa59197d14f2d2fe29a06b04b95c4b47fd54d6.png",
+    "franchise": {
+      "series": "Super Mario",
+      "subseries": "Super Mario Wave 7: Super Mario Bros. Wonder"
+    },
+    "release": "2026-03-26",
+    "type": "amiibo",
+    "owned": false,
+    "functionality": [
+      {
+        "game": "mario-and-luigi-paper-jam",
+        "function": "Unlock character cards to help you in battle"
+      },
+      {
+        "game": "kirby-planet-robobot",
+        "function": "Give Kirby the Fire copy ability and a health item"
+      },
+      {
+        "game": "metroid-prime-blast-ball",
+        "function": "Unlock an armor paint job based on the character"
+      },
+      {
+        "game": "mario-and-luigi-superstar-saga-3ds",
+        "function": "Receive a stamp and equipment for the main quest"
+      },
+      {
+        "game": "luigis-mansion-3ds",
+        "function": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+      },
+      {
+        "game": "super-smash-bros-ultimate",
+        "function": "Battle and train up a computer-controlled Figure Player of the character"
+      },
+      {
+        "game": "mario-and-luigi-bowsers-inside-story-3ds",
+        "function": "Receive a helpful item"
+      },
+      {
+        "game": "super-mario-3d-world-switch",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "bowsers-fury",
+        "function": "Receive a Super Star item"
+      },
+      {
+        "game": "super-mario-bros-wonder",
+        "function": "Receive an Elephant Fruit"
+      },
+      {
+        "game": "super-mario-galaxy",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-galaxy-2",
+        "function": "Receive a Life Mushroom or an 1-Up Mushroom"
+      },
+      {
+        "game": "super-mario-bros-wonder-switch-2",
+        "function": "Receive an Elephant Fruit | Change to character-themed decoration in Bellabel Park hub"
+      }
+    ],
+    "event": "Super Mario Bros. 40th Anniversary",
+    "notes": null
+  }
+]

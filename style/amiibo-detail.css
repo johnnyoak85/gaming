@@ -1,0 +1,74 @@
+/* ===================== */
+/* Amiibo Cover          */
+/* ===================== */
+.amiibo-cover {
+  object-fit: contain;
+  background: linear-gradient(135deg, var(--surface), var(--surface-alt));
+  padding: 8px;
+}
+
+/* ===================== */
+/* Amiibo Number         */
+/* ===================== */
+.amiibo-number {
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-left: 8px;
+  align-self: baseline;
+}
+
+/* ===================== */
+/* Functionality List    */
+/* ===================== */
+.func-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.func-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 12px;
+  background: var(--surface-alt);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.func-row:hover {
+  transform: scale(1.02);
+  border-color: var(--primary-light);
+}
+
+.func-game-cover {
+  width: 48px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.func-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.func-game-name {
+  color: var(--primary-light);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.func-desc {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  font-weight: 300;
+}

@@ -1,0 +1,74 @@
+:root {
+  --primary: #7c2d9b;
+  --primary-light: #a855f7;
+  --bg: #121212;
+  --surface: #1a0833;
+  --surface-alt: #2a1248;
+  --text: #f0e6f6;
+  --text-muted: #b897cc;
+  --border: #3d1a5c;
+  --radius: 8px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#dashboard {
+  padding: 24px 16px;
+  text-align: center;
+}
+
+.dashboard-grid {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.dashboard-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--text);
+  font-size: 1.2rem;
+  font-weight: 600;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  cursor: pointer;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(124, 45, 155, 0.3);
+  background: var(--surface-alt);
+}
+
+.dashboard-card.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+  cursor: default;
+}
+
+.dashboard-card-label {
+  user-select: none;
+}
