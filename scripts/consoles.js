@@ -79,7 +79,7 @@ function buildHeader() {
 
   const backBtn = el("button", {}, "← Back");
   backBtn.addEventListener("click", () => {
-    window.location.href = "./dashboard.html";
+    window.location.href = "./index.html";
   });
   header.appendChild(backBtn);
 
