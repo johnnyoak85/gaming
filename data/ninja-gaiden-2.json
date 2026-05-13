@@ -1,0 +1,81 @@
+{
+    "id": "ninja-gaiden-2",
+    "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ubo.webp",
+    "release": "1990-04-06",
+    "type": "game",
+    "franchise": {
+        "universe": "Ninja Gaiden",
+        "series": "Ninja Gaiden",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Ninja"
+        ],
+        "tags": [
+            "Hard",
+            "Retro"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "ninja-gaiden",
+            "type": "prequel"
+        },
+        {
+            "source": "ninja-gaiden-3",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Tecmo"
+        ],
+        "publisher": [
+            "Tecmo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Improved sequel to the original Ninja Gaiden.",
+        "rating": 4,
+        "difficulty": 5,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

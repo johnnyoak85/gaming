@@ -1,0 +1,49 @@
+{
+  "id": "nintendo-classic-mini-super-nintendo-entertainment-system-controller",
+  "name": "Nintendo Classic Mini: Super Nintendo Entertainment System Controller",
+  "cover": "snes-classic-controller",
+  "release": "2017-09-29",
+  "type": "hardware",
+  "franchise": {
+    "series": "Classic Mini",
+    "subseries": "Super Nintendo Entertainment System"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 4,
+    "era": null,
+    "compatible_with": [
+      "nintendo-classic-mini-nintendo-entertainment-system",
+      "nintendo-classic-mini-super-nintendo-entertainment-system",
+      "nintendo-wii-remote",
+      "nintendo-wii-remote-plus"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

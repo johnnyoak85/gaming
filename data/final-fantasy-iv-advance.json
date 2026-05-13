@@ -1,0 +1,77 @@
+{
+    "id": "final-fantasy-iv-advance",
+    "name": "Final Fantasy IV Advance",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yc0.webp",
+    "release": "2005-12-15",
+    "type": "game",
+    "franchise": {
+        "universe": "Final Fantasy",
+        "series": "Final Fantasy",
+        "subseries": "Final Fantasy Advance"
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "GBA",
+            "Enhanced Version"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "final-fantasy-iv",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "TOSE"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Expanded portable version of FFIV.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 24
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Strong enhanced port with added content",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

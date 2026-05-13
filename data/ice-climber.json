@@ -1,0 +1,71 @@
+{
+    "id": "ice-climber",
+    "name": "Ice Climber",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob95p.webp",
+    "release": "1985-01-30",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "Ice Climber",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Arcade Style",
+            "Co-op"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo R&D1"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Classic co-op vertical platformer.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

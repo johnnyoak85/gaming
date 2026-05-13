@@ -1,0 +1,53 @@
+{
+  "id": "new-nintendo-3ds-xl",
+  "name": "New Nintendo 3DS XL",
+  "cover": "new-3ds-xl",
+  "release": "2017-07-30",
+  "type": "hardware",
+  "franchise": {
+    "series": "Nintendo 3DS",
+    "subseries": "New 3DS"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "handheld",
+    "primary_family": "nintendo-3ds",
+    "compatible_families": [
+      "nintendo-ds"
+    ],
+    "generation": 8,
+    "era": "720p",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Orange & Black",
+      "cover": "new-3ds-xl",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Orange & Black",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

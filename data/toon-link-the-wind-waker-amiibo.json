@@ -1,0 +1,72 @@
+{
+  "id": "toon-link-the-wind-waker-amiibo",
+  "name": "Toon Link • The Wind Waker",
+  "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/toon-link-the-wind-waker-6d1e41b4527068102ca705e7827f7b50ab2c8f0e254d9b82842839ccf413193b.png",
+  "release": "2016-12-01",
+  "type": "amiibo",
+  "franchise": {
+    "series": "The Legend of Zelda",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "The Legend of Zelda Wave 2: 30th Anniversary"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the King of Red Lions Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive materials and a rare or exclusive item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby a Copy ability based on the character's abilities and a health item"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors",
+      "effect": "Receive a weapon rated 3 stars or higher | Unlock the amiibo-exclusive Spinner weapon"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock a costume based on the character (short-hair version)"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a Legend of Zelda-themed Mii racing suit"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of arrows, once a day per amiibo"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

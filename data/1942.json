@@ -1,0 +1,79 @@
+{
+    "id": "1942",
+    "name": "1942",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtro.webp",
+    "release": "1984-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "194X",
+        "series": "194X",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Vertical Shooter"
+        ],
+        "themes": [
+            "Military",
+            "World War II"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Capcom",
+            "Classic Shmup"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "1941-counter-attack",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Foundational Capcom arcade shooter and one of the defining early vertical shmups.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential Capcom arcade shooter and cornerstone of the 194X series.",
+        "notes": "Wishlist through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

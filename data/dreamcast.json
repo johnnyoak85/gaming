@@ -1,0 +1,44 @@
+{
+  "id": "dreamcast",
+  "name": "Dreamcast",
+  "cover": "dreamcast",
+  "release": "1999-10-14",
+  "type": "hardware",
+  "franchise": {
+    "series": "Dreamcast",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "home",
+    "primary_family": "dreamcast",
+    "compatible_families": [],
+    "generation": 6,
+    "era": "128-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": "Turns on, no output"
+}

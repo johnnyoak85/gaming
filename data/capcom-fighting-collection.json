@@ -1,0 +1,89 @@
+{
+    "id": "capcom-fighting-collection",
+    "name": "Capcom Fighting Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dik.webp",
+    "release": "2022-06-24",
+    "type": "collection",
+    "franchise": {
+        "universe": "Capcom",
+        "series": "Capcom Fighting Collection",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Fighting"
+        ],
+        "subgenres": [
+            "Retro Collection",
+            "2D Fighting"
+        ],
+        "themes": [
+            "Arcade History"
+        ],
+        "tags": [
+            "Arcade",
+            "Competitive",
+            "Preservation",
+            "Capcom"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "darkstalkers-the-night-warriors",
+        "night-warriors-darkstalkers-revenge",
+        "vampire-savior-the-lord-of-vampire",
+        "vampire-hunter-2-darkstalkers-revenge",
+        "vampire-savior-2-the-lord-of-vampire",
+        "cyberbots-fullmetal-madness",
+        "super-puzzle-fighter-ii-turbo",
+        "super-gem-fighter-mini-mix",
+        "hyper-street-fighter-ii-the-anniversary-edition",
+        "red-earth"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent preservation-focused fighting game compilation centered around Capcom's CPS-2 era.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 80
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of Capcom's strongest modern fighting game preservation releases.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

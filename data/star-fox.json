@@ -1,0 +1,80 @@
+{
+    "id": "star-fox",
+    "name": "Star Fox",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71tr.webp",
+    "release": "1993-02-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Star Fox",
+        "series": "Star Fox",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Rail Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "SNES",
+            "Super FX",
+            "Retro",
+            "Nintendo"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "star-fox-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD",
+            "Argonaut Software"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Landmark polygonal console shooter and major Super FX showcase.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential Nintendo technical showcase and key SNES title.",
+        "notes": "Built into SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

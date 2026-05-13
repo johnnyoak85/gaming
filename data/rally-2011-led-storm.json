@@ -1,0 +1,83 @@
+{
+    "id": "rally-2011-led-storm",
+    "name": "Rally 2011: LED Storm",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8vbw.webp",
+    "aliases": [
+        "Mad Gear"
+    ],
+    "release": "1988-08-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "LED Storm",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing",
+            "Action"
+        ],
+        "subgenres": [
+            "Combat Racing"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Post-Apocalyptic"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Vehicle Combat",
+            "CPS"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "last-duel",
+            "type": "spiritual_predecessor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Distinctive futuristic arcade racer with unusual movement mechanics and aggressive pacing.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Interesting experimental Capcom arcade racer from the late 80s.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

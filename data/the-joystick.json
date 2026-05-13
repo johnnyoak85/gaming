@@ -1,0 +1,48 @@
+{
+  "id": "the-joystick",
+  "name": "The Joystick",
+  "cover": "the-joystick",
+  "release": "2018-01-29",
+  "type": "hardware",
+  "franchise": {
+    "series": null,
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Retro Games Ltd"
+    ],
+    "publisher": [
+      "Retro Games Ltd"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": null,
+    "era": null,
+    "compatible_with": [
+      "c64-mini",
+      "a500-mini",
+      "spectrum"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

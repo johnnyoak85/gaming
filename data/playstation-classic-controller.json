@@ -1,0 +1,46 @@
+{
+  "id": "playstation-classic-controller",
+  "name": "PlayStation Classic Controller",
+  "cover": "playstation-controller",
+  "release": "2018-12-03",
+  "type": "hardware",
+  "franchise": {
+    "series": "PlayStation",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sony"
+    ],
+    "publisher": [
+      "Sony"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 5,
+    "era": null,
+    "compatible_with": [
+      "playstation-classic"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": "USB A Plug"
+}

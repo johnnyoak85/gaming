@@ -1,0 +1,79 @@
+{
+    "id": "castlevania-legacy-of-darkness",
+    "name": "Castlevania: Legacy of Darkness",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54tj.webp",
+    "release": "1999-11-30",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "3D",
+            "Expanded",
+            "Experimental"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-64",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "castlevania-64",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami Computer Entertainment Kobe"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded and more complete version of the N64 Castlevania concept.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Improved version; arguably the “real” one to own",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

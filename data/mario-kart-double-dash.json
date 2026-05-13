@@ -1,0 +1,84 @@
+{
+    "id": "mario-kart-double-dash",
+    "name": "Mario Kart: Double Dash!!",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ndu.webp",
+    "release": "2003-11-07",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Mario Kart",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Kart Racing"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Replayable",
+            "Arcade Style",
+            "Co-op"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mario-kart-64",
+            "type": "prequel"
+        },
+        {
+            "source": "mario-kart-wii",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 16
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique two-character kart system and one of the most distinct Mario Kart entries.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Unique mechanics, core multiplayer pillar",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

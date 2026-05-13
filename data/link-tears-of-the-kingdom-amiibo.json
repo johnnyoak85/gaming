@@ -1,0 +1,72 @@
+{
+  "id": "link-tears-of-the-kingdom-amiibo",
+  "name": "Link",
+  "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-tears-of-the-kingdom-4d0447110fe19ec05b437f666a47d481dee580a970860704123ae82b337f1524.png",
+  "release": "2023-05-12",
+  "type": "amiibo",
+  "franchise": {
+    "series": "The Legend of Zelda",
+    "subseries": "The Legend of Zelda: Tears of the Kingdom"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "The Legend of Zelda Wave 8: Tears of the Kingdom"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Champion's Leathers Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock a costume based on the character (short-hair version)"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a Legend of Zelda-themed Mii racing suit"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive materials and a rare or exclusive item"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby a Copy ability based on the character's abilities and a health item"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of arrows, once a day per amiibo"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors",
+      "effect": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

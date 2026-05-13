@@ -1,0 +1,75 @@
+{
+    "id": "castlevania-judgment",
+    "name": "Castlevania Judgment",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3z4e.webp",
+    "release": "2008-11-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": null,
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "3D Fighting"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Spinoff",
+            "Versus",
+            "Experimental"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Eighting"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Oddball Castlevania fighting spinoff with crossover roster appeal.",
+        "rating": 2,
+        "difficulty": 3,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

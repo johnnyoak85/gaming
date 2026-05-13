@@ -1,0 +1,68 @@
+{
+  "id": "mario-and-luma-amiibo",
+  "name": "Mario and Luma",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
+  "release": "2026-04-02",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Mario",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Super Mario Wave 8: Super Mario Galaxy"
+  },
+  "ownership": "wishlist",
+  "functionality": [
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a Life Mushroom or an 1-Up Mushroom"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a Life Mushroom or an 1-Up Mushroom"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "mario-and-luigi-bowsers-inside-story-3ds",
+      "effect": "Receive a helpful item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+    },
+    {
+      "game": "luigis-mansion-3ds",
+      "effect": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+    },
+    {
+      "game": "mario-and-luigi-superstar-saga-3ds",
+      "effect": "Receive a stamp and equipment for the main quest"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a character-themed Mii racing suit"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby a Copy ability based on the character's abilities and a health item"
+    },
+    {
+      "game": "mario-and-luigi-paper-jam",
+      "effect": "Unlock character cards to help you in battle (Read+Write)"
+    }
+  ],
+  "event": "Super Mario Bros. 40th Anniversary",
+  "notes": "Larger than usual"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "game-boy-advance-sp",
+  "name": "Game Boy Advance SP",
+  "cover": "game-boy-advance-sp",
+  "release": "2003-03-23",
+  "type": "hardware",
+  "franchise": {
+    "series": "Game Boy",
+    "subseries": "Game Boy Advance"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "handheld",
+    "primary_family": "game-boy-advance",
+    "compatible_families": [],
+    "generation": 6,
+    "era": "32-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Platinum",
+      "cover": "game-boy-advance-sp",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Platinum",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

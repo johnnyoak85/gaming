@@ -1,0 +1,71 @@
+{
+    "id": "sonic-the-hedgehog-8bit",
+    "name": "Sonic the Hedgehog",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobt1i.webp",
+    "release": "1991-12-28",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "8-bit"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-2-8bit",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Ancient"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Alternate 8-bit Sonic experience.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

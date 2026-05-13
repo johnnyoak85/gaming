@@ -1,0 +1,82 @@
+{
+    "id": "new-super-mario-bros-wii",
+    "name": "New Super Mario Bros. Wii",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tj.webp",
+    "release": "2009-11-12",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "New Super Mario Bros."
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "2D",
+            "Wii",
+            "Multiplayer"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "new-super-mario-bros",
+            "type": "prequel"
+        },
+        {
+            "source": "new-super-mario-bros-u",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

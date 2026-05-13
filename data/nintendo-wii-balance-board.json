@@ -1,0 +1,47 @@
+{
+  "id": "nintendo-wii-balance-board",
+  "name": "Wii Balance Board",
+  "cover": "balance-board",
+  "release": "2008-04-26",
+  "type": "hardware",
+  "franchise": {
+    "series": "Wii",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "accessory",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 7,
+    "era": null,
+    "compatible_with": [
+      "nintendo-wii",
+      "nintendo-wii-u"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

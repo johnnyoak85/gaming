@@ -1,0 +1,44 @@
+{
+  "id": "nec-pc-engine-coregrafx-mini",
+  "name": "PC Engine CoreGrafx Mini",
+  "cover": "pc-engine-mini",
+  "release": "2020-03-19",
+  "type": "hardware",
+  "franchise": {
+    "series": "PC Engine",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "NEC / Konami"
+    ],
+    "publisher": [
+      "NEC / Konami"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "nec-pc-engine-coregrafx-mini",
+    "compatible_families": [],
+    "generation": 4,
+    "era": "16-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Unique NEC library; major gap otherwise",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

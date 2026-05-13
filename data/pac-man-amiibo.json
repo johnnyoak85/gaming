@@ -1,0 +1,24 @@
+{
+  "id": "pac-man-amiibo",
+  "name": "Pac-Man",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/pac-man-caac508591f72ec9c2bea130de441f35ebb0aba5785dd27a67af1e6d0f670372.png",
+  "release": "2015-04-24",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "Pac-Man"
+  },
+  "amiibo": {
+    "number": "35",
+    "wave": "Super Smash Bros. Wave 4"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

@@ -1,0 +1,75 @@
+{
+    "id": "mendel-palace",
+    "name": "Mendel Palace",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wua.webp",
+    "release": "1989-06-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Mendel Palace",
+        "series": "Mendel Palace",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle",
+            "Action"
+        ],
+        "subgenres": [
+            "Action Puzzle"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Famicom",
+            "Game Freak",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Game Freak"
+        ],
+        "publisher": [
+            "Namco"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Early Game Freak action-puzzle game with unusual tile-flipping mechanics.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important pre-Pokémon Game Freak title and strong preservation curiosity.",
+        "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 2."
+    },
+    "event": null,
+    "notes": "North American version of Quinty."
+}

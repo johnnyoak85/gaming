@@ -1,4 +1,4 @@
-const DATA_PATH = "./data/amiibo.json";
+import { loadCatalog, getAmiibo } from "./catalog.js";
 
 const state = {
   items: [],
@@ -19,7 +19,7 @@ function el(tag, attrs = {}, children = []) {
 }
 
 function isOwned(item) {
-  return item.owned !== false;
+  return item.ownership === 'owned';
 }
 
 function coverUrl(item) {
@@ -61,7 +61,7 @@ function renderGrid() {
       items.forEach((item) => {
         const cover = coverUrl(item);
         const card = el("a", { href: `amiibo-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
-          cover ? el("img", { src: cover, alt: item.name, class: "card-cover", loading: "lazy" }) : null,
+          cover ? el("img", { src: cover, alt: item.name, class: "card-cover" }) : null,
           el("span", { class: "card-name" }, item.name),
         ]);
         container.appendChild(card);
@@ -96,8 +96,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const main = document.getElementById("list-page");
 
   try {
-    const res = await fetch(DATA_PATH);
-    state.items = await res.json();
+    const catalog = await loadCatalog();
+    state.items = getAmiibo(catalog);
 
     main.innerHTML = "";
 

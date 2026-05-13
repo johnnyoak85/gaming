@@ -1,0 +1,47 @@
+{
+  "id": "virtual-boy-for-nintendo-switch",
+  "name": "Virtual Boy for Nintendo Switch",
+  "cover": "vboy",
+  "release": "2026-02-17",
+  "type": "hardware",
+  "franchise": {
+    "series": "Nintendo Switch",
+    "subseries": "Virtual Boy"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "accessory",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 5,
+    "era": "32-bit",
+    "compatible_with": [
+      "nintendo-switch",
+      "nintendo-switch-2"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": "Required accessory for Virtual Boy - Nintendo Classics."
+}

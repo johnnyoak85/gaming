@@ -1,0 +1,73 @@
+{
+    "id": "excitebike",
+    "name": "Excitebike",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob91c.webp",
+    "release": "1984-11-30",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "Excite",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Arcade Racing"
+        ],
+        "themes": [
+            "Sports"
+        ],
+        "tags": [
+            "Retro",
+            "Time Trial",
+            "Track Editor"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo R&D1"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Early racing game with track editor innovation.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

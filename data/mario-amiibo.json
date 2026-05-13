@@ -1,0 +1,72 @@
+{
+  "id": "mario-amiibo",
+  "name": "Mario",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-38dac6fb5b25f6d3e03cab6c444def0fc873b2bc4a6a5ccdcf3dc032023588d3.png",
+  "release": "2015-03-12",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Mario",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Super Mario Wave 1"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "mario-and-luigi-paper-jam",
+      "effect": "Unlock character cards to help you in battle"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Fire copy ability and a health item"
+    },
+    {
+      "game": "metroid-prime-blast-ball",
+      "effect": "Unlock an armor paint job based on the character"
+    },
+    {
+      "game": "mario-and-luigi-superstar-saga-3ds",
+      "effect": "Receive a stamp and equipment for the main quest"
+    },
+    {
+      "game": "luigis-mansion-3ds",
+      "effect": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "mario-and-luigi-bowsers-inside-story-3ds",
+      "effect": "Receive a helpful item"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Receive a Fire Flower"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a Life Mushroom or an 1-Up Mushroom"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a Life Mushroom or an 1-Up Mushroom"
+    },
+    {
+      "game": "super-mario-bros-wonder-switch-2",
+      "effect": "Receive a Super Pot Flower | Change to character-themed decoration in Bellabel Park hub"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

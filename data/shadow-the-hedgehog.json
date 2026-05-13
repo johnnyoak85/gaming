@@ -1,0 +1,80 @@
+{
+    "id": "shadow-the-hedgehog",
+    "name": "Shadow the Hedgehog",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1up3.webp",
+    "release": "2005-11-15",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic",
+        "subseries": "Shadow"
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "3D Action"
+        ],
+        "themes": [],
+        "tags": [
+            "Spinoff",
+            "Edgy",
+            "Multiple Endings"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-adventure-2",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-adventure-2-battle",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sega"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Experimental Sonic spinoff focused on Shadow.",
+        "rating": 2,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

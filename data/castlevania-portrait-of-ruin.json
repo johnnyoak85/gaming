@@ -1,0 +1,88 @@
+{
+    "id": "castlevania-portrait-of-ruin",
+    "name": "Castlevania: Portrait of Ruin",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9kf.webp",
+    "release": "2006-11-16",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "subgenres": [
+            "Metroidvania",
+            "Action RPG"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Exploration",
+            "Dual Character"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-dominus-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania-bloodlines",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "finished",
+    "backlog": {
+        "priority": 4,
+        "reason": "Sequel to Bloodlines with dual-character mechanics.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Completes DS trilogy",
+        "notes": "Contained in Dominus Collection"
+    },
+    "event": null,
+    "notes": null
+}

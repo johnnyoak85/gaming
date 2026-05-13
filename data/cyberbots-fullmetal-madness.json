@@ -1,0 +1,88 @@
+{
+    "id": "cyberbots-fullmetal-madness",
+    "name": "Cyberbots: Fullmetal Madness",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6hu.webp",
+    "release": "1994-10-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Armored Warriors",
+        "series": "Cyberbots",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting",
+            "Mecha Fighter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Mecha"
+        ],
+        "tags": [
+            "Arcade",
+            "Competitive",
+            "Retro",
+            "CPS2"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-fighting-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "powered-gear-strategic-variant-armor-equipment",
+            "type": "spiritual_predecessor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Fast-paced Capcom mecha fighter with strong CPS-2 presentation and customization.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important Capcom CPS-2 fighting game and notable mecha arcade title.",
+        "notes": "Wishlist through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

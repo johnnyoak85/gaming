@@ -1,0 +1,44 @@
+{
+  "id": "game-watch-super-mario-bros",
+  "name": "Game & Watch: Super Mario Bros.",
+  "cover": "game-watch-mario",
+  "release": "2020-11-13",
+  "type": "hardware",
+  "franchise": {
+    "series": "Game & Watch",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "game-watch-super-mario-bros",
+    "compatible_families": [],
+    "generation": null,
+    "era": "classic",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": "Super Mario Bros. 35th Anniversary",
+  "notes": null
+}

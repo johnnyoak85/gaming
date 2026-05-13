@@ -1,0 +1,60 @@
+{
+  "id": "meta-knight-amiibo",
+  "name": "Meta Knight",
+  "cover": "https://amiibo.life/assets/figures/amiibo/kirby/meta-knight-77a67cd720d9cdfbe295ea0a7c1605be7d6dcaf81e4c3c843a17d06e3da98733.png",
+  "release": "2016-04-28",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Kirby",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Kirby: Planet Robobot Wave"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "kirby-and-the-rainbow-paintbrush",
+      "effect": "Allows for fast dashing through weaker enemies"
+    },
+    {
+      "game": "bye-bye-boxboy",
+      "effect": "Unlock a costume resembling this character"
+    },
+    {
+      "game": "kirbys-blowout-blast",
+      "effect": "Build a statue in the plaza that plays music"
+    },
+    {
+      "game": "kirby-star-allies",
+      "effect": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "kirbys-extra-epic-yarn",
+      "effect": "Equip a power-up hat matching the character"
+    },
+    {
+      "game": "kirby-and-the-forgotten-land",
+      "effect": "Receive star coins and a boost item"
+    },
+    {
+      "game": "kirbys-return-to-dream-land-deluxe",
+      "effect": "Receive more useful items"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Sword copy ability with Meta Knight costume and a health item"
+    },
+    {
+      "game": "super-kirby-clash",
+      "effect": "Receive 20 Fragments"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

@@ -1,0 +1,77 @@
+{
+    "id": "gradius-nes",
+    "name": "Gradius",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52r0.webp",
+    "release": "1985-05-29",
+    "type": "game",
+    "franchise": {
+        "universe": "Gradius",
+        "series": "Gradius",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Shoot 'em up"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Arcade",
+            "Horizontal Scrolling",
+            "Power-Up System"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "gradius",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Foundational horizontal shooter that defined the Gradius formula.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

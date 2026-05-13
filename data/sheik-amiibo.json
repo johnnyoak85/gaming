@@ -1,0 +1,68 @@
+{
+  "id": "sheik-amiibo",
+  "name": "Sheik",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/sheik-95e796956462404ff2c8c181a3b44187aa2e8f95b385d0bbf60c7bbcdafc4755.png",
+  "release": "2015-01-22",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "The Legend of Zelda"
+  },
+  "amiibo": {
+    "number": "23",
+    "wave": "Super Smash Bros. Wave 3"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "hyrule-warriors",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of hearts"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Mirror copy ability and a health item"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive Sheik's Mask | Receive rare materials"
+    },
+    {
+      "game": "the-legend-of-zelda-links-awakening-switch",
+      "effect": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Drops stat-increasing and Hylian materials and jewels or a weapon for Zelda"
+    },
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Sheik Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock the Blue Attire outfit | Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

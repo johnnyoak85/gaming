@@ -1,0 +1,60 @@
+{
+  "id": "game-boy-advance",
+  "name": "Game Boy Advance",
+  "cover": "game-boy-advance",
+  "release": "2001-06-22",
+  "type": "hardware",
+  "franchise": {
+    "series": "Game Boy",
+    "subseries": "Game Boy Advance"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "handheld",
+    "primary_family": "game-boy-advance",
+    "compatible_families": [
+      "game-boy",
+      "game-boy-color"
+    ],
+    "generation": 6,
+    "era": "32-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Glacier",
+      "cover": "game-boy-advance",
+      "event": null,
+      "notes": null
+    },
+    {
+      "name": "White",
+      "cover": "gba-white",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

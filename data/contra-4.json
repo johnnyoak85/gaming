@@ -1,0 +1,79 @@
+{
+    "id": "contra-4",
+    "name": "Contra 4",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2guv.webp",
+    "release": "2007-11-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Contra",
+        "series": "Contra",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Handheld",
+            "Hard",
+            "Classic Style"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "contra-iii-the-alien-wars",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "WayForward"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Modern return to classic Contra gameplay following Contra III.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Hardcore action, strong legacy tie-in",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

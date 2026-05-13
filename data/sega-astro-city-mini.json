@@ -1,0 +1,44 @@
+{
+  "id": "sega-astro-city-mini",
+  "name": "Astro City Mini",
+  "cover": "astro-city-mini",
+  "release": "2020-12-17",
+  "type": "hardware",
+  "franchise": {
+    "series": "Astro City",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "sega-astro-city-mini",
+    "compatible_families": [],
+    "generation": null,
+    "era": "16-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Strong Sega arcade coverage",
+    "notes": null
+  },
+  "contains": [],
+  "event": "Go Sega 60th Anniversary",
+  "notes": null
+}

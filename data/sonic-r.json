@@ -1,0 +1,62 @@
+{
+    "id": "sonic-r",
+    "name": "Sonic R",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6zi2.webp",
+    "release": "1997-11-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Arcade Racing"
+        ],
+        "themes": [],
+        "tags": [
+            "Experimental"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Traveller's Tales",
+            "Sonic Team"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Experimental Sonic racing game.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,73 @@
+{
+    "id": "the-legend-of-zelda-ocarina-of-time-master-quest",
+    "name": "The Legend of Zelda: Ocarina of Time: Master Quest",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zdv.webp",
+    "release": "2003-03-24",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Remix",
+            "Hard"
+        ]
+    },
+    "player_age": 12,
+    "access": [],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time",
+            "format": "base"
+        },
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time-3d",
+            "format": "enhanced_remake"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Remixed version of Ocarina with redesigned dungeons.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

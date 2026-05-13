@@ -1,0 +1,94 @@
+{
+    "id": "hyper-street-fighter-ii-the-anniversary-edition",
+    "name": "Hyper Street Fighter II: The Anniversary Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dpu.webp",
+    "release": "2003-12-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Street Fighter II",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting"
+        ],
+        "themes": [
+            "Martial Arts"
+        ],
+        "tags": [
+            "Arcade",
+            "Competitive",
+            "Anniversary",
+            "Retro",
+            "CPS2"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "xbox",
+            "via": "street-fighter-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned physical collection."
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-fighting-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned physical collection."
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-street-fighter-ii-turbo",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Celebratory crossover remix bringing together all major Street Fighter II revisions.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically important anniversary remix of Street Fighter II and strong preservation piece.",
+        "notes": "Contained in Street Fighter Anniversary Collection."
+    },
+    "event": "Street Fighter 15th Anniversary",
+    "notes": null
+}

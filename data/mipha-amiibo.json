@@ -1,0 +1,48 @@
+{
+  "id": "mipha-amiibo",
+  "name": "Mipha",
+  "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/mipha-zora-champion-c568d80a6cd3c75ac475f9220823edc98e1d4f1c728e5d100f35442ed45b2d2d.png",
+  "release": "2017-11-10",
+  "type": "amiibo",
+  "franchise": {
+    "series": "The Legend of Zelda",
+    "subseries": "The Legend of Zelda: Breath of the Wild"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "The Legend of Zelda Wave 5: Breath of the Wild Champions"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Zora-Champion Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Receive a Spirit of the character"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive materials and a rare or exclusive item"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a Legend of Zelda-themed Mii racing suit"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

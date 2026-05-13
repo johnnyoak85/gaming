@@ -1,0 +1,46 @@
+{
+  "id": "xbox-360-controller",
+  "name": "Xbox 360 Controller",
+  "cover": "xbox-360-controller",
+  "release": "2005-12-02",
+  "type": "hardware",
+  "franchise": {
+    "series": "Xbox",
+    "subseries": "Xbox 360"
+  },
+  "companies": {
+    "manufacturer": [
+      "MicroSoft"
+    ],
+    "publisher": [
+      "MicroSoft"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 7,
+    "era": null,
+    "compatible_with": [
+      "xbox-360"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": "USB A Plug"
+}

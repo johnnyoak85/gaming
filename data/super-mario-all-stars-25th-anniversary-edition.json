@@ -1,0 +1,84 @@
+{
+    "id": "super-mario-all-stars-25th-anniversary-edition",
+    "name": "Super Mario All-Stars: 25th Anniversary Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vvc.webp",
+    "release": "2010-12-03",
+    "type": "collection",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario All-Stars"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Collection",
+            "Anniversary"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-all-stars",
+            "type": "original"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Wii release of Super Mario All-Stars.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Super Mario Bros. 25th Anniversary",
+    "notes": "Physical Wii collection containing the SNES remake versions from Super Mario All-Stars.",
+    "contains": [
+        "super-mario-bros-snes",
+        "super-mario-bros-the-lost-levels-snes",
+        "super-mario-bros-2-snes",
+        "super-mario-bros-3-snes"
+    ]
+}

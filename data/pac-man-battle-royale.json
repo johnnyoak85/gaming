@@ -1,0 +1,69 @@
+{
+    "id": "pac-man-battle-royale",
+    "name": "Pac-Man Battle Royale",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co85i6.webp",
+    "release": "2011-11-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Pac-Man",
+        "series": "Pac-Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Maze",
+            "Party"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Multiplayer"
+        ]
+    },
+    "player_age": 5,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "pac-man",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "modes": [
+            "versus",
+            "party"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Namco Bandai Games"
+        ],
+        "publisher": [
+            "Namco Bandai Games"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Excellent competitive multiplayer spin-off.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

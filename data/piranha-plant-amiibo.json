@@ -1,0 +1,48 @@
+{
+  "id": "piranha-plant-amiibo",
+  "name": "Piranha Plant",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/piranha-plant-4383286615bfb098a76a7b20e1268848b7997386f0c400beca0bbe18d15a589a.png",
+  "release": "2019-02-15",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "Super Mario"
+  },
+  "amiibo": {
+    "number": "66",
+    "wave": "Super Smash Bros. Wave 12"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Receive a Fire Flower"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-bros-wonder-switch-2",
+      "effect": "Receive a Super Flower Pot"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

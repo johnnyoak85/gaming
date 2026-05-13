@@ -1,0 +1,72 @@
+{
+    "id": "shantae-advance-risky-revolution",
+    "name": "Shantae Advance: Risky Revolution",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaboc.webp",
+    "release": "2025-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Shantae",
+        "series": "Shantae",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Metroidvania"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "New Release",
+            "Handheld Style"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "WayForward"
+        ],
+        "publisher": [
+            "WayForward"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Long-lost GBA-era Shantae entry finally completed.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mega-drive-mini-2",
+  "name": "Mega Drive Mini 2",
+  "cover": "mega-drive-mini-2",
+  "release": "2022-10-27",
+  "type": "hardware",
+  "franchise": {
+    "series": "Mega Drive",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "mega-drive-mini-2",
+    "compatible_families": [],
+    "generation": 4,
+    "era": "16-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Expands MD coverage significantly beyond first mini",
+    "notes": "Own Mega Drive Mini"
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

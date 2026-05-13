@@ -1,0 +1,86 @@
+{
+    "id": "mega-man-3",
+    "name": "Mega Man 3",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0z5.webp",
+    "release": "1990-09-28",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "Boss Battles"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "mega-man-legacy-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "mega-man-3-1994",
+            "format": "remake"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "mega-man-2",
+            "type": "prequel"
+        },
+        {
+            "source": "mega-man-4",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Introduced the slide and refined the classic formula.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

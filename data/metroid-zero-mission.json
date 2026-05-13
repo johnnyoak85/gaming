@@ -1,0 +1,91 @@
+{
+    "id": "metroid-zero-mission",
+    "name": "Metroid: Zero Mission",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vci.webp",
+    "release": "2004-02-09",
+    "type": "game",
+    "franchise": {
+        "universe": "Metroid",
+        "series": "Metroid",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Metroidvania"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Remake",
+            "Exploration",
+            "Modernized"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "metroid",
+            "format": "base"
+        },
+        {
+            "source": "classic-nes-series-metroid",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "metroid-samus-returns",
+            "type": "sequel"
+        },
+        {
+            "source": "metroid-prime",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo R&D1"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive version of the original Metroid.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 7
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,70 @@
+{
+    "id": "dr-luigi",
+    "name": "Dr. Luigi",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wns.webp",
+    "release": "2013-12-31",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Dr. Mario",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Falling Block Puzzle"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": []
+    },
+    "player_age": 4,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Luigi-themed Dr. Mario spin-off from the Year of Luigi campaign.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Year of Luigi",
+    "notes": null
+}

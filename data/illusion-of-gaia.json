@@ -1,0 +1,88 @@
+{
+    "id": "illusion-of-gaia",
+    "name": "Illusion of Gaia",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wxz.webp",
+    "aliases": [
+        "Gaia Gensōki",
+        "Illusion of Time"
+    ],
+    "release": "1993-11-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Soul Blazer Trilogy",
+        "series": "Illusion of Gaia",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Action RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Ancient Civilizations"
+        ],
+        "tags": [
+            "SNES",
+            "Retro",
+            "Quintet",
+            "JRPG"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "soul-blazer",
+            "type": "spiritual_predecessor"
+        },
+        {
+            "source": "terranigma",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Quintet"
+        ],
+        "publisher": [
+            "Enix"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Atmospheric action RPG blending real-world mythology with strong emotional storytelling.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the defining Quintet action RPGs on SNES.",
+        "notes": "Injected on SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

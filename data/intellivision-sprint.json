@@ -1,0 +1,44 @@
+{
+  "id": "intellivision-sprint",
+  "name": "Intellivision Sprint",
+  "cover": "intellivision-sprint",
+  "release": "2025-12-05",
+  "type": "hardware",
+  "franchise": {
+    "series": "Intellivision",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Atari / PLAION"
+    ],
+    "publisher": [
+      "Atari / PLAION"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "intellivision-sprint",
+    "compatible_families": [],
+    "generation": 2,
+    "era": "classic",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 2,
+    "reason": "Secondary retro pillar; niche historical interest",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": "Modern Intellivision-style mini console with HDMI, wireless controllers, and 45 built-in games."
+}

@@ -1,0 +1,81 @@
+{
+    "id": "star-fox-2",
+    "name": "Star Fox 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u6b.webp",
+    "release": "2017-09-29",
+    "type": "game",
+    "franchise": {
+        "universe": "Star Fox",
+        "series": "Star Fox",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Rail Shooter",
+            "Strategy Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "SNES",
+            "Super FX",
+            "Prototype",
+            "Retro"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": "Officially released for the first time via SNES Classic Mini."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "star-fox",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD",
+            "Argonaut Software"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Historically fascinating unreleased SNES sequel finally made official decades later.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of Nintendo's most important unreleased-game preservation stories.",
+        "notes": "Official debut via SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

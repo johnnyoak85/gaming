@@ -1,0 +1,82 @@
+{
+    "id": "super-ghouls-n-ghosts",
+    "name": "Super Ghouls 'n Ghosts",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7run.webp",
+    "release": "1991-10-04",
+    "type": "game",
+    "franchise": {
+        "universe": "Ghosts 'n Goblins",
+        "series": "Ghosts 'n Goblins",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Horror"
+        ],
+        "tags": [
+            "SNES",
+            "Hard"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "ghouls-n-ghosts",
+            "type": "prequel"
+        },
+        {
+            "source": "ghouls-n-ghosts-genesis",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "SNES sequel and one of the defining hard action platformers.",
+        "rating": 4,
+        "difficulty": 5,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

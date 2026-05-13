@@ -1,0 +1,68 @@
+{
+  "id": "zelda-tears-of-the-kingdom-amiibo",
+  "name": "Zelda",
+  "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/zelda-tears-of-the-kingdom-da54798f110518e1dced7a570aa67d2f425f8b6d436bc7b56060f63a8e012bf1.png",
+  "release": "2023-11-03",
+  "type": "amiibo",
+  "franchise": {
+    "series": "The Legend of Zelda",
+    "subseries": "The Legend of Zelda: Tears of the Kingdom"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "The Legend of Zelda Wave 9: Tears of the Kingdom"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Princess Zelda Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a Legend of Zelda-themed Mii racing suit"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive materials and a rare or exclusive item"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby a Copy ability based on the character's abilities and a health item"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of hearts, once a day per amiibo"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

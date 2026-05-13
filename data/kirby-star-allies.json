@@ -1,0 +1,81 @@
+{
+    "id": "kirby-star-allies",
+    "name": "Kirby Star Allies",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ezz.webp",
+    "release": "2018-03-16",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Co-op",
+            "Fan Service"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kirby-planet-robobot",
+            "type": "prequel"
+        },
+        {
+            "source": "kirby-and-the-forgotten-land",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Bridge between classic Kirby and modern 3D direction.",
+        "rating": 3,
+        "difficulty": 1,
+        "estimated_hours": 7
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

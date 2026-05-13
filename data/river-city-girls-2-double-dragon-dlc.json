@@ -1,0 +1,87 @@
+{
+    "id": "river-city-girls-2-double-dragon-dlc",
+    "name": "River City Girls 2: Double Dragon DLC",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaiyp.webp",
+    "release": "2023-11-12",
+    "type": "expansion",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "River City Girls",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Open Beat 'em Up",
+            "Expansion"
+        ],
+        "themes": [
+            "Street Fighting",
+            "Comedy"
+        ],
+        "tags": [
+            "DLC",
+            "Co-Op",
+            "Brawler",
+            "Crossover"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "river-city-girls-2",
+            "type": "base"
+        },
+        {
+            "source": "double-dragon-nes",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "WayForward"
+        ],
+        "publisher": [
+            "Arc System Works",
+            "WayForward"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Crossover expansion bringing Double Dragon characters into the River City Girls formula.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Interesting crossover linking the Kunio-kun and Double Dragon legacies directly.",
+        "notes": "Digital DLC expansion for River City Girls 2."
+    },
+    "event": null,
+    "notes": null
+}

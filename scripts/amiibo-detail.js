@@ -1,25 +1,52 @@
-const DATA_PATH = "./data/amiibo.json";
-const GAMES_PATH = "./data/games.json";
+import { loadCatalog, getAmiibo } from "./catalog.js";
+
+const AMIIBO_SOLO_PATH = "./data/";
+const GAMES_SOLO_PATH = "./data/";
 const IMAGE_BASE = "./images";
 
-let allGames = [];
-let allAmiibo = [];
+let gameCache = {};
+let amiiboIndex = null;
 
-function getGame(id) {
-  return allGames.find((g) => g.id === id) ?? null;
+async function loadGame(id) {
+  if (gameCache[id]) return gameCache[id];
+  try {
+    const res = await fetch(`${GAMES_SOLO_PATH}${id}.json`);
+    if (!res.ok) return null;
+    gameCache[id] = await res.json();
+    return gameCache[id];
+  } catch (e) {
+    return null;
+  }
 }
 
-function getGameName(id) {
-  return getGame(id)?.name ?? id;
+async function loadAmiiboIndex() {
+  if (amiiboIndex) return amiiboIndex;
+  const catalog = await loadCatalog();
+  amiiboIndex = { entries: getAmiibo(catalog) };
+  return amiiboIndex;
 }
 
-function getGameCover(id) {
-  return getGame(id)?.cover ?? null;
+async function getGameName(id) {
+  const game = await loadGame(id);
+  return game?.name ?? id;
+}
+
+async function getGameCover(id) {
+  const game = await loadGame(id);
+  return game?.cover ?? null;
 }
 
 // ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
+
+const WISHLIST_LEVEL = {
+  1: { emoji: "🤍", label: "Low" },
+  2: { emoji: "🩷", label: "Medium" },
+  3: { emoji: "💛", label: "High" },
+  4: { emoji: "🧡", label: "Essential" },
+  5: { emoji: "❤️", label: "Non-negotiable" },
+};
 
 function coverUrl(cover) {
   if (!cover) return null;
@@ -148,9 +175,16 @@ function releaseLine(dateStr) {
 // Page builder
 // ---------------------------------------------------------------------------
 
-function buildPage(amiibo) {
+async function buildPage(amiibo) {
   const img = coverUrl(amiibo.cover);
-  const isOwned = amiibo.owned !== false;
+  const isOwned = amiibo.ownership === 'owned';
+  const isWishlist = amiibo.ownership === 'wishlist';
+  const wishlistLevel = isWishlist ? (amiibo.acquisition?.priority ?? 1) : null;
+  const wlInfo = wishlistLevel != null ? WISHLIST_LEVEL[wishlistLevel] : null;
+
+  const ownershipIcon = wlInfo ? wlInfo.emoji : "🏷️";
+  const ownershipTip = wlInfo ? `Wishlist: ${wlInfo.label}` : "Owned";
+  const ownershipClass = isOwned ? "ownership-icon owned-icon" : "ownership-icon wishlist-icon";
 
   const leftCol = el("div", { class: "hero-col" }, [
     amiibo.release
@@ -172,15 +206,12 @@ function buildPage(amiibo) {
 
   const rightCol = el("div", { class: "hero-col" });
 
-  const ownershipIcon = isOwned ? "✓" : "⭐";
-  const ownershipClass = isOwned ? "ownership-icon owned-icon" : "ownership-icon wishlist-icon";
-
   // Title with optional number (italic, not bold)
   const titleChildren = [el("h1", {}, amiibo.name)];
-  if (amiibo.franchise?.number != null) {
-    titleChildren.push(el("span", { class: "amiibo-number" }, `#${amiibo.franchise.number}`));
+  if (amiibo.amiibo?.number != null) {
+    titleChildren.push(el("span", { class: "amiibo-number" }, `#${amiibo.amiibo.number}`));
   }
-  titleChildren.push(el("span", { class: ownershipClass }, ownershipIcon));
+  titleChildren.push(el("span", { class: ownershipClass, title: ownershipTip }, ownershipIcon));
 
   const hero = el("div", { class: "hero" }, [
     img
@@ -192,77 +223,69 @@ function buildPage(amiibo) {
     ]),
   ]);
 
-  // Wave section — other amiibo in the same wave+series
-  const wave = amiibo.franchise?.wave;
-  const series = amiibo.franchise?.series;
-  const wavemates = wave != null && series
-    ? allAmiibo.filter((a) =>
-      a.id !== amiibo.id
-      && a.franchise?.wave === wave
-      && a.franchise?.series === series
-    )
-    : [];
+  // Note: Wave section requires all amiibo entries to be loaded
+  // For now, this is deferred until a full amiibo index is available
 
-  const waveSection = wavemates.length
-    ? section(
-      wave,
-      el("div", { class: "variant-gallery" },
-        wavemates
-          .sort((a, b) => {
-            const na = Number(a.franchise?.number) || 0;
-            const nb = Number(b.franchise?.number) || 0;
-            return na - nb || a.name.localeCompare(b.name);
-          })
-          .map((w) => {
-            const wImg = coverUrl(w.cover);
-            const wOwned = w.owned !== false;
-            const wIcon = wOwned ? "✓" : "⭐";
-            const wIconClass = wOwned ? "variant-icon owned-icon" : "variant-icon wishlist-icon";
-            return el("a", { href: `amiibo-detail.html?id=${encodeURIComponent(w.id)}`, class: "hw-card-link" },
-              el("div", { class: "variant-card" }, [
-                el("span", { class: wIconClass }, wIcon),
-                wImg
-                  ? el("img", { src: wImg, alt: w.name, class: "variant-cover amiibo-cover" })
-                  : null,
-                el("p", { class: "variant-label" }, w.name),
-                w.franchise?.number != null
-                  ? el("p", { class: "variant-event" }, `#${w.franchise.number}`)
-                  : null,
-              ])
-            );
-          })
-      )
-    )
-    : null;
-
-  // Functionality — game column as cover+title card
+  // Functionality — game column as cover+title card  
+  let funcSection = null;
   const funcs = amiibo.functionality ?? [];
-  const funcSection = funcs.length
-    ? section(
-      "Functionality",
-      el("div", { class: "func-list" },
-        funcs.map((f) => {
-          const gameId = f.game;
-          const gameName = getGameName(gameId);
-          const gameCover = getGameCover(gameId);
+  if (funcs.length > 0) {
+    const funcCards = await Promise.all(
+      funcs.map(async (f) => {
+        const gameId = f.game;
+        const gameName = await getGameName(gameId);
+        const gameCover = await getGameCover(gameId);
 
-          const card = el("a", { href: `detail.html?id=${encodeURIComponent(gameId)}`, class: "func-row" }, [
-            gameCover
-              ? el("img", { src: gameCover, alt: gameName, class: "func-game-cover" })
-              : null,
-            el("div", { class: "func-info" }, [
-              el("span", { class: "func-game-name" }, gameName),
-              el("span", { class: "func-desc" }, f.function ?? "—"),
-            ]),
-          ]);
+        return el("a", { href: `detail.html?id=${encodeURIComponent(gameId)}`, class: "func-row" }, [
+          gameCover
+            ? el("img", { src: gameCover, alt: gameName, class: "func-game-cover" })
+            : null,
+          el("div", { class: "func-info" }, [
+            el("span", { class: "func-game-name" }, gameName),
+            el("span", { class: "func-desc" }, f.effect ?? "—"),
+          ]),
+        ]);
+      })
+    );
+    funcSection = section("Functionality", el("div", { class: "func-list" }, funcCards));
+  }
 
-          return card;
-        })
-      )
-    )
-    : null;
+  // Wave section - other amiibo in the same wave
+  let waveSection = null;
+  const wave = amiibo.amiibo?.wave;
+  if (wave) {
+    const amiiboIndexData = await loadAmiiboIndex();
+    if (amiiboIndexData?.entries) {
+      const waveMates = amiiboIndexData.entries.filter((other) =>
+        other.id !== amiibo.id &&
+        other.amiibo?.wave === wave
+      );
+      if (waveMates.length > 0) {
+        waveSection = section(
+          `${wave}`,
+          el("div", { class: "variant-gallery" },
+            waveMates
+              .sort((a, b) => (a.amiibo?.number ?? 999) - (b.amiibo?.number ?? 999))
+              .map((am) => {
+                const img = coverUrl(am.cover);
+                const numStr = am.amiibo?.number ? `#${am.amiibo.number}` : "";
+                return el("a", { href: `amiibo-detail.html?id=${encodeURIComponent(am.id)}`, class: "hw-card-link" },
+                  el("div", { class: "variant-card" }, [
+                    img
+                      ? el("img", { src: img, alt: am.name, class: "variant-cover" })
+                      : null,
+                    el("p", { class: "variant-label" }, am.name),
+                    numStr ? el("p", { class: "variant-event" }, numStr) : null,
+                  ])
+                );
+              })
+          )
+        );
+      }
+    }
+  }
 
-  return [hero, waveSection, funcSection].filter(Boolean);
+  return [hero, funcSection, waveSection].filter(Boolean);
 }
 
 // ---------------------------------------------------------------------------
@@ -281,25 +304,21 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   try {
-    const [amiiboRes, gamesRes] = await Promise.all([
-      fetch(DATA_PATH),
-      fetch(GAMES_PATH),
-    ]);
-    const items = await amiiboRes.json();
-    allAmiibo = items;
-    allGames = await gamesRes.json();
-    const amiibo = items.find((a) => a.id === targetId);
-
-    if (!amiibo) {
+    // Load single amiibo entry instead of entire array
+    const amiiboRes = await fetch(`${AMIIBO_SOLO_PATH}${targetId}.json`);
+    if (!amiiboRes.ok) {
       main.innerHTML = `<p class='error'>Amiibo <code>${targetId}</code> not found.</p>`;
       main.classList.remove("loading");
       return;
     }
 
+    const amiibo = await amiiboRes.json();
+
     document.title = `${amiibo.name} — Amiibo Details`;
     main.innerHTML = "";
     main.classList.remove("loading");
-    buildPage(amiibo).forEach((node) => main.appendChild(node));
+    const pageNodes = await buildPage(amiibo);
+    pageNodes.forEach((node) => main.appendChild(node));
   } catch (err) {
     main.innerHTML = `<p class='error'>Failed to load amiibo data: ${err.message}</p>`;
     main.classList.remove("loading");

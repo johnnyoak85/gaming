@@ -1,0 +1,48 @@
+{
+  "id": "samus-amiibo-metroid",
+  "name": "Samus",
+  "cover": "https://amiibo.life/assets/figures/amiibo/metroid/samus-6cfec0fa378ec5991f84f5910e0042ffc8628d6784f871aa7731df165441b3f1.png",
+  "release": "2021-10-08",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Metroid",
+    "subseries": "Metroid Dread"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Metroid Wave 2: Metroid Dread"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Bomb copy ability and a health item"
+    },
+    {
+      "game": "metroid-prime-blast-ball",
+      "effect": "Unlock an armor paint job based on the character"
+    },
+    {
+      "game": "metroid-samus-returns",
+      "effect": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock the Galactic Bounty Hunter costume"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "metroid-dread",
+      "effect": "Permanently increase health by 100 | Restore a random amount of health once per day"
+    },
+    {
+      "game": "metroid-prime-4-beyond",
+      "effect": "Play musical jingle"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

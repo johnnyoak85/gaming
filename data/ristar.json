@@ -1,0 +1,61 @@
+{
+    "id": "ristar",
+    "name": "Ristar",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p00.webp",
+    "release": "1995-02-16",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "Ristar",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Genesis"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sonic Team"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Highly regarded non-Sonic platformer by Sonic Team.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

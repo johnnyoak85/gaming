@@ -1,0 +1,77 @@
+{
+    "id": "giga-wing",
+    "name": "Giga Wing",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40i0.webp",
+    "release": "1999-02-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Giga Wing",
+        "series": "Giga Wing",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Bullet Hell",
+            "Vertical Shooter"
+        ],
+        "themes": [
+            "Steampunk",
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade",
+            "Bullet Reflection",
+            "Retro",
+            "CPS2"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Takumi Corporation",
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent late-era arcade bullet hell shooter with iconic reflection mechanics.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of Capcom's most acclaimed arcade shooters of the CPS-2 era.",
+        "notes": "Owned through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

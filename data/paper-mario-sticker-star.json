@@ -1,0 +1,84 @@
+{
+    "id": "paper-mario-sticker-star",
+    "name": "Paper Mario: Sticker Star",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tfp.webp",
+    "release": "2012-11-11",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Paper Mario",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Turn-Based RPG",
+            "Puzzle Adventure"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Handheld",
+            "Experimental",
+            "Puzzle Solving"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-paper-mario",
+            "type": "prequel"
+        },
+        {
+            "source": "paper-mario-color-splash",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Intelligent Systems"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Important turning point for modern Paper Mario, even if divisive.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 22
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

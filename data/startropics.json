@@ -1,0 +1,73 @@
+{
+    "id": "startropics",
+    "name": "StarTropics",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sur.webp",
+    "release": "1990-07-20",
+    "type": "game",
+    "franchise": {
+        "universe": "StarTropics",
+        "series": "StarTropics",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Adventure"
+        ],
+        "tags": [
+            "Puzzle Solving",
+            "Exploration",
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Unique NES action-adventure with Zelda-like structure.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,72 @@
+{
+    "id": "tecmo-bowl",
+    "name": "Tecmo Bowl",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7qfn.webp",
+    "release": "1987-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Tecmo Bowl",
+        "series": "Tecmo Bowl",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Sports"
+        ],
+        "subgenres": [
+            "American Football"
+        ],
+        "themes": [
+            "Sports"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Multiplayer"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Tecmo"
+        ],
+        "publisher": [
+            "Tecmo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Classic arcade-style sports game.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

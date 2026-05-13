@@ -1,0 +1,92 @@
+{
+  "id": "pokemon-soulsilver-version",
+  "name": "Pokémon SoulSilver Version",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z59.webp",
+  "release": "2009-09-12",
+  "type": "game",
+  "franchise": {
+    "universe": "Pokémon",
+    "series": "Pokémon",
+    "subseries": null
+  },
+  "classification": {
+    "genres": [
+      "RPG"
+    ],
+    "subgenres": [
+      "Monster Collecting RPG"
+    ],
+    "themes": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "tags": [
+      "Portable",
+      "Turn Based",
+      "Creature Collection"
+    ]
+  },
+  "player_age": 7,
+  "access": [
+    {
+      "platform": "nintendo-ds",
+      "via": null,
+      "format": "physical",
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "versions": [],
+  "relationships": [
+    {
+      "source": "pokemon-firered-version",
+      "type": "prequel"
+    },
+    {
+      "source": "pokemon-alpha-sapphire-version",
+      "type": "sequel"
+    },
+    {
+      "source": "pokemon-crystal-version",
+      "type": "original"
+    },
+    {
+      "source": "pokemon-platinum-version",
+      "type": "twin_engine"
+    }
+  ],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 4
+    },
+    "modes": [
+      "solo",
+      "versus",
+      "online"
+    ]
+  },
+  "companies": {
+    "developer": [
+      "Game Freak"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "progress": "planned",
+  "backlog": {
+    "priority": 5,
+    "reason": "Massive dual-region Pokémon adventure and one of the franchise's most beloved remakes.",
+    "rating": 5,
+    "difficulty": 3,
+    "estimated_hours": 55
+  },
+  "acquisition": {
+    "priority": 5,
+    "reason": "Essential Pokémon DS-era centerpiece with exceptional collector and preservation value.",
+    "notes": "Pokéwalker bundle desirable but not mandatory."
+  },
+  "event": null,
+  "notes": null
+}

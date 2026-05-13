@@ -1,0 +1,74 @@
+{
+    "id": "bowsers-fury",
+    "name": "Bowser's Fury",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pbe.webp",
+    "release": "2021-02-12",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Switch",
+            "Experimental"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-mario-3d-world",
+            "type": "spinoff"
+        },
+        {
+            "source": "super-mario-odyssey",
+            "type": "spiritual_predecessor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Unique open-ended Mario experiment.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Standalone experience, not an expansion."
+}

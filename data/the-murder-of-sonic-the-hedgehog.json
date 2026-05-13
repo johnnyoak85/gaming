@@ -1,0 +1,72 @@
+{
+    "id": "the-murder-of-sonic-the-hedgehog",
+    "name": "The Murder of Sonic the Hedgehog",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bk4.webp",
+    "release": "2023-03-31",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Adventure"
+        ],
+        "subgenres": [
+            "Visual Novel"
+        ],
+        "themes": [
+            "Comedy",
+            "Mystery"
+        ],
+        "tags": [
+            "Short",
+            "Story Heavy"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sega"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Unique Sonic visual novel spin-off.",
+        "rating": 3,
+        "difficulty": 1,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

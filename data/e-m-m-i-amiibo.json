@@ -1,0 +1,32 @@
+{
+  "id": "e-m-m-i-amiibo",
+  "name": "E.M.M.I.",
+  "cover": "https://amiibo.life/assets/figures/amiibo/metroid/e-m-m-i-8d598142bf8ea71d6f4cf17a5c6d0e1718bafb460458262090bcccbb5d89660e.png",
+  "release": "2021-10-08",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Metroid",
+    "subseries": "Metroid Dread"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Metroid Wave 2: Metroid Dread"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Receive a Spirit of the character"
+    },
+    {
+      "game": "metroid-dread",
+      "effect": "Permanently increase missile capacity by 10 | Replenish a random amount of missiles once per day"
+    },
+    {
+      "game": "metroid-prime-4-beyond",
+      "effect": "Play musical jingle"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

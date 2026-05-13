@@ -1,6 +1,7 @@
-const DATA_PATH = "./data/games.json";
-const HARDWARE_PATH = "./data/hardware.json";
-const AMIIBO_PATH = "./data/amiibo.json";
+const GAMES_SOLO_PATH = "./data/";
+const HARDWARE_SOLO_PATH = "./data/";
+const AMIIBO_SOLO_PATH = "./data/";
+const IMAGE_BASE = "./images";
 
 // ---------------------------------------------------------------------------
 // Enum maps
@@ -15,9 +16,13 @@ const MODES = {
   party: "Party",
 };
 
-const OWNERSHIP_FORMAT = {
+const ACCESS_FORMAT = {
   physical: "Physical",
   digital: "Digital",
+  built_in: "Built-in",
+  contained: "Contained",
+  injected: "Injected",
+  reproduction: "Reproduction",
 };
 
 const VERSIONS_FORMAT = {
@@ -28,13 +33,15 @@ const VERSIONS_FORMAT = {
   enhanced_remaster: "Enhanced Remaster",
   remake: "Remake",
   enhanced_remake: "Enhanced Remake",
-  reimagining: "Reimagining",
-  expansion: "Expansion",
   remix: "Remix",
-  enhanced_remix: "Enhanced Remix"
+  enhanced_remix: "Enhanced Remix",
+  regional_variant: "Regional Variant",
+  demake: "Demake",
+  enhanced_version: "Enhanced Version"
 };
 
 const RELATIONSHIP_TYPES = {
+  base: "Base",
   original: "Original",
   prequel: "Prequel",
   sequel: "Sequel",
@@ -42,17 +49,10 @@ const RELATIONSHIP_TYPES = {
   reimagining: "Reimagining",
   spiritual_successor: "Spiritual Successor",
   spiritual_predecessor: "Spiritual Predecessor",
-  contains: "Contains",
-  contained: "Contained In",
-  remix: "Remix",
   expansion: "Expansion",
   twin_engine: "Twin Engine",
-  twin_game: "Twin Game"
-};
-
-const TYPES = {
-  game: "Game",
-  game_collection: "Game Collection",
+  twin_game: "Twin Game",
+  adaptation: "Adaptation"
 };
 
 function enumLabel(map, key) {
@@ -64,21 +64,14 @@ function enumLabel(map, key) {
 // Data helpers
 // ---------------------------------------------------------------------------
 
-let allGames = [];
-let allHardware = [];
-let allAmiibo = [];
-
-function getGameId(game) {
-  return game.id;
-}
-
-function getGameName(id) {
-  const game = allGames.find((g) => getGameId(g) === id);
-  return game?.name ?? id;
-}
+let hwCache = {};
+let gameCache = {};
+let amiiboCache = {};
 
 function getCover(game) {
-  return game.cover ?? null;
+  if (!game.cover) return null;
+  if (game.cover.startsWith("http")) return game.cover;
+  return `${IMAGE_BASE}/${game.cover}.png`;
 }
 
 function getPlayerAge(game) {
@@ -91,20 +84,96 @@ function coverUrl(name) {
   return `./images/${name}.png`;
 }
 
-function findHardwareByPlatform(platform) {
-  if (!platform) return null;
-  return allHardware.find((h) => h.id === platform)
-    ?? allHardware.find((h) => h.name === platform)
-    ?? allHardware.find((h) => platform.endsWith(h.name))
-    ?? null;
+async function loadGame(id) {
+  if (gameCache[id]) return gameCache[id];
+  try {
+    const res = await fetch(`${GAMES_SOLO_PATH}${id}.json`);
+    if (!res.ok) return null;
+    gameCache[id] = await res.json();
+    return gameCache[id];
+  } catch (e) {
+    return null;
+  }
 }
 
-function findFamilyHardware(platform) {
-  const hw = findHardwareByPlatform(platform);
-  if (!hw) return [];
-  // Find hardware entries whose family points to this platform
-  const children = allHardware.filter((h) => h.hardware?.family === hw.id);
-  return children;
+async function loadHardware(id) {
+  if (hwCache[id]) return hwCache[id];
+  try {
+    const res = await fetch(`${HARDWARE_SOLO_PATH}${id}.json`);
+    if (!res.ok) return null;
+    hwCache[id] = await res.json();
+    return hwCache[id];
+  } catch (e) {
+    return null;
+  }
+}
+
+async function loadAmiibo(id) {
+  if (amiiboCache[id]) return amiiboCache[id];
+  try {
+    const res = await fetch(`${AMIIBO_SOLO_PATH}${id}.json`);
+    if (!res.ok) return null;
+    amiiboCache[id] = await res.json();
+    return amiiboCache[id];
+  } catch (e) {
+    return null;
+  }
+}
+
+async function loadEntry(id) {
+  const hw = await loadHardware(id);
+  if (hw) return hw;
+  const game = await loadGame(id);
+  if (game) return game;
+  return null;
+}
+
+function isHardwareWishlisted(hw) {
+  const ownership = hw.ownership ?? [];
+  if (!ownership.length) return false;
+  return ownership.every((o) => o.status === "wishlist");
+}
+
+function entryDetailPage(entry) {
+  if (entry.type === "hardware") return "hardware-detail.html";
+  return "detail.html";
+}
+
+function entryCover(entry) {
+  if (entry.type === "hardware") return coverUrl(entry.cover);
+  return getCover(entry);
+}
+
+let manifestCache = null;
+
+async function findFamilyMembers(hw) {
+  const family = hw.hardware?.primary_family;
+  if (!family) return [hw];
+
+  try {
+    if (!manifestCache) {
+      const res = await fetch("./data/manifest.json");
+      if (!res.ok) return [hw];
+      manifestCache = await res.json();
+    }
+    const hwIds = manifestCache
+      .filter((e) => e.type === "hardware")
+      .map((e) => e.id);
+
+    const members = await Promise.all(
+      hwIds.map(async (id) => {
+        const entry = await loadHardware(id);
+        if (!entry) return null;
+        if (entry.hardware?.primary_family !== family) return null;
+        if (entry.hardware?.category !== "console") return null;
+        return entry;
+      })
+    );
+    const result = members.filter(Boolean);
+    return result.length > 0 ? result : [hw];
+  } catch {
+    return [hw];
+  }
 }
 
 const PRIORITY = {
@@ -113,6 +182,14 @@ const PRIORITY = {
   3: { label: "Medium", color: "priority-medium" },
   2: { label: "Low", color: "priority-low" },
   1: { label: "Backlog", color: "priority-backlog" },
+};
+
+const WISHLIST_LEVEL = {
+  1: { emoji: "🤍", label: "Low" },
+  2: { emoji: "🩷", label: "Medium" },
+  3: { emoji: "💛", label: "High" },
+  4: { emoji: "🧡", label: "Essential" },
+  5: { emoji: "❤️", label: "Non-negotiable" },
 };
 
 function priorityBadge(value) {
@@ -283,11 +360,11 @@ function statusLabel(status) {
 // Page builder
 // ---------------------------------------------------------------------------
 
-function buildPage(game) {
+async function buildPage(game) {
   const cover = getCover(game);
 
   const classif = game.classification;
-  const plan = game.planning;
+  const backlog = game.backlog;
 
   const genreLine = [
     ...(classif?.genres ?? []),
@@ -303,19 +380,23 @@ function buildPage(game) {
     ? ps.modes.map((m) => enumLabel(MODES, m)).join(" · ")
     : null;
 
-  // Ownership status
-  const owns = game.ownership ?? [];
-  const contained = (game.relationships ?? []).filter(entry => entry?.type === 'contained');
-  const isWishlisted = owns.some((o) => o.wishlist);
-  const formats = new Set(owns.filter((o) => !o.wishlist).map((o) => o.format).filter(Boolean));
+  // Access status (replaces ownership)
+  const access = game.access ?? [];
+  const isWishlisted = access.some((a) => a.status === 'wishlist');
+  const formats = new Set(access.filter((a) => a.status !== 'wishlist').map((a) => a.format).filter(Boolean));
   const ownershipClass = isWishlisted ? "ownership-icon wishlist-icon" : "ownership-icon owned-icon";
+
+  const wishlistLevel = isWishlisted ? (game.acquisition?.priority ?? 1) : null;
+  const wlInfo = wishlistLevel != null ? WISHLIST_LEVEL[wishlistLevel] : null;
+
   const iconEntries = [
-    isWishlisted ? { emoji: "🤍", tip: "Wishlisted" } : null,
-    formats.has("physical") ? { emoji: "💿", tip: "Physical" } : null,
+    wlInfo ? { emoji: wlInfo.emoji, tip: `Wishlist: ${wlInfo.label}` } : null,
+    formats.has("physical") ? { emoji: "🏷️", tip: "Physical" } : null,
     formats.has("digital") ? { emoji: "☁️", tip: "Digital" } : null,
-    formats.has("reproduction") ? { emoji: "🃏", tip: "Reproduction cart" } : null,
-    formats.has("injection") ? { emoji: "🧩", tip: "Injected in a Mini console" } : null,
-    contained.length ? { emoji: "📦", tip: "Contained in a collection or bundle" } : null,
+    formats.has("injected") ? { emoji: "🧩", tip: "Injection" } : null,
+    formats.has("reproduction") ? { emoji: "🃏", tip: "Reproduction" } : null,
+    formats.has("contained") ? { emoji: "📦", tip: "Contained" } : null,
+    formats.has("built_in") ? { emoji: "🕹️", tip: "Built In" } : null,
   ].filter(Boolean);
 
   // Franchise line: universe · series · subseries
@@ -345,16 +426,16 @@ function buildPage(game) {
   ]);
 
   const rightCol = el("div", { class: "hero-col" }, [
-    plan?.priority != null || game.progress
+    backlog?.priority != null || game.progress
       ? el("div", { class: "hero-badges" }, [
-        priorityBadge(plan?.priority),
+        priorityBadge(backlog?.priority),
         el("span", { class: "status-badge" }, statusLabel(game.progress)),
       ])
       : null,
-    plan?.reason ? el("p", { class: "hero-detail hero-reason" }, plan.reason) : null,
-    plan?.rating != null ? el("p", { class: "hero-detail" }, `Rating ${stars(plan.rating)}`) : null,
-    plan?.difficulty != null ? el("p", { class: "hero-detail" }, `Difficulty: ${skulls(plan.difficulty)}`) : null,
-    plan?.estimated_hours != null ? el("p", { class: "hero-detail" }, `Time to beat: ~${formatHours(plan.estimated_hours)}`) : null,
+    backlog?.reason ? el("p", { class: "hero-detail hero-reason" }, backlog.reason) : null,
+    backlog?.rating != null ? el("p", { class: "hero-detail" }, `Rating ${stars(backlog.rating)}`) : null,
+    backlog?.difficulty != null ? el("p", { class: "hero-detail" }, `Difficulty: ${skulls(backlog.difficulty)}`) : null,
+    backlog?.estimated_hours != null ? el("p", { class: "hero-detail" }, `Time to beat: ~${formatHours(backlog.estimated_hours)}`) : null,
     ageValue != null ? el("p", { class: "hero-detail" }, `Age ${ageValue}+`) : null,
     playersLine ? el("p", { class: "hero-detail" }, playersLine) : null,
     modesLine ? el("p", { class: "hero-detail" }, modesLine) : null,
@@ -371,157 +452,181 @@ function buildPage(game) {
     ]),
   ]);
 
-  // Platforms — show family members instead of the platform itself when available
-  const seenPlatformIds = new Set();
-  const ownershipCards = [];
-
-  owns.forEach((o) => {
-    const hw = findHardwareByPlatform(o.platform);
-    if (!hw) return;
-
-    const familyMembers = findFamilyHardware(o.platform);
-    const isDigital = o.format === "digital";
-
-    if (familyMembers.length) {
-      // Family members exist — show them instead of the platform itself
-      let toShow = familyMembers;
-      if (isDigital) {
-        const mainMember = familyMembers.find((h) => h.main === true);
-        if (mainMember) toShow = [mainMember];
-      }
-      toShow.forEach((fhw) => {
-        if (seenPlatformIds.has(fhw.id)) return;
-        seenPlatformIds.add(fhw.id);
-
-        const fCover = coverUrl(fhw.cover);
-        const fCard = el("div", { class: "variant-card" }, [
-          fCover ? el("img", { src: fCover, alt: fhw.name, class: "variant-cover" }) : null,
-          el("p", { class: "variant-label" }, fhw.name),
-        ]);
-        ownershipCards.push(el("a", { href: `hardware-detail.html?id=${encodeURIComponent(fhw.id)}`, class: "hw-card-link" }, fCard));
-      });
-    } else {
-      // No family members — show the platform itself
-      if (seenPlatformIds.has(hw.id)) return;
-      seenPlatformIds.add(hw.id);
-
-      const hwCover = coverUrl(hw.cover);
-      const card = el("div", { class: "variant-card" }, [
-        hwCover ? el("img", { src: hwCover, alt: hw.name, class: "variant-cover" }) : null,
-        el("p", { class: "variant-label" }, hw.name),
-      ]);
-      ownershipCards.push(el("a", { href: `hardware-detail.html?id=${encodeURIComponent(hw.id)}`, class: "hw-card-link" }, card));
+  // Access section - show each access entry
+  let accessSection = null;
+  let wishlistAccessSection = null;
+  if (access.length > 0) {
+    // Deduplicate: per console, first occurrence wins
+    const seenPlatforms = new Set();
+    const dedupedAccess = [];
+    for (const a of access) {
+      const key = a.platform ?? "";
+      if (key && seenPlatforms.has(key)) continue;
+      if (key) seenPlatforms.add(key);
+      dedupedAccess.push(a);
     }
-  });
-  const ownershipSection = ownershipCards.length
-    ? section(
-      "Platforms",
-      el("div", { class: "variant-gallery" }, ownershipCards)
-    )
-    : null;
 
-  // Contains (bundles/collections)
+    const ownedCards = [];
+    const wishlistCards = [];
+    const shownHwIds = new Set();
+
+    for (const a of dedupedAccess) {
+      const targetId = a.via ?? a.platform;
+      if (!targetId) continue;
+
+      // Wishlisted access entries go to Wishlist Access
+      if (a.status === "wishlist") {
+        const entry = await loadEntry(targetId);
+        if (!entry) continue;
+        const card = el("div", { class: "variant-card" }, [
+          entryCover(entry) ? el("img", { src: entryCover(entry), alt: entry.name, class: "variant-cover" }) : null,
+          el("p", { class: "variant-label" }, entry.name),
+          el("p", { class: "variant-event" }, enumLabel(ACCESS_FORMAT, a.format)),
+        ]);
+        wishlistCards.push(el("a", { href: `${entryDetailPage(entry)}?id=${encodeURIComponent(targetId)}`, class: "hw-card-link" }, card));
+        continue;
+      }
+
+      const entry = await loadEntry(targetId);
+      if (!entry) continue;
+
+      // If hardware, expand family members
+      if (entry.type === "hardware") {
+        const familyMembers = await findFamilyMembers(entry);
+        for (const member of familyMembers) {
+          if (shownHwIds.has(member.id)) continue;
+          shownHwIds.add(member.id);
+          // Wishlisted hardware goes to Wishlist Access
+          const targetList = isHardwareWishlisted(member) ? wishlistCards : ownedCards;
+          const cover = coverUrl(member.cover);
+          const card = el("div", { class: "variant-card" }, [
+            cover ? el("img", { src: cover, alt: member.name, class: "variant-cover" }) : null,
+            el("p", { class: "variant-label" }, member.name),
+            el("p", { class: "variant-event" }, enumLabel(ACCESS_FORMAT, a.format)),
+          ]);
+          targetList.push(el("a", { href: `hardware-detail.html?id=${encodeURIComponent(member.id)}`, class: "hw-card-link" }, card));
+        }
+      } else {
+        // Non-hardware (collection, bundle, game)
+        const cover = getCover(entry);
+        const card = el("div", { class: "variant-card" }, [
+          cover ? el("img", { src: cover, alt: entry.name, class: "variant-cover" }) : null,
+          el("p", { class: "variant-label" }, entry.name),
+          el("p", { class: "variant-event" }, enumLabel(ACCESS_FORMAT, a.format)),
+        ]);
+        ownedCards.push(el("a", { href: `detail.html?id=${encodeURIComponent(targetId)}`, class: "hw-card-link" }, card));
+      }
+    }
+
+    if (ownedCards.length > 0) {
+      accessSection = section(
+        "Access",
+        el("div", { class: "variant-gallery" }, ownedCards)
+      );
+    }
+    if (wishlistCards.length > 0) {
+      wishlistAccessSection = section(
+        "Wishlist Access",
+        el("div", { class: "variant-gallery" }, wishlistCards)
+      );
+    }
+  }
+
+  // Contains (bundles/collections) - async load
+  let containsSection = null;
   const containsIds = game.contains ?? [];
-  const containsCards = containsIds.map((id) => {
-    const contained = allGames.find((g) => getGameId(g) === id);
-    const cName = contained?.name ?? id;
-    const cCover = contained?.cover ?? null;
+  if (containsIds.length > 0) {
+    const containsCards = await Promise.all(
+      containsIds.map(async (id) => {
+        const contained = await loadGame(id);
+        const cName = contained?.name ?? id.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+        const cCover = contained ? getCover(contained) : null;
 
-    const card = el("div", { class: "variant-card" }, [
-      cCover
-        ? el("img", { src: cCover, alt: cName, class: "variant-cover" })
-        : null,
-      el("p", { class: "variant-label" }, cName),
-    ]);
+        const card = el("div", { class: "variant-card" }, [
+          cCover
+            ? el("img", { src: cCover, alt: cName, class: "variant-cover" })
+            : null,
+          el("p", { class: "variant-label" }, cName),
+        ]);
 
-    return el("a", { href: `detail.html?id=${encodeURIComponent(id)}`, class: "hw-card-link" }, card);
-  });
-  const containsSection = containsCards.length
-    ? section(
-      "Contains",
-      el("div", { class: "variant-gallery" }, containsCards)
-    )
-    : null;
+        if (contained) {
+          return el("a", { href: `detail.html?id=${encodeURIComponent(id)}`, class: "hw-card-link" }, card);
+        }
+        return card;
+      })
+    );
+    if (containsCards.length > 0) {
+      containsSection = section(
+        "Contains",
+        el("div", { class: "variant-gallery" }, containsCards.filter(Boolean))
+      );
+    }
+  }
 
   // Versions (was Availability)
-  const gameId = getGameId(game);
+  let versionsSection = null;
+  const gameId = game.id;
   const avail = (game.versions ?? []).filter((a) => a.source !== gameId);
-  const versionCards = avail.map((a) => {
-    const sourceId = a.source;
-    const sourceGame = allGames.find((g) => getGameId(g) === sourceId);
-    const sourceName = sourceGame?.name ?? sourceId;
-    const sourceCover = sourceGame?.cover ?? null;
+  if (avail.length > 0) {
+    const versionCards = await Promise.all(
+      avail.map(async (a) => {
+        const sourceId = a.source;
+        const sourceGame = await loadGame(sourceId);
+        const sourceName = sourceGame?.name ?? sourceId;
+        const sourceCover = sourceGame?.cover ?? null;
 
-    const card = el("div", { class: "variant-card" }, [
-      sourceCover
-        ? el("img", { src: sourceCover, alt: sourceName, class: "variant-cover" })
-        : null,
-      el("p", { class: "variant-label" }, sourceName),
-      el("p", { class: "variant-event" }, enumLabel(VERSIONS_FORMAT, a.format)),
-    ]);
+        const card = el("div", { class: "variant-card" }, [
+          sourceCover
+            ? el("img", { src: sourceCover, alt: sourceName, class: "variant-cover" })
+            : null,
+          el("p", { class: "variant-label" }, sourceName),
+          // TODO: Remove format from versions
+          el("p", { class: "variant-event" }, enumLabel(VERSIONS_FORMAT, a.format || a.type)),
+        ]);
 
-    return el("a", { href: `detail.html?id=${encodeURIComponent(sourceId)}`, class: "hw-card-link" }, card);
-  });
-  const versionsSection = versionCards.length
-    ? section(
+        return el("a", { href: `detail.html?id=${encodeURIComponent(sourceId)}`, class: "hw-card-link" }, card);
+      })
+    );
+    versionsSection = section(
       "Versions",
-      el("div", { class: "variant-gallery" }, versionCards)
-    )
-    : null;
+      el("div", { class: "variant-gallery" }, versionCards.filter(Boolean))
+    );
+  }
 
   // Relationships
+  let relationshipsSection = null;
   const rels = game.relationships ?? [];
-  const relationshipCards = rels.map((r) => {
-    const sourceId = r.source;
-    const sourceGame = allGames.find((g) => getGameId(g) === sourceId);
-    const sourceName = sourceGame?.name ?? sourceId;
-    const sourceCover = sourceGame?.cover ?? null;
+  if (rels.length > 0) {
+    const relationshipCards = await Promise.all(
+      rels.map(async (r) => {
+        const sourceId = r.source;
+        const sourceGame = await loadGame(sourceId);
+        const sourceName = sourceGame?.name ?? sourceId;
+        const sourceCover = sourceGame?.cover ?? null;
 
-    const card = el("div", { class: "variant-card" }, [
-      sourceCover
-        ? el("img", { src: sourceCover, alt: sourceName, class: "variant-cover" })
-        : null,
-      el("p", { class: "variant-label" }, sourceName),
-      el("p", { class: "variant-event" }, enumLabel(RELATIONSHIP_TYPES, r.type)),
-    ]);
+        const card = el("div", { class: "variant-card" }, [
+          sourceCover
+            ? el("img", { src: sourceCover, alt: sourceName, class: "variant-cover" })
+            : null,
+          el("p", { class: "variant-label" }, sourceName),
+          el("p", { class: "variant-event" }, enumLabel(RELATIONSHIP_TYPES, r.type)),
+        ]);
 
-    return el("a", { href: `detail.html?id=${encodeURIComponent(sourceId)}`, class: "hw-card-link" }, card);
-  });
-  const relationshipsSection = relationshipCards.length
-    ? section(
+        return el("a", { href: `detail.html?id=${encodeURIComponent(sourceId)}`, class: "hw-card-link" }, card);
+      })
+    );
+    relationshipsSection = section(
       "Relationships",
-      el("div", { class: "variant-gallery" }, relationshipCards)
-    )
-    : null;
+      el("div", { class: "variant-gallery" }, relationshipCards.filter(Boolean))
+    );
+  }
 
   const tagsSection = classif?.tags?.length
     ? section("Tags", chips(classif.tags))
     : null;
 
-  // Compatible Amiibo
-  const compatibleAmiibo = allAmiibo.filter((a) =>
-    (a.functionality ?? []).some((f) => f.game === game.id)
-  );
-  const amiiboSection = compatibleAmiibo.length
-    ? section(
-      "Compatible Amiibo",
-      el("div", { class: "variant-gallery" },
-        compatibleAmiibo
-          .sort((a, b) => a.name.localeCompare(b.name))
-          .map((a) => {
-            const img = coverUrl(a.cover);
-            const func = (a.functionality ?? []).find((f) => f.game === game.id);
-            return el("a", { href: `amiibo-detail.html?id=${encodeURIComponent(a.id)}`, class: "hw-card-link" },
-              el("div", { class: "variant-card" }, [
-                img ? el("img", { src: img, alt: a.name, class: "variant-cover" }) : null,
-                el("p", { class: "variant-label" }, a.name),
-                func?.function ? el("p", { class: "variant-sublabel" }, func.function) : null,
-              ])
-            );
-          })
-      )
-    )
-    : null;
+  // Compatible Amiibo - lazy load as needed
+  const amiiboSection = null; // TODO: implement async amiibo loading
 
   // Details section (event + notes)
   const detailsSection = (game.event || game.notes)
@@ -534,7 +639,8 @@ function buildPage(game) {
 
   return [
     hero,
-    ownershipSection,
+    accessSection,
+    wishlistAccessSection,
     containsSection,
     versionsSection,
     relationshipsSection,
@@ -560,27 +666,21 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   try {
-    const [gamesRes, hwRes, amiiboRes] = await Promise.all([
-      fetch(DATA_PATH),
-      fetch(HARDWARE_PATH),
-      fetch(AMIIBO_PATH),
-    ]);
-    const games = await gamesRes.json();
-    allGames = games;
-    allHardware = (await hwRes.json()).flat();
-    allAmiibo = await amiiboRes.json();
-    const game = games.find((g) => getGameId(g) === targetId);
-
-    if (!game) {
+    // Load single game entry instead of entire array
+    const gameRes = await fetch(`${GAMES_SOLO_PATH}${targetId}.json`);
+    if (!gameRes.ok) {
       main.innerHTML = `<p class='error'>Game <code>${targetId}</code> not found.</p>`;
       main.classList.remove("loading");
       return;
     }
 
+    const game = await gameRes.json();
+
     document.title = `${game.name} — Game Details`;
     main.innerHTML = "";
     main.classList.remove("loading");
-    buildPage(game).forEach((node) => main.appendChild(node));
+    const pageNodes = await buildPage(game);
+    pageNodes.forEach((node) => main.appendChild(node));
   } catch (err) {
     main.innerHTML = `<p class='error'>Failed to load game data: ${err.message}</p>`;
     main.classList.remove("loading");

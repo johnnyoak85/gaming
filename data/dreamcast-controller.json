@@ -1,0 +1,46 @@
+{
+  "id": "dreamcast-controller",
+  "name": "Dreamcast Controller",
+  "cover": "dreamcast-controller",
+  "release": "1999-10-14",
+  "type": "hardware",
+  "franchise": {
+    "series": "Dreamcast",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 6,
+    "era": null,
+    "compatible_with": [
+      "dreamcast"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

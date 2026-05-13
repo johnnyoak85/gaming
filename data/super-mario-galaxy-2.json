@@ -1,0 +1,89 @@
+{
+    "id": "super-mario-galaxy-2",
+    "name": "Super Mario Galaxy 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tl.webp",
+    "release": "2010-05-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario Galaxy"
+    },
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Wii",
+            "Essential",
+            "Collectathon"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-galaxy-2-switch",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-galaxy",
+            "type": "prequel"
+        },
+        {
+            "source": "super-mario-odyssey",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD Tokyo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Essential sequel to Super Mario Galaxy.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Second player can assist in a limited co-op role."
+}

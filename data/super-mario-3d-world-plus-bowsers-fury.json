@@ -1,0 +1,76 @@
+{
+    "id": "super-mario-3d-world-plus-bowsers-fury",
+    "name": "Super Mario 3D World + Bowser's Fury",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb2d.webp",
+    "release": "2021-02-12",
+    "type": "bundle",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario 3D"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Switch",
+            "Bundle"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Super Mario Bros. 35th Anniversary",
+    "notes": null,
+    "contains": [
+        "super-mario-3d-world-switch",
+        "bowsers-fury"
+    ]
+}

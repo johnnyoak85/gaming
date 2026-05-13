@@ -1,0 +1,56 @@
+{
+  "id": "donkey-kong-pauline-amiibo",
+  "name": "Donkey Kong & Pauline",
+  "cover": "https://amiibo.life/assets/figures/amiibo/donkey-kong/donkey-kong-pauline-5a8fc74e56946aefa8b6627cdcaf79668fb06ad3b2615711a3a2368ef59dba0c.png",
+  "release": "2025-07-17",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Donkey Kong",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": null
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Fighter copy ability and a health item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Receive a Fire Flower"
+    },
+    {
+      "game": "donkey-kong-bananza",
+      "effect": "Unlock Pauline's Diva Dress early | Spawn explosive golden KONG tiles"
+    },
+    {
+      "game": "super-mario-bros-wonder-switch-2",
+      "effect": "Receive a Super Flower Pot"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a coin"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

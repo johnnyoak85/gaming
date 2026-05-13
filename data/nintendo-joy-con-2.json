@@ -1,0 +1,46 @@
+{
+  "id": "nintendo-joy-con-2",
+  "name": "Joy-Con 2",
+  "cover": "joy-con-2",
+  "release": "2025-06-05",
+  "type": "hardware",
+  "franchise": {
+    "series": "Switch 2",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 9,
+    "era": null,
+    "compatible_with": [
+      "nintendo-switch-2"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

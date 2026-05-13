@@ -1,0 +1,89 @@
+{
+    "id": "super-mario-galaxy",
+    "name": "Super Mario Galaxy",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ro.webp",
+    "release": "2007-11-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario Galaxy"
+    },
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Wii",
+            "Essential",
+            "Collectathon"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-galaxy-switch",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-sunshine",
+            "type": "prequel"
+        },
+        {
+            "source": "super-mario-galaxy-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD Tokyo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Essential Wii 3D Mario entry.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Second player can assist by collecting Star Bits and interacting with enemies/objects."
+}

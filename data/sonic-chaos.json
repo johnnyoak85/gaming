@@ -1,0 +1,73 @@
+{
+    "id": "sonic-chaos",
+    "name": "Sonic the Hedgehog Chaos",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaci2.webp",
+    "aliases": [
+        "Sonic & Tails"
+    ],
+    "release": "1993-11-19",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": "Sonic & Tails"
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-2-8bit",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-triple-trouble",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Aspect"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Solid 8-bit Sonic entry.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

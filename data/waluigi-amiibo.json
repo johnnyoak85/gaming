@@ -1,0 +1,48 @@
+{
+  "id": "waluigi-amiibo",
+  "name": "Waluigi",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/waluigi-46903949ba2d1a7c494650be6e8a96cd5265c97ffad6a41482988cf059940f07.png",
+  "release": "2016-10-20",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Mario",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Super Mario Wave 3"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Receive a Spirit of the character"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "super-mario-odyssey",
+      "effect": "Receive a character-based costume"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

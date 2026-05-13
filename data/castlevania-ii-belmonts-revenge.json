@@ -1,0 +1,91 @@
+{
+    "id": "castlevania-ii-belmonts-revenge",
+    "name": "Castlevania II: Belmont's Revenge",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9a8.webp",
+    "release": "1991-07-12",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Dracula Legend",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Handheld"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "reproduction",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania-the-adventure",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "completed",
+    "backlog": {
+        "priority": 3,
+        "reason": "Improved sequel to The Adventure.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "One of the best classic Castlevania handheld entries; meaningful evolution",
+        "notes": "Own reproduction cart; Contained in Castlevania Anniversary Collection"
+    },
+    "event": null,
+    "notes": null
+}

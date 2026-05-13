@@ -1,0 +1,77 @@
+{
+    "id": "links-crossbow-training",
+    "name": "Link's Crossbow Training",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ocw.webp",
+    "release": "2007-11-19",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Light Gun Shooter"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Short",
+            "Spinoff"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-twilight-princess",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Short Twilight Princess shooting spinoff.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "nintendo-gamecube",
+  "name": "GameCube",
+  "cover": "gamecube",
+  "release": "2003-05-03",
+  "type": "hardware",
+  "franchise": {
+    "series": "GameCube",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "home",
+    "primary_family": "nintendo-gamecube",
+    "compatible_families": [],
+    "generation": 6,
+    "era": "128-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Platinum",
+      "cover": "gamecube",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Platinum",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

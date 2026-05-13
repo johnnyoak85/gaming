@@ -1,0 +1,76 @@
+{
+    "id": "final-fantasy-iv-pixel-remaster",
+    "name": "Final Fantasy IV",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6plc.webp",
+    "release": "2021-09-08",
+    "type": "game",
+    "franchise": {
+        "universe": "Final Fantasy",
+        "series": "Final Fantasy",
+        "subseries": "Pixel Remaster"
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Remaster"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "final-fantasy-iv",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Square Enix"
+        ],
+        "publisher": [
+            "Square Enix"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Modern definitive 2D version of FFIV.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 22
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

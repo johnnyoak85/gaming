@@ -1,0 +1,65 @@
+{
+    "id": "sonic-spinball-8bit",
+    "name": "Sonic Spinball",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yj3.webp",
+    "release": "1994-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Spinball",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Pinball"
+        ],
+        "themes": [],
+        "tags": [
+            "Spin-off"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "sonic-spinball",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Aspect"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Portable version of Sonic Spinball.",
+        "rating": 2,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

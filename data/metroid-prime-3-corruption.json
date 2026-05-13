@@ -1,0 +1,80 @@
+{
+    "id": "metroid-prime-3-corruption",
+    "name": "Metroid Prime 3: Corruption",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaun.webp",
+    "release": "2007-08-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Metroid",
+        "series": "Metroid",
+        "subseries": "Metroid Prime"
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "First-Person Adventure"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Story Driven"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "metroid-prime-2-echoes",
+            "type": "prequel"
+        },
+        {
+            "source": "metroid-prime-4-beyond",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Retro Studios"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Conclusion of the original Prime trilogy.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Completes Prime trilogy, major first-party title",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

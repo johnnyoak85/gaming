@@ -1,0 +1,54 @@
+{
+  "id": "nintendo-game-boy-player-controller",
+  "name": "Game Boy Player Controller",
+  "cover": "game-boy-controller",
+  "release": "2003-09-14",
+  "type": "hardware",
+  "franchise": {
+    "series": "GameCube",
+    "subseries": "Game Boy Advance"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 6,
+    "era": null,
+    "compatible_with": [
+      "nintendo-gamecube",
+      "nintendo-wii"
+    ]
+  },
+  "variants": [
+    {
+      "name": "Indigo",
+      "cover": "game-boy-controller",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Indigo",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

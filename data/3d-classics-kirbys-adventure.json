@@ -1,0 +1,91 @@
+{
+    "id": "3d-classics-kirbys-adventure",
+    "name": "3D Classics Kirby's Adventure",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qya.webp",
+    "release": "2011-11-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Enhanced",
+            "3D Effect",
+            "Retro"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirbys-adventure",
+            "format": "base"
+        },
+        {
+            "source": "kirby-nightmare-in-dream-land",
+            "format": "remake"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "kirbys-dream-land",
+            "type": "prequel"
+        },
+        {
+            "source": "kirby-super-star",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory",
+            "Arika"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Alternate way to experience Kirby’s Adventure with stereoscopic effect.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

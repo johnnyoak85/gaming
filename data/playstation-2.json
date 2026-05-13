@@ -1,0 +1,46 @@
+{
+  "id": "playstation-2",
+  "name": "PlayStation 2",
+  "cover": "ps2",
+  "release": "2000-11-24",
+  "type": "hardware",
+  "franchise": {
+    "series": "PlayStation",
+    "subseries": "PlayStation 2"
+  },
+  "companies": {
+    "manufacturer": [
+      "Sony"
+    ],
+    "publisher": [
+      "Sony"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "home",
+    "primary_family": "playstation-2",
+    "compatible_families": [
+      "playstation"
+    ],
+    "generation": 6,
+    "era": "128-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 5,
+    "reason": "Strongest Sony platform; unlocks full PS2 library",
+    "notes": "Used to own; already have games"
+  },
+  "contains": [],
+  "event": null,
+  "notes": "Used to own"
+}

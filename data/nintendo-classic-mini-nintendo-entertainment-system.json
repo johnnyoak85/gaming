@@ -1,0 +1,44 @@
+{
+  "id": "nintendo-classic-mini-nintendo-entertainment-system",
+  "name": "Nintendo Classic Mini: Nintendo Entertainment System",
+  "cover": "nes-classic",
+  "release": "2016-11-11",
+  "type": "hardware",
+  "franchise": {
+    "series": "Classic Mini",
+    "subseries": "Nintendo Entertainment System"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "nintendo-classic-mini-nintendo-entertainment-system",
+    "compatible_families": [],
+    "generation": 3,
+    "era": "8-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

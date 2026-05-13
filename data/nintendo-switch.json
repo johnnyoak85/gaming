@@ -1,0 +1,44 @@
+{
+  "id": "nintendo-switch",
+  "name": "Switch",
+  "cover": "switch",
+  "release": "2017-03-03",
+  "type": "hardware",
+  "franchise": {
+    "series": "Switch",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "hybrid",
+    "primary_family": "nintendo-switch",
+    "compatible_families": [],
+    "generation": 8,
+    "era": "1080p",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

@@ -1,0 +1,84 @@
+{
+    "id": "pokemon-black-version",
+    "name": "Pokémon Black Version",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z1x.webp",
+    "release": "2010-09-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Pokémon",
+        "series": "Pokémon",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Monster Collecting RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Portable",
+            "Turn Based",
+            "Creature Collection"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "pokemon-platinum-version",
+            "type": "prequel"
+        },
+        {
+            "source": "pokemon-black-version-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Game Freak"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Strong soft-reboot Pokémon entry with a full new Pokédex and story focus.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 35
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Primarily valuable as contextual setup for Black Version 2 rather than as a collector centerpiece.",
+        "notes": "Lower priority due to overlap with Black Version 2."
+    },
+    "event": null,
+    "notes": null
+}

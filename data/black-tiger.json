@@ -1,0 +1,83 @@
+{
+    "id": "black-tiger",
+    "name": "Black Tiger",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22yb.webp",
+    "aliases": [
+        "Black Dragon"
+    ],
+    "release": "1987-08-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Black Tiger",
+        "series": "Black Tiger",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform",
+            "RPG"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Fantasy",
+            "Capcom"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "hissatsu-buraiken",
+            "format": "regional_variant"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Influential fantasy action-platformer with RPG progression elements.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important precursor to later fantasy action arcade games.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

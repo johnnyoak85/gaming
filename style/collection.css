@@ -1,0 +1,192 @@
+/* ===================== */
+/* Variables             */
+/* ===================== */
+:root {
+  --primary: #7c2d9b;
+  --primary-light: #a855f7;
+  --secondary: #e0b0ff;
+  --bg: #121212;
+  --surface: #1a0833;
+  --surface-alt: #2a1248;
+  --text: #f0e6f6;
+  --text-muted: #b897cc;
+  --border: #3d1a5c;
+  --radius: 8px;
+}
+
+/* ===================== */
+/* Base                  */
+/* ===================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+#collection {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+  text-align: center;
+}
+
+.loader {
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  padding: 4rem 0;
+}
+
+/* ===================== */
+/* Controls              */
+/* ===================== */
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.controls button,
+.controls select {
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  font-family: inherit;
+  border: none;
+  border-radius: var(--radius);
+  background-color: var(--primary);
+  color: var(--text);
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.controls button:hover,
+.controls select:hover {
+  background-color: var(--primary-light);
+}
+
+.search-input {
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  font-family: inherit;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background-color: var(--surface);
+  color: var(--text);
+  min-width: 200px;
+  transition: border-color 0.2s ease;
+}
+
+.search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.search-input:focus {
+  border-color: var(--primary-light);
+  outline: none;
+}
+
+/* ===================== */
+/* Filters               */
+/* ===================== */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.filter-select {
+  padding: 6px 10px;
+  font-size: 0.8rem;
+  font-family: inherit;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background-color: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color 0.2s ease;
+  min-width: 100px;
+}
+
+.filter-select:hover,
+.filter-select:focus {
+  border-color: var(--primary-light);
+  outline: none;
+}
+
+/* ===================== */
+/* Card Grid             */
+/* ===================== */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+  justify-items: center;
+  opacity: 0;
+  transform: scale(0.95);
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+}
+
+.card-grid.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* ===================== */
+/* Cards                 */
+/* ===================== */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 12px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(124, 45, 155, 0.3);
+}
+
+.card-cover {
+  width: 100%;
+  max-height: 240px;
+  object-fit: contain;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.card-name {
+  font-size: 0.85rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.3;
+}
+
+/* ===================== */
+/* Empty state           */
+/* ===================== */
+.empty-state {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  padding: 3rem 0;
+}

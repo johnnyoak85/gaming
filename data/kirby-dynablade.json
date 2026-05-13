@@ -1,0 +1,76 @@
+{
+    "id": "kirby-dynablade",
+    "name": "Dyna Blade",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7t1t.webp",
+    "release": "1996-03-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Super Star"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Boss Battles"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": "kirby-super-star",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirby-dynablade-ds",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Classic standalone Kirby campaign with boss focus.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

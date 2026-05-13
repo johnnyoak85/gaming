@@ -1,0 +1,68 @@
+{
+  "id": "zelda-amiibo-super-smash-bros",
+  "name": "Zelda",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/zelda-9edfb9a03c999c345f9e6e78763160d6e75299b1896abbe9ae6de4ea5de28fe6.png",
+  "release": "2014-12-06",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "The Legend of Zelda"
+  },
+  "amiibo": {
+    "number": "13",
+    "wave": "Super Smash Bros. Wave 2"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "hyrule-warriors",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of hearts"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Mirror copy ability and a health item"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive Twilight Bow | Receive rare materials"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "the-legend-of-zelda-links-awakening-switch",
+      "effect": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Drops stat-increasing and Hylian materials and jewels or a weapon for Zelda"
+    },
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Princess of Twilight Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock the Blue Attire outfit | Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

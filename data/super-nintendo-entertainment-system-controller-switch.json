@@ -1,0 +1,47 @@
+{
+  "id": "super-nintendo-entertainment-system-controller-switch",
+  "name": "Super Nintendo Entertainment System Controller",
+  "cover": "snes-controller",
+  "release": "2020-03-03",
+  "type": "hardware",
+  "franchise": {
+    "series": "Switch",
+    "subseries": "Super Nintendo Entertainment System"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 4,
+    "era": null,
+    "compatible_with": [
+      "nintendo-switch",
+      "nintendo-switch-2"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

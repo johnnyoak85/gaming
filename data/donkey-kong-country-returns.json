@@ -1,0 +1,79 @@
+{
+    "id": "donkey-kong-country-returns",
+    "name": "Donkey Kong Country Returns",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wf4.webp",
+    "release": "2010-11-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Donkey Kong",
+        "subseries": "Donkey Kong Country"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Adventure"
+        ],
+        "tags": [
+            "Retro Revival",
+            "Precision Platforming",
+            "Jungle"
+        ]
+    },
+    "player_age": 7,
+    "access": [],
+    "versions": [
+        {
+            "source": "donkey-kong-country-returns-3d",
+            "format": "enhanced_port"
+        },
+        {
+            "source": "donkey-kong-country-returns-hd",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "donkey-kong-country-tropical-freeze",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Retro Studios"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent revival of the Donkey Kong Country formula with strong level design and challenge.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Major Wii-era Nintendo release and important Donkey Kong revival title.",
+        "notes": "Own 3DS and Switch versions."
+    },
+    "event": null,
+    "notes": null
+}

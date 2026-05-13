@@ -1,0 +1,87 @@
+{
+    "id": "super-mario-bros-snes",
+    "name": "Super Mario Bros.",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k7b.webp",
+    "release": "1993-07-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario All-Stars"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "SNES",
+            "Remake"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "super-mario-bros",
+            "format": "base"
+        },
+        {
+            "source": "super-mario-bros-deluxe",
+            "format": "enhanced_port"
+        },
+        {
+            "source": "classic-nes-series-super-mario-bros",
+            "format": "port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-bros-the-lost-levels-snes",
+            "type": "sequel"
+        },
+        {
+            "source": "super-mario-bros-2-snes",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "SNES remake of Super Mario Bros.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Contained in Super Mario All-Stars: 25th Anniversary Edition."
+}

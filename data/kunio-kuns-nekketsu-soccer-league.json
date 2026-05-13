@@ -1,0 +1,82 @@
+{
+    "id": "kunio-kuns-nekketsu-soccer-league",
+    "name": "Kunio-kun's Nekketsu Soccer League",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xuv.webp",
+    "release": "1993-04-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Kunio-kun Soccer",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "subgenres": [
+            "Arcade Soccer"
+        ],
+        "themes": [
+            "Comedy",
+            "School"
+        ],
+        "tags": [
+            "Retro",
+            "Multiplayer",
+            "Soccer",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "nekketsu-high-school-dodgeball-club-soccer-story",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Technōs Japan"
+        ],
+        "publisher": [
+            "Technōs Japan"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded and refined follow-up to the original Kunio-kun soccer formula.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the strongest sports-focused Kunio-kun entries.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": null
+}

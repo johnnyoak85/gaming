@@ -1,0 +1,80 @@
+{
+    "id": "street-fighter-anniversary-collection",
+    "name": "Street Fighter Anniversary Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ber.webp",
+    "release": "2004-10-28",
+    "type": "collection",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Street Fighter",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Fighting"
+        ],
+        "subgenres": [
+            "Retro Collection",
+            "2D Fighting"
+        ],
+        "themes": [
+            "Martial Arts"
+        ],
+        "tags": [
+            "Xbox",
+            "Arcade",
+            "Competitive",
+            "Preservation"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "xbox",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "street-fighter-iii-3rd-strike",
+        "hyper-street-fighter-ii-the-anniversary-edition"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent preservation-era Street Fighter collection centered around two of the franchise's most important competitive entries.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically important Street Fighter compilation and major sixth-generation fighting game release.",
+        "notes": "Owned physically on Xbox."
+    },
+    "event": "Street Fighter 15th Anniversary",
+    "notes": null
+}

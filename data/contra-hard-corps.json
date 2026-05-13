@@ -1,0 +1,95 @@
+{
+    "id": "contra-hard-corps",
+    "name": "Contra: Hard Corps",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n11.webp",
+    "release": "1994-09-15",
+    "type": "game",
+    "franchise": {
+        "universe": "Contra",
+        "series": "Contra",
+        "subseries": "Hard Corps"
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "Hard",
+            "Branching Paths"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "contra-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "probotector",
+            "type": "regional_variant"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-c",
+            "type": "prequel"
+        },
+        {
+            "source": "hard-corps-uprising",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Fan-favorite Contra with branching story routes.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

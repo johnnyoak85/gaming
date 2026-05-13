@@ -1,0 +1,76 @@
+{
+    "id": "demons-crest",
+    "name": "Demon's Crest",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69t5.webp",
+    "release": "1994-10-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Ghosts 'n Goblins",
+        "series": "Gargoyle's Quest",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer",
+            "Metroidvania"
+        ],
+        "themes": [
+            "Dark Fantasy",
+            "Demons"
+        ],
+        "tags": [
+            "SNES",
+            "Capcom",
+            "Retro",
+            "Atmospheric"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Atmospheric and mechanically rich Capcom action-platformer with cult-classic status.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of Capcom's most respected SNES-era action games.",
+        "notes": "Injected on SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

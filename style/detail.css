@@ -299,6 +299,68 @@ body {
 }
 
 /* ===================== */
+/* Card Links            */
+/* ===================== */
+.hw-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+/* ===================== */
+/* Variant Gallery       */
+/* ===================== */
+.variant-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 16px;
+  justify-items: center;
+}
+
+.variant-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 12px 14px;
+  background: var(--surface-alt);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  transition: transform 0.2s;
+  width: 100%;
+  position: relative;
+  min-height: 200px;
+}
+
+.variant-card:hover {
+  transform: scale(1.05);
+}
+
+.variant-cover {
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+.variant-label {
+  font-size: 0.82rem;
+  color: var(--secondary);
+  font-weight: 400;
+  text-align: center;
+}
+
+.variant-event {
+  font-size: 0.72rem;
+  color: var(--primary-light);
+  font-style: italic;
+  text-align: center;
+  margin-top: auto;
+  padding-top: 4px;
+}
+
+/* ===================== */
 /* Responsive            */
 /* ===================== */
 @media (max-width: 600px) {
@@ -346,6 +408,15 @@ body {
 
   #detail {
     padding: 16px 12px 48px;
+  }
+
+  .variant-gallery {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+  }
+
+  .variant-cover {
+    max-width: 90px;
   }
 }
 

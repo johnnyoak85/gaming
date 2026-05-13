@@ -1,0 +1,48 @@
+{
+  "id": "bokoblin-amiibo",
+  "name": "Bokoblin",
+  "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/bokoblin-0c84e070fbdbb18ccbd209d0a44558286b7bf145bc0039073ff43cdaf3ba1eb0.png",
+  "release": "2017-03-03",
+  "type": "amiibo",
+  "franchise": {
+    "series": "The Legend of Zelda",
+    "subseries": "The Legend of Zelda: Breath of the Wild"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "The Legend of Zelda Wave 3: Breath of the Wild"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Bokoblin Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Receive a Spirit of the character"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive materials and a rare or exclusive item"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a Legend of Zelda-themed Mii racing suit"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

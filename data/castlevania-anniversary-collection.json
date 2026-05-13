@@ -1,0 +1,78 @@
+{
+    "id": "castlevania-anniversary-collection",
+    "name": "Castlevania Anniversary Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8kz.webp",
+    "release": "2019-05-16",
+    "type": "collection",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": null,
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Collection"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Primary access point for classic Castlevania titles.",
+        "rating": 5,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Konami's 50th Anniversary",
+    "notes": null,
+    "contains": [
+        "castlevania",
+        "castlevania-ii-simons-quest",
+        "akumajou-densetsu",
+        "castlevania-iii-draculas-curse",
+        "super-castlevania-iv",
+        "castlevania-the-adventure",
+        "castlevania-ii-belmonts-revenge",
+        "castlevania-bloodlines",
+        "kid-dracula"
+    ]
+}

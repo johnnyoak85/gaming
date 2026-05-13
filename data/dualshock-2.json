@@ -1,0 +1,46 @@
+{
+  "id": "dualshock-2",
+  "name": "DualShock 2",
+  "cover": "dualshock2",
+  "release": "2000-11-24",
+  "type": "hardware",
+  "franchise": {
+    "series": "PlayStation",
+    "subseries": "PlayStation 2"
+  },
+  "companies": {
+    "manufacturer": [
+      "Sony"
+    ],
+    "publisher": [
+      "Sony"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 6,
+    "era": null,
+    "compatible_with": [
+      "playstation-2"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 5,
+    "reason": "Strongest Sony platform; unlocks full PS2 library",
+    "notes": "Used to own; already have games"
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

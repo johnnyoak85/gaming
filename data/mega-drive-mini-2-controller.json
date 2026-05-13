@@ -1,0 +1,47 @@
+{
+  "id": "mega-drive-mini-2-controller",
+  "name": "Mega Drive Mini 2",
+  "cover": "mega-drive-mini-2-controller",
+  "release": "2022-10-27",
+  "type": "hardware",
+  "franchise": {
+    "series": "Mega Drive",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 4,
+    "era": null,
+    "compatible_with": [
+      "mega-drive-mini",
+      "mega-drive-mini-2"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Expands MD coverage significantly beyond first mini",
+    "notes": "Own Mega Drive Mini"
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

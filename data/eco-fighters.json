@@ -1,0 +1,78 @@
+{
+    "id": "eco-fighters",
+    "name": "Eco Fighters",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4pzy.webp",
+    "aliases": [
+        "Ultimate Ecology"
+    ],
+    "release": "1994-03-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Eco Fighters",
+        "series": "Eco Fighters",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Horizontal Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Environmentalism"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Rotating Cannon",
+            "CPS2"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Creative CPS-2 shooter built around rotating weapon mechanics and environmental themes.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Distinctive and underrated Capcom arcade shooter.",
+        "notes": "Owned through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

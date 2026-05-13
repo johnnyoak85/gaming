@@ -1,0 +1,80 @@
+{
+    "id": "mario-kart-world",
+    "name": "Mario Kart World",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9s9.webp",
+    "release": "2025-06-05",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Mario Kart",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Kart Racing"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Replayable",
+            "Online",
+            "Open World"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch-2",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mario-kart-8-deluxe",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 24
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EPD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Next-generation Mario Kart with open-world structure and larger races.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "New mainline Mario Kart → core platform pillar",
+        "notes": null
+    },
+    "event": "Nintendo Switch 2 launch",
+    "notes": null
+}

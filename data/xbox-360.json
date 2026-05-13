@@ -1,0 +1,53 @@
+{
+  "id": "xbox-360",
+  "name": "Xbox 360",
+  "cover": "xbox-360",
+  "release": "2005-12-02",
+  "type": "hardware",
+  "franchise": {
+    "series": "Xbox",
+    "subseries": "Xbox 360"
+  },
+  "companies": {
+    "manufacturer": [
+      "MicroSoft"
+    ],
+    "publisher": [
+      "MicroSoft"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "home",
+    "primary_family": "xbox-360",
+    "compatible_families": [
+      "xbox"
+    ],
+    "generation": 7,
+    "era": "720p",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": null,
+      "cover": "xbox-360",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

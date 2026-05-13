@@ -1,0 +1,79 @@
+{
+    "id": "downtown-special-kunio-kuns-historical-period-drama",
+    "name": "Downtown Special Kunio-kun's Historical Period Drama!",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i1g.webp",
+    "release": "1991-12-06",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Kunio-kun",
+        "subseries": "Historical Drama"
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "RPG",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Open Beat 'em Up",
+            "Action RPG"
+        ],
+        "themes": [
+            "Historical",
+            "Comedy",
+            "Samurai"
+        ],
+        "tags": [
+            "Retro",
+            "Co-Op",
+            "Brawler",
+            "Edo Period"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Technōs Japan"
+        ],
+        "publisher": [
+            "Technōs Japan"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Excellent historical parody reinterpretation of the River City formula.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the most distinctive and culturally unique Kunio-kun entries.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": null
+}

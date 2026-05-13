@@ -1,0 +1,44 @@
+{
+  "id": "xbox-wireless-controller",
+  "name": "Xbox Wireless Controller",
+  "cover": "xbox-wireless-controller",
+  "release": "2020-10-10",
+  "type": "hardware",
+  "franchise": {
+    "series": "Xbox",
+    "subseries": "Xbox Series"
+  },
+  "companies": {
+    "manufacturer": [
+      "MicroSoft"
+    ],
+    "publisher": [
+      "MicroSoft"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 9,
+    "era": null,
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

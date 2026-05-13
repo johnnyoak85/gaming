@@ -1,0 +1,83 @@
+{
+    "id": "captain-commando",
+    "name": "Captain Commando",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobu4u.webp",
+    "release": "1991-09-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Captain Commando",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Side-Scrolling Beat 'em Up"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Superheroes"
+        ],
+        "tags": [
+            "Arcade",
+            "Co-Op",
+            "Retro",
+            "CPS"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-beat-em-up-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Classic multiplayer Capcom beat-'em-up with memorable character variety and pacing.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important CPS-1 era Capcom brawler and strong cooperative arcade title.",
+        "notes": "Contained in Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

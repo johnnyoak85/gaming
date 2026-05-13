@@ -1,0 +1,79 @@
+{
+    "id": "street-fighter-alpha-3-playstation",
+    "name": "Street Fighter Alpha 3",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6akw.webp",
+    "release": "1998-12-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Street Fighter Alpha",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting"
+        ],
+        "themes": [
+            "Martial Arts"
+        ],
+        "tags": [
+            "PlayStation",
+            "Competitive",
+            "Arcade Port",
+            "Capcom"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "playstation",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "street-fighter-alpha-3",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Excellent home adaptation of one of Capcom's best 2D fighters with added modes and characters.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically important PlayStation fighting game and strong home version of Alpha 3.",
+        "notes": "Owned physically."
+    },
+    "event": null,
+    "notes": null
+}

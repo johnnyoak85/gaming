@@ -1,0 +1,76 @@
+{
+    "id": "balloon-fight",
+    "name": "Balloon Fight",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90t.webp",
+    "release": "1984-01-22",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "Balloon Fight",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Arcade"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Arcade Style",
+            "Score Attack"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "balloon-trip",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo R&D1"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Classic arcade-style score attack gameplay.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

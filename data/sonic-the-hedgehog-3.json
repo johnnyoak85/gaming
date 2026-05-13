@@ -1,0 +1,84 @@
+{
+    "id": "sonic-the-hedgehog-3",
+    "name": "Sonic the Hedgehog 3",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co56ar.webp",
+    "release": "1994-02-02",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Genesis"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "sonic-3-and-knuckles",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-2",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-2013",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-3d",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-and-knuckles",
+            "type": "expansion"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sonic Team"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Half of Sonic 3 & Knuckles.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

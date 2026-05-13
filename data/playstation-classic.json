@@ -1,0 +1,44 @@
+{
+  "id": "playstation-classic",
+  "name": "PlayStation Classic",
+  "cover": "playstation-classic",
+  "release": "2018-12-03",
+  "type": "hardware",
+  "franchise": {
+    "series": "PlayStation",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sony"
+    ],
+    "publisher": [
+      "Sony"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "playstation-classic",
+    "compatible_families": [],
+    "generation": 5,
+    "era": "32-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

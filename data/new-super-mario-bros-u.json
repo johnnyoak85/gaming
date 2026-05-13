@@ -1,0 +1,83 @@
+{
+    "id": "new-super-mario-bros-u",
+    "name": "New Super Mario Bros. U",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ts.webp",
+    "release": "2012-11-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "New Super Mario Bros."
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Co-Op",
+            "Precision Platforming",
+            "Modern Mario"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "new-super-mario-bros-u-switch",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "new-super-mario-bros-wii",
+            "type": "prequel"
+        },
+        {
+            "source": "new-super-luigi-u",
+            "type": "expansion"
+        },
+        {
+            "source": "super-mario-bros-wonder",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD Tokyo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Polished modern 2D Mario platformer with strong multiplayer support.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Historically relevant Wii U Mario release but effectively superseded by Deluxe.",
+        "notes": "Own Switch version (Deluxe)."
+    },
+    "event": null,
+    "notes": null
+}

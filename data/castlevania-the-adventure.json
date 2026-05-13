@@ -1,0 +1,88 @@
+{
+    "id": "castlevania-the-adventure",
+    "name": "Castlevania: The Adventure",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9dk.webp",
+    "release": "1989-10-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Dracula Legend",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Handheld"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania-ii-belmonts-revenge",
+            "type": "sequel"
+        },
+        {
+            "source": "castlevania-the-adventure-rebirth",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "completed",
+    "backlog": {
+        "priority": 2,
+        "reason": "Early portable Castlevania entry.",
+        "rating": 2,
+        "difficulty": 4,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Historical curiosity; weak gameplay vs later entries",
+        "notes": "In Castlevania Anniversary Collection"
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,84 @@
+{
+    "id": "the-speed-rumbler",
+    "name": "The Speed Rumbler",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/c0d9syms9otmezrkvywj.webp",
+    "aliases": [
+        "Rush & Crash"
+    ],
+    "release": "1986-11-01",
+    "type": "game",
+    "franchise": {
+        "universe": "The Speed Rumbler",
+        "series": "The Speed Rumbler",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Vehicular Combat",
+            "Run and Gun"
+        ],
+        "themes": [
+            "Post-Apocalyptic",
+            "Military"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Vehicle Combat",
+            "Capcom"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "rush-and-crash",
+            "format": "regional_variant"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Interesting early Capcom vehicular action arcade game with upgrade systems.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Historically notable pre-CPS Capcom arcade action title.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

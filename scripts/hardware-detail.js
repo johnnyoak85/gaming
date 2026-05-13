@@ -1,88 +1,101 @@
-const DATA_PATH = "./data/hardware.json";
-const GAMES_PATH = "./data/games.json";
+import { loadCatalog, getGames, getHardware } from "./catalog.js";
+
+const HARDWARE_SOLO_PATH = "./data/";
+const GAMES_SOLO_PATH = "./data/";
 const IMAGE_BASE = "./images";
 
 // ---------------------------------------------------------------------------
 // Enum maps
 // ---------------------------------------------------------------------------
 
+const WISHLIST_LEVEL = {
+  1: { emoji: "🤍", label: "Low" },
+  2: { emoji: "🩷", label: "Medium" },
+  3: { emoji: "💛", label: "High" },
+  4: { emoji: "🧡", label: "Essential" },
+  5: { emoji: "❤️", label: "Non-negotiable" },
+};
+
 const HARDWARE_CATEGORY = {
   console: "Console",
   controller: "Controller",
   accessory: "Accessory",
   computer: "Computer",
+  peripheral: "Peripheral",
+  adapter: "Adapter",
+  storage: "Storage",
+  cable: "Cable",
 };
 
 const HARDWARE_FORM = {
   home: "Home",
   handheld: "Handheld",
   hybrid: "Hybrid",
+  mini: "Mini",
   dedicated: "Dedicated",
-  controller: "Controller",
-  accessory: "Accessory",
+  plug_and_play: "Plug & Play",
+  add_on: "Add-on",
+  standard: "Standard",
+  special: "Special",
+};
+
+const HARDWARE_ERA = {
+  primitive: "Primitive",
+  classic: "Classic",
+  "8-bit": "8-bit",
+  "16-bit": "16-bit",
+  "32-bit": "32-bit",
+  "128-bit": "128-bit",
+  "720p": "720p",
+  "1080p": "1080p",
+  "4k": "4K",
 };
 
 // ---------------------------------------------------------------------------
-// Data helpers
+// Lazy loaders
 // ---------------------------------------------------------------------------
 
-let allHardware = [];
+let hwCache = {};
+let gameCache = {};
+let gamesIndex = null;
+let hardwareIndex = null;
 
-function getHardwareName(id) {
-  const hw = allHardware.find((h) => h.id === id);
-  return hw?.name ?? id;
-}
-
-function platformMatchesHardware(platform, hwId, hwName) {
-  return platform === hwId
-    || platform === hwName
-    || platform.endsWith(hwName);
-}
-
-function getFamilyIds(hwId) {
-  const hw = allHardware.find((h) => h.id === hwId);
-  const family = hw?.hardware?.family;
-  // Collect IDs: either this hw belongs to a family, or other hw point to this one as their family
-  const ids = new Set([hwId]);
-
-  if (family) {
-    ids.add(family);
-    allHardware.forEach((h) => {
-      if (h.hardware?.family === family) ids.add(h.id);
-    });
+async function loadHardware(id) {
+  if (hwCache[id]) return hwCache[id];
+  try {
+    const res = await fetch(`${HARDWARE_SOLO_PATH}${id}.json`);
+    if (!res.ok) return null;
+    hwCache[id] = await res.json();
+    return hwCache[id];
+  } catch (e) {
+    return null;
   }
-
-  // Also include hardware that lists this hwId as their family
-  allHardware.forEach((h) => {
-    if (h.hardware?.family === hwId) ids.add(h.id);
-  });
-
-  return [...ids];
 }
 
-function findGamesForHardware(games, hwId, hwName, wishlist = false) {
-  const familyIds = getFamilyIds(hwId);
-  const hw = allHardware.find((h) => h.id === hwId);
-  const isMain = hw?.main === true;
-  const family = hw?.hardware?.family;
-  // Check if another family member is the main one
-  const familyHasMain = family
-    ? allHardware.some((h) => h.hardware?.family === family && h.main === true)
-    : allHardware.some((h) => h.hardware?.family === hwId && h.main === true);
+async function loadGame(id) {
+  if (gameCache[id]) return gameCache[id];
+  try {
+    const res = await fetch(`${GAMES_SOLO_PATH}${id}.json`);
+    if (!res.ok) return null;
+    gameCache[id] = await res.json();
+    return gameCache[id];
+  } catch (e) {
+    return null;
+  }
+}
 
-  return games.filter((game) =>
-    (game.ownership ?? []).some((o) => {
-      if (!o.platform) return false;
-      if (o.format === "injection") return false;
-      if (wishlist ? o.wishlist !== true : o.wishlist) return false;
-      if (!platformMatchesHardware(o.platform, hwId, hwName) && !familyIds.includes(o.platform)) return false;
+async function loadGamesIndex() {
+  if (gamesIndex) return gamesIndex;
+  const catalog = await loadCatalog();
+  gamesIndex = { entries: getGames(catalog) };
+  return gamesIndex;
+}
 
-      // For digital games in a family with a main console, only show on main
-      if (o.format === "digital" && familyHasMain && !isMain) return false;
-
-      return true;
-    })
-  );
+async function loadHardwareIndex() {
+  if (hardwareIndex) return hardwareIndex;
+  const catalog = await loadCatalog();
+  hardwareIndex = { entries: getHardware(catalog) };
+  return hardwareIndex;
 }
 
 // ---------------------------------------------------------------------------
@@ -329,15 +342,13 @@ function buildGamesSection(games, hw) {
 // Page builder
 // ---------------------------------------------------------------------------
 
-function buildPage(hw, games) {
+async function buildPage(hw) {
   const mainCover = coverUrl(hw.cover);
   const hwInfo = hw.hardware ?? {};
 
   const categoryLabel = HARDWARE_CATEGORY[hwInfo.category] ?? hwInfo.category;
   const formLabel = HARDWARE_FORM[hwInfo.form] ?? hwInfo.form;
   const typeLine = [categoryLabel, formLabel].filter(Boolean).join(" · ");
-
-  const isWishlist = hw.wishlist === true;
 
   // Determine variant display for the hero
   const variants = hw.variants ?? [];
@@ -364,10 +375,21 @@ function buildPage(hw, games) {
   ]);
 
   const rightCol = el("div", { class: "hero-col" }, [
-    hw.company ? el("p", { class: "hero-detail" }, hw.company) : null,
+    hw.companies?.publisher?.length || hw.companies?.manufacturer?.length
+      ? el("p", { class: "hero-detail" }, [
+        ...(hw.companies?.publisher ?? []),
+        ...(hw.companies?.manufacturer ?? [])
+      ].filter(Boolean).join(" · "))
+      : null,
   ]);
 
-  const ownershipIcon = isWishlist ? "⭐" : "✓";
+  const ownership = hw.ownership ?? [];
+  const isWishlist = ownership.some((o) => o.status === 'wishlist');
+  const wishlistLevel = isWishlist ? (hw.acquisition?.priority ?? 1) : null;
+  const wlInfo = wishlistLevel != null ? WISHLIST_LEVEL[wishlistLevel] : null;
+
+  const ownershipEmoji = wlInfo ? wlInfo.emoji : "🏷️";
+  const ownershipTip = wlInfo ? `Wishlist: ${wlInfo.label}` : "Owned";
 
   const hero = el("div", { class: "hero" }, [
     mainCover
@@ -376,7 +398,7 @@ function buildPage(hw, games) {
     el("div", { class: "hero-info" }, [
       el("div", { class: "hero-title-row" }, [
         el("h1", {}, hw.name),
-        el("span", { class: isWishlist ? "ownership-icon wishlist-icon" : "ownership-icon owned-icon" }, ownershipIcon),
+        el("span", { class: isWishlist ? "ownership-icon wishlist-icon" : "ownership-icon owned-icon", title: ownershipTip }, ownershipEmoji),
       ]),
       el("div", { class: "hero-grid" }, [leftCol, rightCol]),
     ]),
@@ -401,22 +423,39 @@ function buildPage(hw, games) {
     );
   }
 
-  // Compatible with (controller/accessory → consoles)
+  // Compatible with (controller/accessory → consoles) - async load
+  let compatWithSection = null;
   const compatWith = hwInfo.compatible_with ?? [];
-  const compatWithItems = compatWith
-    .map((id) => allHardware.find((h) => h.id === id))
-    .filter(Boolean);
-  const compatWithSection = compatWithItems.length
-    ? section("Compatible With", hwCardGallery(compatWithItems))
-    : null;
+  if (compatWith.length > 0) {
+    const compatWithItems = [];
+    for (const id of compatWith) {
+      const item = await loadHardware(id);
+      if (item) compatWithItems.push(item);
+    }
+    if (compatWithItems.length) {
+      compatWithSection = section("Compatible With", hwCardGallery(compatWithItems));
+    }
+  }
 
-  // Compatible controllers (console → controllers that list this console)
-  const compatControllers = allHardware.filter((other) =>
-    (other.hardware?.compatible_with ?? []).includes(hw.id)
-  );
-  const controllersSection = compatControllers.length
-    ? section("Compatible Controllers", hwCardGallery(compatControllers))
-    : null;
+  // Compatible controllers - async load
+  let controllersSection = null;
+  const hwIndexData = await loadHardwareIndex();
+  if (hwIndexData?.entries) {
+    const compatControllers = hwIndexData.entries.filter((other) =>
+      other.id !== hw.id &&
+      (other.hardware?.compatible_with ?? []).includes(hw.id)
+    );
+    if (compatControllers.length > 0) {
+      const controllerItems = [];
+      for (const item of compatControllers) {
+        const full = await loadHardware(item.id);
+        if (full) controllerItems.push(full);
+      }
+      if (controllerItems.length) {
+        controllersSection = section("Compatible Controllers", hwCardGallery(controllerItems));
+      }
+    }
+  }
 
   // Variants gallery — only shown when there are 2+ variants
   const variantSection = variants.length >= 2
@@ -426,20 +465,13 @@ function buildPage(hw, games) {
         "div",
         { class: "variant-gallery" },
         variants.map((v) => {
-          const img = coverUrl(v.cover);
-          const vWishlist = v.wishlist === true;
-          const vIcon = vWishlist ? "⭐" : "✓";
-          const vIconClass = vWishlist ? "variant-icon wishlist-icon" : "variant-icon owned-icon";
+          const img = coverUrl(v.cover ?? hw.cover);
           return el("div", { class: "variant-card" }, [
-            el("span", { class: vIconClass }, vIcon),
             img
               ? el("img", { src: img, alt: v.name ?? hw.name, class: "variant-cover" })
               : null,
             v.name
               ? el("p", { class: "variant-label" }, v.name)
-              : null,
-            v.event
-              ? el("p", { class: "variant-event" }, v.event)
               : null,
           ]);
         })
@@ -447,33 +479,168 @@ function buildPage(hw, games) {
     )
     : null;
 
-  // Games available on this hardware (with owned/wishlist toggle)
-  const gamesSection = buildGamesSection(games, hw);
+  // Games section - load games matching primary_family
+  let gamesSection = null;
+  let injectedSection = null;
+  const gamesIndexData = await loadGamesIndex();
+  if (gamesIndexData?.entries) {
+    const primaryFamily = hwInfo.primary_family ?? hw.id;
+    const compatFamilies = hwInfo.compatible_families ?? [];
 
-  // Games injected into this hardware
-  const injectedSection = buildInjectedSection(games, hw);
+    const matchesPrimary = (a) => a.platform === primaryFamily;
+    const matchesCompat = (a) => compatFamilies.includes(a.platform);
+
+    const isRegularGame = (a) => a.format !== 'contained' && a.format !== 'injected';
+
+    const ownedGames = gamesIndexData.entries.filter((g) =>
+      g.access?.some((a) => matchesPrimary(a) && a.status === 'owned' && isRegularGame(a))
+    );
+    const wishlistGames = gamesIndexData.entries.filter((g) =>
+      g.access?.some((a) => matchesPrimary(a) && a.status === 'wishlist' && isRegularGame(a))
+    );
+    const compatOwnedGames = compatFamilies.length ? gamesIndexData.entries.filter((g) =>
+      g.access?.some((a) => matchesCompat(a) && a.status === 'owned' && isRegularGame(a))
+    ) : [];
+    const compatWishlistGames = compatFamilies.length ? gamesIndexData.entries.filter((g) =>
+      g.access?.some((a) => matchesCompat(a) && a.status === 'wishlist' && isRegularGame(a))
+    ) : [];
+    const injectedGames = gamesIndexData.entries.filter((g) =>
+      g.access?.some((a) => matchesPrimary(a) && a.format === 'injected' && a.status === 'owned')
+    );
+
+    const hasGames = ownedGames.length || wishlistGames.length || compatOwnedGames.length || compatWishlistGames.length;
+    if (hasGames) {
+      let showWishlist = false;
+      let showCompat = false;
+      const sectionEl = el("section", { class: "detail-section" });
+
+      const titleRow = el("div", { class: "section-title-row" });
+      const title = el("h2", {}, "Games");
+      titleRow.appendChild(title);
+
+      const toggleBtn = (wishlistGames.length || compatWishlistGames.length)
+        ? el("button", { class: "games-toggle-btn" }, "Show Wishlist")
+        : null;
+
+      const compatBtn = compatFamilies.length
+        ? el("button", { class: "games-toggle-btn" }, "Show Compatible")
+        : null;
+
+      if (toggleBtn) titleRow.appendChild(toggleBtn);
+      if (compatBtn) titleRow.appendChild(compatBtn);
+      sectionEl.appendChild(titleRow);
+
+      const gallery = el("div", { class: "variant-gallery" });
+      sectionEl.appendChild(gallery);
+
+      function renderGamesList() {
+        gallery.innerHTML = "";
+        let list;
+        if (showCompat) {
+          list = showWishlist ? compatWishlistGames : compatOwnedGames;
+        } else {
+          list = showWishlist ? wishlistGames : ownedGames;
+        }
+
+        if (!list.length) {
+          const msg = showCompat
+            ? (showWishlist ? "No compatible wishlisted games." : "No compatible owned games.")
+            : (showWishlist ? "No wishlisted games." : "No owned games.");
+          gallery.appendChild(el("p", { class: "empty-hint" }, msg));
+          return;
+        }
+
+        list
+          .sort((a, b) => a.name.localeCompare(b.name))
+          .forEach((g) => {
+            const img = g.cover ?? null;
+            const card = el("a", { href: `detail.html?id=${encodeURIComponent(g.id)}`, class: "hw-card-link" },
+              el("div", { class: "variant-card" }, [
+                img
+                  ? el("img", { src: img, alt: g.name, class: "variant-cover" })
+                  : null,
+                el("p", { class: "variant-label" }, g.name),
+              ])
+            );
+            gallery.appendChild(card);
+          });
+      }
+
+      if (toggleBtn) {
+        toggleBtn.addEventListener("click", () => {
+          showWishlist = !showWishlist;
+          toggleBtn.textContent = showWishlist ? "Show Owned" : "Show Wishlist";
+          renderGamesList();
+        });
+      }
+
+      if (compatBtn) {
+        compatBtn.addEventListener("click", () => {
+          showCompat = !showCompat;
+          compatBtn.textContent = showCompat ? "Show Primary" : "Show Compatible";
+          renderGamesList();
+        });
+      }
+
+      renderGamesList();
+      gamesSection = sectionEl;
+    }
+
+    // Injected games section
+    if (injectedGames.length) {
+      injectedSection = section(
+        "Injected Games",
+        el("div", { class: "variant-gallery" },
+          injectedGames
+            .sort((a, b) => a.name.localeCompare(b.name))
+            .map((g) => {
+              const img = g.cover ?? null;
+              return el("a", { href: `detail.html?id=${encodeURIComponent(g.id)}`, class: "hw-card-link" },
+                el("div", { class: "variant-card" }, [
+                  img
+                    ? el("img", { src: img, alt: g.name, class: "variant-cover" })
+                    : null,
+                  el("p", { class: "variant-label" }, g.name),
+                ])
+              );
+            })
+        )
+      );
+    }
+  }
 
   const notesSection = hw.notes
     ? section("Notes", el("p", { class: "notes-text" }, hw.notes))
     : null;
 
-  // Generation section — other hardware in the same generation
-  const generation = hwInfo.generation;
-  const genMates = generation != null
-    ? allHardware.filter((other) =>
-      other.id !== hw.id
-      && other.hardware?.generation === generation
-      && other.hardware?.category === 'console'
-    )
-    : [];
-  const generationSection = genMates.length
-    ? section(
-      `Generation ${generation}`,
-      hwCardGallery(genMates)
-    )
-    : null;
+  // Era section - other consoles from the same era
+  let eraSection = null;
+  const era = hwInfo.era;
+  if (era && hwInfo.category === 'console') {
+    if (hwIndexData?.entries) {
+      const eraMates = hwIndexData.entries.filter((other) =>
+        other.id !== hw.id
+        && other.hardware?.era === era
+        && other.hardware?.category === 'console'
+      );
+      if (eraMates.length > 0) {
+        const eraMateItems = [];
+        for (const item of eraMates) {
+          const full = await loadHardware(item.id);
+          if (full) eraMateItems.push(full);
+        }
+        if (eraMateItems.length) {
+          const eraLabel = HARDWARE_ERA[era] ?? era;
+          eraSection = section(
+            `${eraLabel} Era`,
+            hwCardGallery(eraMateItems)
+          );
+        }
+      }
+    }
+  }
 
-  return [hero, variantSection, compatWithSection, controllersSection, gamesSection, injectedSection, generationSection, notesSection].filter(Boolean);
+  return [hero, variantSection, compatWithSection, controllersSection, gamesSection, injectedSection, eraSection, notesSection].filter(Boolean);
 }
 
 // ---------------------------------------------------------------------------
@@ -492,25 +659,21 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   try {
-    const [hwRes, gamesRes] = await Promise.all([
-      fetch(DATA_PATH),
-      fetch(GAMES_PATH),
-    ]);
-    const items = (await hwRes.json()).flat();
-    allHardware = items;
-    const games = await gamesRes.json();
-    const hw = items.find((h) => h.id === targetId);
-
-    if (!hw) {
+    // Load single hardware entry instead of entire array
+    const hwRes = await fetch(`${HARDWARE_SOLO_PATH}${targetId}.json`);
+    if (!hwRes.ok) {
       main.innerHTML = `<p class='error'>Hardware <code>${targetId}</code> not found.</p>`;
       main.classList.remove("loading");
       return;
     }
 
+    const hw = await hwRes.json();
+
     document.title = `${hw.name} — Hardware Details`;
     main.innerHTML = "";
     main.classList.remove("loading");
-    buildPage(hw, games).forEach((node) => main.appendChild(node));
+    const pageNodes = await buildPage(hw);
+    pageNodes.forEach((node) => main.appendChild(node));
   } catch (err) {
     main.innerHTML = `<p class='error'>Failed to load hardware data: ${err.message}</p>`;
     main.classList.remove("loading");

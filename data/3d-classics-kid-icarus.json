@@ -1,0 +1,85 @@
+{
+    "id": "3d-classics-kid-icarus",
+    "name": "3D Classics Kid Icarus",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3inn.webp",
+    "release": "2011-01-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Kid Icarus",
+        "series": "Kid Icarus",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform",
+            "Action"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Mythology"
+        ],
+        "tags": [
+            "Enhanced",
+            "3D Effect",
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kid-icarus",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "kid-icarus-of-myths-and-monsters",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo",
+            "Arika"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Improved visual version of the original with stereoscopic effect.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

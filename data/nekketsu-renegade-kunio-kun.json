@@ -1,0 +1,86 @@
+{
+    "id": "nekketsu-renegade-kunio-kun",
+    "name": "Nekketsu Renegade Kunio-kun",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i11.webp",
+    "release": "1986-04-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Kunio-kun",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Side-Scrolling Beat 'em Up"
+        ],
+        "themes": [
+            "Delinquent",
+            "Street Fighting",
+            "School"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Brawler"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Localized arcade version known as Renegade."
+        }
+    ],
+    "versions": [
+        {
+            "source": "renegade",
+            "format": "port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "downtown-nekketsu-story",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Technōs Japan"
+        ],
+        "publisher": [
+            "Technōs Japan"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Original Japanese delinquent-themed beat-'em-up that launched the Kunio-kun franchise.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Foundational Kunio-kun title and one of the defining early beat-'em-ups.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": null
+}

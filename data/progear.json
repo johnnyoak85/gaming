@@ -1,0 +1,80 @@
+{
+    "id": "progear",
+    "name": "Progear",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2oj8.webp",
+    "aliases": [
+        "Progear no Arashi"
+    ],
+    "release": "2001-09-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Progear",
+        "series": "Progear",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Bullet Hell",
+            "Horizontal Shooter"
+        ],
+        "themes": [
+            "Steampunk",
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade",
+            "Cave",
+            "Retro",
+            "CPS2"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Cave",
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Exceptional late-era arcade shooter combining Cave bullet patterns with Capcom presentation.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the most acclaimed CPS-2 shooters and an important Cave/Capcom collaboration.",
+        "notes": "Owned through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

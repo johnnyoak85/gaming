@@ -1,0 +1,73 @@
+{
+    "id": "mega-man-x6",
+    "name": "Mega Man X6",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co558x.webp",
+    "release": "2001-11-29",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man X",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "PlayStation",
+            "Hard"
+        ]
+    },
+    "player_age": 8,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-x5",
+            "type": "prequel"
+        },
+        {
+            "source": "mega-man-x7",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Notorious but historically relevant Mega Man X sequel.",
+        "rating": 2,
+        "difficulty": 5,
+        "estimated_hours": 9
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

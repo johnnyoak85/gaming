@@ -1,0 +1,76 @@
+{
+    "id": "pac-land",
+    "name": "Pac-Land",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co38z4.webp",
+    "release": "1984-08-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Pac-Man",
+        "series": "Pac-Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Arcade",
+            "Prototype Platformer"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "pac-in-time",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Namco"
+        ],
+        "publisher": [
+            "Namco"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Historically important early side-scrolling platformer.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

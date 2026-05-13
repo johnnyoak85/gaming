@@ -1,0 +1,82 @@
+{
+    "id": "mega-man-10",
+    "name": "Mega Man 10",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k9y.webp",
+    "release": "2010-03-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro Revival"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "mega-man-legacy-collection-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-9",
+            "type": "prequel"
+        },
+        {
+            "source": "mega-man-11",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Inti Creates",
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Continuation of the retro Mega Man revival.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

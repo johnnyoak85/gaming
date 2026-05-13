@@ -1,0 +1,46 @@
+{
+  "id": "sega-astro-city-mini-stick",
+  "name": "Astro City Mini Arcade Stick",
+  "cover": "astro-city-mini-stick",
+  "release": "2020-12-17",
+  "type": "hardware",
+  "franchise": {
+    "series": "Astro City",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": null,
+    "era": null,
+    "compatible_with": [
+      "sega-astro-city-mini"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Strong Sega arcade coverage",
+    "notes": null
+  },
+  "contains": [],
+  "event": "Go Sega 60th Anniversary",
+  "notes": null
+}

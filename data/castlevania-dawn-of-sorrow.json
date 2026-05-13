@@ -1,0 +1,87 @@
+{
+    "id": "castlevania-dawn-of-sorrow",
+    "name": "Castlevania: Dawn of Sorrow",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9yz.webp",
+    "release": "2005-08-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "subgenres": [
+            "Metroidvania",
+            "Action RPG"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Exploration",
+            "Handheld"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-dominus-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania-aria-of-sorrow",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "finished",
+    "backlog": {
+        "priority": 5,
+        "reason": "Direct sequel to Aria of Sorrow and peak DS-era Castlevania.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Direct sequel to Aria; core trilogy entry",
+        "notes": "Contained in Dominus Collection"
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,96 @@
+{
+    "id": "the-legend-of-zelda-the-wind-waker",
+    "name": "The Legend of Zelda: The Wind Waker",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54wy.webp",
+    "release": "2002-12-13",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Exploration",
+            "Sailing",
+            "Classic"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-the-wind-waker-hd",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time-3d",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-phantom-hourglass",
+            "type": "sequel"
+        },
+        {
+            "source": "freshly-picked-tingles-rosy-rupeeland",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Major Zelda entry with a distinct ocean exploration structure and art direction.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

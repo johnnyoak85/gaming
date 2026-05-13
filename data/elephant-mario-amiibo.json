@@ -1,0 +1,72 @@
+{
+  "id": "elephant-mario-amiibo",
+  "name": "Elephant Mario",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/elephant-mario-9e586b2b7b77fe7b6b6f18c98efa59197d14f2d2fe29a06b04b95c4b47fd54d6.png",
+  "release": "2026-03-26",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Mario",
+    "subseries": "Super Mario Wave 7: Super Mario Bros. Wonder"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": null
+  },
+  "ownership": "wishlist",
+  "functionality": [
+    {
+      "game": "mario-and-luigi-paper-jam",
+      "effect": "Unlock character cards to help you in battle"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Fire copy ability and a health item"
+    },
+    {
+      "game": "metroid-prime-blast-ball",
+      "effect": "Unlock an armor paint job based on the character"
+    },
+    {
+      "game": "mario-and-luigi-superstar-saga-3ds",
+      "effect": "Receive a stamp and equipment for the main quest"
+    },
+    {
+      "game": "luigis-mansion-3ds",
+      "effect": "Mushrooms you find will be health-restoring Super Mushrooms instead of Poison Mushrooms"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "mario-and-luigi-bowsers-inside-story-3ds",
+      "effect": "Receive a helpful item"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Receive an Elephant Fruit"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a Life Mushroom or an 1-Up Mushroom"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a Life Mushroom or an 1-Up Mushroom"
+    },
+    {
+      "game": "super-mario-bros-wonder-switch-2",
+      "effect": "Receive an Elephant Fruit | Change to character-themed decoration in Bellabel Park hub"
+    }
+  ],
+  "event": "Super Mario Bros. 40th Anniversary",
+  "notes": null
+}

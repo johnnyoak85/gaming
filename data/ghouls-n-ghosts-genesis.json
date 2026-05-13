@@ -1,0 +1,87 @@
+{
+    "id": "ghouls-n-ghosts-genesis",
+    "name": "Ghouls 'n Ghosts",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72g8.webp",
+    "release": "1989-08-03",
+    "type": "game",
+    "franchise": {
+        "universe": "Ghosts 'n Goblins",
+        "series": "Ghosts 'n Goblins",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Horror"
+        ],
+        "tags": [
+            "Mega Drive",
+            "Hard"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "ghouls-n-ghosts",
+            "format": "port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "ghosts-n-goblins-nes",
+            "type": "prequel"
+        },
+        {
+            "source": "super-ghouls-n-ghosts",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sega"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Owned home version of Ghouls 'n Ghosts.",
+        "rating": 4,
+        "difficulty": 5,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

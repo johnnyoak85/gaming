@@ -1,0 +1,36 @@
+{
+  "id": "mega-man-amiibo",
+  "name": "Mega Man",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/mega-man-6f3cd762197e9c54a1de79aa49afbfb06682b941dbc1c6b25a2347d97ac20c24.png",
+  "release": "2015-01-29",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "Mega Man"
+  },
+  "amiibo": {
+    "number": "27",
+    "wave": "Super Smash Bros. Wave 3"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "mega-man-legacy-collection",
+      "effect": "Unlock 11 exclusive challenge stages designed by fans"
+    },
+    {
+      "game": "mega-man-legacy-collection",
+      "effect": "Unlock new platforming challenges"
+    },
+    {
+      "game": "mega-man-11",
+      "effect": "Receive E Tanks and other useful in-game items"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

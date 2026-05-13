@@ -1,0 +1,100 @@
+{
+    "id": "sonic-the-hedgehog-genesis",
+    "name": "Sonic the Hedgehog Genesis",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zv3.webp",
+    "release": "2006-11-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Port",
+            "Handheld"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "reproduction",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "sonic-the-hedgehog",
+            "format": "port"
+        },
+        {
+            "source": "sonic-the-hedgehog-2013",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-2",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-2013",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-3d",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-cd",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-cd-2011",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sega"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Notorious GBA port, mainly interesting as a collector curiosity.",
+        "rating": 1,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "game-boy-color",
+  "name": "Game Boy Color",
+  "cover": "gbc",
+  "release": "1998-11-23",
+  "type": "hardware",
+  "franchise": {
+    "series": "Game Boy",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "handheld",
+    "primary_family": "game-boy-color",
+    "compatible_families": [
+      "game-boy"
+    ],
+    "generation": 5,
+    "era": "8-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Atomic Purple",
+      "cover": "gbc",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Atomic Purple",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

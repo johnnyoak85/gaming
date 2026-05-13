@@ -1,0 +1,87 @@
+{
+    "id": "super-mario-sunshine",
+    "name": "Super Mario Sunshine",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21rh.webp",
+    "release": "2002-07-19",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario Sunshine"
+    },
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "GameCube",
+            "Collectathon",
+            "Wishlist"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-sunshine-switch",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-64",
+            "type": "prequel"
+        },
+        {
+            "source": "super-mario-galaxy",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Main 3D Mario entry for GameCube.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 16
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Mainline Mario, experimental but important",
+        "notes": "Used to own; contained in Super Mario 3D All-Stars"
+    },
+    "event": null,
+    "notes": null
+}

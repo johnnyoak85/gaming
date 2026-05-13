@@ -1,0 +1,75 @@
+{
+    "id": "the-firemen",
+    "name": "The Firemen",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2isj.webp",
+    "release": "1994-09-09",
+    "type": "game",
+    "franchise": {
+        "universe": "The Firemen",
+        "series": "The Firemen",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Top-Down Action"
+        ],
+        "themes": [
+            "Disaster",
+            "Rescue"
+        ],
+        "tags": [
+            "SNES",
+            "Human Entertainment",
+            "Retro",
+            "Co-Op"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Human Entertainment"
+        ],
+        "publisher": [
+            "Human Entertainment"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique firefighting action game with strong atmosphere and cooperative play.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Distinctive and cult-classic late-era SNES action title.",
+        "notes": "Injected on SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

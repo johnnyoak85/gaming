@@ -1,0 +1,78 @@
+{
+    "id": "donkey-kong-jr",
+    "name": "Donkey Kong Jr.",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb5z.webp",
+    "release": "1982-08-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Donkey Kong",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Single-Screen Platformer"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Retro",
+            "Historic",
+            "Short"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "donkey-kong",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo R&D1"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Important early sequel with Mario unusually cast as antagonist.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Nintendo Classic Mini: Nintendo Entertainment System",
+    "notes": "NES version accessed through the NES Classic Mini."
+}

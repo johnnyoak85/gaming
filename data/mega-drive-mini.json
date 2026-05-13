@@ -1,0 +1,44 @@
+{
+  "id": "mega-drive-mini",
+  "name": "Mega Drive Mini",
+  "cover": "mega-drive-mini",
+  "release": "2019-09-19",
+  "type": "hardware",
+  "franchise": {
+    "series": "Mega Drive",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Sega"
+    ],
+    "publisher": [
+      "Sega"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "mega-drive-mini",
+    "compatible_families": [],
+    "generation": 4,
+    "era": "16-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

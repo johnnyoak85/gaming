@@ -1,0 +1,51 @@
+{
+  "id": "nintendo-dsi-xl",
+  "name": "Nintendo DSi XL",
+  "cover": "ds-i-xl",
+  "release": "2010-03-05",
+  "type": "hardware",
+  "franchise": {
+    "series": "Nintendo DS",
+    "subseries": "DSi"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "handheld",
+    "primary_family": "nintendo-dsi",
+    "compatible_families": [],
+    "generation": 7,
+    "era": "128-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Burgundy",
+      "cover": "ds-i-xl",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Burgundy",
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 2,
+    "reason": "Best DS form factor; comfortable upgrade path",
+    "notes": "Used to own"
+  },
+  "contains": [],
+  "event": null,
+  "notes": "Used to own"
+}

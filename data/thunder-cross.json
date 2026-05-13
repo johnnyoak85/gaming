@@ -1,0 +1,71 @@
+{
+    "id": "thunder-cross",
+    "name": "Thunder Cross",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6866.webp",
+    "release": "1988-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "Thunder Cross",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Shoot 'em up"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Arcade",
+            "Horizontal Scrolling"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "arcade-classics-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Lesser-known Konami horizontal shooter.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

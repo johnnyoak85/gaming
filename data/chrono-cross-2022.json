@@ -1,0 +1,84 @@
+{
+    "id": "chrono-cross-2022",
+    "name": "Chrono Cross",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatzy.webp",
+    "release": "2022-04-07",
+    "type": "game",
+    "franchise": {
+        "universe": "Chrono",
+        "series": "Chrono",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Parallel Worlds",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Remaster",
+            "Nintendo Switch",
+            "Square Enix",
+            "Chrono"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "chrono-cross-the-radical-dreamers-edition",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "chrono-trigger",
+            "type": "prequel"
+        },
+        {
+            "source": "radical-dreamers-2022",
+            "type": "spiritual_predecessor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Square Enix"
+        ],
+        "publisher": [
+            "Square Enix"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Modern remaster of one of the most ambitious and artistically distinct JRPGs ever made.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Important modern preservation release for Chrono Cross.",
+        "notes": "Contained in Chrono Cross: The Radical Dreamers Edition."
+    },
+    "event": null,
+    "notes": null
+}

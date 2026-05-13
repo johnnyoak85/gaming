@@ -1,0 +1,85 @@
+{
+    "id": "capcom-beat-em-up-bundle",
+    "name": "Capcom Beat 'Em Up Bundle",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ugx.webp",
+    "release": "2018-09-18",
+    "type": "collection",
+    "franchise": {
+        "universe": "Capcom",
+        "series": "Capcom Beat 'Em Up Bundle",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Action"
+        ],
+        "subgenres": [
+            "Beat 'em Up Collection"
+        ],
+        "themes": [
+            "Arcade History"
+        ],
+        "tags": [
+            "Arcade",
+            "Co-Op",
+            "Preservation",
+            "Capcom"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "final-fight",
+        "captain-commando",
+        "the-king-of-dragons",
+        "knights-of-the-round",
+        "warriors-of-fate",
+        "powered-gear-strategic-variant-armor-equipment",
+        "battle-circuit"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent curated collection of Capcom's greatest arcade beat-'em-ups.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Important preservation collection for one of arcade gaming's defining genres.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

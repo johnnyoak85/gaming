@@ -1,0 +1,80 @@
+{
+    "id": "sonic-the-hedgehog-4-episode-ii",
+    "name": "Sonic the Hedgehog 4: Episode II",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zvs.webp",
+    "release": "2012-05-15",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog 4",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Modern 2D"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-4-episode-i",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-4-episode-metal",
+            "type": "expansion"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Dimps",
+            "Sonic Team"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Continuation improving Episode I.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,81 @@
+{
+    "id": "kid-icarus-uprising",
+    "name": "Kid Icarus: Uprising",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9me.webp",
+    "release": "2012-03-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kid Icarus",
+        "series": "Kid Icarus",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Rail Shooter",
+            "Action Shooter"
+        ],
+        "themes": [
+            "Fantasy",
+            "Mythology"
+        ],
+        "tags": [
+            "Story Heavy",
+            "Modern",
+            "Experimental Controls"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kid-icarus-of-myths-and-monsters",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Project Sora"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Modern revival of the series with completely different gameplay style.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,82 @@
+{
+    "id": "super-punch-out",
+    "name": "Super Punch-Out!!",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co395t.webp",
+    "release": "1994-09-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Punch-Out!!",
+        "series": "Punch-Out!!",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "subgenres": [
+            "Boxing"
+        ],
+        "themes": [
+            "Sports"
+        ],
+        "tags": [
+            "Retro",
+            "Arcade Style",
+            "Reflex"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "punch-out",
+            "type": "prequel"
+        },
+        {
+            "source": "punch-out-wii",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo R&D3"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Refined Punch-Out formula with faster pacing.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

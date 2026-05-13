@@ -1,0 +1,94 @@
+{
+    "id": "the-legend-of-zelda",
+    "name": "The Legend of Zelda",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uii.webp",
+    "release": "1986-02-21",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Exploration",
+            "Open"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "game-watch-the-legend-of-zelda",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "classic-nes-series-the-legend-of-zelda",
+            "format": "port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-a-link-to-the-past",
+            "type": "prequel"
+        },
+        {
+            "source": "zelda-ii-the-adventure-of-link",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Foundation of the entire Zelda formula.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

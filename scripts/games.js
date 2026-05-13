@@ -1,4 +1,4 @@
-const DATA_PATH = "./data/games.json";
+import { loadCatalog, getGames } from "./catalog.js";
 
 const state = {
   items: [],
@@ -19,10 +19,6 @@ function el(tag, attrs = {}, children = []) {
   return node;
 }
 
-function isOwned(item) {
-  return (item.ownership ?? []).some((o) => !o.wishlist);
-}
-
 function coverUrl(item) {
   const cover = item.cover;
   if (!cover) return null;
@@ -32,14 +28,14 @@ function coverUrl(item) {
 
 function getFilteredItems() {
   return state.items.filter((item) => {
-    const entries = item.ownership ?? [];
-    if (entries.some((o) => o.format === "injection")) return false;
+    const entries = item.access ?? [];
+    if (entries.some((a) => a.format === "injected")) return false;
 
     if (state.showOwned) {
-      return entries.some((o) => !o.wishlist && o.format === state.format);
+      return entries.some((a) => a.status === 'owned' && a.format === state.format);
     }
 
-    return entries.some((o) => o.wishlist && o.format === state.format);
+    return entries.some((a) => a.status === 'wishlist' && a.format === state.format);
   });
 }
 
@@ -72,7 +68,7 @@ function renderGrid() {
       items.forEach((item) => {
         const cover = coverUrl(item);
         const card = el("a", { href: `detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
-          cover ? el("img", { src: cover, alt: item.name, class: "card-cover", loading: "lazy" }) : null,
+          cover ? el("img", { src: cover, alt: item.name, class: "card-cover" }) : null,
           el("span", { class: "card-name" }, item.name),
         ]);
         container.appendChild(card);
@@ -117,8 +113,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const main = document.getElementById("list-page");
 
   try {
-    const res = await fetch(DATA_PATH);
-    state.items = await res.json();
+    const catalog = await loadCatalog();
+    state.items = getGames(catalog);
 
     main.innerHTML = "";
 

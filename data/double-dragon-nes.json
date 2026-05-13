@@ -1,0 +1,88 @@
+{
+    "id": "double-dragon-nes",
+    "name": "Double Dragon",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wxt.webp",
+    "release": "1988-04-08",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Double Dragon",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Beat 'em Up"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "double-dragon-advance",
+            "format": "enhanced_remake"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "double-dragon-ii-the-revenge-nes",
+            "type": "sequel"
+        },
+        {
+            "source": "double-dragon-gaiden-rise-of-the-dragons",
+            "type": "sequel"
+        },
+        {
+            "source": "double-dragon-neon",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Technos Japan"
+        ],
+        "publisher": [
+            "Technos Japan"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Foundational beat 'em up.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "inkling-squid-amiibo",
+  "name": "Inkling Squid",
+  "cover": "https://amiibo.life/assets/figures/amiibo/splatoon/inkling-squid-4480133eda5adc7bcff15606ecc372a776b4cd12d68b4981a63d899e84ee2353.png",
+  "release": "2015-05-28",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Splatoon",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Splatoon Wave 1"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Poison copy ability and a health item"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

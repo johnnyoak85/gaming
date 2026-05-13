@@ -1,0 +1,71 @@
+{
+    "id": "kirby-meta-knightmare-ultra",
+    "name": "Meta Knightmare Ultra",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co77wr.webp",
+    "release": "2008-09-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Super Star Ultra"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Boss Rush"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Challenge",
+            "Boss Battles"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": "kirby-super-star-ultra",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded Meta Knight mode with higher challenge.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

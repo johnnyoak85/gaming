@@ -1,0 +1,77 @@
+{
+    "id": "dr-robotniks-mean-bean-machine",
+    "name": "Dr. Robotnik’s Mean Bean Machine",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2v8c.webp",
+    "release": "1993-11-30",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Dr. Robotnik's Mean Bean Machine",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Falling Block Puzzle"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Genesis",
+            "Versus"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "dr-robotniks-mean-bean-machine-8bit",
+            "format": "port"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Compile"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Definitive console version of the Puyo Puyo reskin.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

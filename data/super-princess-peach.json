@@ -1,0 +1,79 @@
+{
+    "id": "super-princess-peach",
+    "name": "Super Princess Peach",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wsg.webp",
+    "release": "2005-10-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Princess Peach",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Handheld",
+            "Short",
+            "Beginner Friendly"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-dsi",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "princess-peach-showtime",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Tose"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Historic Peach-led platformer, but wishlist only.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 7
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Unique Mario spin-off with identity",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

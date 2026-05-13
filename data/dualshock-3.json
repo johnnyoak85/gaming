@@ -1,0 +1,46 @@
+{
+  "id": "dualshock-3",
+  "name": "DualShock 3",
+  "cover": "dualshock3",
+  "release": "2007-03-23",
+  "type": "hardware",
+  "franchise": {
+    "series": "PlayStation",
+    "subseries": "PlayStation 3"
+  },
+  "companies": {
+    "manufacturer": [
+      "Sony"
+    ],
+    "publisher": [
+      "Sony"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 7,
+    "era": null,
+    "compatible_with": [
+      "playstation-3"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

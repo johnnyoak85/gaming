@@ -1,0 +1,44 @@
+{
+  "id": "dualshock-4",
+  "name": "DualShock 4",
+  "cover": "dualshock4",
+  "release": "2013-11-15",
+  "type": "hardware",
+  "franchise": {
+    "series": "PlayStation",
+    "subseries": "PlayStation 4"
+  },
+  "companies": {
+    "manufacturer": [
+      "Sony"
+    ],
+    "publisher": [
+      "Sony"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 8,
+    "era": null,
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

@@ -1,0 +1,64 @@
+{
+    "id": "kirbys-pinball-land",
+    "name": "Kirby's Pinball Land",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qv2.webp",
+    "release": "1993-11-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Pinball"
+        ],
+        "subgenres": [
+            "Arcade Pinball"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Portable",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Early Kirby spin-off with simple arcade-style gameplay and short sessions.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Minor but charming Kirby spin-off representing Nintendo's early portable experimental era.",
+        "notes": "Cartridge-only acceptable."
+    },
+    "event": null,
+    "notes": null
+}

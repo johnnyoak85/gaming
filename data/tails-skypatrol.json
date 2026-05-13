@@ -1,0 +1,60 @@
+{
+    "id": "tails-skypatrol",
+    "name": "Tails' Skypatrol",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztf.webp",
+    "release": "1995-04-28",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Tails",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Side Scroller"
+        ],
+        "themes": [],
+        "tags": [
+            "Spin-off"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Aspect"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Obscure Tails spin-off.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

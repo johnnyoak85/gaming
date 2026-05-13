@@ -1,0 +1,92 @@
+{
+    "id": "the-legend-of-zelda-the-wind-waker-hd",
+    "name": "The Legend of Zelda: The Wind Waker HD",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54x0.webp",
+    "release": "2013-09-20",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Remaster",
+            "Exploration",
+            "Sailing"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-the-wind-waker",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time-3d",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-phantom-hourglass",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Best practical version of Wind Waker with improved pacing and presentation.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "The Legend of Zelda: Wind Waker 10th Anniversary",
+    "notes": null
+}

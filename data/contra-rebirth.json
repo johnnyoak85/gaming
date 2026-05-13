@@ -1,0 +1,74 @@
+{
+    "id": "contra-rebirth",
+    "name": "Contra ReBirth",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dgx.webp",
+    "release": "2009-09-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Contra",
+        "series": "Contra",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Digital Only",
+            "Retro Revival",
+            "Hard"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "M2"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Retro-style revival entry continuing classic Contra gameplay.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

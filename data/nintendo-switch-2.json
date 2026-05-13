@@ -1,0 +1,46 @@
+{
+  "id": "nintendo-switch-2",
+  "name": "Switch 2",
+  "cover": "switch-2",
+  "release": "2025-06-05",
+  "type": "hardware",
+  "franchise": {
+    "series": "Switch 2",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "hybrid",
+    "primary_family": "nintendo-switch-2",
+    "compatible_families": [
+      "nintendo-switch"
+    ],
+    "generation": 9,
+    "era": "4k",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

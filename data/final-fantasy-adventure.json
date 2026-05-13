@@ -1,0 +1,84 @@
+{
+    "id": "final-fantasy-adventure",
+    "name": "Final Fantasy Adventure",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpk.webp",
+    "release": "1991-06-28",
+    "type": "game",
+    "franchise": {
+        "universe": "Mana",
+        "series": "Mana",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Action RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Game Boy",
+            "Retro",
+            "Square",
+            "Mana"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "collection-of-mana",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sword-of-mana",
+            "type": "reimagining"
+        },
+        {
+            "source": "secret-of-mana",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Square"
+        ],
+        "publisher": [
+            "Square"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Foundational portable action RPG and origin point of the Mana franchise.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential first entry in the Mana series.",
+        "notes": "Contained in Collection of Mana."
+    },
+    "event": null,
+    "notes": null
+}

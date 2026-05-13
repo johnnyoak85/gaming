@@ -1,0 +1,47 @@
+{
+  "id": "nintendo-64-controller-switch",
+  "name": "Nintendo 64 Controller",
+  "cover": "n64-controller",
+  "release": "2021-10-26",
+  "type": "hardware",
+  "franchise": {
+    "series": "Switch",
+    "subseries": "Nintendo 64"
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 5,
+    "era": null,
+    "compatible_with": [
+      "nintendo-switch",
+      "nintendo-switch-2"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

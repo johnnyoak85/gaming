@@ -1,0 +1,76 @@
+{
+    "id": "double-dragon-neon",
+    "name": "Double Dragon Neon",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pya.webp",
+    "release": "2012-09-11",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Double Dragon",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Beat 'em Up"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Reimagining"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "double-dragon-nes",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "WayForward"
+        ],
+        "publisher": [
+            "Majesco Entertainment"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Stylized comedic reinterpretation of Double Dragon.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

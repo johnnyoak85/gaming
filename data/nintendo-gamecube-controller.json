@@ -1,0 +1,78 @@
+{
+  "id": "nintendo-gamecube-controller",
+  "name": "GameCube Controller",
+  "cover": "gamecube-controller",
+  "release": "2001-09-14",
+  "type": "hardware",
+  "franchise": {
+    "series": "GameCube",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 6,
+    "era": null,
+    "compatible_with": [
+      "nintendo-gamecube",
+      "nintendo-wii"
+    ]
+  },
+  "variants": [
+    {
+      "name": "Platinum",
+      "cover": "gamecube-controller-platinum",
+      "event": null,
+      "notes": null
+    },
+    {
+      "name": "Indigo",
+      "cover": "gamecube-controller-indigo",
+      "event": null,
+      "notes": null
+    },
+    {
+      "name": "Jet Black",
+      "cover": "gamecube-controller-jet-black",
+      "event": null,
+      "notes": null
+    },
+    {
+      "name": "Spice Orange",
+      "cover": "gamecube-controller-spice-orange",
+      "event": null,
+      "notes": null
+    },
+    {
+      "name": "Emerald Blue",
+      "cover": "gamecube-controller-emerald-blue",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": null,
+    "reason": null,
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

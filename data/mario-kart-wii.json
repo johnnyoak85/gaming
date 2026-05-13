@@ -1,0 +1,84 @@
+{
+    "id": "mario-kart-wii",
+    "name": "Mario Kart Wii",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co214e.webp",
+    "release": "2008-04-10",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Mario Kart",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Kart Racing"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Replayable",
+            "Motion Controls",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mario-kart-double-dash",
+            "type": "prequel"
+        },
+        {
+            "source": "mario-kart-8-deluxe",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 12
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "One of the most iconic Mario Kart entries and a major Wii multiplayer game.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

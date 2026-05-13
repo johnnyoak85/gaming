@@ -1,0 +1,76 @@
+{
+  "id": "bowser-wedding-amiibo",
+  "name": "Bowser",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/bowser-wedding-outfit-26de45dd1ec86dae4b191c35e1256e61d56811591fa7ad1ba34a914236f35534.png",
+  "release": "2017-10-27",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Mario",
+    "subseries": "Super Mario Odyssey"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Super Mario Wave 5: Super Mario Odyssey"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Receive a Spirit of the character | Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+    },
+    {
+      "game": "captain-toad-treasure-tracker",
+      "effect": "Unlock Super Mario Odyssey-themed levels early"
+    },
+    {
+      "game": "super-mario-odyssey",
+      "effect": "Receive a character-based costume | Reveal regional coin locations"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only) | Receive a particular power-up depending on the amiibo"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Make Fury Bowser appear"
+    },
+    {
+      "game": "mario-and-luigi-bowsers-inside-story-3ds",
+      "effect": "Receive a helpful item"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock the Chain Chomp weapon"
+    },
+    {
+      "game": "mario-and-luigi-superstar-saga-3ds",
+      "effect": "Receive a stamp and equipment for the main quest"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a character-themed Mii racing suit"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby a Copy ability based on the character's abilities and a health item"
+    },
+    {
+      "game": "mario-and-luigi-paper-jam",
+      "effect": "Unlock character cards to help you in battle (Read+Write)"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

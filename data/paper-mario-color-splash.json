@@ -1,0 +1,84 @@
+{
+    "id": "paper-mario-color-splash",
+    "name": "Paper Mario: Color Splash",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba8x.webp",
+    "release": "2016-10-07",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Paper Mario",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Puzzle Adventure",
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Experimental",
+            "Puzzle Solving",
+            "Color Mechanics"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "paper-mario-sticker-star",
+            "type": "prequel"
+        },
+        {
+            "source": "paper-mario-the-origami-king",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Intelligent Systems"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Refines the modern Paper Mario adventure format.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 28
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,4 +1,4 @@
-const DATA_PATH = "./data/hardware.json";
+import { loadCatalog, getHardware } from "./catalog.js";
 
 const state = {
   items: [],
@@ -19,7 +19,8 @@ function el(tag, attrs = {}, children = []) {
 }
 
 function isOwned(item) {
-  return item.wishlist !== true;
+  const ownership = item.ownership ?? [];
+  return !ownership.some((o) => o.status === 'wishlist');
 }
 
 function coverUrl(item) {
@@ -63,7 +64,7 @@ function renderGrid() {
       items.forEach((item) => {
         const cover = coverUrl(item);
         const card = el("a", { href: `hardware-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
-          cover ? el("img", { src: cover, alt: item.name, class: "card-cover", loading: "lazy" }) : null,
+          cover ? el("img", { src: cover, alt: item.name, class: "card-cover" }) : null,
           el("span", { class: "card-name" }, item.name),
         ]);
         container.appendChild(card);
@@ -98,8 +99,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const main = document.getElementById("list-page");
 
   try {
-    const res = await fetch(DATA_PATH);
-    state.items = await res.json();
+    const catalog = await loadCatalog();
+    state.items = getHardware(catalog);
 
     main.innerHTML = "";
 

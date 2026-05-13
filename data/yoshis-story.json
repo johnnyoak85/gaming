@@ -1,0 +1,77 @@
+{
+    "id": "yoshis-story",
+    "name": "Yoshi's Story",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co260t.webp",
+    "release": "1997-12-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Yoshi",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Experimental",
+            "Short",
+            "Replayable"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-64",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-mario-world-2-yoshis-island",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Unique experimental direction for Yoshi outside the Island formula.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Weaker mechanically, but represents Yoshi branch + nostalgia",
+        "notes": "Used to own"
+    },
+    "event": null,
+    "notes": null
+}

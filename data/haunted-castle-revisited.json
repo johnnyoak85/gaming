@@ -1,0 +1,69 @@
+{
+    "id": "haunted-castle-revisited",
+    "name": "Haunted Castle Revisited",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9wb.webp",
+    "release": "2024-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Reimagining"
+        ]
+    },
+    "player_age": 12,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "haunted-castle",
+            "type": "original"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "completed",
+    "backlog": {
+        "priority": 3,
+        "reason": "Modern reimagining of Haunted Castle.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

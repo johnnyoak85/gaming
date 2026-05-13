@@ -1,0 +1,72 @@
+{
+  "id": "young-link-amiibo",
+  "name": "Young Link",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/young-link-93405375766a1e5324e403657b00f553da83c5f9d4cb00bec123318458c44540.png",
+  "release": "2019-04-12",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "The Legend of Zelda"
+  },
+  "amiibo": {
+    "number": "70",
+    "wave": "Super Smash Bros. Wave 13"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "hyrule-warriors",
+      "effect": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of arrows"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Sword copy ability and a health item"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive rare materials"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock the Hero of Hyrule costume"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "the-legend-of-zelda-links-awakening-switch",
+      "effect": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Drops stat-increasing and Hylian materials or a weapon for Link"
+    },
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Lon Lon Ranch Fabric | Bring Epona into the game as a rideable horse | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock the Red Tunic outfit | Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

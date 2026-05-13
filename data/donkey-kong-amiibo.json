@@ -1,0 +1,56 @@
+{
+  "id": "donkey-kong-amiibo",
+  "name": "Donkey Kong",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/donkey-kong-69a6219c94940c5385b37f52327039d9d4978ff08d63d9f5ba344c4168dd3dd4.png",
+  "release": "2016-10-07",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Mario",
+    "subseries": "Donkey Kong"
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "Super Mario Wave 2"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Fighter copy ability and a health item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "super-mario-3d-world-switch",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "bowsers-fury",
+      "effect": "Receive a Super Star item"
+    },
+    {
+      "game": "super-mario-bros-wonder",
+      "effect": "Receive a Fire Flower"
+    },
+    {
+      "game": "donkey-kong-bananza",
+      "effect": "Unlock Pauline's Diva Dress early | Spawn explosive golden KONG tiles"
+    },
+    {
+      "game": "super-mario-bros-wonder-switch-2",
+      "effect": "Receive a Super Flower Pot"
+    },
+    {
+      "game": "super-mario-galaxy",
+      "effect": "Receive a coin"
+    },
+    {
+      "game": "super-mario-galaxy-2",
+      "effect": "Receive a coin"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

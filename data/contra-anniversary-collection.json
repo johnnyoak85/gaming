@@ -1,0 +1,78 @@
+{
+    "id": "contra-anniversary-collection",
+    "name": "Contra Anniversary Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob230.webp",
+    "release": "2019-06-11",
+    "type": "collection",
+    "franchise": {
+        "universe": "Contra",
+        "series": null,
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Collection"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Complete classic Contra package.",
+        "rating": 5,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Konami's 50th Anniversary",
+    "notes": null,
+    "contains": [
+        "contra-arcade",
+        "super-contra",
+        "contra",
+        "super-c",
+        "contra-iii-the-alien-wars",
+        "operation-c",
+        "contra-hard-corps",
+        "super-probotector-alien-rebels",
+        "probotector"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nec-pc-engine-coregrafx-mini-controller",
+  "name": "PC Engine CoreGrafx Mini Controller",
+  "cover": "pc-engine-mini-controller",
+  "release": "2020-03-19",
+  "type": "hardware",
+  "franchise": {
+    "series": "PC Engine",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "NEC / Konami"
+    ],
+    "publisher": [
+      "NEC / Konami"
+    ]
+  },
+  "hardware": {
+    "category": "controller",
+    "form": "standard",
+    "primary_family": null,
+    "compatible_families": [],
+    "generation": 4,
+    "era": null,
+    "compatible_with": [
+      "nec-pc-engine-coregrafx-mini"
+    ]
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Unique NEC library; major gap otherwise",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

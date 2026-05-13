@@ -1,0 +1,91 @@
+{
+    "id": "super-mario-rpg-legend-of-the-seven-stars",
+    "name": "Super Mario RPG: Legend of the Seven Stars",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r6p.webp",
+    "release": "1996-03-09",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario RPG",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Historic",
+            "Story Heavy"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-rpg",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "paper-mario",
+            "type": "spiritual_successor"
+        },
+        {
+            "source": "mario-and-luigi-superstar-saga",
+            "type": "spiritual_successor"
+        },
+        {
+            "source": "mario-and-luigi-superstar-saga-3ds",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Square"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Historic origin of Mario RPG formula.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Nintendo Classic Mini: Super Nintendo Entertainment System",
+    "notes": null
+}

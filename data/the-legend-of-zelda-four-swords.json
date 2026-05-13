@@ -1,0 +1,86 @@
+{
+    "id": "the-legend-of-zelda-four-swords",
+    "name": "The Legend of Zelda: Four Swords",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w9w.webp",
+    "release": "2002-12-02",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": "Four Swords"
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Co-op Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Co-op"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": "the-legend-of-zelda-a-link-to-the-past-four-swords",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-four-swords-anniversary-edition",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-minish-cap",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-four-swords-adventures",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "modes": [
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Origin of the Four Swords subseries.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

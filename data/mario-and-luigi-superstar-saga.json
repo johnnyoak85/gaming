@@ -1,0 +1,91 @@
+{
+    "id": "mario-and-luigi-superstar-saga",
+    "name": "Mario & Luigi: Superstar Saga",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9f.webp",
+    "release": "2003-11-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Mario & Luigi",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Action RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Handheld",
+            "Timing Based",
+            "Story Heavy"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "mario-and-luigi-superstar-saga-3ds",
+            "format": "enhanced_remake"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-rpg-legend-of-the-seven-stars",
+            "type": "spiritual_predecessor"
+        },
+        {
+            "source": "super-mario-rpg",
+            "type": "spiritual_predecessor"
+        },
+        {
+            "source": "mario-and-luigi-partners-in-time",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "AlphaDream"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Start of Mario & Luigi series and defines its combat system.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

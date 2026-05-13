@@ -1,0 +1,75 @@
+{
+    "id": "section-z",
+    "name": "Section-Z",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49c4.webp",
+    "release": "1985-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Section Z",
+        "series": "Section Z",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Platform Shooter",
+            "Horizontal Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Nonlinear",
+            "Capcom"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Experimental nonlinear arcade shooter from Capcom's early arcade era.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically interesting early Capcom sci-fi shooter.",
+        "notes": "Wishlist through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

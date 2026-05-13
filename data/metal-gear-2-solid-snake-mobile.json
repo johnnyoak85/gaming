@@ -1,0 +1,84 @@
+{
+    "id": "metal-gear-2-solid-snake-mobile",
+    "name": "Metal Gear 2: Solid Snake",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fux.webp",
+    "release": "2004-10-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Metal Gear",
+        "series": "Metal Gear",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Stealth Action"
+        ],
+        "themes": [
+            "Espionage",
+            "Military",
+            "Political"
+        ],
+        "tags": [
+            "MSX2",
+            "Retro",
+            "Stealth",
+            "Konami"
+        ]
+    },
+    "player_age": 13,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "metal-gear-and-metal-gear-2-solid-snake",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "metal-gear-mobile",
+            "type": "prequel"
+        },
+        {
+            "source": "metal-gear-solid",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Massively influential stealth game that established the design foundation for Metal Gear Solid.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the most historically important pre-3D stealth games ever made.",
+        "notes": null
+    },
+    "event": null,
+    "notes": "Expanded version of the original MSX game"
+}

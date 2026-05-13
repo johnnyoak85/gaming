@@ -1,0 +1,48 @@
+{
+  "id": "zero-suit-samus-amiibo",
+  "name": "Zero Suit Samus",
+  "cover": "https://amiibo.life/assets/figures/amiibo/super-smash-bros/zero-suit-samus-45c311e20a48da3e0bf0e8da9035878c9c86d693eed5e1c82c85a8ea80fc7562.png",
+  "release": "2015-06-11",
+  "type": "amiibo",
+  "franchise": {
+    "series": "Super Smash Bros.",
+    "subseries": "Metroid"
+  },
+  "amiibo": {
+    "number": "40",
+    "wave": "Super Smash Bros. Wave 6"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby the Whip copy ability and a health item"
+    },
+    {
+      "game": "metroid-prime-blast-ball",
+      "effect": "Unlock an armor paint job based on the character"
+    },
+    {
+      "game": "metroid-samus-returns",
+      "effect": "Get Aeon Reserve Tank (refills gauge when empty)  | Unlock Metroid II art"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock the Galactic Bounty Hunter costume"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character"
+    },
+    {
+      "game": "metroid-dread",
+      "effect": "Restore a random amount of health once per day"
+    },
+    {
+      "game": "metroid-prime-4-beyond",
+      "effect": "Play musical jingle"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

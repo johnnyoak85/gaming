@@ -1,0 +1,69 @@
+{
+    "id": "pac-man-arrangement-cs",
+    "name": "Pac-Man Arrangement",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47hl.webp",
+    "release": "2005-11-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Pac-Man",
+        "series": "Pac-Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Maze"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Console",
+            "Remix"
+        ]
+    },
+    "player_age": 4,
+    "access": [],
+    "versions": [
+        {
+            "source": "pac-man-arrangement-arcade",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Namco"
+        ],
+        "publisher": [
+            "Namco"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded console adaptation of Pac-Man Arrangement.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

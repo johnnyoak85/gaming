@@ -1,0 +1,72 @@
+{
+  "id": "link-majora-s-mask-amiibo",
+  "name": "Link • Majora's Mask",
+  "cover": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/link-majora-s-mask-8f7965c9e38aa43ff16c5e018546dd70457bcdaed6575bc78edb126b9c87cdc7.png",
+  "release": "2017-06-23",
+  "type": "amiibo",
+  "franchise": {
+    "series": "The Legend of Zelda",
+    "subseries": null
+  },
+  "amiibo": {
+    "number": null,
+    "wave": "The Legend of Zelda Wave 4: 30th Anniversary"
+  },
+  "ownership": "owned",
+  "functionality": [
+    {
+      "game": "the-legend-of-zelda-tears-of-the-kingdom",
+      "effect": "Receive the Majora's Mask Fabric | Receive materials and a weapon or rare item"
+    },
+    {
+      "game": "super-smash-bros-ultimate",
+      "effect": "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+    },
+    {
+      "game": "the-legend-of-zelda-breath-of-the-wild",
+      "effect": "Receive materials and a rare or exclusive item"
+    },
+    {
+      "game": "hyrule-warriors-age-of-imprisonment",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "the-legend-of-zelda-echoes-of-wisdom",
+      "effect": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients"
+    },
+    {
+      "game": "hyrule-warriors-age-of-calamity",
+      "effect": "Receive specific crafting materials or a weapon for the character"
+    },
+    {
+      "game": "hyrule-warriors-definitive-edition",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "bayonetta-2",
+      "effect": "Unlock a costume based on the character (short-hair version)"
+    },
+    {
+      "game": "mario-kart-8-deluxe",
+      "effect": "Unlock a Legend of Zelda-themed Mii racing suit"
+    },
+    {
+      "game": "kirby-planet-robobot",
+      "effect": "Give Kirby a Copy ability based on the character's abilities and a health item"
+    },
+    {
+      "game": "the-legend-of-zelda-twilight-princess-hd",
+      "effect": "Get a refill of arrows, once a day per amiibo"
+    },
+    {
+      "game": "hyrule-warriors-legends",
+      "effect": "Receive a weapon rated 3 stars or higher"
+    },
+    {
+      "game": "hyrule-warriors",
+      "effect": "Unlock the amiibo-exclusive Spinner weapon | Receive a weapon rated 3 stars or higher"
+    }
+  ],
+  "event": null,
+  "notes": null
+}

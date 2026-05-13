@@ -72,3 +72,11 @@ body {
 .dashboard-card-label {
   user-select: none;
 }
+
+.index-status {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-top: 16px;
+  min-height: 1.2em;
+}

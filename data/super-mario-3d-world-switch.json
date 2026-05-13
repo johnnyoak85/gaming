@@ -1,0 +1,75 @@
+{
+    "id": "super-mario-3d-world-switch",
+    "name": "Super Mario 3D World",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8wh.webp",
+    "release": "2021-02-12",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario 3D"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Switch",
+            "Enhanced Remaster"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "super-mario-3d-world",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-3d-world",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

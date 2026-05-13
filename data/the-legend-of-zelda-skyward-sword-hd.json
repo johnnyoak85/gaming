@@ -1,0 +1,78 @@
+{
+    "id": "the-legend-of-zelda-skyward-sword-hd",
+    "name": "The Legend of Zelda: Skyward Sword HD",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8lb.webp",
+    "release": "2021-07-16",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Remaster",
+            "Story Heavy",
+            "Classic 3D Zelda"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-skyward-sword",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Tantalus Media"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Best owned version of Skyward Sword with improved controls and quality-of-life changes.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 35
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "The Legend of Zelda: Skyward Sword 10th Anniversary",
+    "notes": null
+}

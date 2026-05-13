@@ -1,0 +1,87 @@
+{
+    "id": "street-fighter-ii-champion-edition",
+    "name": "Street Fighter II': Champion Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3t1d.webp",
+    "release": "1992-03-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Street Fighter II",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting"
+        ],
+        "themes": [
+            "Martial Arts"
+        ],
+        "tags": [
+            "Arcade",
+            "Competitive",
+            "Retro",
+            "CPS"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "street-fighter-30th-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [
+        {
+            "source": "street-fighter-ii",
+            "format": "base"
+        },
+        {
+            "source": "street-fighter-ii-special-champion-edition",
+            "format": "enhanced_remix"
+        },
+        {
+            "source": "street-fighter-ii-turbo-hyper-fighting",
+            "format": "enhanced_remix"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Definitive competitive refinement of early Street Fighter II before Hyper Fighting.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the most historically important revisions in fighting game history.",
+        "notes": "Contained in Street Fighter 30th Anniversary Collection."
+    },
+    "event": null,
+    "notes": null
+}

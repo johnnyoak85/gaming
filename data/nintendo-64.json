@@ -1,0 +1,51 @@
+{
+  "id": "nintendo-64",
+  "name": "Nintendo 64",
+  "cover": "n64",
+  "release": "1997-03-01",
+  "type": "hardware",
+  "franchise": {
+    "series": "64",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "home",
+    "primary_family": "nintendo-64",
+    "compatible_families": [],
+    "generation": 5,
+    "era": "32-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Solid Grey",
+      "cover": "n64",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Solid Grey",
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 5,
+    "reason": "Major historical gap; you used to own it",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": "Used to own"
+}

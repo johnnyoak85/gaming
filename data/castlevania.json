@@ -1,0 +1,103 @@
+{
+    "id": "castlevania",
+    "name": "Castlevania",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba2o.webp",
+    "release": "1986-09-26",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Retro",
+            "Hard",
+            "Linear"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "classic-nes-series-castlevania",
+            "format": "port"
+        },
+        {
+            "source": "arcade-archives-vs-castlevania",
+            "format": "remix"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "castlevania-ii-simons-quest",
+            "type": "sequel"
+        },
+        {
+            "source": "super-castlevania-iv",
+            "type": "reimagining"
+        },
+        {
+            "source": "haunted-castle",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "completed",
+    "backlog": {
+        "priority": 5,
+        "reason": "Foundational entry of the franchise.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

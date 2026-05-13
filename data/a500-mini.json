@@ -1,0 +1,44 @@
+{
+  "id": "a500-mini",
+  "name": "The A500 Mini",
+  "cover": "a500-mini",
+  "release": "2022-03-25",
+  "type": "hardware",
+  "franchise": {
+    "series": "Amiga",
+    "subseries": "A500"
+  },
+  "companies": {
+    "manufacturer": [
+      "Retro Games Ltd"
+    ],
+    "publisher": [
+      "Retro Games Ltd"
+    ]
+  },
+  "hardware": {
+    "category": "computer",
+    "form": "dedicated",
+    "primary_family": "a500-mini",
+    "compatible_families": [],
+    "generation": null,
+    "era": "classic",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 4,
+    "reason": "Strong Amiga representation; bridges into 16-bit computer era",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

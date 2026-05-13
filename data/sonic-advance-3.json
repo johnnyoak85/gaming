@@ -1,0 +1,77 @@
+{
+    "id": "sonic-advance-3",
+    "name": "Sonic Advance 3",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zvg.webp",
+    "release": "2004-06-07",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Advance",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld",
+            "Partner System"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-advance-2",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sonic Team",
+            "Dimps"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Final and most experimental Advance entry.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

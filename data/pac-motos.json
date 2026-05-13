@@ -1,0 +1,63 @@
+{
+    "id": "pac-motos",
+    "name": "Pac-Motos",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wok.webp",
+    "release": "2007-11-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Pac-Man",
+        "series": "Pac-Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Arena"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Remix"
+        ]
+    },
+    "player_age": 5,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Namco Bandai Games"
+        ],
+        "publisher": [
+            "Namco Bandai Games"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Small Pac-Man themed remix of Motos.",
+        "rating": 1,
+        "difficulty": 2,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

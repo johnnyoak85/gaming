@@ -1,0 +1,83 @@
+{
+    "id": "metroid-other-m",
+    "name": "Metroid: Other M",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc4u.webp",
+    "release": "2010-08-31",
+    "type": "game",
+    "franchise": {
+        "universe": "Metroid",
+        "series": "Metroid",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Story Heavy",
+            "Cinematic",
+            "Experimental"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-metroid",
+            "type": "prequel"
+        },
+        {
+            "source": "metroid-fusion",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Team Ninja",
+            "Nintendo SPD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Narrative bridge between Super Metroid and Fusion, despite mixed reception.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Controversial but important Metroid experiment",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

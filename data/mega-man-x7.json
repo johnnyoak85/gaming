@@ -1,0 +1,72 @@
+{
+    "id": "mega-man-x7",
+    "name": "Mega Man X7",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co558r.webp",
+    "release": "2003-07-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man X",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "3D"
+        ]
+    },
+    "player_age": 8,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-x6",
+            "type": "prequel"
+        },
+        {
+            "source": "mega-man-x8",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Historically notable 3D experiment for Mega Man X.",
+        "rating": 1,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

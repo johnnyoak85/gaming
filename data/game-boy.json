@@ -1,0 +1,51 @@
+{
+  "id": "game-boy",
+  "name": "Game Boy",
+  "cover": "game-boy",
+  "release": "1990-09-28",
+  "type": "hardware",
+  "franchise": {
+    "series": "Game Boy",
+    "subseries": null
+  },
+  "companies": {
+    "manufacturer": [
+      "Nintendo"
+    ],
+    "publisher": [
+      "Nintendo"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "handheld",
+    "primary_family": "game-boy",
+    "compatible_families": [],
+    "generation": 4,
+    "era": "8-bit",
+    "compatible_with": []
+  },
+  "variants": [
+    {
+      "name": "Off White",
+      "cover": "game-boy",
+      "event": null,
+      "notes": null
+    }
+  ],
+  "ownership": [
+    {
+      "variant": "Off White",
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 5,
+    "reason": "Completes Nintendo handheld lineage; authentic way to play GB carts",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

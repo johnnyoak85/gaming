@@ -1,0 +1,80 @@
+{
+    "id": "kirby-64-the-crystal-shards",
+    "name": "Kirby 64: The Crystal Shards",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wcz.webp",
+    "release": "2000-03-24",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Kirby's Dream Land"
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2.5D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Collectathon",
+            "Combination Abilities"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-64",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kirbys-dream-land-3",
+            "type": "prequel"
+        },
+        {
+            "source": "kirbys-adventure-wii",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Conclusion of Dream Land trilogy and bridge to mainline merge.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Only main Kirby on N64; system representation slot",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,81 @@
+{
+    "id": "star-fox-zero",
+    "name": "Star Fox Zero",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3i.webp",
+    "release": "2016-04-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Star Fox",
+        "series": "Star Fox",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Rail Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "Wii U",
+            "Motion Controls",
+            "Arcade Style",
+            "Nintendo"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "star-fox-64",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo",
+            "PlatinumGames"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Interesting experimental reinterpretation of the Star Fox formula built around Wii U hardware concepts.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Historically relevant final major Wii U first-party Star Fox release.",
+        "notes": "Wishlist physical copy."
+    },
+    "event": null,
+    "notes": null
+}

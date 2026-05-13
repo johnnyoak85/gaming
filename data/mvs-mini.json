@@ -1,0 +1,44 @@
+{
+  "id": "mvs-mini",
+  "name": "Unico MVS Mini",
+  "cover": "mvs-mini",
+  "release": "2018-07-24",
+  "type": "hardware",
+  "franchise": {
+    "series": "Neo Geo",
+    "subseries": "MVS"
+  },
+  "companies": {
+    "manufacturer": [
+      "SNK"
+    ],
+    "publisher": [
+      "SNK"
+    ]
+  },
+  "hardware": {
+    "category": "console",
+    "form": "dedicated",
+    "primary_family": "mvs-mini",
+    "compatible_families": [],
+    "generation": null,
+    "era": "16-bit",
+    "compatible_with": []
+  },
+  "variants": [],
+  "ownership": [
+    {
+      "variant": null,
+      "status": "wishlist",
+      "notes": null
+    }
+  ],
+  "acquisition": {
+    "priority": 3,
+    "reason": "Neo Geo arcade representation without cartridge costs",
+    "notes": null
+  },
+  "contains": [],
+  "event": null,
+  "notes": null
+}

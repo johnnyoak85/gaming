@@ -1,0 +1,78 @@
+{
+    "id": "surprise-nekketsu-new-records-the-distant-gold-medal",
+    "name": "Surprise! Nekketsu New Records! The Distant Gold Medal",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i1a.webp",
+    "release": "1992-06-26",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Kunio-kun",
+        "subseries": "Olympics"
+    },
+    "classification": {
+        "genres": [
+            "Sports",
+            "Party"
+        ],
+        "subgenres": [
+            "Arcade Sports",
+            "Mini-Game Collection"
+        ],
+        "themes": [
+            "Comedy",
+            "School"
+        ],
+        "tags": [
+            "Retro",
+            "Multiplayer",
+            "Party Game",
+            "Olympics"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Technōs Japan"
+        ],
+        "publisher": [
+            "Technōs Japan"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Late-era multiplayer-focused Kunio-kun sports competition game.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Interesting representation of Technōs' late Famicom multiplayer design.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": null
+}
