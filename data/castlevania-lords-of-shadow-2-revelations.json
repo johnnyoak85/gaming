@@ -27,7 +27,15 @@
         ]
     },
     "player_age": 16,
-    "access": [],
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [
         {
             "source": "castlevania-lords-of-shadow-2-base",

@@ -1,0 +1,82 @@
+{
+    "id": "scott-pilgrim-vs-the-world-the-game-complete-edition",
+    "name": "Scott Pilgrim vs. The World: The Game – Complete Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g7m.webp",
+    "release": "2021-01-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Scott Pilgrim",
+        "series": "Scott Pilgrim",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Beat 'em Up",
+            "RPG"
+        ],
+        "subgenres": [
+            "Brawler"
+        ],
+        "themes": [
+            "Comedy",
+            "Urban"
+        ],
+        "tags": [
+            "Nintendo Switch",
+            "Ubisoft",
+            "Pixel Art",
+            "Complete Edition"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "scott-pilgrim-vs-the-world-the-game",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Ubisoft Montreal"
+        ],
+        "publisher": [
+            "Ubisoft"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive re-release of one of the best modern beat 'em ups.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Important preservation re-release of a previously delisted cult classic.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

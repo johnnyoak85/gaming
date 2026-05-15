@@ -1,0 +1,85 @@
+{
+    "id": "portal",
+    "name": "Portal",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay61.webp",
+    "release": "2007-10-10",
+    "type": "game",
+    "franchise": {
+        "universe": "Portal",
+        "series": "Portal",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle",
+            "Shooter"
+        ],
+        "subgenres": [
+            "First-Person Puzzle"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "tags": [
+            "Steam",
+            "Valve",
+            "Puzzle",
+            "First Person"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "portal-still-alive",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "portal-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ]
+    },
+    "progress": "completed",
+    "backlog": {
+        "priority": 5,
+        "reason": "Genre-defining first-person puzzle game with legendary design and writing.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the most influential puzzle games ever created.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

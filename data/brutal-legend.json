@@ -1,0 +1,85 @@
+{
+    "id": "brutal-legend",
+    "name": "Brütal Legend",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27c8.webp",
+    "release": "2009-10-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Brütal Legend",
+        "series": "Brütal Legend",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Strategy"
+        ],
+        "subgenres": [
+            "Action Strategy"
+        ],
+        "themes": [
+            "Heavy Metal",
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Xbox 360",
+            "Double Fine",
+            "Open World",
+            "Music"
+        ]
+    },
+    "player_age": 16,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": "Used to own."
+        },
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 8
+        },
+        "modes": [
+            "solo",
+            "online",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Double Fine Productions"
+        ],
+        "publisher": [
+            "Electronic Arts"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique heavy-metal-themed action strategy hybrid with strong worldbuilding and soundtrack.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Distinctive cult-classic Double Fine production with major personality.",
+        "notes": "Previously owned."
+    },
+    "event": null,
+    "notes": null
+}

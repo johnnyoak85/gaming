@@ -1,44 +1,46 @@
 {
-    "id": "castlevania-lords-of-shadow",
-    "name": "Castlevania: Lords of Shadow",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2slv.webp",
-    "release": "2010-10-05",
+    "id": "rocket-knight",
+    "name": "Rocket Knight",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uyg.webp",
+    "release": "2010-05-12",
     "type": "game",
     "franchise": {
-        "universe": "Castlevania",
-        "series": "Castlevania: Lords of Shadow",
+        "universe": "Rocket Knight",
+        "series": "Rocket Knight",
         "subseries": null
     },
     "classification": {
         "genres": [
             "Action",
-            "Adventure"
+            "Platformer"
         ],
         "subgenres": [
-            "Action Adventure"
+            "Linear Platformer"
         ],
         "themes": [
             "Fantasy",
-            "Gothic",
-            "Horror"
+            "Sci-Fi"
         ],
         "tags": [
-            "Reimagining"
+            "Xbox 360",
+            "Steam",
+            "Konami",
+            "Revival"
         ]
     },
-    "player_age": 16,
+    "player_age": 7,
     "access": [
         {
             "platform": "xbox-360",
             "via": null,
-            "format": "physical",
-            "status": "wishlist",
+            "format": "digital",
+            "status": "owned",
             "notes": null
         },
         {
             "platform": "steam",
             "via": null,
-            "format": "contained",
+            "format": "digital",
             "status": "owned",
             "notes": null
         }
@@ -46,15 +48,7 @@
     "versions": [],
     "relationships": [
         {
-            "source": "castlevania-lords-of-shadow-reverie",
-            "type": "expansion"
-        },
-        {
-            "source": "castlevania-lords-of-shadow-resurrection",
-            "type": "expansion"
-        },
-        {
-            "source": "castlevania-lords-of-shadow-mirror-of-fate",
+            "source": "rocket-knight-adventures",
             "type": "sequel"
         }
     ],
@@ -69,7 +63,7 @@
     },
     "companies": {
         "developer": [
-            "MercurySteam"
+            "Climax Studios"
         ],
         "publisher": [
             "Konami"
@@ -78,14 +72,14 @@
     "progress": "planned",
     "backlog": {
         "priority": 4,
-        "reason": "Major reboot of Castlevania by MercurySteam.",
+        "reason": "Solid modern revival of Konami's cult-classic platforming series.",
         "rating": 4,
         "difficulty": 3,
-        "estimated_hours": 20
+        "estimated_hours": 6
     },
     "acquisition": {
-        "priority": null,
-        "reason": null,
+        "priority": 4,
+        "reason": "Important modern continuation of the Rocket Knight lineage.",
         "notes": null
     },
     "event": null,

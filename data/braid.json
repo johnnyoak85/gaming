@@ -1,0 +1,82 @@
+{
+    "id": "braid",
+    "name": "Braid",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25ni.webp",
+    "release": "2008-08-06",
+    "type": "game",
+    "franchise": {
+        "universe": "Braid",
+        "series": "Braid",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle",
+            "Platformer"
+        ],
+        "subgenres": [
+            "Puzzle Platformer"
+        ],
+        "themes": [
+            "Time Manipulation",
+            "Fantasy"
+        ],
+        "tags": [
+            "Xbox 360",
+            "Steam",
+            "Indie",
+            "Time Mechanics"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Number None"
+        ],
+        "publisher": [
+            "Microsoft Game Studios"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Landmark indie puzzle-platformer that helped define the Xbox Live Arcade era.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential indie title from the late 2000s digital revolution.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

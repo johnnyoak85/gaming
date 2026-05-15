@@ -46,7 +46,7 @@
     "relationships": [
         {
             "source": "street-fighter-iii-2nd-impact",
-            "type": "base"
+            "type": "prequel"
         }
     ],
     "playstyle": {
