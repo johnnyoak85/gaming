@@ -1,0 +1,72 @@
+{
+    "id": "x-men-origins-wolverine-uncaged-edition",
+    "name": "X-Men Origins: Wolverine - Uncaged Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8f4l.webp",
+    "release": "2009-05-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Marvel",
+        "series": "X-Men",
+        "subseries": "Wolverine"
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Character Action",
+            "Hack and Slash"
+        ],
+        "themes": [
+            "Superheroes",
+            "Violence"
+        ],
+        "tags": [
+            "Mature"
+        ]
+    },
+    "player_age": 18,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Raven Software"
+        ],
+        "publisher": [
+            "Activision"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Surprisingly strong and brutal superhero action game with satisfying combat.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the better licensed superhero action games of its era.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

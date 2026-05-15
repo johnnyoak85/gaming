@@ -1,0 +1,81 @@
+{
+    "id": "flower",
+    "name": "Flower",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q8r.webp",
+    "release": "2009-02-12",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "Flower",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Adventure"
+        ],
+        "subgenres": [
+            "Atmospheric Experience"
+        ],
+        "themes": [
+            "Nature",
+            "Relaxation"
+        ],
+        "tags": [
+            "Indie",
+            "Art Game"
+        ]
+    },
+    "player_age": 3,
+    "access": [
+        {
+            "platform": "playstation-3",
+            "via": "journey-collectors-edition",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "flow",
+            "type": "spiritual_predecessor"
+        },
+        {
+            "source": "journey",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "thatgamecompany"
+        ],
+        "publisher": [
+            "Sony Computer Entertainment"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Beautiful atmospheric experience emphasizing emotion and movement.",
+        "rating": 5,
+        "difficulty": 1,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the defining artistic indie releases of the PS3 era.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

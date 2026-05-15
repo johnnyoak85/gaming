@@ -1,0 +1,70 @@
+{
+    "id": "magical-starsign",
+    "name": "Magical Starsign",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4py6.webp",
+    "release": "2006-06-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Magical Vacation",
+        "series": "Magical Vacation",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Space",
+            "Magic"
+        ],
+        "tags": []
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Brownie Brown"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Charming Nintendo-published DS JRPG with unusual magic systems and colorful presentation.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Interesting first-party-adjacent DS RPG from Brownie Brown.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

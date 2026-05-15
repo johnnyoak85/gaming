@@ -1,0 +1,84 @@
+{
+    "id": "nes-remix-2",
+    "name": "NES Remix 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qtn.webp",
+    "release": "2014-04-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Nintendo",
+        "series": "NES Remix",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Challenge Collection",
+            "Microgame Collection"
+        ],
+        "themes": [
+            "Retro",
+            "Nintendo"
+        ],
+        "tags": [
+            "NES",
+            "Remix"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "nes-remix",
+            "type": "prequel"
+        },
+        {
+            "source": "ultimate-nes-remix",
+            "type": "enhanced_compilation"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "indieszero",
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Expanded sequel with stronger game selection and more inventive remix challenges.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important companion release to Nintendo's NES Remix experiment.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

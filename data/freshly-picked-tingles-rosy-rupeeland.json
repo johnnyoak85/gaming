@@ -31,7 +31,7 @@
     "player_age": 12,
     "access": [
         {
-            "platform": "nintendo-dsi",
+            "platform": "nintendo-ds",
             "via": null,
             "format": "physical",
             "status": "wishlist",

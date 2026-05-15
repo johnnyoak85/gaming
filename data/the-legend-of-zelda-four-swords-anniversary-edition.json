@@ -28,11 +28,11 @@
     "player_age": 10,
     "access": [
         {
-            "platform": "nintendo-dsi",
+            "platform": "nintendo-ds",
             "via": "new-nintendo-3ds-xl",
             "format": "digital",
             "status": "owned",
-            "notes": null
+            "notes": "Actually a Nintendo DSi title"
         }
     ],
     "versions": [

@@ -1,0 +1,78 @@
+{
+    "id": "soulcalibur-vi",
+    "name": "SoulCalibur VI",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x6j.webp",
+    "release": "2018-10-19",
+    "type": "game",
+    "franchise": {
+        "universe": "Soulcalibur",
+        "series": "Soulcalibur",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "Weapon-Based Fighting"
+        ],
+        "themes": [
+            "Fantasy",
+            "Martial Arts"
+        ],
+        "tags": [
+            "3D Fighting"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "soul-blade",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Project Soul"
+        ],
+        "publisher": [
+            "Bandai Namco Entertainment"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Excellent modern revival of Soulcalibur with refined mechanics and timeline reset.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Major modern return of the Soulcalibur franchise.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

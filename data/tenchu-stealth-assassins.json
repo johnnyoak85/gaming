@@ -1,0 +1,82 @@
+{
+    "id": "tenchu-stealth-assassins",
+    "name": "Tenchu: Stealth Assassins",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f38.webp",
+    "aliases": [
+        "3D Ninja Action Drama Tenchu"
+    ],
+    "release": "1998-02-26",
+    "type": "game",
+    "franchise": {
+        "universe": "Tenchu",
+        "series": "Tenchu",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Stealth"
+        ],
+        "subgenres": [
+            "Stealth Action"
+        ],
+        "themes": [
+            "Ninjas",
+            "Feudal Japan"
+        ],
+        "tags": [
+            "Stealth",
+            "Ninjas"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "playstation",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "tenchu-2-birth-of-the-stealth-assassins",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Acquire"
+        ],
+        "publisher": [
+            "Sony Computer Entertainment"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Foundational 3D stealth-action ninja game with strong atmosphere and historical importance.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the defining early stealth-action games on PlayStation.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

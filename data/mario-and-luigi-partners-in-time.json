@@ -28,7 +28,7 @@
     "player_age": 8,
     "access": [
         {
-            "platform": "nintendo-dsi",
+            "platform": "nintendo-ds",
             "via": null,
             "format": "physical",
             "status": "owned",

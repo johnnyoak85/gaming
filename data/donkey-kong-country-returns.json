@@ -26,7 +26,15 @@
         ]
     },
     "player_age": 7,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
     "versions": [
         {
             "source": "donkey-kong-country-returns-3d",

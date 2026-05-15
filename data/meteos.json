@@ -1,0 +1,74 @@
+{
+    "id": "meteos",
+    "name": "Meteos",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qop.webp",
+    "release": "2005-03-10",
+    "type": "game",
+    "franchise": {
+        "universe": "Meteos",
+        "series": "Meteos",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Falling Block Puzzle"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "Touch Controls",
+            "Puzzle"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Q Entertainment"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent touch-focused DS puzzle game with strong identity and addictive mechanics.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the Nintendo DS's defining original puzzle games.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

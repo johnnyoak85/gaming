@@ -1,0 +1,73 @@
+{
+    "id": "mini-ninjas",
+    "name": "Mini Ninjas",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21i5.webp",
+    "release": "2009-09-08",
+    "type": "game",
+    "franchise": {
+        "universe": "Mini Ninjas",
+        "series": "Mini Ninjas",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy",
+            "Ninjas"
+        ],
+        "tags": [
+            "Family Friendly",
+            "Stylized"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "IO Interactive"
+        ],
+        "publisher": [
+            "Eidos Interactive"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Charming and accessible ninja-themed action adventure with strong presentation.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Well-regarded family-friendly action title from IO Interactive.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

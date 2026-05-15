@@ -1,7 +1,7 @@
 {
-  "id": "dreamcast-controller",
-  "name": "Dreamcast Controller",
-  "cover": "dreamcast-controller",
+  "id": "sega-dreamcast",
+  "name": "Dreamcast",
+  "cover": "dreamcast",
   "release": "1999-10-14",
   "type": "hardware",
   "franchise": {
@@ -17,15 +17,13 @@
     ]
   },
   "hardware": {
-    "category": "controller",
-    "form": "standard",
-    "primary_family": null,
+    "category": "console",
+    "form": "home",
+    "primary_family": "sega-dreamcast",
     "compatible_families": [],
     "generation": 6,
-    "era": null,
-    "compatible_with": [
-      "dreamcast"
-    ]
+    "era": "128-bit",
+    "compatible_with": []
   },
   "variants": [],
   "ownership": [
@@ -42,5 +40,5 @@
   },
   "contains": [],
   "event": null,
-  "notes": null
+  "notes": "Turns on, no output"
 }

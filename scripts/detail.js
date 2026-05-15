@@ -52,7 +52,8 @@ const RELATIONSHIP_TYPES = {
   expansion: "Expansion",
   twin_engine: "Twin Engine",
   twin_game: "Twin Game",
-  adaptation: "Adaptation"
+  adaptation: "Adaptation",
+  enhanced_compilation: "Enhanced Compilation"
 };
 
 function enumLabel(map, key) {

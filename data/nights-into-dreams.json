@@ -1,0 +1,77 @@
+{
+    "id": "nights-into-dreams",
+    "name": "NiGHTS into Dreams...",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co720p.webp",
+    "release": "2008-02-21",
+    "type": "game",
+    "franchise": {
+        "universe": "NiGHTS",
+        "series": "NiGHTS",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Flight Action"
+        ],
+        "themes": [
+            "Dreams",
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade Style"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "nights-journey-of-dreams",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sonic Team"
+        ],
+        "publisher": [
+            "SEGA"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Cult-classic SEGA flight-action game with unique movement and dreamlike presentation.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically important Saturn-era SEGA title and origin of the NiGHTS franchise.",
+        "notes": "Owned digitally on Steam."
+    },
+    "event": null,
+    "notes": "Incorporates the stages from Christmas Nights into Dreams..."
+}

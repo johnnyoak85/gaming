@@ -1,0 +1,73 @@
+{
+    "id": "dragon-ball-z-attack-of-the-saiyans",
+    "name": "Dragon Ball Z: Attack of the Saiyans",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dh2.webp",
+    "aliases": [
+        "Dragon Ball Kai: Saiyan Invasion"
+    ],
+    "release": "2009-04-29",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Dragon Ball Z",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts",
+            "Adventure"
+        ],
+        "tags": []
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Monolith Soft"
+        ],
+        "publisher": [
+            "Atari"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Excellent traditional JRPG adaptation of early Dragon Ball Z with strong presentation and pacing.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the strongest Dragon Ball RPGs ever produced.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

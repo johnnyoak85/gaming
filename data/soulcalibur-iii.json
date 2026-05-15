@@ -1,0 +1,82 @@
+{
+    "id": "soulcalibur-iii",
+    "name": "SoulCalibur III",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54l3.webp",
+    "release": "2005-11-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Soulcalibur",
+        "series": "Soulcalibur",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "Weapon-Based Fighting"
+        ],
+        "themes": [
+            "Fantasy",
+            "Martial Arts"
+        ],
+        "tags": [
+            "3D Fighting",
+            "Character Creation"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "playstation-2",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "soulcalibur-ii",
+            "type": "prequel"
+        },
+        {
+            "source": "soulcalibur-iv",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Project Soul"
+        ],
+        "publisher": [
+            "Namco"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Content-rich continuation introducing extensive customization and single-player modes.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important expansion of the Soulcalibur formula during the PS2 era.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

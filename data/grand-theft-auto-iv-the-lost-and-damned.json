@@ -1,0 +1,79 @@
+{
+    "id": "grand-theft-auto-iv-the-lost-and-damned",
+    "name": "Grand Theft Auto IV: The Lost and Damned",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1th2.webp",
+    "release": "2009-02-17",
+    "type": "expansion",
+    "franchise": {
+        "universe": "Grand Theft Auto",
+        "series": "Grand Theft Auto",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Open World Action",
+            "Expansion"
+        ],
+        "themes": [
+            "Crime",
+            "Bikers"
+        ],
+        "tags": [
+            "Open World"
+        ]
+    },
+    "player_age": 18,
+    "access": [
+        {
+            "platform": "steam",
+            "via": "grand-theft-auto-iv-the-complete-edition",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "grand-theft-auto-iv",
+            "type": "base"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 16
+        },
+        "modes": [
+            "solo",
+            "online"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Rockstar North"
+        ],
+        "publisher": [
+            "Rockstar Games"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Darker biker-focused GTA IV expansion with excellent atmosphere and writing.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Major narrative expansion to GTA IV.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}
