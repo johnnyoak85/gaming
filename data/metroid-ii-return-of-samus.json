@@ -9,6 +9,7 @@
         "series": "Metroid",
         "subseries": null
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Action",

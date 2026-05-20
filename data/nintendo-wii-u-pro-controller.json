@@ -8,6 +8,7 @@
     "series": "Wii U",
     "subseries": null
   },
+  "system": "nintendo-wii-u",
   "companies": {
     "manufacturer": [
       "Nintendo"

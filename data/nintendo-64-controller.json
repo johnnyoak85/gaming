@@ -8,6 +8,7 @@
     "series": "Nintendo 64",
     "subseries": null
   },
+  "system": "nintendo-64",
   "companies": {
     "manufacturer": [
       "Nintendo"

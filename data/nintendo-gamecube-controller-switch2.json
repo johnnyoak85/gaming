@@ -8,6 +8,7 @@
     "series": "Switch 2",
     "subseries": "GameCube"
   },
+  "system": "nintendo-gamecube",
   "companies": {
     "manufacturer": [
       "Nintendo"

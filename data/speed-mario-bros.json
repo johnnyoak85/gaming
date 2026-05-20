@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": null
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Platform"
@@ -27,7 +28,13 @@
         ]
     },
     "player_age": 6,
-    "access": [],
+    "access": [ {
+            "platform": "nintendo-3ds",
+            "via": "ultimate-nes-remix",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }],
     "versions": [
         {
             "source": "super-mario-bros",

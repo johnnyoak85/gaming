@@ -9,6 +9,7 @@
         "series": "Don't Pull",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Puzzle"
@@ -23,8 +24,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Competitive",
-            "CPS"
+            "Competitive"
         ]
     },
     "player_age": 5,

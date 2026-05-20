@@ -9,6 +9,7 @@
         "series": "Mario Kart",
         "subseries": null
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Racing"

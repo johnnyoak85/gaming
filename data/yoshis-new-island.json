@@ -9,6 +9,7 @@
         "series": "Yoshi",
         "subseries": "Yoshi's Island"
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Platform"

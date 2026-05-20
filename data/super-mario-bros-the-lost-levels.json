@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario Bros."
     },
+    "system": "famicom-disk-system",
     "classification": {
         "genres": [
             "Platform"

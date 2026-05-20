@@ -9,6 +9,7 @@
         "series": "Street Fighter III",
         "subseries": null
     },
+    "system": "capcom-play-system-iii",
     "classification": {
         "genres": [
             "Fighting"
@@ -20,7 +21,6 @@
             "Martial Arts"
         ],
         "tags": [
-            "CPS3",
             "Competitive",
             "Arcade Port",
             "Parry System"

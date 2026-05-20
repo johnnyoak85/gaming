@@ -9,6 +9,7 @@
         "series": "Soulcalibur",
         "subseries": null
     },
+    "system": "nintendo-gamecube",
     "classification": {
         "genres": [
             "Fighting"

@@ -9,6 +9,7 @@
         "series": "Dr. Mario",
         "subseries": null
     },
+    "system": "nintendo-wiiware",
     "classification": {
         "genres": [
             "Puzzle"

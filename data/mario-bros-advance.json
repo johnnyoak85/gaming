@@ -9,6 +9,7 @@
         "series": "Mario",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Platform"

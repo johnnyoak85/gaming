@@ -9,6 +9,7 @@
         "series": "Block Block",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Puzzle"
@@ -22,8 +23,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Paddle Game",
-            "CPS"
+            "Paddle Game"
         ]
     },
     "player_age": 5,

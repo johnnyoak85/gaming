@@ -9,6 +9,7 @@
         "series": "Wario Land",
         "subseries": null
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Platform"

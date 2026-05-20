@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "New Super Mario Bros."
     },
+    "system": "nintendo-wii-u",
     "classification": {
         "genres": [
             "Platform"

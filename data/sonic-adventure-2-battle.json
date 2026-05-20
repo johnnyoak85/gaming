@@ -9,6 +9,7 @@
         "series": "Sonic Adventure",
         "subseries": null
     },
+    "system": "nintendo-gamecube",
     "classification": {
         "genres": [
             "Action",

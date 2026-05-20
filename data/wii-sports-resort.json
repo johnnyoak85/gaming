@@ -9,6 +9,7 @@
         "series": "Wii Sports",
         "subseries": null
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Sports",

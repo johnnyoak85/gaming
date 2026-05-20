@@ -12,6 +12,7 @@
         "series": "Metal Gear",
         "subseries": null
     },
+    "system": "game-boy-color",
     "classification": {
         "genres": [
             "Action"

@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario Land"
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Platform"

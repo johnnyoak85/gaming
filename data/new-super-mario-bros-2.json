@@ -1,3 +1,4 @@
+
 {
     "id": "new-super-mario-bros-2",
     "name": "New Super Mario Bros. 2",
@@ -9,6 +10,7 @@
         "series": "Super Mario",
         "subseries": "New Super Mario Bros."
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Platform"

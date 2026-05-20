@@ -9,6 +9,7 @@
         "series": "F-Zero",
         "subseries": null
     },
+    "system": "nintendo-gamecube",
     "classification": {
         "genres": [
             "Racing"

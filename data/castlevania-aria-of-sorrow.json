@@ -9,6 +9,7 @@
         "series": "Castlevania",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Action",

@@ -9,6 +9,7 @@
         "series": "Wii Fit",
         "subseries": null
     },
+    "system": "nintendo-wii-u",
     "classification": {
         "genres": [
             "Fitness",

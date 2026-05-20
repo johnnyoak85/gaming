@@ -12,6 +12,7 @@
         "series": "Slam Masters",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Fighting",
@@ -28,8 +29,7 @@
         "tags": [
             "Arcade",
             "Wrestling",
-            "Retro",
-            "CPS"
+            "Retro"
         ]
     },
     "player_age": 10,

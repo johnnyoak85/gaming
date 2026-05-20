@@ -9,6 +9,7 @@
         "series": "Sonic Advance",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Action",

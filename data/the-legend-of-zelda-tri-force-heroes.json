@@ -9,6 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": null
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Action",

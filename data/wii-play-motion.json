@@ -12,6 +12,7 @@
         "series": "Wii Play",
         "subseries": null
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Party",

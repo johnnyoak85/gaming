@@ -9,6 +9,7 @@
         "series": "Ristar",
         "subseries": null
     },
+    "system": "sega-mega-drive",
     "classification": {
         "genres": [
             "Action",

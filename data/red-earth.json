@@ -12,6 +12,7 @@
         "series": "Red Earth",
         "subseries": null
     },
+    "system": "capcom-play-system-iii",
     "classification": {
         "genres": [
             "Fighting",
@@ -27,8 +28,7 @@
         ],
         "tags": [
             "Arcade",
-            "Retro",
-            "CPS3"
+            "Retro"
         ]
     },
     "player_age": 10,

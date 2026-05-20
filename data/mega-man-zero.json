@@ -9,6 +9,7 @@
         "series": "Mega Man Zero",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Action",

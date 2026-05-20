@@ -9,6 +9,7 @@
         "series": "Castlevania",
         "subseries": "Classic NES Series"
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Action",

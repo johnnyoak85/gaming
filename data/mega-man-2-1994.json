@@ -9,6 +9,7 @@
         "series": "Mega Man",
         "subseries": null
     },
+    "system": "sega-mega-drive",
     "classification": {
         "genres": [
             "Action",

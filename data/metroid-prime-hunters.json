@@ -9,6 +9,7 @@
         "series": "Metroid",
         "subseries": "Metroid Prime"
     },
+    "system": "nintendo-ds",
     "classification": {
         "genres": [
             "Shooter"

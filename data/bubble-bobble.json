@@ -9,6 +9,7 @@
         "series": "Bubble Bobble",
         "subseries": null
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Platform"

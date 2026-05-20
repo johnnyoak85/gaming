@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario 64"
     },
+    "system": "nintendo-ds",
     "classification": {
         "genres": [
             "Platform",

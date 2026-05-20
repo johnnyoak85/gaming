@@ -9,6 +9,7 @@
         "series": "Yoshi",
         "subseries": "Yoshi's Island"
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Platform"

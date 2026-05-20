@@ -8,6 +8,7 @@
     "series": "Classic Mini",
     "subseries": "Nintendo Entertainment System"
   },
+  "system": "nintendo-entertainment-system",
   "companies": {
     "manufacturer": [
       "Nintendo"

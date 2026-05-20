@@ -9,6 +9,7 @@
         "series": "Mega Man",
         "subseries": "The Wily Wars"
     },
+    "system": "sega-mega-drive",
     "classification": {
         "genres": [
             "Action",

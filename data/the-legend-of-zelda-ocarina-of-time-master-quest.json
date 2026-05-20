@@ -9,6 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": null
     },
+    "system": "nintendo-64",
     "classification": {
         "genres": [
             "Action",
@@ -26,7 +27,13 @@
         ]
     },
     "player_age": 12,
-    "access": [],
+    "access": [   {
+            "platform": "nintendo-gamecube",
+            "via": "the-legend-of-zelda-ocarina-of-time-gamecube-bonus-disc",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }],
     "versions": [
         {
             "source": "the-legend-of-zelda-ocarina-of-time",

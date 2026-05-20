@@ -9,6 +9,7 @@
         "series": "Pac-Man",
         "subseries": null
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Action"

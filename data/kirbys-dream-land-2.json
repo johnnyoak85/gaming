@@ -9,6 +9,7 @@
         "series": "Kirby",
         "subseries": "Kirby's Dream Land"
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Platform"

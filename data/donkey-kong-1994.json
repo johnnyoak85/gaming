@@ -9,6 +9,7 @@
         "series": "Donkey Kong",
         "subseries": null
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Platform",

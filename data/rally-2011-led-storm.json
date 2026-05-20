@@ -12,6 +12,7 @@
         "series": "LED Storm",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Racing",
@@ -27,8 +28,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Vehicle Combat",
-            "CPS"
+            "Vehicle Combat"
         ]
     },
     "player_age": 8,

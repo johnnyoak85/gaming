@@ -8,6 +8,7 @@
     "series": "Switch",
     "subseries": "Super Nintendo Entertainment System"
   },
+  "system": "super-nintendo-entertainment-system",
   "companies": {
     "manufacturer": [
       "Nintendo"

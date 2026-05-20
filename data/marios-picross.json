@@ -9,6 +9,7 @@
         "series": "Picross",
         "subseries": null
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Puzzle"

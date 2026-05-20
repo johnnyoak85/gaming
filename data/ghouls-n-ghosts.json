@@ -12,6 +12,7 @@
         "series": "Ghosts 'n Goblins",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Action",
@@ -26,8 +27,7 @@
         ],
         "tags": [
             "Arcade",
-            "Hard",
-            "CPS"
+            "Hard"
         ]
     },
     "player_age": 10,

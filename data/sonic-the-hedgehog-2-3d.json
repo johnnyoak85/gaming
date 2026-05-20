@@ -9,6 +9,7 @@
         "series": "Sonic the Hedgehog",
         "subseries": "3D Classics"
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Action",

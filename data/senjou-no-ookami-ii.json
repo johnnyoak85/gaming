@@ -12,6 +12,7 @@
         "series": "Commando",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Shooter",
@@ -27,8 +28,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Run and Gun",
-            "CPS"
+            "Run and Gun"
         ]
     },
     "player_age": 9,

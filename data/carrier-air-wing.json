@@ -12,6 +12,7 @@
         "series": "Carrier Air Wing",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Shooter"
@@ -26,8 +27,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Co-Op",
-            "CPS"
+            "Co-Op"
         ]
     },
     "player_age": 9,

@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario Galaxy"
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Platform",

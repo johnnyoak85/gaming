@@ -9,6 +9,7 @@
         "series": "Metroid",
         "subseries": "Metroid Prime"
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Action",

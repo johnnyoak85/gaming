@@ -9,6 +9,7 @@
         "series": "Final Fantasy",
         "subseries": "Final Fantasy Advance"
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "RPG"

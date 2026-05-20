@@ -9,6 +9,7 @@
         "series": "Soulcalibur",
         "subseries": null
     },
+    "system": "sega-dreamcast",
     "classification": {
         "genres": [
             "Fighting"

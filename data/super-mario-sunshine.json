@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario Sunshine"
     },
+    "system": "nintendo-gamecube",
     "classification": {
         "genres": [
             "Platform",

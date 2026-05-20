@@ -9,6 +9,7 @@
         "series": "Game & Watch",
         "subseries": "Color Screen Series"
     },
+    "system": "game-watch",
     "classification": {
         "genres": [
             "Action"

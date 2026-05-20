@@ -9,6 +9,7 @@
         "series": "Breath of Fire",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "RPG"

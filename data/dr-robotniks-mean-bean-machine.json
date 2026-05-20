@@ -9,6 +9,7 @@
         "series": "Dr. Robotnik's Mean Bean Machine",
         "subseries": null
     },
+    "system": "sega-mega-drive",
     "classification": {
         "genres": [
             "Puzzle"

@@ -9,6 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": null
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Action",
@@ -25,7 +26,15 @@
         ]
     },
     "player_age": 10,
-    "access": [],
+    "access": [
+          {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [
         {
             "source": "the-legend-of-zelda-ocarina-of-time",

@@ -9,6 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": null
     },
+    "system": "nintendo-64",
     "classification": {
         "genres": [
             "Action",
@@ -31,6 +32,13 @@
             "platform": "nintendo-64",
             "via": null,
             "format": "physical",
+            "status": "owned",
+            "notes": null
+        },
+          {
+            "platform": "nintendo-gamecube",
+            "via": "the-legend-of-zelda-collectors-edition",
+            "format": "contained",
             "status": "owned",
             "notes": null
         }

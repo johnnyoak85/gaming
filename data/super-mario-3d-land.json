@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario 3D"
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Platform"

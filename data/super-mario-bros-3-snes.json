@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario All-Stars"
     },
+    "system": "super-nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Platform"

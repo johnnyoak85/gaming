@@ -9,6 +9,7 @@
         "series": "Mega Man ZX",
         "subseries": null
     },
+    "system": "nintendo-ds",
     "classification": {
         "genres": [
             "Action",

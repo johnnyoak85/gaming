@@ -9,6 +9,7 @@
         "series": "Ice Climber",
         "subseries": null
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Platform"

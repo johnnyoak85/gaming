@@ -9,6 +9,7 @@
         "series": "Kid Icarus",
         "subseries": null
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Platform",

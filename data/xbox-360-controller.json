@@ -8,6 +8,7 @@
     "series": "Xbox",
     "subseries": "Xbox 360"
   },
+  "system": "xbox-360",
   "companies": {
     "manufacturer": [
       "MicroSoft"

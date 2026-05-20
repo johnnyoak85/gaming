@@ -9,6 +9,7 @@
         "series": "Donkey Kong",
         "subseries": "Donkey Kong Country"
     },
+    "system": "super-nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Platform"

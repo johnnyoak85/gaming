@@ -9,6 +9,7 @@
         "series": "NES Remix",
         "subseries": null
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Action",
@@ -48,6 +49,7 @@
             "type": "base"
         }
     ],
+    "contains": ["speed-mario-bros"],
     "playstyle": {
         "players": {
             "min": 1,

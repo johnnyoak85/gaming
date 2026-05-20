@@ -9,6 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": "Four Swords"
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Action",

@@ -12,6 +12,7 @@
         "series": "Three Wonders",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Compilation",
@@ -28,8 +29,7 @@
         "tags": [
             "Arcade",
             "Co-Op",
-            "Retro",
-            "CPS"
+            "Retro"
         ]
     },
     "player_age": 8,

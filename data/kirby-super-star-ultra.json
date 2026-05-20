@@ -9,6 +9,7 @@
         "series": "Kirby",
         "subseries": "Super Star"
     },
+    "system": "nintendo-ds",
     "classification": {
         "genres": [
             "Platform"

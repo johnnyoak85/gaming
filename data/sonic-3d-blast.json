@@ -9,6 +9,7 @@
         "series": "Sonic",
         "subseries": null
     },
+    "system": "sega-mega-drive",
     "classification": {
         "genres": [
             "Action",

@@ -9,6 +9,7 @@
         "series": "Captain Commando",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Action",
@@ -24,8 +25,7 @@
         "tags": [
             "Arcade",
             "Co-Op",
-            "Retro",
-            "CPS"
+            "Retro"
         ]
     },
     "player_age": 10,

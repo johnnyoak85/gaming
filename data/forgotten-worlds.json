@@ -12,6 +12,7 @@
         "series": "Forgotten Worlds",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Shooter",
@@ -28,8 +29,7 @@
         "tags": [
             "Arcade",
             "Co-Op",
-            "Retro",
-            "CPS"
+            "Retro"
         ]
     },
     "player_age": 10,

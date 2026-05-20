@@ -9,6 +9,7 @@
         "series": "Wario Land",
         "subseries": null
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "Platform"

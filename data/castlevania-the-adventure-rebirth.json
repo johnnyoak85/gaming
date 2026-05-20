@@ -9,6 +9,7 @@
         "series": "Castlevania",
         "subseries": "Dracula Legend"
     },
+    "system": "nintendo-wiiware",
     "classification": {
         "genres": [
             "Action",

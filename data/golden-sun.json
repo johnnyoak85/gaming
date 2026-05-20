@@ -12,6 +12,7 @@
         "series": "Golden Sun",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "RPG"

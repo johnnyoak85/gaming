@@ -8,6 +8,7 @@
     "series": "Mega Drive",
     "subseries": null
   },
+  "system": "sega-mega-drive",
   "companies": {
     "manufacturer": [
       "Sega"

@@ -9,6 +9,7 @@
         "series": "Tetris",
         "subseries": null
     },
+    "system": "sega-mega-drive",
     "classification": {
         "genres": [
             "Puzzle"

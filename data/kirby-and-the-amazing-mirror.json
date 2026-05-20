@@ -9,6 +9,7 @@
         "series": "Kirby",
         "subseries": null
     },
+    "system": "game-boy-advance",
     "classification": {
         "genres": [
             "Platform",

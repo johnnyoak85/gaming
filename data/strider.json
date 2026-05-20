@@ -12,6 +12,7 @@
         "series": "Strider",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Action",
@@ -27,8 +28,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Ninja",
-            "CPS"
+            "Ninja"
         ]
     },
     "player_age": 10,

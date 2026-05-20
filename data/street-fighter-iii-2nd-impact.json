@@ -9,6 +9,7 @@
         "series": "Street Fighter III",
         "subseries": null
     },
+    "system": "capcom-play-system-iii",
     "classification": {
         "genres": [
             "Fighting"
@@ -21,8 +22,7 @@
         ],
         "tags": [
             "Arcade",
-            "Competitive",
-            "CPS3"
+            "Competitive"
         ]
     },
     "player_age": 10,

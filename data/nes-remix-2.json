@@ -9,6 +9,7 @@
         "series": "NES Remix",
         "subseries": null
     },
+    "system": "nintendo-wii-u",
     "classification": {
         "genres": [
             "Action",
@@ -48,6 +49,7 @@
             "type": "enhanced_compilation"
         }
     ],
+    "contains": ["super-luigi-bros"],
     "playstyle": {
         "players": {
             "min": 1,

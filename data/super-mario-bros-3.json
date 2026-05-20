@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario Bros."
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Platform"

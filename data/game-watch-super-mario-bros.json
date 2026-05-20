@@ -8,6 +8,7 @@
     "series": "Game & Watch",
     "subseries": null
   },
+  "system": "game-watch",
   "companies": {
     "manufacturer": [
       "Nintendo"

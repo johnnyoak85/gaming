@@ -8,6 +8,7 @@
     "series": "PlayStation",
     "subseries": "PlayStation 3"
   },
+  "system": "playstation-3",
   "companies": {
     "manufacturer": [
       "Sony"

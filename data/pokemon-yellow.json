@@ -9,6 +9,7 @@
         "series": "Pokémon",
         "subseries": null
     },
+    "system": "game-boy",
     "classification": {
         "genres": [
             "RPG"

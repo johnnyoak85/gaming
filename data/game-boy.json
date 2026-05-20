@@ -8,6 +8,7 @@
     "series": "Game Boy",
     "subseries": null
   },
+  "system": "game-boy",
   "companies": {
     "manufacturer": [
       "Nintendo"

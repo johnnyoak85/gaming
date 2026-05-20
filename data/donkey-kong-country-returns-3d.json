@@ -9,6 +9,7 @@
         "series": "Donkey Kong",
         "subseries": "Donkey Kong Country"
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Platform"

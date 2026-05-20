@@ -9,6 +9,7 @@
         "series": "Super Mario",
         "subseries": "Super Mario 3D"
     },
+    "system": "nintendo-wii-u",
     "classification": {
         "genres": [
             "Platform"
@@ -46,6 +47,7 @@
             "type": "prequel"
         }
     ],
+    "contains": ["luigi-bros"],
     "playstyle": {
         "players": {
             "min": 1,

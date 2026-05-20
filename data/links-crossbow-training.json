@@ -9,6 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": null
     },
+    "system": "nintendo-wii",
     "classification": {
         "genres": [
             "Shooter"

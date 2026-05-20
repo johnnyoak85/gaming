@@ -9,6 +9,7 @@
         "series": "Street Fighter II",
         "subseries": null
     },
+    "system": "capcom-play-system",
     "classification": {
         "genres": [
             "Fighting"
@@ -22,8 +23,7 @@
         "tags": [
             "Arcade",
             "Competitive",
-            "Retro",
-            "CPS"
+            "Retro"
         ]
     },
     "player_age": 10,

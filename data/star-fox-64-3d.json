@@ -9,6 +9,7 @@
         "series": "Star Fox",
         "subseries": null
     },
+    "system": "nintendo-3ds",
     "classification": {
         "genres": [
             "Shooter"
