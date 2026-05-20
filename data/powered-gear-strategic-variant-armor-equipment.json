@@ -12,6 +12,7 @@
         "series": "Armored Warriors",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Action",
@@ -27,8 +28,7 @@
         "tags": [
             "Arcade",
             "Co-Op",
-            "Retro",
-            "CPS2"
+            "Retro"
         ]
     },
     "player_age": 10,

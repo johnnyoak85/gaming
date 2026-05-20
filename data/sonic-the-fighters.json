@@ -22,7 +22,15 @@
         ]
     },
     "player_age": 8,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-gems-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [],
     "relationships": [],
     "playstyle": {

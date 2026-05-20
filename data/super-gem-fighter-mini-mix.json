@@ -12,6 +12,7 @@
         "series": "Puzzle Fighter",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Fighting"
@@ -26,8 +27,7 @@
         "tags": [
             "Arcade",
             "Chibi",
-            "Retro",
-            "CPS2"
+            "Retro"
         ]
     },
     "player_age": 8,

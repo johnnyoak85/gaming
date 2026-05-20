@@ -9,6 +9,7 @@
         "series": "Tails",
         "subseries": null
     },
+    "system": "game-gear",
     "classification": {
         "genres": [
             "Action"
@@ -22,7 +23,22 @@
         ]
     },
     "player_age": 6,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-adventure-dx",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-gems-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [],
     "relationships": [],
     "playstyle": {

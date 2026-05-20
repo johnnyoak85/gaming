@@ -12,6 +12,7 @@
         "series": "Street Fighter Alpha",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Fighting"
@@ -25,8 +26,7 @@
         "tags": [
             "Arcade",
             "Competitive",
-            "Combo System",
-            "CPS2"
+            "Combo System"
         ]
     },
     "player_age": 10,

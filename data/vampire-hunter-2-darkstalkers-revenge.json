@@ -9,6 +9,7 @@
         "series": "Darkstalkers",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Fighting"
@@ -24,8 +25,7 @@
         "tags": [
             "Arcade",
             "Competitive",
-            "Retro",
-            "CPS2"
+            "Retro"
         ]
     },
     "player_age": 12,

@@ -23,7 +23,15 @@
         ]
     },
     "player_age": 6,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "sonic-x-shadow-generations",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [],
     "relationships": [],
     "playstyle": {

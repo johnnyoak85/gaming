@@ -32,6 +32,13 @@
             "format": "digital",
             "status": "owned",
             "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "sonic-origins-plus",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
         }
     ],
     "versions": [

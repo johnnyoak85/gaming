@@ -26,6 +26,13 @@
     "player_age": 6,
     "access": [
         {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
             "platform": "mega-drive-mini",
             "via": null,
             "format": "built_in",

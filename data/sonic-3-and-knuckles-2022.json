@@ -24,7 +24,15 @@
         ]
     },
     "player_age": 6,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "sonic-origins-plus",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [
         {
             "source": "sonic-3-and-knuckles",

@@ -12,6 +12,7 @@
         "series": "Progear",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Shooter"
@@ -27,8 +28,7 @@
         "tags": [
             "Arcade",
             "Cave",
-            "Retro",
-            "CPS2"
+            "Retro"
         ]
     },
     "player_age": 10,

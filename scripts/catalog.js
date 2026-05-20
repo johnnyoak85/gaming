@@ -78,3 +78,7 @@ export function getHardware(catalog) {
 export function getAmiibo(catalog) {
   return catalog.filter((e) => e.type === "amiibo");
 }
+
+export function getSystems(catalog) {
+  return catalog.filter((e) => e.type === "system");
+}

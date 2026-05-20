@@ -9,6 +9,7 @@
         "series": "Capcom Sports Club",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Sports"
@@ -22,8 +23,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Multisport",
-            "CPS2"
+            "Multisport"
         ]
     },
     "player_age": 5,

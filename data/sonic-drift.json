@@ -9,6 +9,7 @@
         "series": "Sonic Drift",
         "subseries": null
     },
+    "system": "game-gear",
     "classification": {
         "genres": [
             "Racing"
@@ -23,7 +24,15 @@
         ]
     },
     "player_age": 6,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-adventure-dx",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [],
     "relationships": [
         {

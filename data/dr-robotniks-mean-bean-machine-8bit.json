@@ -12,6 +12,7 @@
         "series": "Dr. Robotnik's Mean Bean Machine",
         "subseries": null
     },
+    "system": "game-gear",
     "classification": {
         "genres": [
             "Puzzle"
@@ -29,7 +30,15 @@
         ]
     },
     "player_age": 6,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-adventure-dx",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [
         {
             "source": "dr-robotniks-mean-bean-machine",

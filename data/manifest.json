@@ -180,6 +180,18 @@
     "type": "collection"
   },
   {
+    "id": "capcom-play-system",
+    "type": "system"
+  },
+  {
+    "id": "capcom-play-system-ii",
+    "type": "system"
+  },
+  {
+    "id": "capcom-play-system-iii",
+    "type": "system"
+  },
+  {
     "id": "capcom-sports-club",
     "type": "game"
   },
@@ -902,6 +914,10 @@
   {
     "id": "game-boy-color",
     "type": "hardware"
+  },
+  {
+    "id": "game-gear",
+    "type": "system"
   },
   {
     "id": "game-watch-super-mario-bros",
@@ -2542,6 +2558,10 @@
   {
     "id": "sega-dreamcast-controller",
     "type": "hardware"
+  },
+  {
+    "id": "sega-master-system",
+    "type": "system"
   },
   {
     "id": "senjou-no-ookami-ii",

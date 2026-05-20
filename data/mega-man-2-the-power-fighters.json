@@ -12,6 +12,7 @@
         "series": "Mega Man",
         "subseries": "Classic"
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Action",
@@ -28,8 +29,7 @@
         "tags": [
             "Arcade",
             "Co-Op",
-            "Retro",
-            "CPS2"
+            "Retro"
         ]
     },
     "player_age": 8,

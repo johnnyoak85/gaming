@@ -12,6 +12,7 @@
         "series": "Eco Fighters",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Shooter"
@@ -26,8 +27,7 @@
         "tags": [
             "Arcade",
             "Retro",
-            "Rotating Cannon",
-            "CPS2"
+            "Rotating Cannon"
         ]
     },
     "player_age": 8,

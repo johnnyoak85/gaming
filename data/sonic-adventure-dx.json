@@ -49,6 +49,20 @@
             "type": "sequel"
         }
     ],
+    "contains": [
+        "sonic-the-hedgehog-8bit",
+        "sonic-chaos",
+        "sonic-drift",
+        "sonic-spinball-8bit",
+        "sonic-labyrinth",
+        "sonic-the-hedgehog-2-8bit",
+        "dr-robotniks-mean-bean-machine-8bit",
+        "sonic-triple-trouble",
+        "sonic-drift-2",
+        "tails-skypatrol",
+        "sonic-blast",
+        "tails-adventure"
+    ],
     "playstyle": {
         "players": {
             "min": 1,

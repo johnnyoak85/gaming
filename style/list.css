@@ -128,3 +128,13 @@ body {
   font-size: 0.95rem;
   padding: 3rem 0;
 }
+
+/* ===================== */
+/* System hero logo      */
+/* ===================== */
+.system-hero-logo {
+  max-width: 300px;
+  max-height: 120px;
+  object-fit: contain;
+  margin-bottom: 24px;
+}

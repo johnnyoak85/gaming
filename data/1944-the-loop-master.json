@@ -9,6 +9,7 @@
         "series": "194X",
         "subseries": null
     },
+    "system": "capcom-play-system-ii",
     "classification": {
         "genres": [
             "Shooter"
@@ -23,8 +24,7 @@
         "tags": [
             "Arcade",
             "Bullet Hell-lite",
-            "Retro",
-            "CPS2"
+            "Retro"
         ]
     },
     "player_age": 9,
