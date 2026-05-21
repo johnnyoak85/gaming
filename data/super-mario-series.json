@@ -1,0 +1,13 @@
+{
+    "id": "super-mario-series",
+    "type": "series",
+    "name": "Super Mario",
+    "logo": "super-mario-logo",
+    "circle": "major",
+    "contains": [
+        "super-mario-bros-series",
+        "mario-bros-series",
+        "dr-mario-series",
+        "donkey-kong-series"
+    ]
+}

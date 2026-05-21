@@ -83,3 +83,11 @@ export function getAmiibo(catalog) {
 export function getSystems(catalog) {
   return catalog.filter((e) => e.type === "system");
 }
+
+export function getSeries(catalog) {
+  return catalog.filter((e) => e.type === "series");
+}
+
+export function getDevelopers(catalog) {
+  return catalog.filter((e) => e.type === "developer");
+}
