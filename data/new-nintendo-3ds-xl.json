@@ -8,6 +8,7 @@
     "series": "Nintendo 3DS",
     "subseries": "New 3DS"
   },
+  "system": "nintendo-3ds",
   "companies": {
     "manufacturer": [
       "Nintendo"

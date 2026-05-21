@@ -9,7 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": "Four Swords"
     },
-    "system": "nintendo-dsiware",
+    "system": "dsiware",
     "classification": {
         "genres": [
             "Action",

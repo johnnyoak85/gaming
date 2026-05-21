@@ -8,6 +8,7 @@
     "series": "Dreamcast",
     "subseries": null
   },
+  "system": "sega-dreamcast",
   "companies": {
     "manufacturer": [
       "Sega"

@@ -9,9 +9,10 @@ async function getManifest() {
   return res.json();
 }
 
-async function fetchEntry(id) {
+async function fetchEntry({ id, file }) {
   try {
-    const res = await fetch(`${SOLO_PATH}${id}.json`);
+    const name = file || id;
+    const res = await fetch(`${SOLO_PATH}${name}.json`);
     if (!res.ok) return null;
     return res.json();
   } catch {
@@ -51,7 +52,7 @@ export async function loadCatalog(onProgress) {
   const batchSize = 50;
   for (let i = 0; i < manifest.length; i += batchSize) {
     const batch = manifest.slice(i, i + batchSize);
-    const results = await Promise.all(batch.map((m) => fetchEntry(m.id)));
+    const results = await Promise.all(batch.map((m) => fetchEntry(m)));
     for (const entry of results) {
       if (entry) catalog.push(entry);
     }

@@ -9,6 +9,7 @@
         "series": "Gradius",
         "subseries": null
     },
+    "system": "nintendo-entertainment-system",
     "classification": {
         "genres": [
             "Shooter"
