@@ -1,0 +1,10 @@
+{
+    "id": "ghosts-n-goblins-series",
+    "type": "series",
+    "name": "Ghosts 'n Goblins",
+    "logo": "ghosts-n-goblins-logo",
+    "circle": "major",
+    "contains": [
+        "gargoyle-quest"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "bubble-bobble-series",
+    "type": "series",
+    "name": "Bubble Bobble",
+    "logo": "bubble-bobble-logo",
+    "circle": "major",
+    "contains": [
+        "puzzle-bobble-series",
+        "rainbow-islands"
+    ]
+}

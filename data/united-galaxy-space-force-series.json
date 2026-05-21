@@ -1,0 +1,10 @@
+{
+    "id": "united-galaxy-space-force-series",
+    "type": "series",
+    "name": "United Galaxy Space Force",
+    "logo": "united-galaxy-space-force-logo",
+    "circle": "major",
+    "contains": [
+        "galaga-series"
+    ]
+}

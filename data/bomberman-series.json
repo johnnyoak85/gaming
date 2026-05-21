@@ -1,0 +1,7 @@
+{
+    "id": "bomberman-series",
+    "type": "series",
+    "name": "Bomberman",
+    "logo": "bomberman-logo",
+    "circle": "major"
+}

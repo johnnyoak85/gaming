@@ -5,8 +5,8 @@
     "release": "1990-07-27",
     "type": "game",
     "franchise": {
-        "universe": "Mario",
-        "series": "Dr. Mario",
+        "universe": "super-mario-series",
+        "series": "dr-mario-series",
         "subseries": null
     },
     "system": "nintendo-entertainment-system",

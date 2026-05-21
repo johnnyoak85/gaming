@@ -1,0 +1,12 @@
+{
+    "id": "nintendo-developer",
+    "type": "developer",
+    "name": "Nintendo",
+    "logo": "nintendo-logo",
+    "circle": "major",
+    "contains": [
+        "hal-laboratory-developer",
+        "intelligent-systems-developer",
+        "ape-developer"
+    ]
+}
