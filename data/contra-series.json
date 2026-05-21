@@ -1,0 +1,10 @@
+{
+    "id": "contra-series",
+    "type": "series",
+    "name": "Contra",
+    "logo": "contra-logo",
+    "circle": "major",
+    "contains": [
+        "hard-corps-series"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": "gradius-series",
+    "type": "series",
+    "name": "Gradius",
+    "logo": "gradius-logo",
+    "circle": "major"
+}

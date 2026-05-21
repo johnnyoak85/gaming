@@ -1,0 +1,12 @@
+{
+    "id": "mega-man-series",
+    "type": "series",
+    "name": "Mega Man",
+    "logo": "mega-man-logo",
+    "circle": "major",
+    "contains": [
+        "mega-man-x-series",
+        "mega-man-zero-series",
+        "mega-man-zx-series"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": "pac-man-series",
+    "type": "series",
+    "name": "Pac-Man",
+    "logo": "pac-man-logo",
+    "circle": "major"
+}

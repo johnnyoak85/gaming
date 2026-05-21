@@ -1,0 +1,10 @@
+{
+    "id": "metroid-series",
+    "type": "series",
+    "name": "Metroid",
+    "logo": "metroid-logo",
+    "circle": "major",
+    "contains": [
+        "metroid-prime-series"
+    ]
+}
