@@ -121,7 +121,10 @@ function logoList(items, onClickItem, backFn, title) {
 }
 
 function tabbedEntryList(tabs, backFn, title) {
-  const visibleTabs = tabs.filter((tab) => tab.items().length > 0);
+  const visibleTabs = tabs.filter((tab) => {
+    if (tab.subtabs) return tab.subtabs.some((st) => tab.itemsFn(st).length > 0);
+    return tab.items().length > 0;
+  });
   if (!visibleTabs.length) {
     const container = el("div", { class: "dashboard-view" });
     if (backFn) container.appendChild(el("button", { class: "back-btn", onclick: backFn }, "← Back"));
@@ -138,11 +141,10 @@ function tabbedEntryList(tabs, backFn, title) {
   if (title) container.appendChild(el("h2", { class: "list-title" }, title));
 
   const tabBar = el("div", { class: "tab-bar" });
+  const subTabBar = el("div", { class: "tab-bar sub-tab-bar" });
   const content = el("div", { class: "tab-content" });
 
-  function showTab(idx) {
-    tabBar.querySelectorAll(".tab-btn").forEach((b, i) => b.classList.toggle("active", i === idx));
-    const items = visibleTabs[idx].items();
+  function renderList(items) {
     content.innerHTML = "";
     const list = el("div", { class: "entry-list" });
     for (const item of items) {
@@ -162,12 +164,38 @@ function tabbedEntryList(tabs, backFn, title) {
     content.appendChild(list);
   }
 
+  function showTab(idx) {
+    tabBar.querySelectorAll(".tab-btn").forEach((b, i) => b.classList.toggle("active", i === idx));
+    const tab = visibleTabs[idx];
+
+    if (tab.subtabs) {
+      subTabBar.innerHTML = "";
+      subTabBar.style.display = "";
+      tab.subtabs.forEach((st, si) => {
+        const btn = el("button", {
+          class: "tab-btn sub" + (si === 0 ? " active" : ""),
+          onclick: () => {
+            subTabBar.querySelectorAll(".tab-btn").forEach((b, i) => b.classList.toggle("active", i === si));
+            renderList(tab.itemsFn(st));
+          },
+        }, st.charAt(0).toUpperCase() + st.slice(1));
+        subTabBar.appendChild(btn);
+      });
+      renderList(tab.itemsFn(tab.subtabs[0]));
+    } else {
+      subTabBar.innerHTML = "";
+      subTabBar.style.display = "none";
+      renderList(tab.items());
+    }
+  }
+
   visibleTabs.forEach((tab, idx) => {
     const btn = el("button", { class: "tab-btn" + (idx === 0 ? " active" : ""), onclick: () => showTab(idx) }, tab.label);
     tabBar.appendChild(btn);
   });
 
   container.appendChild(tabBar);
+  container.appendChild(subTabBar);
   container.appendChild(content);
   showTab(0);
   return container;
@@ -175,26 +203,67 @@ function tabbedEntryList(tabs, backFn, title) {
 
 // --- Data helpers ---
 
-function isOwned(entry) {
-  const t = entry.type;
-  if (t === "game") {
-    const access = entry.access;
-    if (!Array.isArray(access)) return false;
-    return access.some((a) => a.status === "owned");
-  }
-  if (t === "hardware") {
-    const ownership = entry.ownership;
-    if (!ownership) return false;
-    if (Array.isArray(ownership)) return ownership.some((o) => o.status === "owned");
-    return ownership === "owned";
-  }
-  if (t === "amiibo") {
-    const ownership = entry.ownership;
-    if (!ownership) return false;
-    if (Array.isArray(ownership)) return ownership.some((o) => o.status === "owned");
-    return ownership === "owned";
-  }
-  return false;
+const CATEGORY_ORDER = { computer: 0, console: 0, controller: 1, accessory: 2, peripheral: 3, adapter: 4, storage: 5, cable: 6 };
+
+function sortByRelease(items) {
+  return [...items].sort((a, b) => (a.release ?? "").localeCompare(b.release ?? ""));
+}
+
+function sortHardware(items) {
+  return [...items].sort((a, b) => {
+    const relCmp = (a.release ?? "").localeCompare(b.release ?? "");
+    if (relCmp !== 0) return relCmp;
+    const catA = CATEGORY_ORDER[a.hardware?.category] ?? 99;
+    const catB = CATEGORY_ORDER[b.hardware?.category] ?? 99;
+    return catA - catB;
+  });
+}
+
+function sortGamesForWorlds(items) {
+  return [...items].sort((a, b) => {
+    const relCmp = (a.release ?? "").localeCompare(b.release ?? "");
+    if (relCmp !== 0) return relCmp;
+    const access = a.access ?? [];
+    const accessB = b.access ?? [];
+    const aContained = access.some((x) => x.format === "contained") ? 1 : 0;
+    const bContained = accessB.some((x) => x.format === "contained") ? 1 : 0;
+    return aContained - bContained;
+  });
+}
+
+function dedupe(items) {
+  const seen = new Set();
+  return items.filter((e) => {
+    if (seen.has(e.id)) return false;
+    seen.add(e.id);
+    return true;
+  });
+}
+
+function isOwnedGame(entry) {
+  const access = entry.access;
+  if (!Array.isArray(access)) return false;
+  return access.some((a) => a.format === "physical" && a.status === "owned");
+}
+
+function isOwnedHardware(entry) {
+  const ownership = entry.ownership;
+  if (!ownership) return false;
+  if (Array.isArray(ownership)) return ownership.some((o) => o.status === "owned");
+  return ownership === "owned";
+}
+
+function isOwnedAmiibo(entry) {
+  const ownership = entry.ownership;
+  if (!ownership) return false;
+  if (Array.isArray(ownership)) return ownership.some((o) => o.status === "owned");
+  return ownership === "owned";
+}
+
+function isWishlistGame(entry, format) {
+  const access = entry.access;
+  if (!Array.isArray(access)) return false;
+  return access.some((a) => a.status === "wishlist" && a.format === format);
 }
 
 function isWishlist(entry) {
@@ -202,7 +271,7 @@ function isWishlist(entry) {
   if (t === "game") {
     const access = entry.access;
     if (!Array.isArray(access)) return false;
-    return access.some((a) => a.status === "wishlist");
+    return access.some((a) => a.status === "wishlist" && (a.format === "physical" || a.format === "digital"));
   }
   if (t === "hardware") {
     const ownership = entry.ownership;
@@ -219,38 +288,65 @@ function isWishlist(entry) {
   return false;
 }
 
-function getOwned(type) {
-  return catalog.filter((e) => e.type === type && isOwned(e));
+function getOwnedGames() {
+  return sortByRelease(catalog.filter((e) => e.type === "game" && isOwnedGame(e)));
 }
 
-function getWishlist(type) {
-  return catalog.filter((e) => e.type === type && isWishlist(e));
+function getOwnedHardware() {
+  const items = dedupe(catalog.filter((e) => e.type === "hardware" && isOwnedHardware(e)));
+  return sortHardware(items);
+}
+
+function getOwnedAmiibo() {
+  return sortByRelease(catalog.filter((e) => e.type === "amiibo" && isOwnedAmiibo(e)));
+}
+
+function getWishlistGames(format) {
+  return sortByRelease(catalog.filter((e) => e.type === "game" && isWishlistGame(e, format)));
+}
+
+function getWishlistHardware() {
+  const items = dedupe(catalog.filter((e) => e.type === "hardware" && isWishlist(e)));
+  return sortHardware(items);
+}
+
+function getWishlistAmiibo() {
+  return sortByRelease(catalog.filter((e) => e.type === "amiibo" && isWishlist(e)));
 }
 
 function getByType(type) {
-  return catalog.filter((e) => e.type === type);
+  return sortByRelease(catalog.filter((e) => e.type === type));
 }
 
 function filterByCompany(type, companyId) {
-  return catalog.filter((e) => {
+  const items = catalog.filter((e) => {
     if (e.type !== type) return false;
     const companies = e.companies;
     if (Array.isArray(companies)) return companies.includes(companyId);
     return false;
   });
+  if (type === "hardware") return sortHardware(dedupe(items));
+  if (type === "game") return sortGamesForWorlds(items);
+  return sortByRelease(items);
 }
 
 function filterBySystem(type, systemId) {
-  return catalog.filter((e) => e.type === type && e.system === systemId);
+  const items = catalog.filter((e) => e.type === type && e.system === systemId);
+  if (type === "hardware") return sortHardware(dedupe(items));
+  if (type === "game") return sortGamesForWorlds(items);
+  return sortByRelease(items);
 }
 
 function filterBySeries(type, seriesName) {
-  return catalog.filter((e) => {
+  const items = catalog.filter((e) => {
     if (e.type !== type) return false;
     const franchise = e.franchise;
     if (!franchise) return false;
     return franchise.universe === seriesName || franchise.series === seriesName || franchise.subseries === seriesName;
   });
+  if (type === "hardware") return sortHardware(dedupe(items));
+  if (type === "game") return sortGamesForWorlds(items);
+  return sortByRelease(items);
 }
 
 // --- Views ---
@@ -308,22 +404,22 @@ function showHome() {
 }
 
 function showOwnedGames() {
-  render(entryList(getOwned("game"), showHome, "Games"));
+  render(entryList(getOwnedGames(), showHome, "Games"));
 }
 
 function showOwnedHardware() {
-  render(entryList(getOwned("hardware"), showHome, "Hardware"));
+  render(entryList(getOwnedHardware(), showHome, "Hardware"));
 }
 
 function showOwnedAmiibo() {
-  render(entryList(getOwned("amiibo"), showHome, "Amiibo"));
+  render(entryList(getOwnedAmiibo(), showHome, "Amiibo"));
 }
 
 function showWishlist() {
   render(tabbedEntryList([
-    { label: "Games", items: () => getWishlist("game") },
-    { label: "Hardware", items: () => getWishlist("hardware") },
-    { label: "Amiibo", items: () => getWishlist("amiibo") },
+    { label: "Games", subtabs: ["physical", "digital"], itemsFn: (format) => getWishlistGames(format) },
+    { label: "Hardware", items: () => getWishlistHardware() },
+    { label: "Amiibo", items: () => getWishlistAmiibo() },
   ], showHome, "Wishlist"));
 }
 
