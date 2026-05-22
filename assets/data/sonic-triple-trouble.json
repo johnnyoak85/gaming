@@ -1,0 +1,80 @@
+{
+    "id": "sonic-triple-trouble",
+    "name": "Sonic the Hedgehog Triple Trouble",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztv.webp",
+    "aliases": [
+        "Sonic & Tails 2"
+    ],
+    "release": "1994-11-11",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": "Sonic & Tails"
+    },
+    "system": "game-gear",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-adventure-dx",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-gems-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-chaos",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Aspect"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Strong late 8-bit Sonic game.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

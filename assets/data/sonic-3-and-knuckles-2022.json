@@ -1,0 +1,93 @@
+{
+    "id": "sonic-3-and-knuckles-2022",
+    "name": "Sonic 3 & Knuckles",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z4s.webp",
+    "release": "2022-06-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Remaster",
+            "Retro"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "sonic-origins-plus",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "sonic-3-and-knuckles",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-2",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-2013",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-3d",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-mania",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-4-episode-i",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Sega",
+        "Headcannon"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Modern remaster of the full Sonic 3 & Knuckles experience.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

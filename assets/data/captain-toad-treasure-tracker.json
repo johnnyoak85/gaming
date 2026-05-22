@@ -1,0 +1,73 @@
+{
+    "id": "captain-toad-treasure-tracker",
+    "name": "Captain Toad: Treasure Tracker",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6c6f.webp",
+    "release": "2018-07-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Captain Toad",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Puzzle Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Puzzle Solving",
+            "Cozy",
+            "Level-Based"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-mario-3d-world",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Nintendo EPD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Highly polished puzzle spinoff derived from Mario 3D World mechanics.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

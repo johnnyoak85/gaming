@@ -1,0 +1,72 @@
+{
+    "id": "dragon-ball-z-burst-limit",
+    "name": "Dragon Ball Z: Burst Limit",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wa9.webp",
+    "release": "2008-06-05",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Budokai",
+        "subseries": null
+    },
+    "system": "xbox-360",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "Arena Fighting"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts"
+        ],
+        "tags": []
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-ball-z-infinite-world",
+            "type": "spiritual_predecessor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": [
+        "Dimps"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "First HD Dragon Ball fighter with strong presentation and cinematic battles.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically important transition of Dragon Ball fighters into the HD era.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

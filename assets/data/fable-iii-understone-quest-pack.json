@@ -1,0 +1,79 @@
+{
+    "id": "fable-iii-understone-quest-pack",
+    "name": "Fable III: Understone Quest Pack",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2oi5.webp",
+    "release": "2010-11-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Fable",
+        "series": "Fable",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Expansion"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Fantasy"
+        ]
+    },
+    "player_age": 16,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": "fable-iii",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "fable-iii",
+            "type": "base"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Lionhead Studios"
+        ],
+        "publisher": [
+            "Microsoft Game Studios"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Additional quest content expanding Fable III's world and humor.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Relevant companion DLC for a complete Fable III setup.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "category": "expansion"
+}

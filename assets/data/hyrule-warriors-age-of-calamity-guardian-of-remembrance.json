@@ -1,0 +1,72 @@
+{
+    "id": "hyrule-warriors-age-of-calamity-guardian-of-remembrance",
+    "name": "Hyrule Warriors: Age of Calamity – Guardian of Remembrance",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7plr.webp",
+    "release": "2021-10-29",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "Hyrule Warriors",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Expansion"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "DLC",
+            "Story"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "hyrule-warriors-age-of-calamity",
+            "type": "expansion"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Omega Force"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Story expansion completing the DLC arc.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

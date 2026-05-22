@@ -1,0 +1,84 @@
+{
+    "id": "the-legend-of-zelda-phantom-hourglass",
+    "name": "The Legend of Zelda: Phantom Hourglass",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9pc.webp",
+    "release": "2007-06-23",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Handheld",
+            "Touch Controls",
+            "Sailing"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-the-wind-waker",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-the-wind-waker-hd",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-spirit-tracks",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Direct sequel to Wind Waker and part of the DS Zelda line.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 16
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

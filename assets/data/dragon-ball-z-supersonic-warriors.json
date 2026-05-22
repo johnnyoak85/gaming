@@ -1,0 +1,75 @@
+{
+    "id": "dragon-ball-z-supersonic-warriors",
+    "name": "Dragon Ball Z: Supersonic Warriors",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54vi.webp",
+    "aliases": [
+        "Dragon Ball Z: Bukuu Tougeki"
+    ],
+    "release": "2004-06-24",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Supersonic Warriors",
+        "subseries": null
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting",
+            "Arena Fighting"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts"
+        ],
+        "tags": []
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-ball-z-supersonic-warriors-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Arc System Works"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent portable Dragon Ball fighter with strong alternate story routes.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the strongest Dragon Ball portable fighting games.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

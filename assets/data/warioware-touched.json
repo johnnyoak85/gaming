@@ -1,0 +1,89 @@
+{
+    "id": "warioware-touched",
+    "name": "WarioWare: Touched!",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b7s.webp",
+    "release": "2004-12-02",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "WarioWare",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Party"
+        ],
+        "subgenres": [],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Portable",
+            "Touchscreen",
+            "Experimental",
+            "Arcade Style",
+            "Microgames"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": "Actually a Nintendo DSi title"
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "pyoro-t",
+        "orbit-ball"
+    ],
+    "relationships": [
+        {
+            "source": "warioware-inc-mega-microgame",
+            "type": "prequel"
+        },
+        {
+            "source": "warioware-smooth-moves",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo SPD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "One of the best showcases of early Nintendo DS touchscreen design philosophy.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Important Nintendo DS-era hardware showcase and strong WarioWare entry.",
+        "notes": "Owned digitally"
+    },
+    "event": null,
+    "notes": null
+}

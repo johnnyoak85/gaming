@@ -1,0 +1,80 @@
+{
+    "id": "blaster-master",
+    "name": "Blaster Master",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pkj.webp",
+    "release": "1988-06-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Blaster Master",
+        "series": "Blaster Master",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer",
+            "Exploration"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "NES",
+            "Metroidvania-like",
+            "Vehicle Combat"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": "Manually injected into the mini console."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "blaster-master-enemy-below",
+            "type": "sequel"
+        },
+        {
+            "source": "blaster-master-zero",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Sunsoft"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Ambitious NES action-exploration game with vehicle gameplay and nonlinear structure.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Important cult-classic NES action title with strong historical reputation.",
+        "notes": "Injected into NES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

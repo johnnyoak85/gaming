@@ -1,0 +1,75 @@
+{
+    "id": "super-mario-kart",
+    "name": "Super Mario Kart",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21w8.webp",
+    "release": "1992-08-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Mario Kart",
+        "subseries": null
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Kart Racing"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Historic",
+            "Arcade Style",
+            "Replayable"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mario-kart-64",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Origin of Mario Kart and historically important multiplayer racer.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Nintendo Classic Mini: Super Nintendo Entertainment System",
+    "notes": null
+}

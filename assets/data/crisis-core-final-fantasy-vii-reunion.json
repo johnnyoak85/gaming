@@ -1,0 +1,77 @@
+{
+    "id": "crisis-core-final-fantasy-vii-reunion",
+    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjb3.webp",
+    "release": "2022-12-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Final Fantasy",
+        "series": "Final Fantasy",
+        "subseries": "Compilation of Final Fantasy VII"
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Action RPG"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Remaster",
+            "Prequel"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "crisis-core-final-fantasy-vii",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "final-fantasy-vii",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Square Enix"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Modern version of Zack's FFVII prequel story.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

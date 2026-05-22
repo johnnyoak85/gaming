@@ -1,0 +1,93 @@
+{
+    "id": "kirby-super-star-ultra",
+    "name": "Kirby Super Star Ultra",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3g9j.webp",
+    "release": "2008-09-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Super Star"
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Bundle",
+            "Enhanced"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirby-super-star",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "kirbys-return-to-dream-land-deluxe",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "HAL Laboratory"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive version of Super Star and key entry point.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Kirby's 15th Anniversary",
+    "notes": "Own the USA version",
+    "contains": [
+        "kirby-spring-breeze-ds",
+        "kirby-dynablade-ds",
+        "kirby-gourmet-race-ds",
+        "kirby-the-great-cave-offensive-ds",
+        "kirby-revenge-of-meta-knight-ds",
+        "kirby-milky-way-wishes-ds",
+        "kirby-revenge-of-the-king",
+        "kirby-meta-knightmare-ultra",
+        "kirby-helper-to-hero"
+    ],
+    "category": "bundle"
+}

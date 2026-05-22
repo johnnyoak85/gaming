@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       const acq = entry.acquisition || {};
       const priority = acq.priority || 0;
 
-      if (t === "game" || t === "game_collection" || t === "collection" || t === "bundle") {
+      if (t === "game") {
         const access = entry.access || [];
         if (access.some((a) => a.status === "wishlist" && a.format === "physical")) {
           items.push({ id: entry.id, name: entry.name, cover: entry.cover, type: t, priority, reason: acq.reason });

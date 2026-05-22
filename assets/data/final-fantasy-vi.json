@@ -1,0 +1,76 @@
+{
+    "id": "final-fantasy-vi",
+    "name": "Final Fantasy III",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq5k.webp",
+    "release": "1992-12-06",
+    "type": "game",
+    "franchise": {
+        "universe": "Final Fantasy",
+        "series": "Final Fantasy",
+        "subseries": null
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "SNES"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "final-fantasy-vi-advance",
+            "type": "enhanced_port"
+        },
+        {
+            "source": "final-fantasy-vi-pixel-remaster",
+            "type": "remaster"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "Square"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Beloved job-system Final Fantasy.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "International release of Final Fantasy VI"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "sonic-drift",
+    "name": "Sonic Drift",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ztb.webp",
+    "release": "1994-03-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Drift",
+        "subseries": null
+    },
+    "system": "game-gear",
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Kart Racing"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld",
+            "Spin-off"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-adventure-dx",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-drift-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Sega"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Early Sonic kart racer.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

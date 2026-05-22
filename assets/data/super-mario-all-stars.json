@@ -1,0 +1,89 @@
+{
+    "id": "super-mario-all-stars",
+    "name": "Super Mario All-Stars",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62ap.webp",
+    "release": "1993-07-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "All-Stars"
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Platform"
+        ],
+        "subgenres": [
+            "Platform Collection"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "SNES",
+            "Retro",
+            "Nintendo",
+            "Mario"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-all-stars-25th-anniversary-edition",
+            "type": "port"
+        }
+    ],
+    "contains": [
+        "super-mario-bros-snes",
+        "super-mario-bros-the-lost-levels-snes",
+        "super-mario-bros-2-snes",
+        "super-mario-bros-3-snes"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EAD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive 16-bit remakes of the foundational NES Mario platformers.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential Mario preservation and remake collection.",
+        "notes": "Injected on SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null,
+    "category": "collection"
+}

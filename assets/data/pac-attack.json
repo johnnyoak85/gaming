@@ -1,0 +1,58 @@
+{
+    "id": "pac-attack",
+    "name": "Pac-Attack",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67se.webp",
+    "release": "1993-10-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Pac-Man",
+        "series": "Pac-Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Falling Block Puzzle"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Puzzle"
+        ]
+    },
+    "player_age": 5,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Namco"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Pac-Man-themed puzzle spin-off.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

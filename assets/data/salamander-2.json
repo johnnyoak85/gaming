@@ -1,0 +1,68 @@
+{
+    "id": "salamander-2",
+    "name": "Salamander 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z0k.webp",
+    "release": "1996-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Gradius",
+        "series": "Gradius",
+        "subseries": "Salamander"
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Shoot 'em Up"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Arcade",
+            "Horizontal Shooter"
+        ]
+    },
+    "player_age": 8,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "salamander",
+            "type": "prequel"
+        },
+        {
+            "source": "salamander-iii",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Late-era arcade sequel to Salamander.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

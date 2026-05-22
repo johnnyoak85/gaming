@@ -1,0 +1,65 @@
+{
+    "id": "new-super-luigi-u-switch",
+    "name": "New Super Luigi U",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tt.webp",
+    "release": "2019-01-11",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "New Super Mario Bros."
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Switch",
+            "Enhanced Port",
+            "Hard"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "new-super-luigi-u",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Harder variant of New Super Mario Bros. U."
+}

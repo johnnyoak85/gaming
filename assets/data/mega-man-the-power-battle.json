@@ -1,0 +1,80 @@
+{
+    "id": "mega-man-the-power-battle",
+    "name": "Mega Man: The Power Battle",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wue.webp",
+    "aliases": [
+        "Rockman: The Power Battle"
+    ],
+    "release": "1995-10-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": "Classic"
+    },
+    "system": "capcom-play-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Boss Rush",
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Robots"
+        ],
+        "tags": [
+            "Arcade",
+            "Co-Op",
+            "Retro"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-2-the-power-fighters",
+            "format": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Fun arcade reinterpretation of Mega Man centered around boss battles and co-op play.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important arcade spin-off for the Mega Man franchise.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

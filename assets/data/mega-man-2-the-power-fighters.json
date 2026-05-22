@@ -1,0 +1,80 @@
+{
+    "id": "mega-man-2-the-power-fighters",
+    "name": "Mega Man 2: The Power Fighters",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6k7w.webp",
+    "aliases": [
+        "Rockman 2: The Power Fighters"
+    ],
+    "release": "1996-10-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": "Classic"
+    },
+    "system": "capcom-play-system-ii",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Boss Rush",
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Robots"
+        ],
+        "tags": [
+            "Arcade",
+            "Co-Op",
+            "Retro"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-the-power-battle",
+            "format": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded and refined arcade Mega Man boss-rush experience with stronger presentation and mechanics.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important arcade follow-up within the Mega Man franchise.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

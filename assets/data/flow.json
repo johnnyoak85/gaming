@@ -1,0 +1,74 @@
+{
+    "id": "flow",
+    "name": "flOw",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iod.webp",
+    "release": "2007-02-22",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": "flOw",
+        "subseries": null
+    },
+    "system": "playstation-3",
+    "classification": {
+        "genres": [
+            "Adventure"
+        ],
+        "subgenres": [
+            "Atmospheric Experience"
+        ],
+        "themes": [
+            "Relaxation",
+            "Abstract"
+        ],
+        "tags": [
+            "Indie",
+            "Art Game"
+        ]
+    },
+    "player_age": 3,
+    "access": [
+        {
+            "platform": "playstation-3",
+            "via": "journey-collectors-edition",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "flower",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "thatgamecompany"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Early influential art-game experience focused on atmosphere and flow-state design.",
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important early PlayStation Network indie title.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,87 @@
+{
+    "id": "castlevania-iii-draculas-curse",
+    "name": "Castlevania III: Dracula's Curse",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9se2.webp",
+    "release": "1989-12-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Retro",
+            "Hard",
+            "Branching Paths"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "akumajou-densetsu",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "castlevania-belmonts-curse",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "One of the strongest classic Castlevania entries with multiple characters and routes.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "International version is a remix of Japanese version"
+}

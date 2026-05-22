@@ -1,0 +1,74 @@
+{
+    "id": "paper-mario-the-origami-king",
+    "name": "Paper Mario: The Origami King",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob89j.webp",
+    "release": "2020-07-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Paper Mario",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Puzzle Adventure"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Modern",
+            "Puzzle Solving",
+            "Story Heavy"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "paper-mario-color-splash",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Intelligent Systems"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Best modern Paper Mario candidate if prioritizing presentation, writing, and accessibility.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 26
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

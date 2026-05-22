@@ -1,0 +1,85 @@
+{
+    "id": "double-dragon-ii-the-revenge-nes",
+    "name": "Double Dragon II: The Revenge",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wy0.webp",
+    "release": "1989-12-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Double Dragon",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Beat 'em Up"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "double-dragon-nes",
+            "type": "prequel"
+        },
+        {
+            "source": "double-dragon-iii-the-sacred-stones",
+            "type": "sequel"
+        },
+        {
+            "source": "super-double-dragon",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Technos Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "One of the best classic Double Dragon games.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

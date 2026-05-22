@@ -1,0 +1,81 @@
+{
+    "id": "super-smash-bros-for-wii-u",
+    "name": "Super Smash Bros. for Wii U",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213x.webp",
+    "release": "2014-11-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Super Smash Bros.",
+        "series": "Super Smash Bros.",
+        "subseries": null
+    },
+    "system": "nintendo-wii-u",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "Platform Fighter"
+        ],
+        "themes": [
+            "Crossover",
+            "Nintendo"
+        ],
+        "tags": [
+            "HD",
+            "Multiplayer"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-smash-bros-brawl",
+            "type": "prequel"
+        },
+        {
+            "source": "super-smash-bros-ultimate",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 8
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party",
+            "online"
+        ]
+    },
+    "companies": [
+        "Sora Ltd.",
+        "Bandai Namco Studios"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Solid HD-era Smash entry that established much of Ultimate's mechanical foundation.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Historically relevant transitional Smash entry between Brawl and Ultimate.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

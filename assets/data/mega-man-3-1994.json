@@ -1,0 +1,82 @@
+{
+    "id": "mega-man-3-1994",
+    "name": "Mega Man 3",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co64rt.webp",
+    "release": "1994-10-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": "The Wily Wars"
+    },
+    "system": "sega-mega-drive",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Mega Drive",
+            "Remake"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": "mega-man-the-wily-wars",
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "mega-man-3",
+            "type": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "mega-man-2-1994",
+            "type": "prequel"
+        },
+        {
+            "source": "mega-man-wily-tower",
+            "type": "expansion"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Minakuchi Engineering"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "16-bit remake of Mega Man 3.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,71 @@
+{
+    "id": "dig-dug-ii",
+    "name": "Dig Dug II",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5dg9.webp",
+    "release": "1985-03-12",
+    "type": "game",
+    "franchise": {
+        "universe": "United Galaxy Space Force",
+        "series": "Dig Dug",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Arcade"
+        ],
+        "subgenres": [
+            "Maze Action"
+        ],
+        "themes": [],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "High Score"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dig-dug",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Namco"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Interesting sequel that changes Dig Dug into an island-splitting arcade action game.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Useful sequel representation for Dig Dug, though less essential than the original.",
+        "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 2."
+    },
+    "event": null,
+    "notes": null
+}

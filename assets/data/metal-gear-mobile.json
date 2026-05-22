@@ -1,0 +1,78 @@
+{
+    "id": "metal-gear-mobile",
+    "name": "Metal Gear",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ful.webp",
+    "release": "2004-08-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Metal Gear",
+        "series": "Metal Gear",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Stealth Action"
+        ],
+        "themes": [
+            "Espionage",
+            "Military"
+        ],
+        "tags": [
+            "MSX2",
+            "Retro",
+            "Stealth",
+            "Konami"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "metal-gear-and-metal-gear-2-solid-snake",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "metal-gear-nes",
+            "type": "adaptation"
+        },
+        {
+            "source": "metal-gear-2-solid-snake-mobile",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Foundational stealth action game and origin of the Metal Gear franchise.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 7
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential origin point of cinematic stealth gaming.",
+        "notes": null
+    },
+    "event": null,
+    "notes": "Expanded version of the original MSX game"
+}

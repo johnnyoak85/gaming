@@ -1,0 +1,74 @@
+{
+    "id": "twinbee",
+    "name": "TwinBee",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3rkb.webp",
+    "release": "1985-03-05",
+    "type": "game",
+    "franchise": {
+        "universe": "TwinBee",
+        "series": "TwinBee",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Shoot 'em up"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "tags": [
+            "Arcade",
+            "Cute 'em up",
+            "Vertical"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "arcade-classics-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "gradius",
+            "type": "twin_engine"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Colorful early Konami shooter tied to the Gradius ecosystem.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

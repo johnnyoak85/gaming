@@ -1,0 +1,65 @@
+{
+    "id": "flicky",
+    "name": "Flicky",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c8r.webp",
+    "release": "1984-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Flicky",
+        "subseries": null
+    },
+    "system": "sega-mega-drive",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Arcade"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Sega"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Classic Sega arcade title included as bonus.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,79 @@
+{
+    "id": "new-super-luigi-u",
+    "name": "New Super Luigi U",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tt.webp",
+    "release": "2013-06-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "New Super Mario Bros."
+    },
+    "system": "nintendo-wii-u",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Precision Platforming",
+            "Expansion",
+            "Co-Op"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "new-super-luigi-u-switch",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "new-super-mario-bros-u",
+            "type": "base"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD Tokyo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Distinctly faster and more demanding reinterpretation of New Super Mario Bros. U.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Interesting standalone expansion with stronger gameplay identity than the base release.",
+        "notes": "Included in Deluxe."
+    },
+    "event": "The Year of Luigi",
+    "notes": null
+}

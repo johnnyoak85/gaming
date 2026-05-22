@@ -1,0 +1,12 @@
+{
+    "id": "nintendo-company",
+    "type": "company",
+    "name": "Nintendo",
+    "logo": "nintendo-logo",
+    "circle": "major",
+    "contains": [
+        "hal-laboratory-company",
+        "intelligent-systems-company",
+        "ape-company"
+    ]
+}

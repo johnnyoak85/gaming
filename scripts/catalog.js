@@ -1,5 +1,5 @@
-const SOLO_PATH = "./data/";
-const MANIFEST_PATH = "./data/manifest.json";
+const SOLO_PATH = "./assets/data/";
+const MANIFEST_PATH = "./assets/data/manifest.json";
 const CACHE_KEY = "gaming_catalog";
 const CACHE_VERSION_KEY = "gaming_catalog_version";
 
@@ -69,7 +69,7 @@ export function invalidateCache() {
 }
 
 export function getGames(catalog) {
-  return catalog.filter((e) => e.type !== "hardware" && e.type !== "amiibo");
+  return catalog.filter((e) => e.type === "game");
 }
 
 export function getHardware(catalog) {
@@ -88,6 +88,6 @@ export function getSeries(catalog) {
   return catalog.filter((e) => e.type === "series");
 }
 
-export function getDevelopers(catalog) {
-  return catalog.filter((e) => e.type === "developer");
+export function getCompanies(catalog) {
+  return catalog.filter((e) => e.type === "company");
 }

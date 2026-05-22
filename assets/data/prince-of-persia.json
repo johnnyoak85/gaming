@@ -1,0 +1,75 @@
+{
+    "id": "prince-of-persia",
+    "name": "Prince of Persia",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pdv.webp",
+    "release": "1989-10-03",
+    "type": "game",
+    "franchise": {
+        "universe": "Prince of Persia",
+        "series": "Prince of Persia",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Cinematic Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "MS-DOS",
+            "Retro",
+            "Cinematic",
+            "Jordan Mechner"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "ms-dos",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "prince-of-persia-snes",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Broderbund"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Landmark cinematic platformer with historically influential animation and movement systems.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the most historically important PC platformers ever made.",
+        "notes": "Owned digitally for MS-DOS."
+    },
+    "event": null,
+    "notes": null
+}

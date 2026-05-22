@@ -1,0 +1,72 @@
+{
+    "id": "pac-man-championship-edition-nes",
+    "name": "Pac-Man Championship Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71yw.webp",
+    "release": "2020-06-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Pac-Man",
+        "series": "Pac-Man Championship Edition",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Arcade"
+        ],
+        "subgenres": [
+            "Maze Chase",
+            "Score Attack"
+        ],
+        "themes": [],
+        "tags": [
+            "Demake",
+            "Retro",
+            "High Score",
+            "NES Style"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-1",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [
+        {
+            "source": "pac-man-championship-edition",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "M2"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Fascinating NES-style reinterpretation of Pac-Man Championship Edition.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Unique preservation-era Namco demake and valuable curiosity within Pac-Man history.",
+        "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 1."
+    },
+    "event": null,
+    "notes": "NES-style demake created for NAMCO MUSEUM ARCHIVES."
+}

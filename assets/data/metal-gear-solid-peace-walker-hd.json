@@ -1,0 +1,77 @@
+{
+    "id": "metal-gear-solid-peace-walker-hd",
+    "name": "Metal Gear Solid: Peace Walker",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblhp.webp",
+    "release": "2026-08-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Metal Gear",
+        "series": "Metal Gear Solid",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Stealth Action",
+            "Mission-Based Action"
+        ],
+        "themes": [
+            "Espionage",
+            "Cold War",
+            "Military"
+        ],
+        "tags": [
+            "PSP",
+            "Portable",
+            "Stealth",
+            "Konami"
+        ]
+    },
+    "player_age": 16,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "metal-gear-solid-master-collection-volume-2",
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "metal-gear-solid-3-snake-eater-hd",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Kojima Productions"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Important bridge between Snake Eater and later Big Boss-era Metal Gear games.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the PSP's defining cinematic action titles.",
+        "notes": null
+    },
+    "event": null,
+    "notes": "HD version of the PSP game"
+}

@@ -1,0 +1,70 @@
+{
+    "id": "warioware-smooth-moves",
+    "name": "WarioWare: Smooth Moves",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54lt.webp",
+    "release": "2006-12-02",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "WarioWare",
+        "subseries": null
+    },
+    "system": "nintendo-wii",
+    "classification": {
+        "genres": [
+            "Party"
+        ],
+        "subgenres": [],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Wii",
+            "Microgames"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "pyoro-s",
+        "balloon-trip"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 12
+        },
+        "modes": [
+            "solo",
+            "party"
+        ]
+    },
+    "companies": [
+        "Nintendo SPD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

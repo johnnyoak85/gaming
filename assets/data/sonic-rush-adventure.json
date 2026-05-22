@@ -1,0 +1,72 @@
+{
+    "id": "sonic-rush-adventure",
+    "name": "Sonic Rush Adventure",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zvk.webp",
+    "release": "2007-09-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Rush",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld",
+            "Exploration"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-rush",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Dimps"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Expands Rush formula with exploration elements.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Expands Rush formula",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

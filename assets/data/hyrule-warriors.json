@@ -1,0 +1,105 @@
+{
+    "id": "hyrule-warriors",
+    "name": "Hyrule Warriors",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54x2.webp",
+    "release": "2014-08-14",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "Hyrule Warriors",
+        "subseries": null
+    },
+    "system": "nintendo-wii-u",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Musou"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Spinoff",
+            "Crossover",
+            "Hack and Slash",
+            "Replayable"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "hyrule-warriors-legends",
+            "format": "enhanced_port"
+        },
+        {
+            "source": "hyrule-warriors-definitive-edition",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-skyward-sword",
+            "type": "spinoff"
+        },
+        {
+            "source": "the-legend-of-zelda-skyward-sword-hd",
+            "type": "spinoff"
+        },
+        {
+            "source": "the-legend-of-zelda-twilight-princess",
+            "type": "spinoff"
+        },
+        {
+            "source": "the-legend-of-zelda-twilight-princess-hd",
+            "type": "spinoff"
+        },
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time",
+            "type": "spinoff"
+        },
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time-3d",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Omega Force",
+        "Team Ninja"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Zelda musou spinoff built around multiple classic 3D Zelda branches.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

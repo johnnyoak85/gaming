@@ -1,0 +1,69 @@
+{
+    "id": "super-mario-run",
+    "name": "Super Mario Run",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1te0.webp",
+    "release": "2016-12-15",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Auto-Runner",
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Mobile",
+            "Touch Controls",
+            "Modern Nintendo",
+            "One-Handed Gameplay"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "android",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Nintendo's flagship premium mobile game and a clever reinterpretation of Mario platforming for touch devices.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically important Nintendo mobile release and a major part of modern Mario history.",
+        "notes": "Mobile premium release."
+    },
+    "event": null,
+    "notes": null
+}

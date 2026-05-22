@@ -1,0 +1,80 @@
+{
+    "id": "bayonetta",
+    "name": "Bayonetta",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nf4.webp",
+    "release": "2009-10-29",
+    "type": "game",
+    "franchise": {
+        "universe": "Bayonetta",
+        "series": "Bayonetta",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Character Action"
+        ],
+        "themes": [
+            "Fantasy",
+            "Angels",
+            "Witches"
+        ],
+        "tags": [
+            "Xbox 360",
+            "PlatinumGames",
+            "Stylish Action",
+            "SEGA"
+        ]
+    },
+    "player_age": 18,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": "Used to own."
+        }
+    ],
+    "versions": [
+        {
+            "source": "bayonetta-2014",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "bayonetta-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "PlatinumGames"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "One of the greatest character action games ever made.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Essential PlatinumGames title and major action-game landmark.",
+        "notes": "Previously owned."
+    },
+    "event": null,
+    "notes": null
+}

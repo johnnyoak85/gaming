@@ -1,0 +1,76 @@
+{
+    "id": "super-mario-galaxy-switch",
+    "name": "Super Mario Galaxy",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coag5y.webp",
+    "release": "2020-09-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario 3D All-Stars"
+    },
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Switch",
+            "Enhanced Port",
+            "Collectathon"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "super-mario-galaxy",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-sunshine-switch",
+            "type": "prequel"
+        },
+        {
+            "source": "super-mario-galaxy-2-switch",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Switch version included in Super Mario 3D All-Stars.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Best represented as an enhanced port of Super Mario Galaxy."
+}

@@ -1,0 +1,79 @@
+{
+    "id": "new-super-mario-bros-u-deluxe",
+    "name": "New Super Mario Bros. U Deluxe",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uhl.webp",
+    "release": "2019-01-11",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "New Super Mario Bros."
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "2D",
+            "Switch",
+            "Bundle",
+            "Multiplayer"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Nintendo EPD"
+        ],
+        "publisher": [
+            "Nintendo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Switch bundle containing enhanced ports of New Super Mario Bros. U and New Super Luigi U.",
+    "contains": [
+        "new-super-mario-bros-u-switch",
+        "new-super-luigi-u-switch"
+    ],
+    "category": "bundle"
+}

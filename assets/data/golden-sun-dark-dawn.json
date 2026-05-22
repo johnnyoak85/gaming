@@ -1,0 +1,73 @@
+{
+    "id": "golden-sun-dark-dawn",
+    "name": "Golden Sun: Dark Dawn",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25qp.webp",
+    "release": "2010-10-28",
+    "type": "game",
+    "franchise": {
+        "universe": "Golden Sun",
+        "series": "Golden Sun",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "JRPG",
+            "Puzzle Dungeons"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "golden-sun-the-lost-age",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Camelot Software Planning"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Modernized continuation of the Golden Sun formula with strong audiovisual presentation.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important continuation of Nintendo's Golden Sun RPG lineage.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

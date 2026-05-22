@@ -1,0 +1,92 @@
+{
+    "id": "luigis-mansion-2",
+    "name": "Luigi's Mansion 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6hoj.webp",
+    "release": "2013-03-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Luigi's Mansion",
+        "subseries": null
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Horror",
+            "Comedy",
+            "Ghosts"
+        ],
+        "tags": [
+            "Handheld",
+            "Mission Based",
+            "Puzzle Solving",
+            "Boss Battles"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "luigis-mansion-2-hd",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "luigis-mansion",
+            "type": "prequel"
+        },
+        {
+            "source": "luigis-mansion-3ds",
+            "type": "prequel"
+        },
+        {
+            "source": "luigis-mansion-3",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "online"
+        ]
+    },
+    "companies": [
+        "Next Level Games"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Second Luigi's Mansion entry and owned on original hardware.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 14
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "The Year of Luigi",
+    "notes": "Known as Luigi's Mansion: Dark Moon in North America."
+}

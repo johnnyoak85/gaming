@@ -1,0 +1,77 @@
+{
+    "id": "prince-of-persia-snes",
+    "name": "Prince of Persia",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5b3l.webp",
+    "release": "1992-11-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Prince of Persia",
+        "series": "Prince of Persia",
+        "subseries": null
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Cinematic Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "SNES",
+            "Retro",
+            "Cinematic",
+            "Jordan Mechner"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "prince-of-persia",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Arsys Software",
+        "LucasArts"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Expanded and refined 16-bit version of the landmark cinematic platformer.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Widely considered one of the best classic versions of Prince of Persia.",
+        "notes": "Injected on SNES Classic Mini."
+    },
+    "event": null,
+    "notes": null
+}

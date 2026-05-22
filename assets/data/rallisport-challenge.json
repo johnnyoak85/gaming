@@ -1,0 +1,69 @@
+{
+    "id": "rallisport-challenge",
+    "name": "RalliSport Challenge",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaph8.webp",
+    "release": "2002-06-04",
+    "type": "game",
+    "franchise": {
+        "universe": "RalliSport Challenge",
+        "series": "RalliSport Challenge",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Rally Racing"
+        ],
+        "themes": [
+            "Motorsport"
+        ],
+        "tags": [
+            "Xbox",
+            "Rally",
+            "Microsoft",
+            "Arcade Racing"
+        ]
+    },
+    "player_age": 3,
+    "access": [
+        {
+            "platform": "xbox",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": "Used to own."
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Digital Illusions CE"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Excellent arcade-style rally racer from the original Xbox era.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the standout racing games on the original Xbox.",
+        "notes": "Previously owned."
+    },
+    "event": null,
+    "notes": null
+}

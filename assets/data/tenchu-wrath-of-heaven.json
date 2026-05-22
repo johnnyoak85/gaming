@@ -1,0 +1,84 @@
+{
+    "id": "tenchu-wrath-of-heaven",
+    "name": "Tenchu: Wrath of Heaven",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p2e.webp",
+    "aliases": [
+        "Tenchu 3"
+    ],
+    "release": "2003-04-24",
+    "type": "game",
+    "franchise": {
+        "universe": "Tenchu",
+        "series": "Tenchu",
+        "subseries": null
+    },
+    "system": "playstation-2",
+    "classification": {
+        "genres": [
+            "Action",
+            "Stealth"
+        ],
+        "subgenres": [
+            "Stealth Action"
+        ],
+        "themes": [
+            "Ninjas",
+            "Feudal Japan"
+        ],
+        "tags": [
+            "Stealth",
+            "Ninjas"
+        ]
+    },
+    "player_age": 15,
+    "access": [
+        {
+            "platform": "playstation-2",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "tenchu-2-birth-of-the-stealth-assassins",
+            "type": "prequel"
+        },
+        {
+            "source": "tenchu-fatal-shadows",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": [
+        "K2 LLC",
+        "FromSoftware"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Peak classic Tenchu with strong stealth gameplay, atmosphere and multiplayer features.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the most beloved entries in the Tenchu franchise.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

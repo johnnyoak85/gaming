@@ -1,0 +1,69 @@
+{
+    "id": "sky-kid",
+    "name": "Sky Kid",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7s9c.webp",
+    "release": "1985-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Sky Kid",
+        "series": "Sky Kid",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Side-Scrolling Shooter"
+        ],
+        "themes": [
+            "Military",
+            "Comedy"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Co-Op"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-1",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Namco"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Charming Namco side-scrolling arcade shooter with cooperative play.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Lesser but worthwhile Namco arcade preservation entry.",
+        "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 1."
+    },
+    "event": null,
+    "notes": null
+}

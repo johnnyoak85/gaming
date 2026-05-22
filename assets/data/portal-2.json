@@ -1,0 +1,76 @@
+{
+    "id": "portal-2",
+    "name": "Portal 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.webp",
+    "release": "2011-04-19",
+    "type": "game",
+    "franchise": {
+        "universe": "Portal",
+        "series": "Portal",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle",
+            "Shooter"
+        ],
+        "subgenres": [
+            "First-Person Puzzle"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "tags": [
+            "Steam",
+            "Valve",
+            "Co-op",
+            "Puzzle"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "portal",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Valve"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Masterful expansion of Portal's mechanics with exceptional writing and co-op design.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of Valve's greatest and most influential games.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

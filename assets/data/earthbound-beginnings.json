@@ -1,0 +1,75 @@
+{
+    "id": "earthbound-beginnings",
+    "name": "EarthBound Beginnings",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mzl.webp",
+    "release": "1989-07-27",
+    "type": "game",
+    "franchise": {
+        "universe": "EarthBound",
+        "series": "EarthBound",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG"
+        ],
+        "themes": [
+            "Modern",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "Cult Classic"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "injected",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "earthbound",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "Nintendo",
+        "APE"
+    ],
+    "progress": "finished",
+    "backlog": {
+        "priority": 4,
+        "reason": "Start of the Mother/EarthBound series.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Released originally on Virtual Console."
+}

@@ -1,0 +1,73 @@
+{
+    "id": "kirbys-extra-epic-yarn",
+    "name": "Kirby's Extra Epic Yarn",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69p5.webp",
+    "release": "2019-03-08",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Epic Yarn"
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Cozy",
+            "Low Difficulty"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirbys-epic-yarn",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Good-Feel"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Relaxed Kirby experience with unique visual identity.",
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

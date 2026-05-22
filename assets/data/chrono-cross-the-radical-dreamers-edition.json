@@ -1,0 +1,81 @@
+{
+    "id": "chrono-cross-the-radical-dreamers-edition",
+    "name": "Chrono Cross: The Radical Dreamers Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4mw1.webp",
+    "release": "2022-04-07",
+    "type": "game",
+    "franchise": {
+        "universe": "Chrono",
+        "series": "Chrono",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation",
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG Collection"
+        ],
+        "themes": [
+            "Fantasy",
+            "Time Travel",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Square Enix",
+            "Preservation",
+            "Nintendo Switch",
+            "Chrono"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "chrono-cross-2022",
+        "radical-dreamers-2022"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Square Enix"
+        ],
+        "publisher": [
+            "Square Enix"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Important preservation release bringing Chrono Cross and Radical Dreamers to modern platforms.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 45
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically important Chrono preservation package including the official western release of Radical Dreamers.",
+        "notes": "Owned digitally on Switch."
+    },
+    "event": null,
+    "notes": null,
+    "category": "bundle"
+}

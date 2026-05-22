@@ -1,0 +1,72 @@
+{
+    "id": "mappy-land",
+    "name": "Mappy-Land",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ux7.webp",
+    "release": "1986-11-26",
+    "type": "game",
+    "franchise": {
+        "universe": "Mappy",
+        "series": "Mappy",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Platform Chase"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Famicom",
+            "Character Platformer"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mappy",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "TOSE"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Console-focused follow-up that turns Mappy into a broader character platform game.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Nice companion piece to Mappy, but less historically central.",
+        "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 2."
+    },
+    "event": null,
+    "notes": null
+}

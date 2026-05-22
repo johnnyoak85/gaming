@@ -1,0 +1,79 @@
+{
+    "id": "donkey-kong",
+    "name": "Donkey Kong",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb69.webp",
+    "release": "1981-07-09",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Donkey Kong",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Single-Screen Platformer"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Retro",
+            "Historic",
+            "Short"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "donkey-kong-1994",
+            "format": "enhanced_remake"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "donkey-kong-jr",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo R&D1"
+    ],
+    "progress": "completed",
+    "backlog": {
+        "priority": 3,
+        "reason": "Historically essential Nintendo arcade game and origin point for Donkey Kong and Mario.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Nintendo Classic Mini: Nintendo Entertainment System",
+    "notes": "NES version accessed through the NES Classic Mini."
+}

@@ -1,0 +1,79 @@
+{
+    "id": "dragon-ball-xenoverse-2",
+    "name": "Dragon Ball Xenoverse 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hs4.webp",
+    "release": "2016-10-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Xenoverse",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "RPG",
+            "Fighting"
+        ],
+        "subgenres": [
+            "Arena Fighting",
+            "Action RPG"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts",
+            "Time Travel"
+        ],
+        "tags": [
+            "Online",
+            "Character Creation"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-ball-sparking-zero",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": [
+        "Dimps"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Massive fan-service-heavy Dragon Ball action RPG with long-term content support.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 60
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the biggest and longest-supported modern Dragon Ball games.",
+        "notes": null
+    },
+    "event": null,
+    "notes": "Contains the entire main story of the first Xenoverse"
+}

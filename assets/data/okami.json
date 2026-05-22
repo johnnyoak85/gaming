@@ -1,0 +1,78 @@
+{
+    "id": "okami",
+    "name": "Ōkami",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mpk.webp",
+    "release": "2006-04-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Ōkami",
+        "series": "Ōkami",
+        "subseries": null
+    },
+    "system": "nintendo-wii",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Japanese Mythology",
+            "Fantasy"
+        ],
+        "tags": [
+            "Stylized"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "okami-hd",
+            "type": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "okamiden",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Clover Studio"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "One of the most artistically celebrated action-adventure games ever made.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 35
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically significant Capcom classic with exceptional artistic identity.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

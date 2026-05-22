@@ -1,0 +1,104 @@
+{
+    "id": "sonic-3-and-knuckles",
+    "name": "Sonic the Hedgehog 3 & Knuckles",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c0w.webp",
+    "release": "1994-10-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": null
+    },
+    "system": "sega-mega-drive",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Definitive Version"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "sonic-the-hedgehog-3",
+            "format": "base"
+        },
+        {
+            "source": "sonic-and-knuckles",
+            "format": "base"
+        },
+        {
+            "source": "sonic-3-and-knuckles-2022",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-2",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-2013",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-2-3d",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-mania",
+            "type": "sequel"
+        },
+        {
+            "source": "sonic-the-hedgehog-4-episode-i",
+            "type": "sequel"
+        },
+        {
+            "source": "blue-sphere",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Sonic Team"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive classic Sonic experience.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

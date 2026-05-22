@@ -26,7 +26,7 @@ function coverUrl(item) {
   const cover = item.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `./images/${cover}.png`;
+  return `./assets/images/${cover}.png`;
 }
 
 function getFilteredItems() {

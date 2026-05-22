@@ -1,0 +1,73 @@
+{
+    "id": "super-probotector-alien-rebels",
+    "name": "Super Probotector: Alien Rebels",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bet.webp",
+    "release": "1992-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Contra",
+        "series": "Probotector",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Remix",
+            "EU Version"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "contra-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "contra-iii-the-alien-wars",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "European remix of Contra III with altered presentation.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

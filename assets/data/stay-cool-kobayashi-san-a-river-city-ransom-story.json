@@ -1,0 +1,84 @@
+{
+    "id": "stay-cool-kobayashi-san-a-river-city-ransom-story",
+    "name": "Stay Cool, Kobayashi-san!: A River City Ransom Story",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ahz.webp",
+    "release": "2022-11-03",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "River City",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Side-Scrolling Beat 'em Up"
+        ],
+        "themes": [
+            "Comedy",
+            "School",
+            "Street Fighting"
+        ],
+        "tags": [
+            "Retro Style",
+            "Brawler",
+            "Anime",
+            "Spin-Off"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "windows",
+            "via": "steam",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "downtown-nekketsu-story",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "APlus Games"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Smaller-scale comedic River City spin-off focused on classic brawling gameplay.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Interesting side-story within the broader River City revival era.",
+        "notes": "Owned digitally on Switch and Steam."
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,77 @@
+{
+    "id": "dragon-ball-z-infinite-world",
+    "name": "Dragon Ball Z: Infinite World",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tse.webp",
+    "release": "2008-12-04",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Budokai",
+        "subseries": null
+    },
+    "system": "playstation-2",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "Arena Fighting"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts"
+        ],
+        "tags": [
+            "Anime"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "playstation-2",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-ball-z-budokai-3",
+            "type": "prequel"
+        },
+        {
+            "source": "dragon-ball-z-burst-limit",
+            "type": "spiritual_successor"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Dimps"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Refined late-era evolution of the Budokai gameplay style.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Interesting capstone to the PS2 Budokai lineage.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

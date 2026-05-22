@@ -1,0 +1,64 @@
+{
+    "id": "sonic-the-fighters",
+    "name": "Sonic the Fighters",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zn5.webp",
+    "release": "1996-07-04",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "3D Fighting"
+        ],
+        "themes": [],
+        "tags": [
+            "Arcade"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-gems-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Sega AM2"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Arcade-style Sonic fighting spin-off.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

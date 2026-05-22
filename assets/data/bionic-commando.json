@@ -1,0 +1,73 @@
+{
+    "id": "bionic-commando",
+    "name": "Bionic Commando",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7k8k.webp",
+    "aliases": [
+        "Top Secret"
+    ],
+    "release": "1987-03-31",
+    "type": "game",
+    "franchise": {
+        "universe": "Bionic Commando",
+        "series": "Bionic Commando",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Military"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Grappling Hook",
+            "Capcom"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Highly influential arcade action game centered around grappling traversal mechanics.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important Capcom arcade classic and foundational grappling-hook action game.",
+        "notes": "Contained in Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

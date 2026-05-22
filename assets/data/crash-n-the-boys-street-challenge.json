@@ -1,0 +1,79 @@
+{
+    "id": "crash-n-the-boys-street-challenge",
+    "name": "Crash 'n the Boys: Street Challenge",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vva.webp",
+    "release": "1990-10-26",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Crash 'n the Boys",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Sports",
+            "Party"
+        ],
+        "subgenres": [
+            "Arcade Sports",
+            "Mini-Game Collection"
+        ],
+        "themes": [
+            "Comedy",
+            "School"
+        ],
+        "tags": [
+            "Retro",
+            "Multiplayer",
+            "Arcade Style",
+            "Party Game"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned collection."
+        }
+    ],
+    "versions": [
+        {
+            "source": "downtown-nekketsu-march-super-awesome-field-day",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": [
+        "Technōs Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Excellent chaotic multiplayer sports-party hybrid with strong Kunio-kun personality.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important multiplayer-focused Kunio-kun title and standout retro party experience.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": "Localized version of Bikkuri Nekketsu Shin Kiroku."
+}

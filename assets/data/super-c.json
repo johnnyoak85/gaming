@@ -1,0 +1,97 @@
+{
+    "id": "super-c",
+    "name": "Super C",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fkf.webp",
+    "release": "1990-04-02",
+    "type": "game",
+    "franchise": {
+        "universe": "Contra",
+        "series": "Contra",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "contra-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-contra",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "contra",
+            "type": "prequel"
+        },
+        {
+            "source": "contra-iii-the-alien-wars",
+            "type": "sequel"
+        },
+        {
+            "source": "contra-hard-corps",
+            "type": "sequel"
+        },
+        {
+            "source": "operation-c",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "NES version of Super Contra.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

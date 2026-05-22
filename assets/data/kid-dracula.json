@@ -1,0 +1,74 @@
+{
+    "id": "kid-dracula",
+    "name": "Kid Dracula",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9o2.webp",
+    "release": "1990-10-19",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Kid Dracula",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Parody",
+            "Cute Horror"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "castlevania-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kid-dracula-gb",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "completed",
+    "backlog": {
+        "priority": 3,
+        "reason": "Rare parody spinoff included in the Anniversary Collection.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Konami's 50th Anniversary",
+    "notes": "First and only official English-localized version of the Famicom Kid Dracula."
+}

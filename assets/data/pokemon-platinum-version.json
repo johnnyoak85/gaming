@@ -1,0 +1,84 @@
+{
+    "id": "pokemon-platinum-version",
+    "name": "Pokémon Platinum Version",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gvp.webp",
+    "release": "2008-09-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Pokémon",
+        "series": "Pokémon",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Monster Collecting RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Portable",
+            "Turn Based",
+            "Creature Collection"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "pokemon-emerald-version",
+            "type": "prequel"
+        },
+        {
+            "source": "pokemon-black-version",
+            "type": "sequel"
+        },
+        {
+            "source": "pokemon-soulsilver-version",
+            "type": "twin_engine"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": [
+        "Game Freak"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive Sinnoh experience with improved pacing, expanded Pokédex and strong postgame.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 45
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Widely considered the definitive Nintendo DS Pokémon version and essential franchise coverage.",
+        "notes": "Prefer complete-in-box PAL copy."
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,71 @@
+{
+    "id": "hyrule-warriors-age-of-calamity-pulse-of-the-ancients",
+    "name": "Hyrule Warriors: Age of Calamity – Pulse of the Ancients",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7plv.webp",
+    "release": "2021-06-18",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "Hyrule Warriors",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Expansion"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "DLC"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "hyrule-warriors-age-of-calamity",
+            "type": "expansion"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Omega Force"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Additional characters and missions.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

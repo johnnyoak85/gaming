@@ -1,0 +1,72 @@
+{
+    "id": "dragon-ball-revenge-of-king-piccolo",
+    "name": "Dragon Ball: Revenge of King Piccolo",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ilp.webp",
+    "release": "2009-07-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Dragon Ball",
+        "subseries": null
+    },
+    "system": "nintendo-wii",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Beat 'em Up",
+            "Action Platformer"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts",
+            "Adventure"
+        ],
+        "tags": [
+            "Classic Era",
+            "Anime"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Media Vision"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Strong modern revisit of original Dragon Ball story arcs with excellent fan service.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the few quality games focused on classic pre-Z Dragon Ball.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

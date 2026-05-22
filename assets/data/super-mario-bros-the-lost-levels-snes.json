@@ -1,0 +1,76 @@
+{
+    "id": "super-mario-bros-the-lost-levels-snes",
+    "name": "Super Mario Bros.: The Lost Levels",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k7g.webp",
+    "release": "1993-07-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario All-Stars"
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "SNES",
+            "Remake",
+            "Hard",
+            "Precision Platforming"
+        ]
+    },
+    "player_age": 8,
+    "access": [],
+    "versions": [
+        {
+            "source": "super-mario-bros-the-lost-levels",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-bros-snes",
+            "type": "prequel"
+        },
+        {
+            "source": "super-mario-bros-3-snes",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "SNES remake of The Lost Levels.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Contained in Super Mario All-Stars: 25th Anniversary Edition."
+}

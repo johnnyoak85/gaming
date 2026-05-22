@@ -1,0 +1,74 @@
+{
+    "id": "dragon-buster-ii",
+    "name": "Dragon Buster II",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iyp.webp",
+    "release": "1989-04-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Buster",
+        "series": "Dragon Buster",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "subgenres": [
+            "Action RPG",
+            "Dungeon Crawler"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Famicom",
+            "Dungeon"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned digital collection."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-buster",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Namco"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Obscure follow-up to Dragon Buster with more limited historical impact.",
+        "rating": 2,
+        "difficulty": 4,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Useful preservation entry for completing the Dragon Buster branch.",
+        "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 2."
+    },
+    "event": null,
+    "notes": null
+}

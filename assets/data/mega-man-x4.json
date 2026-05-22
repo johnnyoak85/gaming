@@ -1,0 +1,69 @@
+{
+    "id": "mega-man-x4",
+    "name": "Mega Man X4",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar91.webp",
+    "release": "1997-08-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man X",
+        "subseries": null
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "PlayStation",
+            "Saturn"
+        ]
+    },
+    "player_age": 8,
+    "access": [],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-x3",
+            "type": "prequel"
+        },
+        {
+            "source": "mega-man-x5",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Peak 32-bit Mega Man X.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 7
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

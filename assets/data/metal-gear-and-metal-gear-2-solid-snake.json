@@ -1,0 +1,80 @@
+{
+    "id": "metal-gear-and-metal-gear-2-solid-snake",
+    "name": "Metal Gear & Metal Gear 2: Solid Snake",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7d6w.webp",
+    "release": "2023-10-24",
+    "type": "game",
+    "franchise": {
+        "universe": "Metal Gear",
+        "series": "Metal Gear",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Action"
+        ],
+        "subgenres": [
+            "Stealth Action Collection"
+        ],
+        "themes": [
+            "Espionage",
+            "Military"
+        ],
+        "tags": [
+            "MSX2",
+            "Stealth",
+            "Retro",
+            "Konami"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "metal-gear-solid-master-collection-version",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "metal-gear-mobile",
+        "metal-gear-2-solid-snake-mobile"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Important preservation package for the original MSX2 Metal Gear titles.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential stealth game preservation package.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "category": "bundle"
+}

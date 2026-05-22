@@ -1,0 +1,74 @@
+{
+    "id": "castlevania-lords-of-shadow-ultimate-edition",
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nh2.webp",
+    "release": "2013-08-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania: Lords of Shadow",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [
+            "Fantasy",
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Bundle"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "MercurySteam"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Complete version of Lords of Shadow with expansions.",
+        "rating": 4,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "contains": [
+        "castlevania-lords-of-shadow",
+        "castlevania-lords-of-shadow-reverie",
+        "castlevania-lords-of-shadow-resurrection"
+    ],
+    "category": "bundle"
+}

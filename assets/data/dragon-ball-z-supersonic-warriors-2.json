@@ -1,0 +1,72 @@
+{
+    "id": "dragon-ball-z-supersonic-warriors-2",
+    "name": "Dragon Ball Z: Supersonic Warriors 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54vo.webp",
+    "release": "2005-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Supersonic Warriors",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting",
+            "Arena Fighting"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts"
+        ],
+        "tags": []
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-ball-z-supersonic-warriors",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Arc System Works"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Expanded portable sequel with large roster and strong alternate story content.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the strongest portable Dragon Ball fighting games.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

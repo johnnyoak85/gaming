@@ -1,0 +1,71 @@
+{
+    "id": "castlevania-harmony-of-despair",
+    "name": "Castlevania: Harmony of Despair",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pny.webp",
+    "release": "2010-08-04",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "system": "xbox-live-arcade",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Metroidvania"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Online",
+            "Co-op",
+            "Fanservice"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "online"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "paused",
+    "backlog": {
+        "priority": 2,
+        "reason": "Unique multiplayer-focused Castlevania crossover game.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

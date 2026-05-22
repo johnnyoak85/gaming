@@ -1,6 +1,6 @@
-const GAMES_SOLO_PATH = "./data/";
-const HARDWARE_SOLO_PATH = "./data/";
-const AMIIBO_SOLO_PATH = "./data/";
+const GAMES_SOLO_PATH = "./assets/data/";
+const HARDWARE_SOLO_PATH = "./assets/data/";
+const AMIIBO_SOLO_PATH = "./assets/data/";
 const IMAGE_BASE = "./images";
 
 // ---------------------------------------------------------------------------
@@ -82,7 +82,7 @@ function getPlayerAge(game) {
 function coverUrl(name) {
   if (!name) return null;
   if (name.startsWith("http")) return name;
-  return `./images/${name}.png`;
+  return `./assets/images/${name}.png`;
 }
 
 async function loadGame(id) {
@@ -153,7 +153,7 @@ async function findFamilyMembers(hw) {
 
   try {
     if (!manifestCache) {
-      const res = await fetch("./data/manifest.json");
+      const res = await fetch("./assets/data/manifest.json");
       if (!res.ok) return [hw];
       manifestCache = await res.json();
     }
@@ -408,13 +408,9 @@ async function buildPage(game) {
   ].filter(Boolean);
   const franchiseLine = franchiseParts.length ? franchiseParts.join(" · ") : null;
 
-  // Companies line: publisher · developer
-  const companies = game.companies;
-  const companyParts = [
-    ...(companies?.publisher ?? []),
-    ...(companies?.developer ?? []),
-  ].filter(Boolean);
-  const companiesLine = companyParts.length ? [...new Set(companyParts)].join(" · ") : null;
+  // Companies line
+  const companyParts = game.companies ?? [];
+  const companiesLine = companyParts.length ? companyParts.join(" · ") : null;
 
   const leftCol = el("div", { class: "hero-col" }, [
     game.release

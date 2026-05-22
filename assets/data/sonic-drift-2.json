@@ -1,0 +1,80 @@
+{
+    "id": "sonic-drift-2",
+    "name": "Sonic Drift 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxs3.webp",
+    "aliases": [
+        "Sonic Drift Racing"
+    ],
+    "release": "1995-03-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Drift",
+        "subseries": null
+    },
+    "system": "game-gear",
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Kart Racing"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-adventure-dx",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-gems-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-drift",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Aspect"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Improved Sonic Drift sequel.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

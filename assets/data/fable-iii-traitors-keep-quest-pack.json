@@ -1,0 +1,79 @@
+{
+    "id": "fable-iii-traitors-keep-quest-pack",
+    "name": "Fable III: Traitor's Keep Quest Pack",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fkm.webp",
+    "release": "2011-03-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Fable",
+        "series": "Fable",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Expansion"
+        ],
+        "themes": [
+            "Fantasy",
+            "Politics"
+        ],
+        "tags": [
+            "Fantasy"
+        ]
+    },
+    "player_age": 16,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": "fable-iii",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "fable-iii",
+            "type": "base"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Lionhead Studios"
+        ],
+        "publisher": [
+            "Microsoft Game Studios"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Substantial late-game expansion adding new areas and narrative content.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Major story expansion for Fable III.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "category": "expansion"
+}

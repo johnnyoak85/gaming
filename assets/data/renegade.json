@@ -1,0 +1,82 @@
+{
+    "id": "renegade",
+    "name": "Renegade",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co471k.webp",
+    "release": "1986-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Nekketsu Kōha Kunio-kun",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Side-Scrolling Beat 'em Up"
+        ],
+        "themes": [
+            "Street Fighting",
+            "Delinquent"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Brawler",
+            "Proto Beat 'em Up"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned collection."
+        }
+    ],
+    "versions": [
+        {
+            "source": "nekketsu-renegade-kunio-kun",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "river-city-ransom",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Technōs Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Foundational belt-scrolling beat-'em-up that directly influenced Double Dragon and the genre as a whole.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically critical origin point for the Kunio-kun lineage and early beat-'em-up design.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": "Westernized version of Nekketsu Kōha Kunio-kun."
+}

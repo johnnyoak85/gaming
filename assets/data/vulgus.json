@@ -1,0 +1,69 @@
+{
+    "id": "vulgus",
+    "name": "Vulgus",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7lma.webp",
+    "release": "1984-05-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Capcom Arcade",
+        "series": "Vulgus",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Vertical Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Proto-Shmup",
+            "Capcom"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Very early Capcom arcade shooter and foundational vertical scrolling shmup.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically significant early Capcom arcade release.",
+        "notes": "Wishlist through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

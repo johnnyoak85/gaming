@@ -1,0 +1,78 @@
+{
+    "id": "final-fantasy-vi-advance",
+    "name": "Final Fantasy VI Advance",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yh2.webp",
+    "release": "2006-11-30",
+    "type": "game",
+    "franchise": {
+        "universe": "Final Fantasy",
+        "series": "Final Fantasy",
+        "subseries": "Advance"
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Steampunk"
+        ],
+        "tags": [
+            "GBA",
+            "Enhanced Version"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "final-fantasy-vi",
+            "format": "base"
+        },
+        {
+            "source": "final-fantasy-vi-pixel-remaster",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "TOSE"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Expanded portable version of one of the best JRPGs ever made.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

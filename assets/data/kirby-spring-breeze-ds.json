@@ -1,0 +1,72 @@
+{
+    "id": "kirby-spring-breeze-ds",
+    "name": "Spring Breeze",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95pu.webp",
+    "release": "2008-09-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Super Star Ultra"
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Reimagining"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": "kirby-super-star-ultra",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirby-spring-breeze",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "HAL Laboratory"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Enhanced DS version of the Dream Land reimagining.",
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

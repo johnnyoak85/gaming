@@ -1,0 +1,4042 @@
+[
+  {
+    "id": "1941-counter-attack",
+    "type": "game"
+  },
+  {
+    "id": "1942",
+    "type": "game"
+  },
+  {
+    "id": "1943-kai-midway-kaisen",
+    "type": "game"
+  },
+  {
+    "id": "1944-the-loop-master",
+    "type": "game"
+  },
+  {
+    "id": "19xx-the-war-against-destiny",
+    "type": "game"
+  },
+  {
+    "id": "3d-classics-kid-icarus",
+    "type": "game"
+  },
+  {
+    "id": "3d-classics-kirbys-adventure",
+    "type": "game"
+  },
+  {
+    "id": "a500-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "akumajou-densetsu",
+    "type": "game"
+  },
+  {
+    "id": "arcade-archives-vs-castlevania",
+    "type": "game"
+  },
+  {
+    "id": "arcade-classics-anniversary-collection",
+    "type": "game"
+  },
+  {
+    "id": "atari-flashback-x",
+    "type": "hardware"
+  },
+  {
+    "id": "axelay",
+    "type": "game"
+  },
+  {
+    "id": "ball-game-and-watch-super-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "balloon-fight",
+    "type": "game"
+  },
+  {
+    "id": "balloon-trip",
+    "type": "game"
+  },
+  {
+    "id": "battle-circuit",
+    "type": "game"
+  },
+  {
+    "id": "battle-city",
+    "type": "game"
+  },
+  {
+    "id": "bayonetta-2",
+    "type": "game"
+  },
+  {
+    "id": "bayonetta-2014",
+    "type": "game"
+  },
+  {
+    "id": "bayonetta-3",
+    "type": "game"
+  },
+  {
+    "id": "bayonetta-player-2-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "bayonetta",
+    "type": "game"
+  },
+  {
+    "id": "bionic-commando",
+    "type": "game"
+  },
+  {
+    "id": "black-tiger",
+    "type": "game"
+  },
+  {
+    "id": "blaster-master-enemy-below",
+    "type": "game"
+  },
+  {
+    "id": "blaster-master-zero-2",
+    "type": "game"
+  },
+  {
+    "id": "blaster-master-zero-3",
+    "type": "game"
+  },
+  {
+    "id": "blaster-master-zero",
+    "type": "game"
+  },
+  {
+    "id": "blaster-master",
+    "type": "game"
+  },
+  {
+    "id": "block-block",
+    "type": "game"
+  },
+  {
+    "id": "blue-sphere",
+    "type": "game"
+  },
+  {
+    "id": "bokoblin-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "bomberman-nes",
+    "type": "game"
+  },
+  {
+    "id": "bomberman-series",
+    "type": "series"
+  },
+  {
+    "id": "boo-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "bowser-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "bowser-jrs-journey",
+    "type": "game"
+  },
+  {
+    "id": "bowser-wedding-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "bowsers-fury",
+    "type": "game"
+  },
+  {
+    "id": "braid",
+    "type": "game"
+  },
+  {
+    "id": "breath-of-fire-advance",
+    "type": "game"
+  },
+  {
+    "id": "breath-of-fire-ii-advance",
+    "type": "game"
+  },
+  {
+    "id": "breath-of-fire-ii",
+    "type": "game"
+  },
+  {
+    "id": "breath-of-fire",
+    "type": "game"
+  },
+  {
+    "id": "brutal-legend",
+    "type": "game"
+  },
+  {
+    "id": "bubble-bobble-series",
+    "type": "series"
+  },
+  {
+    "id": "bubble-bobble",
+    "type": "game"
+  },
+  {
+    "id": "c64-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "capcom-arcade-2nd-stadium",
+    "type": "game"
+  },
+  {
+    "id": "capcom-arcade-stadium",
+    "type": "game"
+  },
+  {
+    "id": "capcom-beat-em-up-bundle",
+    "type": "game"
+  },
+  {
+    "id": "capcom-fighting-collection",
+    "type": "game"
+  },
+  {
+    "id": "capcom-play-system-ii",
+    "type": "system"
+  },
+  {
+    "id": "capcom-play-system-iii",
+    "type": "system"
+  },
+  {
+    "id": "capcom-play-system",
+    "type": "system"
+  },
+  {
+    "id": "capcom-sports-club",
+    "type": "game"
+  },
+  {
+    "id": "captain-commando",
+    "type": "game"
+  },
+  {
+    "id": "captain-toad-treasure-tracker",
+    "type": "game"
+  },
+  {
+    "id": "carrier-air-wing",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-64",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-advance-collection",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-anniversary-collection",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-aria-of-sorrow",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-belmonts-curse",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-bloodlines",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-circle-of-the-moon",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-dawn-of-sorrow",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-dominus-collection",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-dracula-x",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-harmony-of-despair",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-harmony-of-dissonance",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-ii-belmonts-revenge",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-ii-simons-quest",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-iii-draculas-curse",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-judgment",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-legacy-of-darkness",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-legends",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-2-revelations",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-2",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-mirror-of-fate-hd",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-mirror-of-fate",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-resurrection",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-reverie",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-ultimate-edition",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-order-of-ecclesia",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-portrait-of-ruin",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-series",
+    "type": "series"
+  },
+  {
+    "id": "castlevania-the-adventure-rebirth",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-the-adventure",
+    "type": "game"
+  },
+  {
+    "id": "castlevania",
+    "type": "game"
+  },
+  {
+    "id": "cat-mario-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "cat-peach-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "catherine",
+    "type": "game"
+  },
+  {
+    "id": "chariot-adventure-through-the-sky",
+    "type": "game"
+  },
+  {
+    "id": "chrono-cross-2022",
+    "type": "game"
+  },
+  {
+    "id": "chrono-cross-the-radical-dreamers-edition",
+    "type": "game"
+  },
+  {
+    "id": "chrono-trigger-ds",
+    "type": "game"
+  },
+  {
+    "id": "chrono-trigger",
+    "type": "game"
+  },
+  {
+    "id": "classic-nes-series-castlevania",
+    "type": "game"
+  },
+  {
+    "id": "classic-nes-series-metroid",
+    "type": "game"
+  },
+  {
+    "id": "classic-nes-series-super-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "classic-nes-series-the-legend-of-zelda",
+    "type": "game"
+  },
+  {
+    "id": "classic-nes-series-zelda-ii-the-adventure-of-link",
+    "type": "game"
+  },
+  {
+    "id": "collection-of-mana",
+    "type": "game"
+  },
+  {
+    "id": "commando",
+    "type": "game"
+  },
+  {
+    "id": "contra-4",
+    "type": "game"
+  },
+  {
+    "id": "contra-anniversary-collection",
+    "type": "game"
+  },
+  {
+    "id": "contra-arcade",
+    "type": "game"
+  },
+  {
+    "id": "contra-hard-corps",
+    "type": "game"
+  },
+  {
+    "id": "contra-iii-the-alien-wars",
+    "type": "game"
+  },
+  {
+    "id": "contra-operation-galuga",
+    "type": "game"
+  },
+  {
+    "id": "contra-rebirth",
+    "type": "game"
+  },
+  {
+    "id": "contra-rogue-corps",
+    "type": "game"
+  },
+  {
+    "id": "contra-series",
+    "type": "series"
+  },
+  {
+    "id": "contra",
+    "type": "game"
+  },
+  {
+    "id": "crash-n-the-boys-street-challenge",
+    "type": "game"
+  },
+  {
+    "id": "crisis-core-final-fantasy-vii-reunion",
+    "type": "game"
+  },
+  {
+    "id": "crystalis",
+    "type": "game"
+  },
+  {
+    "id": "cyberbots-fullmetal-madness",
+    "type": "game"
+  },
+  {
+    "id": "daisy-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "dark-samus-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "darkstalkers-the-night-warriors",
+    "type": "game"
+  },
+  {
+    "id": "daruk-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "demons-crest",
+    "type": "game"
+  },
+  {
+    "id": "devil-may-cry-4",
+    "type": "game"
+  },
+  {
+    "id": "dig-dug-ii",
+    "type": "game"
+  },
+  {
+    "id": "dig-dug",
+    "type": "game"
+  },
+  {
+    "id": "dirty-job",
+    "type": "game"
+  },
+  {
+    "id": "doc-louis-punch-out",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-1994",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-64",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "donkey-kong-bananza",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-country-returns-3d",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-country-returns-hd",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-country-returns",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-country-tropical-freeze",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-country",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-jr",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-pauline-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "donkey-kong-series",
+    "type": "series"
+  },
+  {
+    "id": "donkey-kong",
+    "type": "game"
+  },
+  {
+    "id": "dont-pull",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-advance",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-gaiden-rise-of-the-dragons",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-ii-the-revenge-nes",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-iii-the-sacred-stones",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-iv",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-kunio-kun-retro-brawler-bundle",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-neon",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-nes",
+    "type": "game"
+  },
+  {
+    "id": "double-dragon-series",
+    "type": "series"
+  },
+  {
+    "id": "downtown-nekketsu-march-super-awesome-field-day",
+    "type": "game"
+  },
+  {
+    "id": "downtown-nekketsu-story",
+    "type": "game"
+  },
+  {
+    "id": "downtown-special-kunio-kuns-historical-period-drama",
+    "type": "game"
+  },
+  {
+    "id": "dr-luigi",
+    "type": "game"
+  },
+  {
+    "id": "dr-mario-and-germ-buster",
+    "type": "game"
+  },
+  {
+    "id": "dr-mario-miracle-cure",
+    "type": "game"
+  },
+  {
+    "id": "dr-mario-series",
+    "type": "series"
+  },
+  {
+    "id": "dr-mario",
+    "type": "game"
+  },
+  {
+    "id": "dr-robotniks-mean-bean-machine-8bit",
+    "type": "game"
+  },
+  {
+    "id": "dr-robotniks-mean-bean-machine",
+    "type": "game"
+  },
+  {
+    "id": "dr-wario",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-advanced-adventure",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-fighterz",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-final-bout",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-raging-blast-2",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-raging-blast",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-revenge-of-king-piccolo",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-sparking-zero",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-xenoverse-2",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-attack-of-the-saiyans",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-budokai-2",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-budokai-3",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-budokai-tenkaichi-2",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-budokai-tenkaichi-3",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-budokai-tenkaichi",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-budokai",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-burst-limit",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-extreme-butoden",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-infinite-world",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-kakarot",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-supersonic-warriors-2",
+    "type": "game"
+  },
+  {
+    "id": "dragon-ball-z-supersonic-warriors",
+    "type": "game"
+  },
+  {
+    "id": "dragon-buster-ii",
+    "type": "game"
+  },
+  {
+    "id": "dragon-buster",
+    "type": "game"
+  },
+  {
+    "id": "dragon-slayer-iv-drasle-family",
+    "type": "game"
+  },
+  {
+    "id": "dragon-spirit-the-new-legend",
+    "type": "game"
+  },
+  {
+    "id": "dsiware",
+    "type": "system"
+  },
+  {
+    "id": "dualshock-2",
+    "type": "hardware"
+  },
+  {
+    "id": "dualshock-3",
+    "type": "hardware"
+  },
+  {
+    "id": "dualshock-4",
+    "type": "hardware"
+  },
+  {
+    "id": "duke-war",
+    "type": "game"
+  },
+  {
+    "id": "dynasty-wars",
+    "type": "game"
+  },
+  {
+    "id": "e-m-m-i-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "earthbound-beginnings",
+    "type": "game"
+  },
+  {
+    "id": "earthbound",
+    "type": "game"
+  },
+  {
+    "id": "eco-fighters",
+    "type": "game"
+  },
+  {
+    "id": "elephant-mario-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "enix-company",
+    "type": "company"
+  },
+  {
+    "id": "excitebike",
+    "type": "game"
+  },
+  {
+    "id": "f-zero-gx",
+    "type": "game"
+  },
+  {
+    "id": "f-zero-maximum-velocity",
+    "type": "game"
+  },
+  {
+    "id": "f-zero-x",
+    "type": "game"
+  },
+  {
+    "id": "f-zero",
+    "type": "game"
+  },
+  {
+    "id": "fable-anniversary",
+    "type": "game"
+  },
+  {
+    "id": "fable-ii",
+    "type": "game"
+  },
+  {
+    "id": "fable-iii-traitors-keep-quest-pack",
+    "type": "game"
+  },
+  {
+    "id": "fable-iii-understone-quest-pack",
+    "type": "game"
+  },
+  {
+    "id": "fable-iii",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-adventure",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-iv-advance",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-iv-pixel-remaster",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-iv",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-ix-2017",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-ix",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-series",
+    "type": "series"
+  },
+  {
+    "id": "final-fantasy-vi-advance",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vi-pixel-remaster",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vi",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii-1998",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii-2012",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii-2015",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii-remake-episode-intermission",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii-remake-intergrade",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii-remake",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-vii",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy",
+    "type": "game"
+  },
+  {
+    "id": "final-fight",
+    "type": "game"
+  },
+  {
+    "id": "fire-emblem-awakening",
+    "type": "game"
+  },
+  {
+    "id": "fire-emblem-heroes",
+    "type": "game"
+  },
+  {
+    "id": "fire-emblem-series",
+    "type": "series"
+  },
+  {
+    "id": "fire-emblem-shadow-dragon-and-the-blade-of-light",
+    "type": "game"
+  },
+  {
+    "id": "flicky",
+    "type": "game"
+  },
+  {
+    "id": "flow",
+    "type": "game"
+  },
+  {
+    "id": "flower",
+    "type": "game"
+  },
+  {
+    "id": "forgotten-worlds",
+    "type": "game"
+  },
+  {
+    "id": "freshly-picked-tingles-rosy-rupeeland",
+    "type": "game"
+  },
+  {
+    "id": "galaga-nes",
+    "type": "game"
+  },
+  {
+    "id": "galaga-series",
+    "type": "series"
+  },
+  {
+    "id": "galaga",
+    "type": "game"
+  },
+  {
+    "id": "galaxian",
+    "type": "game"
+  },
+  {
+    "id": "game-boy-color",
+    "type": "system"
+  },
+  {
+    "id": "game-boy-advance-sp",
+    "type": "hardware"
+  },
+  {
+    "id": "game-boy-advance",
+    "type": "system"
+  },
+  {
+    "id": "game-boy-advance",
+    "type": "hardware"
+  },
+  {
+    "id": "game-boy-color",
+    "type": "hardware"
+  },
+  {
+    "id": "game-boy",
+    "type": "system"
+  },
+  {
+    "id": "game-boy",
+    "type": "hardware"
+  },
+  {
+    "id": "game-gear",
+    "type": "system"
+  },
+  {
+    "id": "game-watch-super-mario-bros",
+    "type": "hardware"
+  },
+  {
+    "id": "game-watch-the-legend-of-zelda",
+    "type": "hardware"
+  },
+  {
+    "id": "gan-sumoku",
+    "type": "game"
+  },
+  {
+    "id": "ganondorf-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "ganondorf-tears-of-the-kingdom-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "gaplus-nes",
+    "type": "game"
+  },
+  {
+    "id": "ghosts-n-goblins-nes",
+    "type": "game"
+  },
+  {
+    "id": "ghosts-n-goblins-series",
+    "type": "series"
+  },
+  {
+    "id": "ghosts-n-goblins",
+    "type": "game"
+  },
+  {
+    "id": "ghouls-n-ghosts-genesis",
+    "type": "game"
+  },
+  {
+    "id": "ghouls-n-ghosts",
+    "type": "game"
+  },
+  {
+    "id": "giga-wing",
+    "type": "game"
+  },
+  {
+    "id": "go-go-nekketsu-hockey-club-slip-and-slide-madness",
+    "type": "game"
+  },
+  {
+    "id": "golden-sun-dark-dawn",
+    "type": "game"
+  },
+  {
+    "id": "golden-sun-the-lost-age",
+    "type": "game"
+  },
+  {
+    "id": "golden-sun",
+    "type": "game"
+  },
+  {
+    "id": "gradius-ii-gofer-no-yabou",
+    "type": "game"
+  },
+  {
+    "id": "gradius-iii",
+    "type": "game"
+  },
+  {
+    "id": "gradius-nes",
+    "type": "game"
+  },
+  {
+    "id": "gradius-origins",
+    "type": "game"
+  },
+  {
+    "id": "gradius-series",
+    "type": "series"
+  },
+  {
+    "id": "gradius",
+    "type": "game"
+  },
+  {
+    "id": "grand-theft-auto-iv-the-ballad-of-gay-tony",
+    "type": "game"
+  },
+  {
+    "id": "grand-theft-auto-iv-the-complete-edition",
+    "type": "game"
+  },
+  {
+    "id": "grand-theft-auto-iv-the-lost-and-damned",
+    "type": "game"
+  },
+  {
+    "id": "grand-theft-auto-iv",
+    "type": "game"
+  },
+  {
+    "id": "grand-theft-auto-v",
+    "type": "game"
+  },
+  {
+    "id": "gravediggers",
+    "type": "game"
+  },
+  {
+    "id": "guardian-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "hal-laboratory-company",
+    "type": "company"
+  },
+  {
+    "id": "hard-corps-uprising",
+    "type": "game"
+  },
+  {
+    "id": "haunted-castle-revisited",
+    "type": "game"
+  },
+  {
+    "id": "haunted-castle",
+    "type": "game"
+  },
+  {
+    "id": "heavenly-sword",
+    "type": "game"
+  },
+  {
+    "id": "hexic-hd",
+    "type": "game"
+  },
+  {
+    "id": "hissatsu-buraiken",
+    "type": "game"
+  },
+  {
+    "id": "hyper-dyne-side-arms",
+    "type": "game"
+  },
+  {
+    "id": "hyper-street-fighter-ii-the-anniversary-edition",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity-guardian-of-remembrance",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity-pulse-of-the-ancients",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-age-of-imprisonment",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-definitive-edition",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-legends",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors",
+    "type": "game"
+  },
+  {
+    "id": "ice-climber",
+    "type": "game"
+  },
+  {
+    "id": "illusion-of-gaia",
+    "type": "game"
+  },
+  {
+    "id": "inkling-squid-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "intelligent-systems-company",
+    "type": "company"
+  },
+  {
+    "id": "intellivision-sprint",
+    "type": "hardware"
+  },
+  {
+    "id": "journey-collectors-edition",
+    "type": "game"
+  },
+  {
+    "id": "journey",
+    "type": "game"
+  },
+  {
+    "id": "kicks-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "kid-dracula-gb",
+    "type": "game"
+  },
+  {
+    "id": "kid-dracula",
+    "type": "game"
+  },
+  {
+    "id": "kid-icarus-of-myths-and-monsters",
+    "type": "game"
+  },
+  {
+    "id": "kid-icarus-uprising",
+    "type": "game"
+  },
+  {
+    "id": "kid-icarus",
+    "type": "game"
+  },
+  {
+    "id": "king-dedede-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "king-k-rool-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "kirby-64-the-crystal-shards",
+    "type": "game"
+  },
+  {
+    "id": "kirby-air-ride",
+    "type": "game"
+  },
+  {
+    "id": "kirby-air-riders",
+    "type": "game"
+  },
+  {
+    "id": "kirby-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "kirby-and-the-amazing-mirror",
+    "type": "game"
+  },
+  {
+    "id": "kirby-and-the-forgotten-land",
+    "type": "game"
+  },
+  {
+    "id": "kirby-and-the-rainbow-paintbrush",
+    "type": "game"
+  },
+  {
+    "id": "kirby-canvas-curse",
+    "type": "game"
+  },
+  {
+    "id": "kirby-dynablade-ds",
+    "type": "game"
+  },
+  {
+    "id": "kirby-dynablade",
+    "type": "game"
+  },
+  {
+    "id": "kirby-fighters-2",
+    "type": "game"
+  },
+  {
+    "id": "kirby-fighters-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "kirby-gourmet-race-ds",
+    "type": "game"
+  },
+  {
+    "id": "kirby-gourmet-race",
+    "type": "game"
+  },
+  {
+    "id": "kirby-helper-to-hero",
+    "type": "game"
+  },
+  {
+    "id": "kirby-mass-attack",
+    "type": "game"
+  },
+  {
+    "id": "kirby-meta-knightmare-ultra",
+    "type": "game"
+  },
+  {
+    "id": "kirby-milky-way-wishes-ds",
+    "type": "game"
+  },
+  {
+    "id": "kirby-milky-way-wishes",
+    "type": "game"
+  },
+  {
+    "id": "kirby-mouse-attack",
+    "type": "game"
+  },
+  {
+    "id": "kirby-nightmare-in-dream-land",
+    "type": "game"
+  },
+  {
+    "id": "kirby-planet-robobot",
+    "type": "game"
+  },
+  {
+    "id": "kirby-revenge-of-meta-knight-ds",
+    "type": "game"
+  },
+  {
+    "id": "kirby-revenge-of-meta-knight",
+    "type": "game"
+  },
+  {
+    "id": "kirby-revenge-of-the-king",
+    "type": "game"
+  },
+  {
+    "id": "kirby-series",
+    "type": "series"
+  },
+  {
+    "id": "kirby-spring-breeze-ds",
+    "type": "game"
+  },
+  {
+    "id": "kirby-spring-breeze",
+    "type": "game"
+  },
+  {
+    "id": "kirby-star-allies",
+    "type": "game"
+  },
+  {
+    "id": "kirby-super-star-ultra",
+    "type": "game"
+  },
+  {
+    "id": "kirby-super-star",
+    "type": "game"
+  },
+  {
+    "id": "kirby-the-great-cave-offensive-ds",
+    "type": "game"
+  },
+  {
+    "id": "kirby-the-great-cave-offensive",
+    "type": "game"
+  },
+  {
+    "id": "kirby-triple-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-adventure-wii",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-adventure",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-avalanche",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-block-ball",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-blowout-blast",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-dream-course",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-dream-land-2",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-dream-land-3",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-dream-land",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-epic-yarn",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-extra-epic-yarn",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-pinball-land",
+    "type": "game"
+  },
+  {
+    "id": "kirbys-return-to-dream-land-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "knights-of-the-round",
+    "type": "game"
+  },
+  {
+    "id": "knuckles-in-sonic-2",
+    "type": "game"
+  },
+  {
+    "id": "kunio-kuns-nekketsu-soccer-league",
+    "type": "game"
+  },
+  {
+    "id": "last-duel",
+    "type": "game"
+  },
+  {
+    "id": "legendary-wings",
+    "type": "game"
+  },
+  {
+    "id": "life-force-jp",
+    "type": "game"
+  },
+  {
+    "id": "life-force",
+    "type": "game"
+  },
+  {
+    "id": "link-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-archer-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-awakening-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-majora-s-mask-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-ocarina-of-time-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-rider-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-skyward-sword-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-tears-of-the-kingdom-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-the-legend-of-zelda-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "link-twilight-princess-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "links-crossbow-training",
+    "type": "game"
+  },
+  {
+    "id": "little-samson",
+    "type": "game"
+  },
+  {
+    "id": "luigi-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "luigi-bros",
+    "type": "game"
+  },
+  {
+    "id": "luigis-mansion-2-hd",
+    "type": "game"
+  },
+  {
+    "id": "luigis-mansion-2",
+    "type": "game"
+  },
+  {
+    "id": "luigis-mansion-3",
+    "type": "game"
+  },
+  {
+    "id": "luigis-mansion-3ds",
+    "type": "game"
+  },
+  {
+    "id": "luigis-mansion",
+    "type": "game"
+  },
+  {
+    "id": "lylat-wars",
+    "type": "game"
+  },
+  {
+    "id": "madworld",
+    "type": "game"
+  },
+  {
+    "id": "magic-sword",
+    "type": "game"
+  },
+  {
+    "id": "magical-starsign",
+    "type": "game"
+  },
+  {
+    "id": "mappy-land",
+    "type": "game"
+  },
+  {
+    "id": "mappy",
+    "type": "game"
+  },
+  {
+    "id": "mario-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "mario-and-luigi-bowsers-inside-story-3ds",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-bowsers-inside-story-plus-bowser-jrs-journey",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-bowsers-inside-story",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-brothership",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-dream-team",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-paper-jam",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-partners-in-time",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-superstar-saga-3ds",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-superstar-saga-plus-bowsers-minions",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luigi-superstar-saga",
+    "type": "game"
+  },
+  {
+    "id": "mario-and-luma-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "mario-bros-advance",
+    "type": "game"
+  },
+  {
+    "id": "mario-bros-series",
+    "type": "series"
+  },
+  {
+    "id": "mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "mario-classic-colors-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "mario-kart-64",
+    "type": "game"
+  },
+  {
+    "id": "mario-kart-8-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "mario-kart-double-dash",
+    "type": "game"
+  },
+  {
+    "id": "mario-kart-wii",
+    "type": "game"
+  },
+  {
+    "id": "mario-kart-world",
+    "type": "game"
+  },
+  {
+    "id": "mario-wedding-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "marios-picross",
+    "type": "game"
+  },
+  {
+    "id": "mega-drive-mini-2-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "mega-drive-mini-2",
+    "type": "hardware"
+  },
+  {
+    "id": "mega-drive-mini-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "mega-drive-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "mega-man-10",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-11",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-1994",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-2-1994",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-2-the-power-fighters",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-2",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-3-1994",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-3",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-4",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-5",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-6",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-7",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-8",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-9",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "mega-man-legacy-collection-2",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-legacy-collection",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-series",
+    "type": "series"
+  },
+  {
+    "id": "mega-man-the-power-battle",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-the-wily-wars",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-v",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-wily-tower",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x-legacy-collection-2",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x-legacy-collection",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x2",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x3",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x4",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x5",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x6",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x7",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-x8",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zero-2",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zero-3",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zero-4",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zero-zx-legacy-collection",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zero",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zx-advent",
+    "type": "game"
+  },
+  {
+    "id": "mega-man-zx",
+    "type": "game"
+  },
+  {
+    "id": "mega-man",
+    "type": "game"
+  },
+  {
+    "id": "mega-twins",
+    "type": "game"
+  },
+  {
+    "id": "mendel-palace",
+    "type": "game"
+  },
+  {
+    "id": "meta-knight-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "metal-gear-2-solid-snake-mobile",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-and-metal-gear-2-solid-snake",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-mobile",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-nes",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-2-sons-of-liberty-hd",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-3-snake-eater-hd",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-4-guns-of-the-patriots",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-gbc",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-integral",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-master-collection-version",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-master-collection-volume-1-bonus-content",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-master-collection-volume-1",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-master-collection-volume-2",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-peace-walker-hd",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-the-twin-snakes",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid-vr-missions",
+    "type": "game"
+  },
+  {
+    "id": "metal-gear-solid",
+    "type": "game"
+  },
+  {
+    "id": "meteos",
+    "type": "game"
+  },
+  {
+    "id": "metroid-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "metroid-dread",
+    "type": "game"
+  },
+  {
+    "id": "metroid-fusion",
+    "type": "game"
+  },
+  {
+    "id": "metroid-ii-return-of-samus",
+    "type": "game"
+  },
+  {
+    "id": "metroid-other-m",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime-2-echoes",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime-3-corruption",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime-4-beyond",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime-blast-ball",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime-hunters",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime-remastered",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime",
+    "type": "game"
+  },
+  {
+    "id": "metroid-samus-returns",
+    "type": "game"
+  },
+  {
+    "id": "metroid-series",
+    "type": "series"
+  },
+  {
+    "id": "metroid-zero-mission",
+    "type": "game"
+  },
+  {
+    "id": "metroid",
+    "type": "game"
+  },
+  {
+    "id": "midnight-wanderers-quest-for-the-chariot",
+    "type": "game"
+  },
+  {
+    "id": "mineru-construct-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "mini-ninjas",
+    "type": "game"
+  },
+  {
+    "id": "minion-quest-the-search-for-bowser",
+    "type": "game"
+  },
+  {
+    "id": "mipha-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "mischief-makers",
+    "type": "game"
+  },
+  {
+    "id": "mole-mania",
+    "type": "game"
+  },
+  {
+    "id": "mvs-mini-pad",
+    "type": "hardware"
+  },
+  {
+    "id": "mvs-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "my-nintendo-picross-the-legend-of-zelda-twilight-princess",
+    "type": "game"
+  },
+  {
+    "id": "namco-museum-archives-vol-1",
+    "type": "game"
+  },
+  {
+    "id": "namco-museum-archives-vol-2",
+    "type": "game"
+  },
+  {
+    "id": "nec-pc-engine-coregrafx-mini-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nec-pc-engine-coregrafx-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "nekketsu-fighting-legend",
+    "type": "game"
+  },
+  {
+    "id": "nekketsu-high-school-dodgeball-club-soccer-story",
+    "type": "game"
+  },
+  {
+    "id": "nekketsu-high-school-dodgeball-club",
+    "type": "game"
+  },
+  {
+    "id": "nekketsu-renegade-kunio-kun",
+    "type": "game"
+  },
+  {
+    "id": "nekketsu-street-basketball-all-out-dunk-heroes",
+    "type": "game"
+  },
+  {
+    "id": "nemesis",
+    "type": "game"
+  },
+  {
+    "id": "nes-remix-2",
+    "type": "game"
+  },
+  {
+    "id": "nes-remix",
+    "type": "game"
+  },
+  {
+    "id": "new-nintendo-3ds-xl",
+    "type": "hardware"
+  },
+  {
+    "id": "new-super-luigi-u-switch",
+    "type": "game"
+  },
+  {
+    "id": "new-super-luigi-u",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros-2",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros-u-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros-u-switch",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros-u",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros-wii",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "night-warriors-darkstalkers-revenge",
+    "type": "game"
+  },
+  {
+    "id": "nights-into-dreams",
+    "type": "game"
+  },
+  {
+    "id": "nights-journey-of-dreams",
+    "type": "game"
+  },
+  {
+    "id": "ninja-gaiden-2",
+    "type": "game"
+  },
+  {
+    "id": "ninja-gaiden-3",
+    "type": "game"
+  },
+  {
+    "id": "ninja-gaiden-ragebound",
+    "type": "game"
+  },
+  {
+    "id": "ninja-gaiden",
+    "type": "game"
+  },
+  {
+    "id": "nintendo-2ds",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-3ds",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-64-controller-switch",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-64-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-64",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-64",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-classic-controller-pro",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-classic-mini-nintendo-entertainment-system-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-classic-mini-nintendo-entertainment-system",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-classic-mini-super-nintendo-entertainment-system-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-classic-mini-super-nintendo-entertainment-system",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-company",
+    "type": "company"
+  },
+  {
+    "id": "nintendo-ds",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-dsi-xl",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-entertainment-system",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-game-boy-player-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-gamecube-controller-switch2",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-gamecube-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-gamecube",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-gamecube",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-joy-con-2",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-joy-con",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-land",
+    "type": "game"
+  },
+  {
+    "id": "nintendo-switch-2",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-switch-2",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-switch-pro-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-switch-sports",
+    "type": "game"
+  },
+  {
+    "id": "nintendo-switch",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-switch",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii-balance-board",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii-nunchuck",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii-remote-plus",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii-remote",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-wii-u-gamepad",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii-u-pro-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii-u",
+    "type": "system"
+  },
+  {
+    "id": "nintendo-wii-u",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-wii",
+    "type": "hardware"
+  },
+  {
+    "id": "nostril-shot",
+    "type": "game"
+  },
+  {
+    "id": "okami-hd",
+    "type": "game"
+  },
+  {
+    "id": "okami",
+    "type": "game"
+  },
+  {
+    "id": "okamiden",
+    "type": "game"
+  },
+  {
+    "id": "operation-c",
+    "type": "game"
+  },
+  {
+    "id": "orbit-ball",
+    "type": "game"
+  },
+  {
+    "id": "pac-and-pal",
+    "type": "game"
+  },
+  {
+    "id": "pac-attack",
+    "type": "game"
+  },
+  {
+    "id": "pac-in-time",
+    "type": "game"
+  },
+  {
+    "id": "pac-land",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-256",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "pac-man-arrangement-arcade",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-arrangement-cs",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-battle-royale",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-championship-edition-dx-plus",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-championship-edition-nes",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-championship-edition",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-museum-plus",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-nes",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-series",
+    "type": "series"
+  },
+  {
+    "id": "pac-man-world-2-re-pac",
+    "type": "game"
+  },
+  {
+    "id": "pac-man-world-re-pac",
+    "type": "game"
+  },
+  {
+    "id": "pac-man",
+    "type": "game"
+  },
+  {
+    "id": "pac-mania",
+    "type": "game"
+  },
+  {
+    "id": "pac-motos",
+    "type": "game"
+  },
+  {
+    "id": "pac-n-roll-remix",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario-color-splash",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario-sticker-star",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario-the-origami-king",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario-the-thousand-year-door-switch",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario-the-thousand-year-door",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario",
+    "type": "game"
+  },
+  {
+    "id": "peach-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "peach-wedding-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "piranha-plant-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "pirate-ship-higemaru",
+    "type": "game"
+  },
+  {
+    "id": "playstation-2",
+    "type": "system"
+  },
+  {
+    "id": "playstation-2",
+    "type": "hardware"
+  },
+  {
+    "id": "playstation-3",
+    "type": "system"
+  },
+  {
+    "id": "playstation-3",
+    "type": "hardware"
+  },
+  {
+    "id": "playstation-4",
+    "type": "system"
+  },
+  {
+    "id": "playstation-classic-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "playstation-classic",
+    "type": "hardware"
+  },
+  {
+    "id": "playstation",
+    "type": "system"
+  },
+  {
+    "id": "pnickies",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-alpha-sapphire-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-black-version-2",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-black-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-crystal-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-emerald-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-firered-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-magikarp-jump",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-platinum-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-soulsilver-version",
+    "type": "game"
+  },
+  {
+    "id": "pokemon-yellow",
+    "type": "game"
+  },
+  {
+    "id": "portal-2",
+    "type": "game"
+  },
+  {
+    "id": "portal-still-alive",
+    "type": "game"
+  },
+  {
+    "id": "portal",
+    "type": "game"
+  },
+  {
+    "id": "powered-gear-strategic-variant-armor-equipment",
+    "type": "game"
+  },
+  {
+    "id": "prince-of-persia-snes",
+    "type": "game"
+  },
+  {
+    "id": "prince-of-persia",
+    "type": "game"
+  },
+  {
+    "id": "princess-peach-showtime",
+    "type": "game"
+  },
+  {
+    "id": "probotector",
+    "type": "game"
+  },
+  {
+    "id": "progear",
+    "type": "game"
+  },
+  {
+    "id": "psychonauts",
+    "type": "game"
+  },
+  {
+    "id": "punch-out-wii",
+    "type": "game"
+  },
+  {
+    "id": "punch-out",
+    "type": "game"
+  },
+  {
+    "id": "pyoro-2",
+    "type": "game"
+  },
+  {
+    "id": "pyoro-s",
+    "type": "game"
+  },
+  {
+    "id": "pyoro-t",
+    "type": "game"
+  },
+  {
+    "id": "pyoro-w",
+    "type": "game"
+  },
+  {
+    "id": "pyoro",
+    "type": "game"
+  },
+  {
+    "id": "radiant-historia-perfect-chronology",
+    "type": "game"
+  },
+  {
+    "id": "radical-dreamers-2022",
+    "type": "game"
+  },
+  {
+    "id": "rallisport-challenge",
+    "type": "game"
+  },
+  {
+    "id": "rally-2011-led-storm",
+    "type": "game"
+  },
+  {
+    "id": "red-earth",
+    "type": "game"
+  },
+  {
+    "id": "renegade",
+    "type": "game"
+  },
+  {
+    "id": "revali-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "rhapsody-a-musical-adventure",
+    "type": "game"
+  },
+  {
+    "id": "rhapsody-ii-ballad-of-the-little-princess",
+    "type": "game"
+  },
+  {
+    "id": "rhapsody-iii-memories-of-marl-kingdom",
+    "type": "game"
+  },
+  {
+    "id": "rhapsody-marl-kingdom-chronicles",
+    "type": "game"
+  },
+  {
+    "id": "rhythm-heaven-fever",
+    "type": "game"
+  },
+  {
+    "id": "rhythm-heaven-groove",
+    "type": "game"
+  },
+  {
+    "id": "rhythm-paradise",
+    "type": "game"
+  },
+  {
+    "id": "richter-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "ridley-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "riju-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "ristar",
+    "type": "game"
+  },
+  {
+    "id": "river-city-girls-2-double-dragon-dlc",
+    "type": "game"
+  },
+  {
+    "id": "river-city-girls-2",
+    "type": "game"
+  },
+  {
+    "id": "river-city-girls-zero",
+    "type": "game"
+  },
+  {
+    "id": "river-city-girls",
+    "type": "game"
+  },
+  {
+    "id": "river-city-ransom",
+    "type": "game"
+  },
+  {
+    "id": "robotrek",
+    "type": "game"
+  },
+  {
+    "id": "rocket-knight",
+    "type": "game"
+  },
+  {
+    "id": "rolling-thunder",
+    "type": "game"
+  },
+  {
+    "id": "rosalina-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "rosalina-and-lumas-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "salamander-2",
+    "type": "game"
+  },
+  {
+    "id": "salamander-iii",
+    "type": "game"
+  },
+  {
+    "id": "salamander",
+    "type": "game"
+  },
+  {
+    "id": "samus-amiibo-metroid",
+    "type": "amiibo"
+  },
+  {
+    "id": "samus-amiibo-super-smash-bros",
+    "type": "amiibo"
+  },
+  {
+    "id": "samus-aran-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "samus-metroid-prime-4-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "samus-vi-o-la-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "saturday-night-slam-masters",
+    "type": "game"
+  },
+  {
+    "id": "saturn-wireless-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "savage-bees",
+    "type": "game"
+  },
+  {
+    "id": "scott-pilgrim-vs-the-world-the-game-complete-edition",
+    "type": "game"
+  },
+  {
+    "id": "scott-pilgrim-vs-the-world-the-game",
+    "type": "game"
+  },
+  {
+    "id": "scramble",
+    "type": "game"
+  },
+  {
+    "id": "secret-of-evermore",
+    "type": "game"
+  },
+  {
+    "id": "secret-of-mana",
+    "type": "game"
+  },
+  {
+    "id": "section-z",
+    "type": "game"
+  },
+  {
+    "id": "sega-astro-city-mini-stick",
+    "type": "hardware"
+  },
+  {
+    "id": "sega-astro-city-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "sega-dreamcast-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "sega-dreamcast",
+    "type": "system"
+  },
+  {
+    "id": "sega-dreamcast",
+    "type": "hardware"
+  },
+  {
+    "id": "sega-master-system",
+    "type": "system"
+  },
+  {
+    "id": "sega-mega-drive",
+    "type": "system"
+  },
+  {
+    "id": "sega-saturn",
+    "type": "system"
+  },
+  {
+    "id": "senjou-no-ookami-ii",
+    "type": "game"
+  },
+  {
+    "id": "shadow-generations",
+    "type": "game"
+  },
+  {
+    "id": "shadow-labyrinth",
+    "type": "game"
+  },
+  {
+    "id": "shadow-the-hedgehog",
+    "type": "game"
+  },
+  {
+    "id": "shantae-advance-risky-revolution",
+    "type": "game"
+  },
+  {
+    "id": "shantae-and-the-pirates-curse",
+    "type": "game"
+  },
+  {
+    "id": "shantae-and-the-seven-sirens",
+    "type": "game"
+  },
+  {
+    "id": "shantae-half-genie-hero-friends-to-the-end",
+    "type": "game"
+  },
+  {
+    "id": "shantae-half-genie-hero-pirate-queens-quest",
+    "type": "game"
+  },
+  {
+    "id": "shantae-half-genie-hero",
+    "type": "game"
+  },
+  {
+    "id": "shantae-riskys-revenge-directors-cut",
+    "type": "game"
+  },
+  {
+    "id": "shantae-riskys-revenge",
+    "type": "game"
+  },
+  {
+    "id": "shantae",
+    "type": "game"
+  },
+  {
+    "id": "sheik-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "sheriff-wario",
+    "type": "game"
+  },
+  {
+    "id": "sidon-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "simon-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "sky-kid",
+    "type": "game"
+  },
+  {
+    "id": "snakes-revenge",
+    "type": "game"
+  },
+  {
+    "id": "sonic-3-and-knuckles-2022",
+    "type": "game"
+  },
+  {
+    "id": "sonic-3-and-knuckles",
+    "type": "game"
+  },
+  {
+    "id": "sonic-3d-blast",
+    "type": "game"
+  },
+  {
+    "id": "sonic-advance-2",
+    "type": "game"
+  },
+  {
+    "id": "sonic-advance-3",
+    "type": "game"
+  },
+  {
+    "id": "sonic-advance",
+    "type": "game"
+  },
+  {
+    "id": "sonic-adventure-2-battle",
+    "type": "game"
+  },
+  {
+    "id": "sonic-adventure-2",
+    "type": "game"
+  },
+  {
+    "id": "sonic-adventure-dx",
+    "type": "game"
+  },
+  {
+    "id": "sonic-adventure",
+    "type": "game"
+  },
+  {
+    "id": "sonic-and-knuckles",
+    "type": "game"
+  },
+  {
+    "id": "sonic-blast",
+    "type": "game"
+  },
+  {
+    "id": "sonic-chaos",
+    "type": "game"
+  },
+  {
+    "id": "sonic-colors-ultimate",
+    "type": "game"
+  },
+  {
+    "id": "sonic-drift-2",
+    "type": "game"
+  },
+  {
+    "id": "sonic-drift",
+    "type": "game"
+  },
+  {
+    "id": "sonic-gems-collection",
+    "type": "game"
+  },
+  {
+    "id": "sonic-generations-2024",
+    "type": "game"
+  },
+  {
+    "id": "sonic-generations-3ds",
+    "type": "game"
+  },
+  {
+    "id": "sonic-heroes",
+    "type": "game"
+  },
+  {
+    "id": "sonic-labyrinth",
+    "type": "game"
+  },
+  {
+    "id": "sonic-mania-plus",
+    "type": "game"
+  },
+  {
+    "id": "sonic-mania",
+    "type": "game"
+  },
+  {
+    "id": "sonic-mega-collection",
+    "type": "game"
+  },
+  {
+    "id": "sonic-origins-plus",
+    "type": "game"
+  },
+  {
+    "id": "sonic-r",
+    "type": "game"
+  },
+  {
+    "id": "sonic-rush-adventure",
+    "type": "game"
+  },
+  {
+    "id": "sonic-rush",
+    "type": "game"
+  },
+  {
+    "id": "sonic-spinball-8bit",
+    "type": "game"
+  },
+  {
+    "id": "sonic-spinball",
+    "type": "game"
+  },
+  {
+    "id": "sonic-superstars",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-fighters",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-2-2013",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-2-3d",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-2-8bit",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-2",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-2013",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-3",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-4-episode-i",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-4-episode-ii",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-4-episode-metal",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-8bit",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-cd-2011",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-cd",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-genesis",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog",
+    "type": "game"
+  },
+  {
+    "id": "sonic-triple-trouble",
+    "type": "game"
+  },
+  {
+    "id": "sonic-x-shadow-generations",
+    "type": "game"
+  },
+  {
+    "id": "soul-blade",
+    "type": "game"
+  },
+  {
+    "id": "soul-blazer",
+    "type": "game"
+  },
+  {
+    "id": "soulcalibur-ii",
+    "type": "game"
+  },
+  {
+    "id": "soulcalibur-iii",
+    "type": "game"
+  },
+  {
+    "id": "soulcalibur-iv",
+    "type": "game"
+  },
+  {
+    "id": "soulcalibur-vi",
+    "type": "game"
+  },
+  {
+    "id": "soulcalibur",
+    "type": "game"
+  },
+  {
+    "id": "spectrum",
+    "type": "hardware"
+  },
+  {
+    "id": "speed-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "splatterhouse-wanpaku-graffiti",
+    "type": "game"
+  },
+  {
+    "id": "square-company",
+    "type": "company"
+  },
+  {
+    "id": "square-enix-company",
+    "type": "company"
+  },
+  {
+    "id": "stacking",
+    "type": "game"
+  },
+  {
+    "id": "star-fox-2",
+    "type": "game"
+  },
+  {
+    "id": "star-fox-64-3d",
+    "type": "game"
+  },
+  {
+    "id": "star-fox-zero",
+    "type": "game"
+  },
+  {
+    "id": "star-fox",
+    "type": "game"
+  },
+  {
+    "id": "startropics",
+    "type": "game"
+  },
+  {
+    "id": "stay-cool-kobayashi-san-a-river-city-ransom-story",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-30th-anniversary-collection",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-alpha-2",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-alpha-3-playstation",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-alpha-3",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-alpha",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-anniversary-collection",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-ii-champion-edition",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-ii-special-champion-edition",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-ii-turbo-hyper-fighting",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-ii-turbo-snes",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-ii",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-iii-2nd-impact",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-iii-3rd-strike-playstation-2",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-iii-3rd-strike",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-iii",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter",
+    "type": "game"
+  },
+  {
+    "id": "strider",
+    "type": "game"
+  },
+  {
+    "id": "super-bomberman",
+    "type": "game"
+  },
+  {
+    "id": "super-c",
+    "type": "game"
+  },
+  {
+    "id": "super-castlevania-iv",
+    "type": "game"
+  },
+  {
+    "id": "super-contra",
+    "type": "game"
+  },
+  {
+    "id": "super-dodge-ball",
+    "type": "game"
+  },
+  {
+    "id": "super-double-dragon",
+    "type": "game"
+  },
+  {
+    "id": "super-dragon-ball-z",
+    "type": "game"
+  },
+  {
+    "id": "super-gem-fighter-mini-mix",
+    "type": "game"
+  },
+  {
+    "id": "super-ghouls-n-ghosts",
+    "type": "game"
+  },
+  {
+    "id": "super-kirby-clash",
+    "type": "game"
+  },
+  {
+    "id": "super-luigi-bros",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-3d-all-stars",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-3d-land",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-3d-world-plus-bowsers-fury",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-3d-world-switch",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-3d-world",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-64-ds",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-64-switch",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-64",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-advance-2-super-mario-world",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-advance-4-super-mario-bros-3",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-advance-super-mario-bros-2-and-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-all-stars-25th-anniversary-edition",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-all-stars",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-2-advance",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-2-snes",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-2",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-3-advance",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-3-snes",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-3",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-series",
+    "type": "series"
+  },
+  {
+    "id": "super-mario-bros-snes",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-the-lost-levels-snes",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-the-lost-levels",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-wonder-switch-2",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-wonder",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-galaxy-2-switch",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-galaxy-2",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-galaxy-plus-super-mario-galaxy-2",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-galaxy-switch",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-galaxy",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-kart",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-land-2-6-golden-coins",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-land",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-odyssey",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-rpg-legend-of-the-seven-stars",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-rpg",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-run",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-series",
+    "type": "series"
+  },
+  {
+    "id": "super-mario-sunshine-switch",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-sunshine",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-world-2-yoshis-island",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-world-advance",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-world",
+    "type": "game"
+  },
+  {
+    "id": "super-metroid",
+    "type": "game"
+  },
+  {
+    "id": "super-nintendo-entertainment-system-controller-switch",
+    "type": "hardware"
+  },
+  {
+    "id": "super-nintendo-entertainment-system",
+    "type": "system"
+  },
+  {
+    "id": "super-pac-man",
+    "type": "game"
+  },
+  {
+    "id": "super-paper-mario",
+    "type": "game"
+  },
+  {
+    "id": "super-princess-peach",
+    "type": "game"
+  },
+  {
+    "id": "super-probotector-alien-rebels",
+    "type": "game"
+  },
+  {
+    "id": "super-punch-out",
+    "type": "game"
+  },
+  {
+    "id": "super-puzzle-fighter-ii-turbo",
+    "type": "game"
+  },
+  {
+    "id": "super-smash-bros-brawl",
+    "type": "game"
+  },
+  {
+    "id": "super-smash-bros-for-wii-u",
+    "type": "game"
+  },
+  {
+    "id": "super-smash-bros-melee",
+    "type": "game"
+  },
+  {
+    "id": "super-smash-bros-ultimate",
+    "type": "game"
+  },
+  {
+    "id": "super-smash-bros",
+    "type": "game"
+  },
+  {
+    "id": "super-street-fighter-ii-turbo-hd-remix",
+    "type": "game"
+  },
+  {
+    "id": "super-street-fighter-ii-turbo-revival",
+    "type": "game"
+  },
+  {
+    "id": "super-street-fighter-ii-turbo",
+    "type": "game"
+  },
+  {
+    "id": "super-street-fighter-ii",
+    "type": "game"
+  },
+  {
+    "id": "super-xevious",
+    "type": "game"
+  },
+  {
+    "id": "surprise-nekketsu-new-records-the-distant-gold-medal",
+    "type": "game"
+  },
+  {
+    "id": "sword-of-mana",
+    "type": "game"
+  },
+  {
+    "id": "sylux-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "tails-adventure",
+    "type": "game"
+  },
+  {
+    "id": "tails-skypatrol",
+    "type": "game"
+  },
+  {
+    "id": "taito-egret-ii-mini-paddle",
+    "type": "hardware"
+  },
+  {
+    "id": "taito-egret-ii-mini-panel",
+    "type": "hardware"
+  },
+  {
+    "id": "taito-egret-ii-mini",
+    "type": "hardware"
+  },
+  {
+    "id": "tatakai-no-banka",
+    "type": "game"
+  },
+  {
+    "id": "tatsunoko-vs-capcom-ultimate-all-stars",
+    "type": "game"
+  },
+  {
+    "id": "team-kirby-clash-deluxe",
+    "type": "game"
+  },
+  {
+    "id": "tecmo-bowl",
+    "type": "game"
+  },
+  {
+    "id": "tenchu-2-birth-of-the-stealth-assassins",
+    "type": "game"
+  },
+  {
+    "id": "tenchu-fatal-shadows",
+    "type": "game"
+  },
+  {
+    "id": "tenchu-stealth-assassins",
+    "type": "game"
+  },
+  {
+    "id": "tenchu-wrath-of-heaven",
+    "type": "game"
+  },
+  {
+    "id": "tenchu-z",
+    "type": "game"
+  },
+  {
+    "id": "terranigma",
+    "type": "game"
+  },
+  {
+    "id": "tetris-game-boy",
+    "type": "game"
+  },
+  {
+    "id": "tetris-mega-drive",
+    "type": "game"
+  },
+  {
+    "id": "the-firemen",
+    "type": "game"
+  },
+  {
+    "id": "the-joystick",
+    "type": "hardware"
+  },
+  {
+    "id": "the-king-of-dragons",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-a-link-between-worlds",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-a-link-to-the-past-advance",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-a-link-to-the-past-four-swords",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-a-link-to-the-past",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-breath-of-the-wild-switch-2-edition",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-breath-of-the-wild-the-champions-ballad",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-breath-of-the-wild-the-master-trials",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-breath-of-the-wild",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-collectors-edition",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-echoes-of-wisdom",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-four-swords-adventures",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-four-swords-anniversary-edition",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-four-swords",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-links-awakening-dx",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-links-awakening-switch",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-links-awakening",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-majoras-mask-3d",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-majoras-mask",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-minish-cap",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-ocarina-of-time-3d",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-ocarina-of-time-gamecube-bonus-disc",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-ocarina-of-time-master-quest",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-ocarina-of-time",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-oracle-of-ages",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-oracle-of-seasons",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-phantom-hourglass",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-series",
+    "type": "series"
+  },
+  {
+    "id": "the-legend-of-zelda-skyward-sword-hd",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-skyward-sword",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-spirit-tracks",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-tears-of-the-kingdom-switch-2-edition",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-tears-of-the-kingdom",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-the-wind-waker-hd",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-the-wind-waker",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-tri-force-heroes",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-twilight-princess-hd",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-twilight-princess",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda",
+    "type": "game"
+  },
+  {
+    "id": "the-murder-of-sonic-the-hedgehog",
+    "type": "game"
+  },
+  {
+    "id": "the-speed-rumbler",
+    "type": "game"
+  },
+  {
+    "id": "the-tower-of-druaga",
+    "type": "game"
+  },
+  {
+    "id": "three-wonders",
+    "type": "game"
+  },
+  {
+    "id": "thunder-cross",
+    "type": "game"
+  },
+  {
+    "id": "tiger-road",
+    "type": "game"
+  },
+  {
+    "id": "toon-link-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "toon-link-the-wind-waker-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "trials-of-mana-hd-remake",
+    "type": "game"
+  },
+  {
+    "id": "trials-of-mana",
+    "type": "game"
+  },
+  {
+    "id": "tulin-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "twinbee",
+    "type": "game"
+  },
+  {
+    "id": "typhoon",
+    "type": "game"
+  },
+  {
+    "id": "ultimate-nes-remix",
+    "type": "game"
+  },
+  {
+    "id": "ultra-street-fighter-ii-the-final-challengers",
+    "type": "game"
+  },
+  {
+    "id": "ultra-street-fighter-iv",
+    "type": "game"
+  },
+  {
+    "id": "united-galaxy-space-force-series",
+    "type": "series"
+  },
+  {
+    "id": "urbosa-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "vampire-hunter-2-darkstalkers-revenge",
+    "type": "game"
+  },
+  {
+    "id": "vampire-savior-2-the-lord-of-vampire",
+    "type": "game"
+  },
+  {
+    "id": "vampire-savior-the-lord-of-vampire",
+    "type": "game"
+  },
+  {
+    "id": "varth-operation-thunderstorm",
+    "type": "game"
+  },
+  {
+    "id": "vermin-2021",
+    "type": "game"
+  },
+  {
+    "id": "virtual-boy-for-nintendo-switch",
+    "type": "hardware"
+  },
+  {
+    "id": "virtual-boy",
+    "type": "system"
+  },
+  {
+    "id": "vulcan-venture",
+    "type": "game"
+  },
+  {
+    "id": "vulgus",
+    "type": "game"
+  },
+  {
+    "id": "waddle-dee-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "waluigi-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "wario-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "wario-land-3",
+    "type": "game"
+  },
+  {
+    "id": "wario-land-4",
+    "type": "game"
+  },
+  {
+    "id": "wario-land-ii-game-boy-color",
+    "type": "game"
+  },
+  {
+    "id": "wario-land-ii",
+    "type": "game"
+  },
+  {
+    "id": "wario-land-super-mario-land-3",
+    "type": "game"
+  },
+  {
+    "id": "wario-land-the-shake-dimension",
+    "type": "game"
+  },
+  {
+    "id": "warioware-inc-mega-microgame",
+    "type": "game"
+  },
+  {
+    "id": "warioware-move-it",
+    "type": "game"
+  },
+  {
+    "id": "warioware-smooth-moves",
+    "type": "game"
+  },
+  {
+    "id": "warioware-snapped",
+    "type": "game"
+  },
+  {
+    "id": "warioware-touched",
+    "type": "game"
+  },
+  {
+    "id": "warriors-of-fate",
+    "type": "game"
+  },
+  {
+    "id": "wii-fit-plus",
+    "type": "game"
+  },
+  {
+    "id": "wii-fit-u",
+    "type": "game"
+  },
+  {
+    "id": "wii-play-motion",
+    "type": "game"
+  },
+  {
+    "id": "wii-play",
+    "type": "game"
+  },
+  {
+    "id": "wii-sports-resort",
+    "type": "game"
+  },
+  {
+    "id": "wii-sports",
+    "type": "game"
+  },
+  {
+    "id": "wiiware",
+    "type": "system"
+  },
+  {
+    "id": "wolf-link-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "wrecking-crew",
+    "type": "game"
+  },
+  {
+    "id": "x-men-origins-wolverine-uncaged-edition",
+    "type": "game"
+  },
+  {
+    "id": "xbox-360-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "xbox-360",
+    "type": "system"
+  },
+  {
+    "id": "xbox-360",
+    "type": "hardware"
+  },
+  {
+    "id": "xbox-live-arcade",
+    "type": "system"
+  },
+  {
+    "id": "xbox",
+    "type": "system"
+  },
+  {
+    "id": "xbox-wireless-controller",
+    "type": "hardware"
+  },
+  {
+    "id": "xevious",
+    "type": "game"
+  },
+  {
+    "id": "yoshis-island-advance",
+    "type": "game"
+  },
+  {
+    "id": "yoshis-island-ds",
+    "type": "game"
+  },
+  {
+    "id": "yoshis-island-super-mario-advance-3",
+    "type": "game"
+  },
+  {
+    "id": "yoshis-new-island",
+    "type": "game"
+  },
+  {
+    "id": "yoshis-story",
+    "type": "game"
+  },
+  {
+    "id": "young-link-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "yunobo-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "zelda-amiibo-super-smash-bros",
+    "type": "amiibo"
+  },
+  {
+    "id": "zelda-amiibo-the-legend-of-zelda",
+    "type": "amiibo"
+  },
+  {
+    "id": "zelda-ii-the-adventure-of-link",
+    "type": "game"
+  },
+  {
+    "id": "zelda-loftwing-skyward-sword-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "zelda-tears-of-the-kingdom-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "zelda-the-wind-waker-amiibo",
+    "type": "amiibo"
+  },
+  {
+    "id": "zero-suit-samus-amiibo",
+    "type": "amiibo"
+  }
+]

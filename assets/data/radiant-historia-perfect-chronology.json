@@ -1,0 +1,70 @@
+{
+    "id": "radiant-historia-perfect-chronology",
+    "name": "Radiant Historia: Perfect Chronology",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26im.webp",
+    "release": "2017-06-29",
+    "type": "game",
+    "franchise": {
+        "universe": "Radiant Historia",
+        "series": "Radiant Historia",
+        "subseries": null
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Time Travel",
+            "Fantasy",
+            "War"
+        ],
+        "tags": [
+            "JRPG",
+            "Enhanced Remake"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Atlus",
+        "Headlock"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Highly regarded time-travel JRPG with strong narrative structure and tactical combat.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 35
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of the Nintendo 3DS's strongest JRPGs and a non-negotiable wishlist item.",
+        "notes": "Non-negotiable."
+    },
+    "event": null,
+    "notes": null
+}

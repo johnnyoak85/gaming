@@ -1,0 +1,78 @@
+{
+    "id": "super-dodge-ball",
+    "name": "Super Dodge Ball",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hur.webp",
+    "release": "1987-10-16",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Super Dodge Ball",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "subgenres": [
+            "Arcade Sports"
+        ],
+        "themes": [
+            "School",
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Arcade Style",
+            "Multiplayer",
+            "Sports Combat"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in owned collection."
+        }
+    ],
+    "versions": [
+        {
+            "source": "nekketsu-high-school-dodgeball-club",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": [
+        "Technōs Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Chaotic and highly influential arcade sports game with strong multiplayer energy.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the defining Kunio-kun sports spin-offs and an important multiplayer retro title.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": null
+}

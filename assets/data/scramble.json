@@ -1,0 +1,67 @@
+{
+    "id": "scramble",
+    "name": "Scramble",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/sfbg9rsomsv0digig8ht.webp",
+    "release": "1981-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Gradius",
+        "series": "Scramble",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Shoot 'em up"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Horizontal Scrolling"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "arcade-classics-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "One of the earliest side-scrolling shooters.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

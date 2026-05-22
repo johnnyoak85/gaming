@@ -1,0 +1,101 @@
+{
+    "id": "the-legend-of-zelda-ocarina-of-time-3d",
+    "name": "The Legend of Zelda: Ocarina of Time 3D",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba98.webp",
+    "release": "2011-06-16",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Remake"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time",
+            "format": "base"
+        },
+        {
+            "source": "the-legend-of-zelda-ocarina-of-time-master-quest",
+            "format": "remix"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-majoras-mask",
+            "type": "sequel"
+        },
+        {
+            "source": "the-legend-of-zelda-majoras-mask-3d",
+            "type": "sequel"
+        },
+        {
+            "source": "the-legend-of-zelda-the-wind-waker",
+            "type": "sequel"
+        },
+        {
+            "source": "the-legend-of-zelda-the-wind-waker-hd",
+            "type": "sequel"
+        },
+        {
+            "source": "the-legend-of-zelda-twilight-princess",
+            "type": "sequel"
+        },
+        {
+            "source": "the-legend-of-zelda-twilight-princess-hd",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Grezzo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Modern version of Ocarina.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "The Legend of Zelda 25th Anniversary",
+    "notes": null
+}

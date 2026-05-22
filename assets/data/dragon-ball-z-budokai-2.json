@@ -1,0 +1,81 @@
+{
+    "id": "dragon-ball-z-budokai-2",
+    "name": "Dragon Ball Z: Budokai 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5fki.webp",
+    "aliases": [
+        "Dragon Ball Z 2"
+    ],
+    "release": "2003-12-04",
+    "type": "game",
+    "franchise": {
+        "universe": "Dragon Ball",
+        "series": "Budokai",
+        "subseries": null
+    },
+    "system": "playstation-2",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "Arena Fighting"
+        ],
+        "themes": [
+            "Anime",
+            "Martial Arts"
+        ],
+        "tags": [
+            "Anime",
+            "Cel Shading"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "playstation-2",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-ball-z-budokai",
+            "type": "prequel"
+        },
+        {
+            "source": "dragon-ball-z-budokai-3",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Dimps"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Experimental follow-up expanding Budokai mechanics with alternate scenarios and board-game structure.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important transitional entry in the Budokai lineage.",
+        "notes": null
+    },
+    "event": null,
+    "notes": "Features unique fusions"
+}

@@ -1,0 +1,74 @@
+{
+    "id": "super-mario-bros-2-snes",
+    "name": "Super Mario Bros. 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yq8.webp",
+    "release": "1993-07-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario All-Stars"
+    },
+    "system": "super-nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "SNES",
+            "Remake"
+        ]
+    },
+    "player_age": 6,
+    "access": [],
+    "versions": [
+        {
+            "source": "super-mario-bros-2",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-bros-snes",
+            "type": "prequel"
+        },
+        {
+            "source": "super-mario-bros-3-snes",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "SNES remake of Super Mario Bros. 2.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "Contained in Super Mario All-Stars: 25th Anniversary Edition."
+}

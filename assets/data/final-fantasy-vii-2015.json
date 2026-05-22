@@ -1,0 +1,71 @@
+{
+    "id": "final-fantasy-vii-2015",
+    "name": "Final Fantasy VII",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobn9o.webp",
+    "release": "2015-12-05",
+    "type": "game",
+    "franchise": {
+        "universe": "Final Fantasy",
+        "series": "Final Fantasy",
+        "subseries": "Final Fantasy VII"
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Modern Port"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "final-fantasy-vii",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "Square Enix"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Portable modern console version of FFVII.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

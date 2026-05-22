@@ -1,0 +1,73 @@
+{
+    "id": "super-mario-land",
+    "name": "Super Mario Land",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7o14.webp",
+    "release": "1989-04-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario Land"
+    },
+    "system": "game-boy",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Game Boy",
+            "Short"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-mario-land-2-6-golden-coins",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo R&D1"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "First portable Super Mario game.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

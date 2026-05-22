@@ -1,0 +1,75 @@
+{
+    "id": "wii-fit-plus",
+    "name": "Wii Fit Plus",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co86mm.webp",
+    "release": "2009-10-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Wii",
+        "series": "Wii Fit",
+        "subseries": null
+    },
+    "system": "nintendo-wii",
+    "classification": {
+        "genres": [
+            "Fitness",
+            "Sports"
+        ],
+        "subgenres": [
+            "Exercise Game"
+        ],
+        "themes": [
+            "Health",
+            "Casual"
+        ],
+        "tags": [
+            "Balance Board",
+            "Motion Controls"
+        ]
+    },
+    "player_age": 3,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "wii-fit-u",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 8
+        },
+        "modes": [
+            "solo",
+            "party"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded fitness-focused experience and one of Nintendo's major casual phenomena.",
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically important example of Nintendo's expansion into fitness gaming.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,77 @@
+{
+    "id": "sonic-advance-2",
+    "name": "Sonic Advance 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zv8.webp",
+    "release": "2002-12-19",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Advance",
+        "subseries": null
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Handheld",
+            "Speed Focus"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "sonic-advance",
+            "type": "prequel"
+        },
+        {
+            "source": "sonic-advance-3",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Sonic Team",
+        "Dimps"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Refines speed-based gameplay.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

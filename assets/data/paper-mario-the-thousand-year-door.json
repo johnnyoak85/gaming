@@ -1,0 +1,83 @@
+{
+    "id": "paper-mario-the-thousand-year-door",
+    "name": "Paper Mario: The Thousand-Year Door",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25us.webp",
+    "release": "2004-07-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Paper Mario",
+        "subseries": null
+    },
+    "system": "nintendo-gamecube",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Story Heavy",
+            "Classic",
+            "Timing Based"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "paper-mario-the-thousand-year-door-switch",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "paper-mario",
+            "type": "prequel"
+        },
+        {
+            "source": "super-paper-mario",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Intelligent Systems"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Peak classic Paper Mario and one of the strongest Mario RPGs.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "High-priority series + peak entry",
+        "notes": "Own Switch remake"
+    },
+    "event": null,
+    "notes": null
+}

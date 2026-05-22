@@ -1,0 +1,78 @@
+{
+    "id": "mega-twins",
+    "name": "Mega Twins",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co639i.webp",
+    "aliases": [
+        "Chiki Chiki Boys"
+    ],
+    "release": "1990-12-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Chiki Chiki Boys",
+        "series": "Chiki Chiki Boys",
+        "subseries": null
+    },
+    "system": "capcom-play-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade",
+            "Co-Op",
+            "Retro"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": "International arcade title for Chiki Chiki Boys."
+        }
+    ],
+    "versions": [
+        {
+            "source": "chiki-chiki-boys",
+            "format": "regional_variant"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Charming cooperative Capcom fantasy platformer with excellent CPS-era presentation.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Strong lesser-known Capcom arcade platformer from the CPS-1 era.",
+        "notes": "Wishlist through Capcom Arcade Stadium."
+    },
+    "event": null,
+    "notes": null
+}

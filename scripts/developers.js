@@ -1,4 +1,4 @@
-import { loadCatalog, getDevelopers } from "./catalog.js";
+import { loadCatalog, getCompanies } from "./catalog.js";
 
 function el(tag, attrs = {}, children = []) {
   const node = document.createElement(tag);
@@ -17,7 +17,7 @@ function logoUrl(item) {
   const logo = item.logo;
   if (!logo) return null;
   if (logo.startsWith("http")) return logo;
-  return `./images/${logo}.png`;
+  return `./assets/images/${logo}.png`;
 }
 
 function sortByName(items) {
@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
     const catalog = await loadCatalog();
-    const allDevs = getDevelopers(catalog);
+    const allDevs = getCompanies(catalog);
 
     const majors = sortByName(allDevs.filter((d) => d.circle === "major"));
     const minors = sortByName(allDevs.filter((d) => d.circle === "minor"));

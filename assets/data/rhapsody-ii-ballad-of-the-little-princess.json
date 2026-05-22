@@ -1,0 +1,80 @@
+{
+    "id": "rhapsody-ii-ballad-of-the-little-princess",
+    "name": "Rhapsody II: Ballad of the Little Princess",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70hz.webp",
+    "aliases": [
+        "Little Princess: Puppet Princess of Marl Kingdom 2"
+    ],
+    "release": "1999-11-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Marl Kingdom",
+        "series": "Marl Kingdom",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG",
+            "Musical RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Music",
+            "Comedy"
+        ],
+        "tags": [
+            "Musical"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "rhapsody-marl-kingdom-chronicles",
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "rhapsody-a-musical-adventure",
+            "type": "prequel"
+        },
+        {
+            "source": "rhapsody-iii-memories-of-marl-kingdom",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nippon Ichi Software"
+    ],
+    "progress": "finished",
+    "backlog": {
+        "priority": 3,
+        "reason": "Long-unlocalized sequel continuing the Marl Kingdom musical RPG lineage.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically valuable official localization of a previously Japan-exclusive RPG.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,82 @@
+{
+    "id": "super-mario-3d-world",
+    "name": "Super Mario 3D World",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8wi.webp",
+    "release": "2013-11-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": "Super Mario 3D"
+    },
+    "system": "nintendo-wii-u",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Wii U",
+            "Multiplayer"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-3d-world-switch",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-3d-world",
+            "type": "prequel"
+        }
+    ],
+    "contains": [
+        "luigi-bros"
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD Tokyo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

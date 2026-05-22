@@ -1,0 +1,79 @@
+{
+    "id": "kirby-and-the-amazing-mirror",
+    "name": "Kirby & the Amazing Mirror",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co751t.webp",
+    "release": "2004-04-15",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Metroidvania"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Exploration",
+            "Nonlinear",
+            "Co-op"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kirby-nightmare-in-dream-land",
+            "type": "prequel"
+        },
+        {
+            "source": "kirby-mouse-attack",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "HAL Laboratory"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique open-ended Kirby structure unlike most entries.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

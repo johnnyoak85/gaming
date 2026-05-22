@@ -1,0 +1,97 @@
+{
+    "id": "mario-bros-advance",
+    "name": "Mario Bros.",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90y.webp",
+    "release": "2001-06-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Mario",
+        "subseries": null
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Arcade"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Arcade Style",
+            "GBA",
+            "Remake"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": "super-mario-advance-super-mario-bros-2-and-mario-bros",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "game-boy-advance",
+            "via": "super-mario-advance-2-super-mario-world",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "game-boy-advance",
+            "via": "yoshis-island-super-mario-advance-3",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "game-boy-advance",
+            "via": "super-mario-advance-4-super-mario-bros-3",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "mario-bros",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo R&D2"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Recurring GBA remake included across Super Mario Advance releases.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Super Mario Advance",
+    "notes": "Same GBA Mario Bros. remake reused across the Super Mario Advance line."
+}

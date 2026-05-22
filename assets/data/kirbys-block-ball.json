@@ -1,0 +1,68 @@
+{
+    "id": "kirbys-block-ball",
+    "name": "Kirby's Block Ball",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pmh.webp",
+    "release": "1995-12-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "system": "game-boy",
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Breakout Clone"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Portable",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "TOSE"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Creative Kirby-themed reinterpretation of Breakout with light puzzle elements.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Interesting Kirby experimental title that helps represent Game Boy-era Nintendo side projects.",
+        "notes": "Cartridge-only acceptable."
+    },
+    "event": null,
+    "notes": null
+}

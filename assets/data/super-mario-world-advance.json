@@ -1,0 +1,78 @@
+{
+    "id": "super-mario-world-advance",
+    "name": "Super Mario World",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co779k.webp",
+    "release": "2002-02-12",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": null
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "GBA",
+            "Enhanced Port"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": "super-mario-advance-2-super-mario-world",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-world",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-mario-bros-3-advance",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Portable enhanced version of Super Mario World.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Super Mario Advance",
+    "notes": "Best represented as an enhanced port, not a remake."
+}

@@ -1,0 +1,73 @@
+{
+    "id": "kirby-and-the-forgotten-land",
+    "name": "Kirby and the Forgotten Land",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vlw.webp",
+    "release": "2022-03-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "3D Platformer"
+        ],
+        "themes": [
+            "Post-Apocalyptic"
+        ],
+        "tags": [
+            "3D",
+            "Modern",
+            "Exploration"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kirby-star-allies",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "HAL Laboratory"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Major evolution of Kirby into 3D gameplay.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Kirby's 30th Anniversary",
+    "notes": null
+}

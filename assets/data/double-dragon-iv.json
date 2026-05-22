@@ -1,0 +1,76 @@
+{
+    "id": "double-dragon-iv",
+    "name": "Double Dragon IV",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1udi.webp",
+    "release": "2017-01-30",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Double Dragon",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Beat 'em Up"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro Revival"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "steam",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "double-dragon-iii-the-sacred-stones",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Arc System Works"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Direct continuation of the NES storyline.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

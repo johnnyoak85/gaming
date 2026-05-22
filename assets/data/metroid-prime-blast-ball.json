@@ -1,0 +1,75 @@
+{
+    "id": "metroid-prime-blast-ball",
+    "name": "Metroid Prime: Blast Ball",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yl8.webp",
+    "release": "2016-06-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Metroid",
+        "series": "Metroid",
+        "subseries": "Metroid Prime"
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "subgenres": [
+            "Arcade Sports"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Experimental",
+            "Multiplayer"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "metroid-prime-hunters",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": [
+        "Nintendo Software Technology"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Small experimental spinoff tied to Prime Hunters.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,81 @@
+{
+    "id": "river-city-girls-zero",
+    "name": "River City Girls Zero",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob20q.webp",
+    "release": "2022-02-14",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "River City Girls",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Beat 'em Up"
+        ],
+        "subgenres": [
+            "Side-Scrolling Beat 'em Up"
+        ],
+        "themes": [
+            "Comedy",
+            "School",
+            "Street Fighting"
+        ],
+        "tags": [
+            "Retro",
+            "Co-Op",
+            "Brawler",
+            "SNES Era"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "downtown-nekketsu-story",
+            "type": "prequel"
+        },
+        {
+            "source": "river-city-girls",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Technōs Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Localized late-era Kunio-kun beat-'em-up finally officially released in English.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically important preservation release bridging classic Kunio-kun and River City Girls.",
+        "notes": "Owned digitally on Switch."
+    },
+    "event": null,
+    "notes": "Localized version of Shin Nekketsu Kōha: Kunio-tachi no Banka."
+}

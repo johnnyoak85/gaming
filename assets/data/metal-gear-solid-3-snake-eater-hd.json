@@ -1,0 +1,76 @@
+{
+    "id": "metal-gear-solid-3-snake-eater-hd",
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobl5l.webp",
+    "release": "2004-11-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Metal Gear",
+        "series": "Metal Gear Solid",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Stealth Action",
+            "Survival"
+        ],
+        "themes": [
+            "Espionage",
+            "Cold War",
+            "Military"
+        ],
+        "tags": [
+            "PlayStation 2",
+            "Jungle",
+            "Stealth",
+            "Konami"
+        ]
+    },
+    "player_age": 16,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "metal-gear-solid-master-collection-volume-1",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "metal-gear-solid-peace-walker-hd",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami Computer Entertainment Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Widely considered one of the greatest stealth games ever made.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 16
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Peak-era Kojima production and a landmark PlayStation 2 title.",
+        "notes": null
+    },
+    "event": null,
+    "notes": "HD remake of the original PlayStation 2 game"
+}

@@ -1,0 +1,96 @@
+{
+    "id": "classic-nes-series-super-mario-bros",
+    "name": "Classic NES Series: Super Mario Bros.",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3axg.webp",
+    "release": "2004-07-09",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Super Mario",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "GBA",
+            "Port",
+            "Wishlist"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-bros",
+            "format": "base"
+        },
+        {
+            "source": "super-mario-bros-snes",
+            "format": "remake"
+        },
+        {
+            "source": "super-mario-bros-deluxe",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "mario-bros",
+            "type": "spinoff"
+        },
+        {
+            "source": "super-mario-bros-the-lost-levels",
+            "type": "sequel"
+        },
+        {
+            "source": "super-mario-bros-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "finished",
+    "backlog": {
+        "priority": null,
+        "reason": "Portable GBA release of the original Super Mario Bros.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Same situation, inferior to other versions you already cover",
+        "notes": "Original game contained in NES Classic Mini and Game & Watch Super Mario Edition"
+    },
+    "event": "Classic NES Series",
+    "notes": "GBA port/re-release of the NES original as part of the Classic NES Series."
+}

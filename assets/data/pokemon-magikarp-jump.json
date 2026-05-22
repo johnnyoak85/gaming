@@ -1,0 +1,71 @@
+{
+    "id": "pokemon-magikarp-jump",
+    "name": "Pokémon: Magikarp Jump",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sb6.webp",
+    "release": "2017-05-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Pokémon",
+        "series": "Pokémon",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Simulation",
+            "RPG"
+        ],
+        "subgenres": [
+            "Idle Game",
+            "Pet Raising"
+        ],
+        "themes": [
+            "Comedy",
+            "Monster Collecting"
+        ],
+        "tags": [
+            "Mobile",
+            "Idle",
+            "Casual",
+            "Training"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "android",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Select Button"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Surprisingly charming and polished Pokémon mobile spin-off centered around raising Magikarp.",
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "One of the most memorable and well-executed early Pokémon mobile titles.",
+        "notes": "Mobile free-to-play title."
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,73 @@
+{
+    "id": "nekketsu-street-basketball-all-out-dunk-heroes",
+    "name": "Nekketsu! Street Basketball All-Out Dunk Heroes",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i16.webp",
+    "release": "1993-12-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Kunio-kun Sports",
+        "subseries": "Basketball"
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "subgenres": [
+            "Arcade Basketball"
+        ],
+        "themes": [
+            "Comedy",
+            "Street Sports"
+        ],
+        "tags": [
+            "Retro",
+            "Multiplayer",
+            "Arcade Style",
+            "Basketball"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "double-dragon-kunio-kun-retro-brawler-bundle",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": [
+        "Technōs Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Fast and chaotic arcade basketball interpretation using the Kunio-kun cast.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Represents the final wave of experimental Kunio-kun sports spin-offs on Famicom.",
+        "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
+    },
+    "event": null,
+    "notes": null
+}

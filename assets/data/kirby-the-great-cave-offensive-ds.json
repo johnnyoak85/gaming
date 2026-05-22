@@ -1,0 +1,74 @@
+{
+    "id": "kirby-the-great-cave-offensive-ds",
+    "name": "The Great Cave Offensive",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95po.webp",
+    "release": "2008-09-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Super Star Ultra"
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Exploration Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Enhanced",
+            "Exploration"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": "kirby-super-star-ultra",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirby-the-great-cave-offensive",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "HAL Laboratory"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Enhanced version of one of the most unique Kirby modes.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

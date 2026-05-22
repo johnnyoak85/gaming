@@ -1,0 +1,67 @@
+{
+    "id": "kirby-helper-to-hero",
+    "name": "Helper to Hero",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co77wq.webp",
+    "release": "2008-09-22",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": "Super Star Ultra"
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Boss Rush"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Challenge",
+            "Arena"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": "kirby-super-star-ultra",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "HAL Laboratory"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Expanded arena mode focused on ability mastery.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

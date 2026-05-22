@@ -1,0 +1,71 @@
+{
+    "id": "catherine",
+    "name": "Catherine",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co244u.webp",
+    "release": "2011-02-17",
+    "type": "game",
+    "franchise": {
+        "universe": "Catherine",
+        "series": "Catherine",
+        "subseries": null
+    },
+    "system": "playstation-3",
+    "classification": {
+        "genres": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Puzzle"
+        ],
+        "themes": [
+            "Psychological",
+            "Romance",
+            "Horror"
+        ],
+        "tags": [
+            "Anime",
+            "Mature"
+        ]
+    },
+    "player_age": 17,
+    "access": [
+        {
+            "platform": "playstation-3",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Atlus"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Unique blend of psychological storytelling and demanding puzzle gameplay.",
+        "rating": 5,
+        "difficulty": 4,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "One of Atlus's most unusual and artistically distinctive games.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

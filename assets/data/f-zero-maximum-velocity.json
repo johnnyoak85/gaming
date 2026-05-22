@@ -1,0 +1,81 @@
+{
+    "id": "f-zero-maximum-velocity",
+    "name": "F-Zero: Maximum Velocity",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tjw.webp",
+    "release": "2001-03-21",
+    "type": "game",
+    "franchise": {
+        "universe": "F-Zero",
+        "series": "F-Zero",
+        "subseries": null
+    },
+    "system": "game-boy-advance",
+    "classification": {
+        "genres": [
+            "Racing"
+        ],
+        "subgenres": [
+            "Anti-Gravity Racing"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Competition"
+        ],
+        "tags": [
+            "Game Boy Advance",
+            "Retro",
+            "Nintendo",
+            "High Speed"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "game-boy-advance",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": "Used to own."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "f-zero-x",
+            "type": "prequel"
+        },
+        {
+            "source": "f-zero-gx",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo",
+        "Nd Cube"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Excellent portable continuation of the F-Zero formula with impressive speed on GBA hardware.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important portable F-Zero entry and one of the GBA's strongest early racers.",
+        "notes": "Used to own."
+    },
+    "event": null,
+    "notes": null
+}

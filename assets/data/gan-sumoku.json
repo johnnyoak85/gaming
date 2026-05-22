@@ -1,0 +1,75 @@
+{
+    "id": "gan-sumoku",
+    "name": "Gan Sumoku",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72ct.webp",
+    "aliases": [
+        "Gun.Smoke",
+        "Desperado"
+    ],
+    "release": "1994-09-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Quiz & Variety",
+        "series": "Gan Sumoku",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Puzzle",
+            "Sports"
+        ],
+        "subgenres": [
+            "Competitive Puzzle"
+        ],
+        "themes": [
+            "Comedy",
+            "Sumo"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Japan Exclusive",
+            "Capcom"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Curious Japan-exclusive Capcom arcade puzzle title themed around sumo.",
+        "rating": 2,
+        "difficulty": 2,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Interesting niche arcade preservation piece.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

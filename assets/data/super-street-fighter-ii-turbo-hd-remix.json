@@ -1,0 +1,77 @@
+{
+    "id": "super-street-fighter-ii-turbo-hd-remix",
+    "name": "Super Street Fighter II Turbo HD Remix",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w20.webp",
+    "release": "2008-11-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Street Fighter II",
+        "subseries": null
+    },
+    "system": "xbox-live-arcade",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting"
+        ],
+        "themes": [
+            "Martial Arts"
+        ],
+        "tags": [
+            "HD",
+            "Competitive",
+            "Online",
+            "Arcade"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "xbox-360",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-street-fighter-ii-turbo",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": [
+        "Backbone Entertainment",
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Modernized HD reinterpretation of one of the greatest competitive fighting games ever made.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Important preservation-era competitive remix of Super Turbo.",
+        "notes": "Owned digitally on Xbox 360."
+    },
+    "event": null,
+    "notes": null
+}

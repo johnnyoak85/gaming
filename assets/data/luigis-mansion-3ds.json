@@ -1,0 +1,87 @@
+{
+    "id": "luigis-mansion-3ds",
+    "name": "Luigi's Mansion",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8pr.webp",
+    "release": "2018-10-12",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Luigi's Mansion",
+        "subseries": null
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Horror",
+            "Comedy",
+            "Ghosts"
+        ],
+        "tags": [
+            "Handheld",
+            "Short",
+            "Atmospheric",
+            "Puzzle Solving"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "luigis-mansion",
+            "format": "base"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "luigis-mansion-2",
+            "type": "sequel"
+        },
+        {
+            "source": "luigis-mansion-2-hd",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Grezzo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Owned remake of the original Luigi's Mansion.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": "3DS remake of the GameCube original."
+}

@@ -1,0 +1,75 @@
+{
+    "id": "metal-gear-solid-vr-missions",
+    "name": "Metal Gear Solid: VR Missions",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5e0t.webp",
+    "release": "1999-09-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Metal Gear",
+        "series": "Metal Gear Solid",
+        "subseries": "VR Missions"
+    },
+    "system": "playstation",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Stealth Challenge"
+        ],
+        "themes": [
+            "Espionage",
+            "Simulation"
+        ],
+        "tags": [
+            "PlayStation",
+            "Expansion",
+            "Stealth",
+            "Konami"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "metal-gear-solid-master-collection-version",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "metal-gear-solid",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami Computer Entertainment Japan"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Challenge-focused stealth mission expansion exploring Metal Gear Solid mechanics in depth.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Interesting experimental expansion for Metal Gear Solid.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,79 @@
+{
+    "id": "mega-man-legacy-collection-2",
+    "name": "Mega Man Legacy Collection 2",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co204r.webp",
+    "release": "2017-08-08",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Collection",
+            "Retro"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-legacy-collection",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Collects the later classic Mega Man entries.",
+        "rating": 4,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "contains": [
+        "mega-man-7",
+        "mega-man-8",
+        "mega-man-9",
+        "mega-man-10"
+    ],
+    "category": "collection"
+}

@@ -1,0 +1,75 @@
+{
+    "id": "hyrule-warriors-age-of-imprisonment",
+    "name": "Hyrule Warriors: Age of Imprisonment",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9n1.webp",
+    "release": "2025-12-31",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "Hyrule Warriors",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Musou"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Spinoff"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "hyrule-warriors-age-of-calamity",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-tears-of-the-kingdom",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Omega Force"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Bridge between Age of Calamity and Tears of the Kingdom.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

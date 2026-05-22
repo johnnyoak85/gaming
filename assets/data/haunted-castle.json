@@ -1,0 +1,84 @@
+{
+    "id": "haunted-castle",
+    "name": "Haunted Castle",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jvy.webp",
+    "release": "1988-01-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": "Castlevania",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Arcade Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Arcade",
+            "Hard"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "arcade-classics-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-dominus-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania",
+            "type": "original"
+        },
+        {
+            "source": "haunted-castle-revisited",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Konami"
+    ],
+    "progress": "completed",
+    "backlog": {
+        "priority": 2,
+        "reason": "Arcade reinterpretation of Castlevania with historical relevance.",
+        "rating": 2,
+        "difficulty": 5,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Konami's 50th Anniversary",
+    "notes": null
+}

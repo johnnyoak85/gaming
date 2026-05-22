@@ -1,0 +1,74 @@
+{
+    "id": "castlevania-advance-collection",
+    "name": "Castlevania Advance Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9xj.webp",
+    "release": "2021-09-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Castlevania",
+        "series": null,
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Collection"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Primary modern access point for the GBA Castlevania trilogy.",
+        "rating": 5,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "contains": [
+        "castlevania-circle-of-the-moon",
+        "castlevania-harmony-of-dissonance",
+        "castlevania-aria-of-sorrow",
+        "castlevania-dracula-x"
+    ],
+    "category": "collection"
+}

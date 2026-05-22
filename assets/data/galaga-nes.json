@@ -1,0 +1,72 @@
+{
+    "id": "galaga-nes",
+    "name": "Galaga",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dgt.webp",
+    "release": "1985-02-15",
+    "type": "game",
+    "franchise": {
+        "universe": "United Galaxy Space Force",
+        "series": "Galaga League",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system",
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Fixed Shooter"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Arcade",
+            "Score Attack"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "galaga",
+            "type": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Namco"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "One of the most iconic arcade shooters.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

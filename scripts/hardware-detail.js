@@ -1,7 +1,7 @@
 import { loadCatalog, getGames, getHardware } from "./catalog.js";
 
-const HARDWARE_SOLO_PATH = "./data/";
-const GAMES_SOLO_PATH = "./data/";
+const HARDWARE_SOLO_PATH = "./assets/data/";
+const GAMES_SOLO_PATH = "./assets/data/";
 const IMAGE_BASE = "./images";
 
 // ---------------------------------------------------------------------------

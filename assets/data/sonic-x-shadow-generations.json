@@ -1,0 +1,69 @@
+{
+    "id": "sonic-x-shadow-generations",
+    "name": "Sonic X Shadow Generations",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8byo.webp",
+    "release": "2024-10-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic Boost",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [],
+        "tags": [
+            "Bundle"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Sonic Team"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Bundle combining Sonic Generations and new Shadow campaign.",
+        "rating": 4,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Series continuity + new Shadow content",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "contains": [
+        "sonic-generations-2024",
+        "shadow-generations"
+    ],
+    "category": "bundle"
+}

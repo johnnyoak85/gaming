@@ -1,0 +1,81 @@
+{
+    "id": "mega-man-legacy-collection",
+    "name": "Mega Man Legacy Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co204v.webp",
+    "release": "2015-08-25",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Collection",
+            "Retro"
+        ]
+    },
+    "player_age": null,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "mega-man-legacy-collection-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Capcom"
+        ],
+        "publisher": [
+            "Capcom"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Essential collection of the NES Mega Man games.",
+        "rating": 5,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "contains": [
+        "mega-man",
+        "mega-man-2",
+        "mega-man-3",
+        "mega-man-4",
+        "mega-man-5",
+        "mega-man-6"
+    ],
+    "category": "collection"
+}

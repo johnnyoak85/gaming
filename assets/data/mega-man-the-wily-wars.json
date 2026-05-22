@@ -1,0 +1,80 @@
+{
+    "id": "mega-man-the-wily-wars",
+    "name": "Mega Man: The Wily Wars",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5598.webp",
+    "release": "1994-10-21",
+    "type": "game",
+    "franchise": {
+        "universe": "Mega Man",
+        "series": "Mega Man",
+        "subseries": null
+    },
+    "system": "sega-mega-drive",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Mega Drive",
+            "Remake Collection"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Minakuchi Engineering"
+        ],
+        "publisher": [
+            "Sega"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique Mega Drive remake compilation of the first trilogy.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "contains": [
+        "mega-man-1994",
+        "mega-man-2-1994",
+        "mega-man-3-1994",
+        "mega-man-wily-tower"
+    ],
+    "category": "bundle"
+}

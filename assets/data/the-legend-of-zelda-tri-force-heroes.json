@@ -1,0 +1,76 @@
+{
+    "id": "the-legend-of-zelda-tri-force-heroes",
+    "name": "The Legend of Zelda: Tri Force Heroes",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p1a.webp",
+    "release": "2015-10-22",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "system": "nintendo-3ds",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Co-op Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Co-op",
+            "Puzzle"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-a-link-between-worlds",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 3
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "online"
+        ]
+    },
+    "companies": [
+        "Nintendo EPD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Multiplayer-focused spinoff building on A Link Between Worlds mechanics.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

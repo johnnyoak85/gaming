@@ -1,0 +1,81 @@
+{
+    "id": "lylat-wars",
+    "name": "Lylat Wars",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nt4.webp",
+    "release": "1997-10-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Star Fox",
+        "series": "Star Fox",
+        "subseries": null
+    },
+    "system": "nintendo-64",
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Rail Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "tags": [
+            "Nintendo 64",
+            "Retro",
+            "Arcade Style",
+            "Nintendo"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-64",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": "Prefer PAL release."
+        }
+    ],
+    "versions": [
+        {
+            "source": "star-fox-64-3d",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "star-fox",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "Nintendo EAD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "One of Nintendo's defining arcade-style shooters and a landmark Nintendo 64 title.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential Nintendo 64 game and cornerstone Star Fox entry.",
+        "notes": "Wishlist physical PAL copy."
+    },
+    "event": null,
+    "notes": "PAL title for Star Fox 64."
+}

@@ -1,0 +1,75 @@
+{
+    "id": "doc-louis-punch-out",
+    "name": "Doc Louis's Punch-Out!!",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f6w.webp",
+    "release": "2009-10-27",
+    "type": "game",
+    "franchise": {
+        "universe": "Punch-Out!!",
+        "series": "Punch-Out!!",
+        "subseries": null
+    },
+    "system": "wiiware",
+    "classification": {
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "subgenres": [
+            "Boxing"
+        ],
+        "themes": [
+            "Sports"
+        ],
+        "tags": [
+            "Spinoff",
+            "Short",
+            "Arcade Style",
+            "Training"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "punch-out-wii",
+            "type": "base"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Next Level Games"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Short bonus spinoff centered on Doc Louis.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 1
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

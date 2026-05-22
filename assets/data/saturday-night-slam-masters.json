@@ -1,0 +1,76 @@
+{
+    "id": "saturday-night-slam-masters",
+    "name": "Saturday Night Slam Masters",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p01.webp",
+    "aliases": [
+        "Muscle Bomber: The Body Explosion"
+    ],
+    "release": "1993-07-13",
+    "type": "game",
+    "franchise": {
+        "universe": "Street Fighter",
+        "series": "Slam Masters",
+        "subseries": null
+    },
+    "system": "capcom-play-system",
+    "classification": {
+        "genres": [
+            "Fighting",
+            "Sports"
+        ],
+        "subgenres": [
+            "Wrestling",
+            "Arcade Fighting"
+        ],
+        "themes": [
+            "Sports",
+            "Competition"
+        ],
+        "tags": [
+            "Arcade",
+            "Wrestling",
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Excellent arcade wrestling/fighting hybrid with strong Capcom animation and personality.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of Capcom's most distinctive arcade sports/fighting hybrids.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

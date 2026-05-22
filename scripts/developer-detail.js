@@ -16,14 +16,14 @@ function el(tag, attrs = {}, children = []) {
 function logoUrl(logo) {
   if (!logo) return null;
   if (logo.startsWith("http")) return logo;
-  return `./images/${logo}.png`;
+  return `./assets/images/${logo}.png`;
 }
 
 function coverUrl(entry) {
   const cover = entry.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `./images/${cover}.png`;
+  return `./assets/images/${cover}.png`;
 }
 
 function sortByRelease(items) {
@@ -64,8 +64,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     const entries = catalog.filter((e) => {
-      const devs = e.companies?.developer;
-      return Array.isArray(devs) && devs.includes(devId);
+      return Array.isArray(e.companies) && e.companies.includes(devId);
     });
 
     document.title = developer.name;

@@ -1,0 +1,102 @@
+{
+    "id": "double-dragon-kunio-kun-retro-brawler-bundle",
+    "name": "Double Dragon & Kunio-kun: Retro Brawler Bundle",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hva.webp",
+    "release": "2018-12-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Kunio-kun",
+        "series": "Double Dragon / Kunio-kun",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation"
+        ],
+        "subgenres": [
+            "Retro Collection"
+        ],
+        "themes": [
+            "Martial Arts",
+            "Street Fighting",
+            "Comedy"
+        ],
+        "tags": [
+            "Retro",
+            "Beat 'em Up",
+            "Famicom",
+            "Arcade Classics",
+            "Preservation"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "double-dragon-nes",
+        "double-dragon-ii-the-revenge-nes",
+        "double-dragon-iii-the-sacred-stones",
+        "renegade",
+        "super-dodge-ball",
+        "river-city-ransom",
+        "crash-n-the-boys-street-challenge",
+        "nekketsu-renegade-kunio-kun",
+        "nekketsu-high-school-dodgeball-club",
+        "downtown-nekketsu-story",
+        "nekketsu-high-school-dodgeball-club-soccer-story",
+        "downtown-nekketsu-march-super-awesome-field-day",
+        "downtown-special-kunio-kuns-historical-period-drama",
+        "go-go-nekketsu-hockey-club-slip-and-slide-madness",
+        "surprise-nekketsu-new-records-the-distant-gold-medal",
+        "nekketsu-fighting-legend",
+        "kunio-kuns-nekketsu-soccer-league",
+        "nekketsu-street-basketball-all-out-dunk-heroes"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus",
+            "party"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Arc System Works",
+            "Million",
+            "Technōs Japan"
+        ],
+        "publisher": [
+            "Arc System Works"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Excellent preservation-focused collection of foundational Technōs beat-'em-up and Kunio-kun titles.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 60
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "One of the most important retro brawler compilations available, preserving both Double Dragon and Kunio-kun history in a single package.",
+        "notes": "Strong value collection due to localization of previously Japan-exclusive Kunio-kun entries."
+    },
+    "event": null,
+    "notes": "Includes multiple regional variants and localized Kunio-kun releases.",
+    "category": "collection"
+}

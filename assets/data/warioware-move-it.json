@@ -1,0 +1,69 @@
+{
+    "id": "warioware-move-it",
+    "name": "WarioWare: Move It!",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nwc.webp",
+    "release": "2023-11-03",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "WarioWare",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Party"
+        ],
+        "subgenres": [],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Switch",
+            "Microgames"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "pyoro-w",
+        "dirty-job"
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "party"
+        ]
+    },
+    "companies": [
+        "Nintendo"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 3,
+        "difficulty": 1,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

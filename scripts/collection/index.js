@@ -1,7 +1,7 @@
 const DATA_PATHS = {
-  games: "./data/games.json",
-  hardware: "./data/hardware.json",
-  amiibo: "./data/amiibo.json",
+  games: "./assets/data/games.json",
+  hardware: "./assets/data/hardware.json",
+  amiibo: "./assets/data/amiibo.json",
 };
 
 const SORT_OPTIONS = {
@@ -61,7 +61,7 @@ function el(tag, attrs = {}, children = []) {
 }
 
 function isOwned(item) {
-  if (item.type === "game" || item.type === "bundle" || item.type === "collection") {
+  if (item.type === "game") {
     return (item.ownership ?? []).some((o) => !o.wishlist);
   }
   if (item.type === "amiibo") {
@@ -75,12 +75,12 @@ function coverUrl(item) {
   const cover = item.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `./images/${cover}.png`;
+  return `./assets/images/${cover}.png`;
 }
 
 function detailUrl(item) {
   const t = item.type;
-  if (t === "game" || t === "bundle" || t === "collection") return `detail.html?id=${encodeURIComponent(item.id)}`;
+  if (t === "game") return `detail.html?id=${encodeURIComponent(item.id)}`;
   if (t === "hardware") return `hardware-detail.html?id=${encodeURIComponent(item.id)}`;
   if (t === "amiibo") return `amiibo-detail.html?id=${encodeURIComponent(item.id)}`;
   return "#";
@@ -108,7 +108,7 @@ const FILTER_DEFS = [
   {
     id: "universe",
     label: "Universe",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.franchise?.universe || null,
   },
   {
@@ -138,68 +138,59 @@ const FILTER_DEFS = [
   {
     id: "genre",
     label: "Genre",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.classification?.genres ?? [],
   },
   {
     id: "subgenre",
     label: "Subgenre",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.classification?.subgenres ?? [],
   },
   {
     id: "theme",
     label: "Theme",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.classification?.themes ?? [],
   },
   {
     id: "tag",
     label: "Tag",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.classification?.tags ?? [],
   },
   {
     id: "player_age",
     label: "Player Age",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.player_age != null ? String(item.player_age) : null,
   },
   {
     id: "players_max",
     label: "Players",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => item.playstyle?.players?.max != null ? String(item.playstyle.players.max) : null,
   },
   {
     id: "mode",
     label: "Mode",
-    appliesTo: ["game", "bundle", "collection"],
+    appliesTo: ["game"],
     extract: (item) => (item.playstyle?.modes ?? []).map((m) => MODES_LABEL[m] ?? m),
-  },
-  {
-    id: "developer",
-    label: "Developer",
-    appliesTo: ["game", "bundle", "collection"],
-    extract: (item) => item.companies?.developer ?? [],
-  },
-  {
-    id: "publisher",
-    label: "Publisher",
-    appliesTo: ["game", "bundle", "collection"],
-    extract: (item) => item.companies?.publisher ?? [],
-  },
-  {
-    id: "progress",
-    label: "Progress",
-    appliesTo: ["game", "bundle", "collection"],
-    extract: (item) => item.progress ? (PROGRESS_LABEL[item.progress] ?? item.progress) : null,
   },
   {
     id: "company",
     label: "Company",
-    appliesTo: ["hardware"],
-    extract: (item) => item.company || null,
+    appliesTo: ["game", "hardware"],
+    extract: (item) => {
+      if (item.type === "hardware") return item.company || null;
+      return item.companies ?? [];
+    },
+  },
+  {
+    id: "progress",
+    label: "Progress",
+    appliesTo: ["game"],
+    extract: (item) => item.progress ? (PROGRESS_LABEL[item.progress] ?? item.progress) : null,
   },
   {
     id: "generation",
@@ -300,7 +291,7 @@ function matchesFormat(item) {
   if (f === "both") return true;
 
   const t = item.type;
-  if (t === "game" || t === "bundle" || t === "collection") {
+  if (t === "game") {
     const formats = (item.ownership ?? [])
       .filter((o) => !o.wishlist)
       .map((o) => o.format);
@@ -329,8 +320,7 @@ function getSearchableText(item) {
     ...(item.classification?.themes ?? []),
     ...(item.classification?.tags ?? []),
     ...(item.playstyle?.modes ?? []).map((m) => MODES_LABEL[m] ?? m),
-    ...(item.companies?.developer ?? []),
-    ...(item.companies?.publisher ?? []),
+    ...(item.companies ?? []),
     item.player_age != null ? String(item.player_age) : null,
     getYear(item),
   ];

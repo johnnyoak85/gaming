@@ -1,0 +1,85 @@
+{
+    "id": "the-legend-of-zelda-tears-of-the-kingdom-switch-2-edition",
+    "name": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav5n.webp",
+    "release": "2025-12-31",
+    "type": "game",
+    "franchise": {
+        "universe": "The Legend of Zelda",
+        "series": "The Legend of Zelda",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Open World"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Enhanced",
+            "Next Gen"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch-2",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-tears-of-the-kingdom",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-breath-of-the-wild",
+            "type": "prequel"
+        },
+        {
+            "source": "the-legend-of-zelda-breath-of-the-wild-switch-2-edition",
+            "type": "prequel"
+        },
+        {
+            "source": "hyrule-warriors-age-of-imprisonment",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Nintendo EPD"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Potential best-performance version of TOTK.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 60
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Same situation as BOTW",
+        "notes": "Own Switch version"
+    },
+    "event": null,
+    "notes": null
+}

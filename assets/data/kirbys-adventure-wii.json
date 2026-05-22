@@ -1,0 +1,86 @@
+{
+    "id": "kirbys-adventure-wii",
+    "name": "Kirby's Adventure Wii",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba1e.webp",
+    "release": "2011-10-24",
+    "type": "game",
+    "franchise": {
+        "universe": "Kirby",
+        "series": "Kirby",
+        "subseries": null
+    },
+    "system": "nintendo-wii",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Co-op",
+            "Modern Kirby"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-wii",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "kirbys-return-to-dream-land-deluxe",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "kirby-super-star-ultra",
+            "type": "prequel"
+        },
+        {
+            "source": "kirby-64-the-crystal-shards",
+            "type": "prequel"
+        },
+        {
+            "source": "kirby-triple-deluxe",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "HAL Laboratory"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Start of the modern Kirby formula and mainline progression.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

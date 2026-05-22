@@ -1,0 +1,71 @@
+{
+    "id": "arcade-classics-anniversary-collection",
+    "name": "Arcade Classics Anniversary Collection",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vaa.webp",
+    "release": "2019-04-18",
+    "type": "game",
+    "franchise": {
+        "universe": null,
+        "series": null,
+        "subseries": null
+    },
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [],
+        "tags": [
+            "Collection",
+            "Arcade"
+        ]
+    },
+    "player_age": null,
+    "access": [],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "Konami"
+        ],
+        "publisher": [
+            "Konami"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Konami arcade compilation with Haunted Castle and several classic shooters.",
+        "rating": 3,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": "Konami's 50th Anniversary",
+    "notes": null,
+    "contains": [
+        "scramble",
+        "twinbee",
+        "nemesis",
+        "gradius",
+        "salamander",
+        "life-force",
+        "typhoon",
+        "haunted-castle",
+        "vulcan-venture",
+        "thunder-cross"
+    ],
+    "category": "collection"
+}

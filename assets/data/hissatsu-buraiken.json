@@ -1,0 +1,77 @@
+{
+    "id": "hissatsu-buraiken",
+    "name": "Hissatsu Buraiken",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ttx.webp",
+    "aliases": [
+        "Avengers"
+    ],
+    "release": "1988-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Black Tiger",
+        "series": "Black Tiger",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Japan Exclusive",
+            "Capcom"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": "Japanese version."
+        }
+    ],
+    "versions": [
+        {
+            "source": "black-tiger",
+            "format": "regional_variant"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Japanese arcade variant of one of Capcom's early fantasy action-platformers.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Interesting preservation piece representing Capcom regional arcade variations.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}

@@ -1,0 +1,90 @@
+{
+    "id": "paper-mario",
+    "name": "Paper Mario",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qda.webp",
+    "release": "2000-08-11",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Paper Mario",
+        "subseries": null
+    },
+    "system": "nintendo-64",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Story Heavy",
+            "Classic",
+            "Timing Based"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-64",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-mario-rpg-legend-of-the-seven-stars",
+            "type": "spiritual_predecessor"
+        },
+        {
+            "source": "super-mario-rpg",
+            "type": "spiritual_predecessor"
+        },
+        {
+            "source": "paper-mario-the-thousand-year-door",
+            "type": "sequel"
+        },
+        {
+            "source": "paper-mario-the-thousand-year-door-switch",
+            "type": "sequel"
+        },
+        {
+            "source": "mario-and-luigi-paper-jam",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Intelligent Systems"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Start of Paper Mario series and RPG identity.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 25
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "High-priority series + unique RPG identity on N64",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

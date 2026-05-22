@@ -1,0 +1,83 @@
+{
+    "id": "luigis-mansion-3",
+    "name": "Luigi's Mansion 3",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22a9.webp",
+    "release": "2019-10-31",
+    "type": "game",
+    "franchise": {
+        "universe": "Mario",
+        "series": "Luigi's Mansion",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Horror",
+            "Comedy",
+            "Ghosts"
+        ],
+        "tags": [
+            "Puzzle Solving",
+            "Boss Battles",
+            "Co-op",
+            "Atmospheric"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "luigis-mansion-2",
+            "type": "prequel"
+        },
+        {
+            "source": "luigis-mansion-2-hd",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 8
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus",
+            "online"
+        ]
+    },
+    "companies": [
+        "Next Level Games"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Strong modern Luigi's Mansion entry with co-op and polished Switch presentation.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 13
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

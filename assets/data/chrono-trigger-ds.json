@@ -1,0 +1,77 @@
+{
+    "id": "chrono-trigger-ds",
+    "name": "Chrono Trigger",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54ix.webp",
+    "release": "2008-11-20",
+    "type": "game",
+    "franchise": {
+        "universe": "Chrono",
+        "series": "Chrono",
+        "subseries": null
+    },
+    "system": "nintendo-ds",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "Turn-Based RPG"
+        ],
+        "themes": [
+            "Time Travel",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Nintendo DS",
+            "Portable",
+            "Square Enix",
+            "JRPG"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-ds",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "chrono-trigger",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Square Enix",
+        "TOSE"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive portable version of one of the greatest JRPGs ever made, featuring additional content and refinements.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Widely considered the best official version of Chrono Trigger.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

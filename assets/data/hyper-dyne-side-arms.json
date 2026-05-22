@@ -1,0 +1,73 @@
+{
+    "id": "hyper-dyne-side-arms",
+    "name": "Hyper Dyne Side Arms",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ns6.webp",
+    "aliases": [
+        "Side Arms"
+    ],
+    "release": "1986-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Side Arms",
+        "series": "Side Arms",
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Shooter"
+        ],
+        "subgenres": [
+            "Horizontal Shooter"
+        ],
+        "themes": [
+            "Sci-Fi",
+            "Mecha"
+        ],
+        "tags": [
+            "Arcade",
+            "Retro",
+            "Transforming Mecha",
+            "Capcom"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "capcom-arcade-2nd-stadium",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "Capcom"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Classic Capcom mecha shooter with transformation mechanics and strong arcade pacing.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Notable early Capcom sci-fi shooter and important arcade mecha title.",
+        "notes": "Wishlist through Capcom Arcade 2nd Stadium."
+    },
+    "event": null,
+    "notes": null
+}
