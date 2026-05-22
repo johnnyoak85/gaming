@@ -77,3 +77,16 @@ So, each should be an horizontal rectangle, inside they have their subsection ca
 - For Library: Games, Hardware, Amiibo, Wishlist
 - For Worlds: Companies, Systems, Series
 - For Play: Nothing yet
+
+---
+
+Alright boo, let's keep going.
+Now, if you check inside `assets/icons` we now have icons. For each type of data, there is an icon.
+`games` = `games.png`
+`hardware` = `hardware.png`
+`amiibo` = `amiibo.png`
+`companies` = `companies.png`
+`systems` = `systems.png`
+`series` = `series.png`
+Each card on the dashboard should have an icon now.
+And yes, they should be cards, not horizontal button rectangles.

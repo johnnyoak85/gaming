@@ -262,18 +262,18 @@ function showHome() {
     {
       title: "Library",
       cards: [
-        { label: "Games", action: () => showOwnedGames() },
-        { label: "Hardware", action: () => showOwnedHardware() },
-        { label: "Amiibo", action: () => showOwnedAmiibo() },
+        { label: "Games", icon: "./assets/icons/games.png", action: () => showOwnedGames() },
+        { label: "Hardware", icon: "./assets/icons/hardware.png", action: () => showOwnedHardware() },
+        { label: "Amiibo", icon: "./assets/icons/amiibo.png", action: () => showOwnedAmiibo() },
         { label: "Wishlist", action: () => showWishlist() },
       ],
     },
     {
       title: "Worlds",
       cards: [
-        { label: "Companies", action: () => showCompanies() },
-        { label: "Systems", action: () => showSystems() },
-        { label: "Series", action: () => showSeriesList() },
+        { label: "Companies", icon: "./assets/icons/companies.png", action: () => showCompanies() },
+        { label: "Systems", icon: "./assets/icons/systems.png", action: () => showSystems() },
+        { label: "Series", icon: "./assets/icons/series.png", action: () => showSeriesList() },
       ],
     },
     {
@@ -288,8 +288,13 @@ function showHome() {
     const grid = el("div", { class: "home-section-cards" });
     if (section.cards.length) {
       for (const card of section.cards) {
+        const children = [];
+        if (card.icon) {
+          children.push(el("img", { class: "home-card-icon", src: card.icon, alt: card.label }));
+        }
+        children.push(el("span", { class: "home-card-label" }, card.label));
         grid.appendChild(
-          el("button", { class: "home-section-card", onclick: card.action }, card.label)
+          el("div", { class: "home-section-card", onclick: card.action }, children)
         );
       }
     } else {
