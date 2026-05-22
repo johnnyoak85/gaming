@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": null,
-        "series": "Little Samson",
+        "series": "little-samson-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -48,7 +48,7 @@
         ]
     },
     "companies": [
-        "Takeru"
+        "takeru-company"
     ],
     "progress": "planned",
     "backlog": {

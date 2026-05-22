@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "The Legend of Zelda",
-        "series": "The Legend of Zelda",
+        "series": "the-legend-of-zelda-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -70,7 +70,7 @@
         ]
     },
     "companies": [
-        "Nintendo"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {

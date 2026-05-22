@@ -1,0 +1,13 @@
+{
+    "id": "kunio-kun-series",
+    "type": "series",
+    "name": "Kunio Kun",
+    "logo": "kunio-kun-logo",
+    "circle": "minor",
+    "contains": [
+        "renegade-series",
+        "river-city-ransom-series",
+        "nekketsu-series",
+        "river-city-girls-series"
+    ]
+}

@@ -8,15 +8,10 @@
     "series": "Classic Mini",
     "subseries": "Nintendo Entertainment System"
   },
-  "system": "nintendo-entertainment-system",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
+  "system": "nintendo-entertainment-system-system",
+  "companies": [
+    "nintendo-company"
+  ],
   "hardware": {
     "category": "controller",
     "form": "standard",

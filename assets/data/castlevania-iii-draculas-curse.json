@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Castlevania",
-        "series": "Castlevania",
+        "series": "castlevania-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -67,7 +67,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -83,5 +83,5 @@
         "notes": null
     },
     "event": null,
-    "notes": "International version is a remix of Japanese version"
+    "notes": "International version is a remix of Japanese version to make it harder"
 }

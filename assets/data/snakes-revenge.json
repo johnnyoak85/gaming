@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Metal Gear",
-        "series": "Metal Gear",
+        "series": "metal-gear-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action"
@@ -56,7 +56,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {

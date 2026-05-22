@@ -9,7 +9,7 @@
         "series": "super-mario-series",
         "subseries": "dr-mario-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Puzzle"
@@ -56,7 +56,7 @@
         ]
     },
     "companies": [
-        "Nintendo R&D1"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -71,6 +71,6 @@
         "reason": null,
         "notes": null
     },
-    "event": "Nintendo Classic Mini: Nintendo Entertainment System",
+    "event": null,
     "notes": null
 }

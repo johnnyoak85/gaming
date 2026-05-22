@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Fire Emblem",
-        "series": "Fire Emblem",
-        "subseries": "Archanea"
+        "series": "fire-emblem-series",
+        "subseries": "fire-emblem-archanea-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG",
@@ -53,7 +53,7 @@
         ]
     },
     "companies": [
-        "Intelligent Systems"
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {

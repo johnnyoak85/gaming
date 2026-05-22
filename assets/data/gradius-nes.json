@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Gradius",
-        "series": "Gradius",
+        "series": "gradius-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Shooter"
@@ -53,7 +53,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {

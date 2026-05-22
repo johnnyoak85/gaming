@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Punch-Out!!",
-        "series": "Punch-Out!!",
+        "series": "punch-out-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Sports",
@@ -54,7 +54,7 @@
         ]
     },
     "companies": [
-        "Nintendo R&D3"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {

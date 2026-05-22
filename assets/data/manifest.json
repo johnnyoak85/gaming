@@ -976,7 +976,7 @@
     "type": "game"
   },
   {
-    "id": "game-boy-color",
+    "id": "game-boy--color-system",
     "type": "system"
   },
   {
@@ -984,7 +984,7 @@
     "type": "hardware"
   },
   {
-    "id": "game-boy-advance",
+    "id": "game-boy-advance-system",
     "type": "system"
   },
   {
@@ -996,7 +996,7 @@
     "type": "hardware"
   },
   {
-    "id": "game-boy",
+    "id": "game-boy-system",
     "type": "system"
   },
   {
@@ -1004,7 +1004,7 @@
     "type": "hardware"
   },
   {
-    "id": "game-gear",
+    "id": "game-gear-system",
     "type": "system"
   },
   {
@@ -2136,7 +2136,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-3ds",
+    "id": "nintendo-3ds-system",
     "type": "system"
   },
   {
@@ -2148,7 +2148,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-64",
+    "id": "nintendo-64-system",
     "type": "system"
   },
   {
@@ -2180,7 +2180,7 @@
     "type": "company"
   },
   {
-    "id": "nintendo-ds",
+    "id": "nintendo-ds-system",
     "type": "system"
   },
   {
@@ -2188,7 +2188,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-entertainment-system",
+    "id": "nintendo-entertainment-system-system",
     "type": "system"
   },
   {
@@ -2204,7 +2204,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-gamecube",
+    "id": "nintendo-gamecube-system",
     "type": "system"
   },
   {
@@ -2224,7 +2224,7 @@
     "type": "game"
   },
   {
-    "id": "nintendo-switch-2",
+    "id": "nintendo-switch-2-system",
     "type": "system"
   },
   {
@@ -2240,7 +2240,7 @@
     "type": "game"
   },
   {
-    "id": "nintendo-switch",
+    "id": "nintendo-switch-system",
     "type": "system"
   },
   {
@@ -2264,7 +2264,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-wii",
+    "id": "nintendo-wii-system",
     "type": "system"
   },
   {
@@ -2276,7 +2276,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-wii-u",
+    "id": "nintendo-wii-u-system",
     "type": "system"
   },
   {
@@ -2436,7 +2436,7 @@
     "type": "game"
   },
   {
-    "id": "playstation-2",
+    "id": "playstation-2-system",
     "type": "system"
   },
   {
@@ -2444,7 +2444,7 @@
     "type": "hardware"
   },
   {
-    "id": "playstation-3",
+    "id": "playstation-3-system",
     "type": "system"
   },
   {
@@ -2452,7 +2452,7 @@
     "type": "hardware"
   },
   {
-    "id": "playstation-4",
+    "id": "playstation-4-system",
     "type": "system"
   },
   {
@@ -2464,7 +2464,7 @@
     "type": "hardware"
   },
   {
-    "id": "playstation",
+    "id": "playstation-system",
     "type": "system"
   },
   {
@@ -2772,7 +2772,7 @@
     "type": "hardware"
   },
   {
-    "id": "sega-dreamcast",
+    "id": "sega-dreamcast-system",
     "type": "system"
   },
   {
@@ -2784,11 +2784,11 @@
     "type": "system"
   },
   {
-    "id": "sega-mega-drive",
+    "id": "sega-mega-drive-system",
     "type": "system"
   },
   {
-    "id": "sega-saturn",
+    "id": "sega_saturn-system",
     "type": "system"
   },
   {
@@ -3436,7 +3436,7 @@
     "type": "hardware"
   },
   {
-    "id": "super-nintendo-entertainment-system",
+    "id": "super-nintendo-entertainment-system-system",
     "type": "system"
   },
   {
@@ -3844,7 +3844,7 @@
     "type": "hardware"
   },
   {
-    "id": "virtual-boy",
+    "id": "virtual-boy-system",
     "type": "system"
   },
   {
@@ -3960,7 +3960,7 @@
     "type": "hardware"
   },
   {
-    "id": "xbox-360",
+    "id": "xbox-360-system",
     "type": "system"
   },
   {
@@ -3972,7 +3972,7 @@
     "type": "system"
   },
   {
-    "id": "xbox",
+    "id": "xbox-system",
     "type": "system"
   },
   {
@@ -4038,5 +4038,25 @@
   {
     "id": "zero-suit-samus-amiibo",
     "type": "amiibo"
+  },
+  {
+    "id": "kunio-kun-series",
+    "type": "series"
+  },
+  {
+    "id": "nekketsu-series",
+    "type": "series"
+  },
+  {
+    "id": "renegade-series",
+    "type": "series"
+  },
+  {
+    "id": "river-city-girls-series",
+    "type": "series"
+  },
+  {
+    "id": "river-city-ransom-series",
+    "type": "series"
   }
 ]

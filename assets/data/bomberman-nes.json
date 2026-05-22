@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Bomberman",
-        "series": "Bomberman",
+        "series": "bomberman-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -47,7 +47,7 @@
         ]
     },
     "companies": [
-        "Hudson Soft"
+        "hudson-soft-company"
     ],
     "progress": "planned",
     "backlog": {

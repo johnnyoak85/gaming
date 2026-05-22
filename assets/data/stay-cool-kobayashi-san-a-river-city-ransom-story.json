@@ -6,8 +6,8 @@
     "type": "game",
     "franchise": {
         "universe": "Kunio-kun",
-        "series": "River City",
-        "subseries": null
+        "series": "kunio-kun-series",
+        "subseries": "river-city-ransom-series"
     },
     "classification": {
         "genres": [

@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Mega Man",
-        "series": "Mega Man",
+        "series": "mega-man-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -59,7 +59,7 @@
         ]
     },
     "companies": [
-        "Capcom"
+        "capcom-company"
     ],
     "progress": "planned",
     "backlog": {

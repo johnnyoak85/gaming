@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": null,
-        "series": "Excite",
+        "series": "excite-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Racing"
@@ -49,7 +49,7 @@
         ]
     },
     "companies": [
-        "Nintendo R&D1"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {

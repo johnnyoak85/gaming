@@ -65,28 +65,9 @@ Curation
 
 Sega 3D Classics Collection
 Sega Ages: Sonic the Hedgehog
-
-Great job, and we move on.
-
-I want everything to use the new font contained in the `fonts` folder.
-
-Now, for the dashboard.
-Instead of having Library, Worlds, and Journey be button cards, make them sections instead.
-So, each should be an horizontal rectangle, inside they have their subsection card buttons.
-
-- For Library: Games, Hardware, Amiibo, Wishlist
-- For Worlds: Companies, Systems, Series
-- For Play: Nothing yet
+River City: Rival Showdown
 
 ---
-
-Alright boo, let's keep going.
-Now, if you check inside `assets/icons` we now have icons. For each type of data, there is an icon.
-`games` = `games.png`
-`hardware` = `hardware.png`
-`amiibo` = `amiibo.png`
-`companies` = `companies.png`
-`systems` = `systems.png`
-`series` = `series.png`
-Each card on the dashboard should have an icon now.
-And yes, they should be cards, not horizontal button rectangles.
+`nintendo-entertainment-system` is now `nintendo-entertainment-system-system`.
+Every game from that system has been updated has been updated. Their series and their companies.
+There are new entries, please update those into the manifest.

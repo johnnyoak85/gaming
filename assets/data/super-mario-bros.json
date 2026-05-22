@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Mario",
-        "series": "Super Mario",
-        "subseries": "Super Mario Bros."
+        "series": "super-mario-series",
+        "subseries": "super-mario-bros-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform"
@@ -91,7 +91,7 @@
         ]
     },
     "companies": [
-        "Nintendo R&D4"
+        "nintendo-company"
     ],
     "progress": "finished",
     "backlog": {

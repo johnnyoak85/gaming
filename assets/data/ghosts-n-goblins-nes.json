@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Ghosts 'n Goblins",
-        "series": "Ghosts 'n Goblins",
+        "series": "ghosts-n-goblins-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -54,7 +54,7 @@
         ]
     },
     "companies": [
-        "Capcom"
+        "capcom-company"
     ],
     "progress": "planned",
     "backlog": {

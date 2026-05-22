@@ -6,7 +6,7 @@
     "type": "game",
     "franchise": {
         "universe": "Gradius",
-        "series": "Gradius",
+        "series": "gradius-series",
         "subseries": null
     },
     "classification": {
@@ -64,7 +64,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {

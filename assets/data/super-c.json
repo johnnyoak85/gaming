@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Contra",
-        "series": "Contra",
+        "series": "contra-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -77,7 +77,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {

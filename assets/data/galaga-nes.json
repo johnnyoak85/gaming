@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "United Galaxy Space Force",
-        "series": "Galaga League",
-        "subseries": null
+        "series": "united-galaxy-space-force-series",
+        "subseries": "galaga-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Shooter"
@@ -52,7 +52,7 @@
         ]
     },
     "companies": [
-        "Namco"
+        "namco-series"
     ],
     "progress": "planned",
     "backlog": {

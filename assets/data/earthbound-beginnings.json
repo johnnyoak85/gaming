@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "EarthBound",
-        "series": "EarthBound",
+        "series": "earthbound-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG"
@@ -54,8 +54,8 @@
         ]
     },
     "companies": [
-        "Nintendo",
-        "APE"
+        "nintendo-company",
+        "ape-company"
     ],
     "progress": "finished",
     "backlog": {

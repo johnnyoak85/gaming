@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Kid Icarus",
-        "series": "Kid Icarus",
+        "series": "kid-icarus-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform",
@@ -64,7 +64,7 @@
         ]
     },
     "companies": [
-        "Nintendo R&D1"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -79,6 +79,6 @@
         "reason": null,
         "notes": null
     },
-    "event": "Nintendo Classic Mini: Nintendo Entertainment System",
+    "event": null,
     "notes": null
 }

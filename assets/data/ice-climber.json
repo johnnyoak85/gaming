@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": null,
-        "series": "Ice Climber",
+        "series": "ice-climber-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform"
@@ -47,7 +47,7 @@
         ]
     },
     "companies": [
-        "Nintendo R&D1"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {

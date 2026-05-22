@@ -6,9 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Castlevania",
-        "series": "Kid Dracula",
-        "subseries": null
+        "series": "castlevania-series",
+        "subseries": "kid-dracula-series"
     },
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -54,7 +55,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "completed",
     "backlog": {

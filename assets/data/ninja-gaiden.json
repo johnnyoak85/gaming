@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Ninja Gaiden",
-        "series": "Ninja Gaiden",
+        "series": "ninja-gaiden-series",
         "subseries": null
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -57,7 +57,7 @@
         ]
     },
     "companies": [
-        "Tecmo"
+        "tecmo-company"
     ],
     "progress": "planned",
     "backlog": {

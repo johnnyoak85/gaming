@@ -6,10 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Kunio-kun",
-        "series": "River City",
-        "subseries": null
+        "series": "kunio-kun-series",
+        "subseries": "river-city-ransom-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -65,7 +65,7 @@
         ]
     },
     "companies": [
-        "Technōs Japan"
+        "technos-company"
     ],
     "progress": "planned",
     "backlog": {
