@@ -17,7 +17,7 @@ function logoUrl(item) {
   const logo = item.logo;
   if (!logo) return null;
   if (logo.startsWith("http")) return logo;
-  return `./assets/images/${logo}.png`;
+  return `./assets/images/system/${logo}.png`;
 }
 
 function sortItems(items) {

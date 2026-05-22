@@ -2,7 +2,7 @@ import { loadCatalog, getGames, getHardware } from "./catalog.js";
 
 const HARDWARE_SOLO_PATH = "./assets/data/";
 const GAMES_SOLO_PATH = "./assets/data/";
-const IMAGE_BASE = "./images";
+const IMAGE_BASE = "./assets/images/hardware";
 
 // ---------------------------------------------------------------------------
 // Enum maps

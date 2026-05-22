@@ -71,11 +71,21 @@ function isOwned(item) {
   return item.wishlist !== true;
 }
 
+function getImageSubfolder(type) {
+  switch (type) {
+    case "game": return "game";
+    case "hardware": return "hardware";
+    case "amiibo": return "amiibo";
+    default: return "game";
+  }
+}
+
 function coverUrl(item) {
   const cover = item.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `./assets/images/${cover}.png`;
+  const folder = getImageSubfolder(item.type);
+  return `./assets/images/${folder}/${cover}.png`;
 }
 
 function detailUrl(item) {

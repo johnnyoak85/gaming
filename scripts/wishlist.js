@@ -1,6 +1,14 @@
 import { loadCatalog } from "./catalog.js";
 
-const IMAGE_BASE = "./images";
+function getImageSubfolder(type) {
+  switch (type) {
+    case "game":
+    case "game_collection": return "game";
+    case "hardware": return "hardware";
+    case "amiibo": return "amiibo";
+    default: return "game";
+  }
+}
 
 const WISHLIST_LEVEL = {
   1: { emoji: "🤍", label: "Low" },
@@ -34,7 +42,8 @@ function coverUrl(item) {
   const cover = item.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `${IMAGE_BASE}/${cover}.png`;
+  const folder = getImageSubfolder(item.type);
+  return `./assets/images/${folder}/${cover}.png`;
 }
 
 function detailUrl(item) {

@@ -23,7 +23,7 @@ function coverUrl(item) {
   const cover = item.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `./assets/images/${cover}.png`;
+  return `./assets/images/game/${cover}.png`;
 }
 
 function getFilteredItems() {

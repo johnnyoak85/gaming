@@ -16,14 +16,14 @@ function el(tag, attrs = {}, children = []) {
 function logoUrl(logo) {
   if (!logo) return null;
   if (logo.startsWith("http")) return logo;
-  return `./assets/images/${logo}.png`;
+  return `./assets/images/series/${logo}.png`;
 }
 
 function coverUrl(entry) {
   const cover = entry.cover;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
-  return `./assets/images/${cover}.png`;
+  return `./assets/images/game/${cover}.png`;
 }
 
 function sortByRelease(items) {

@@ -2,7 +2,7 @@ import { loadCatalog, getAmiibo } from "./catalog.js";
 
 const AMIIBO_SOLO_PATH = "./assets/data/";
 const GAMES_SOLO_PATH = "./assets/data/";
-const IMAGE_BASE = "./images";
+const IMAGE_BASE = "./assets/images/amiibo";
 
 let gameCache = {};
 let amiiboIndex = null;

@@ -35,10 +35,23 @@ function getDetailUrl(item) {
   }
 }
 
+function getImageSubfolder(type) {
+  switch (type) {
+    case "game": return "game";
+    case "hardware": return "hardware";
+    case "amiibo": return "amiibo";
+    case "series": return "series";
+    case "system": return "system";
+    case "company": return "company";
+    default: return "game";
+  }
+}
+
 function getCoverSrc(item) {
   if (!item.cover) return null;
   if (item.cover.startsWith("http")) return item.cover;
-  return `./assets/images/${item.cover}.png`;
+  const folder = getImageSubfolder(item.type);
+  return `./assets/images/${folder}/${item.cover}.png`;
 }
 
 function cardGrid(cards, backFn) {
@@ -97,7 +110,7 @@ function logoList(items, onClickItem, backFn, title) {
   for (const item of items) {
     const card = el("div", { class: "logo-card", onclick: () => onClickItem(item) }, [
       item.logo
-        ? el("img", { class: "logo-img", src: `./assets/images/${item.logo}.png`, alt: item.name })
+        ? el("img", { class: "logo-img", src: `./assets/images/${getImageSubfolder(item.type)}/${item.logo}.png`, alt: item.name })
         : el("div", { class: "logo-img placeholder" }, item.name),
     ]);
     grid.appendChild(card);

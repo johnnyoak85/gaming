@@ -63,29 +63,5 @@ Curation
 
 ---
 
-Sonic the Hedgehog
-
-- Mega Drive
-- Mega Play (Arcade)
-- Genesis (GBA)
-- 3D (3DS)
-- Mobile
-
-Sonic the Hedgehog 2
-
-- Mega Drive
-- 3D (3DS)
-
-Sonic CD
-
 Sega 3D Classics Collection
 Sega Ages: Sonic the Hedgehog
-
----
-
-Please do this and update whatever needs updating as to not break anything
-
-- Rename `style` to `styles`
-- Add an `assets` folder, move `images` and `data` inside it
-- Add an `icons`and `fonts` folder to `assets` (placeholder for now)
-- Add folders for each type of data inside `images` (`hardware`, `amiibo`, `series`, `system`, `company`, `game`). Each detail page will try to load it from an URL first and then from here. I will move the images myself

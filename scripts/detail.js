@@ -1,7 +1,7 @@
 const GAMES_SOLO_PATH = "./assets/data/";
 const HARDWARE_SOLO_PATH = "./assets/data/";
 const AMIIBO_SOLO_PATH = "./assets/data/";
-const IMAGE_BASE = "./images";
+const IMAGE_BASE = "./assets/images/game";
 
 // ---------------------------------------------------------------------------
 // Enum maps
@@ -82,7 +82,7 @@ function getPlayerAge(game) {
 function coverUrl(name) {
   if (!name) return null;
   if (name.startsWith("http")) return name;
-  return `./assets/images/${name}.png`;
+  return `./assets/images/hardware/${name}.png`;
 }
 
 async function loadGame(id) {
