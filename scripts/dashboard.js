@@ -256,32 +256,62 @@ function filterBySeries(type, seriesName) {
 // --- Views ---
 
 function showHome() {
-  render(cardGrid([
-    { label: "Library", action: () => showCollection() },
-    { label: "Worlds", action: () => showTaxonomy() },
-    { label: "Journey", disabled: true },
-  ]));
-}
+  const container = el("div", { class: "dashboard-view" });
 
-function showCollection() {
-  render(cardGrid([
-    { label: "Games", action: () => showOwnedGames() },
-    { label: "Hardware", action: () => showOwnedHardware() },
-    { label: "Amiibo", action: () => showOwnedAmiibo() },
-    { label: "Wishlist", action: () => showWishlist() },
-  ], showHome));
+  const sections = [
+    {
+      title: "Library",
+      cards: [
+        { label: "Games", action: () => showOwnedGames() },
+        { label: "Hardware", action: () => showOwnedHardware() },
+        { label: "Amiibo", action: () => showOwnedAmiibo() },
+        { label: "Wishlist", action: () => showWishlist() },
+      ],
+    },
+    {
+      title: "Worlds",
+      cards: [
+        { label: "Companies", action: () => showCompanies() },
+        { label: "Systems", action: () => showSystems() },
+        { label: "Series", action: () => showSeriesList() },
+      ],
+    },
+    {
+      title: "Play",
+      cards: [],
+    },
+  ];
+
+  for (const section of sections) {
+    const sectionEl = el("div", { class: "home-section" });
+    sectionEl.appendChild(el("h2", { class: "home-section-title" }, section.title));
+    const grid = el("div", { class: "home-section-cards" });
+    if (section.cards.length) {
+      for (const card of section.cards) {
+        grid.appendChild(
+          el("button", { class: "home-section-card", onclick: card.action }, card.label)
+        );
+      }
+    } else {
+      grid.appendChild(el("span", { class: "empty-state" }, "Coming soon"));
+    }
+    sectionEl.appendChild(grid);
+    container.appendChild(sectionEl);
+  }
+
+  render(container);
 }
 
 function showOwnedGames() {
-  render(entryList(getOwned("game"), showCollection, "Games"));
+  render(entryList(getOwned("game"), showHome, "Games"));
 }
 
 function showOwnedHardware() {
-  render(entryList(getOwned("hardware"), showCollection, "Hardware"));
+  render(entryList(getOwned("hardware"), showHome, "Hardware"));
 }
 
 function showOwnedAmiibo() {
-  render(entryList(getOwned("amiibo"), showCollection, "Amiibo"));
+  render(entryList(getOwned("amiibo"), showHome, "Amiibo"));
 }
 
 function showWishlist() {
@@ -289,30 +319,22 @@ function showWishlist() {
     { label: "Games", items: () => getWishlist("game") },
     { label: "Hardware", items: () => getWishlist("hardware") },
     { label: "Amiibo", items: () => getWishlist("amiibo") },
-  ], showCollection, "Wishlist"));
-}
-
-function showTaxonomy() {
-  render(cardGrid([
-    { label: "Companies", action: () => showCompanies() },
-    { label: "Systems", action: () => showSystems() },
-    { label: "Series", action: () => showSeriesList() },
-  ], showHome));
+  ], showHome, "Wishlist"));
 }
 
 function showCompanies() {
   const companies = getByType("company");
-  render(logoList(companies, (c) => showCompanyDetail(c), showTaxonomy, "Companies"));
+  render(logoList(companies, (c) => showCompanyDetail(c), showHome, "Companies"));
 }
 
 function showSystems() {
   const systems = getByType("system");
-  render(logoList(systems, (s) => showSystemDetail(s), showTaxonomy, "Systems"));
+  render(logoList(systems, (s) => showSystemDetail(s), showHome, "Systems"));
 }
 
 function showSeriesList() {
   const series = getByType("series");
-  render(logoList(series, (s) => showSeriesDetail(s), showTaxonomy, "Series"));
+  render(logoList(series, (s) => showSeriesDetail(s), showHome, "Series"));
 }
 
 function showCompanyDetail(company) {

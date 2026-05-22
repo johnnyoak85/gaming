@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Venite Adoremus";
+  src: url("../assets/fonts/venite-adoremus/VeniteAdoremus-rgRBA.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --primary: #7c2d9b;
   --primary-light: #a855f7;
@@ -19,7 +27,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Venite Adoremus", sans-serif;
   background-color: var(--bg);
   color: var(--text);
   min-height: 100vh;
@@ -96,6 +104,50 @@ body {
 
 .dashboard-card-label {
   user-select: none;
+}
+
+/* Home sections */
+
+.home-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.home-section-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 14px;
+  color: var(--text);
+}
+
+.home-section-cards {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.home-section-card {
+  padding: 10px 24px;
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.home-section-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(124, 45, 155, 0.3);
+  background: var(--primary);
+  border-color: var(--primary-light);
 }
 
 .card-logo {

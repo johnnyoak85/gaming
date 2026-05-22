@@ -1,6 +1,15 @@
 /* ===================== */
 /* Variables             */
 /* ===================== */
+
+@font-face {
+  font-family: "Venite Adoremus";
+  src: url("../assets/fonts/venite-adoremus/VeniteAdoremus-rgRBA.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --primary: #7c2d9b;
   --primary-light: #a855f7;
@@ -26,7 +35,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Venite Adoremus", sans-serif;
   background-color: var(--bg);
   color: var(--text);
   line-height: 1.6;

@@ -65,3 +65,15 @@ Curation
 
 Sega 3D Classics Collection
 Sega Ages: Sonic the Hedgehog
+
+Great job, and we move on.
+
+I want everything to use the new font contained in the `fonts` folder.
+
+Now, for the dashboard.
+Instead of having Library, Worlds, and Journey be button cards, make them sections instead.
+So, each should be an horizontal rectangle, inside they have their subsection card buttons.
+
+- For Library: Games, Hardware, Amiibo, Wishlist
+- For Worlds: Companies, Systems, Series
+- For Play: Nothing yet
