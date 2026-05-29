@@ -62,7 +62,8 @@
         ]
     },
     "companies": [
-        "Nintendo R&D1"
+        "nintendo-company",
+        "tose-company"
     ],
     "progress": "planned",
     "backlog": {

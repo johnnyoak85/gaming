@@ -57,7 +57,8 @@
         ]
     },
     "companies": [
-        "Nintendo R&D1"
+        "nintendo-company",
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {

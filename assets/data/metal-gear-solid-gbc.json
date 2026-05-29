@@ -62,7 +62,8 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company",
+        "tose-company"
     ],
     "progress": "planned",
     "backlog": {

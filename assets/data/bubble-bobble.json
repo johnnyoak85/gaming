@@ -2,11 +2,11 @@
     "id": "bubble-bobble",
     "name": "Bubble Bobble",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq32.webp",
-    "release": "1986-06-16",
+    "release": "1987-10-30",
     "type": "game",
     "franchise": {
         "universe": "Bubble Bobble",
-        "series": "bubble-bobble",
+        "series": "bubble-bobble-series",
         "subseries": null
     },
     "system": "nintendo-entertainment-system-system",

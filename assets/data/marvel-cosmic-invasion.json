@@ -1,0 +1,59 @@
+{
+    "id": "marvel-cosmic-invasion",
+    "name": "Marvel Cosmic Invasion",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakkw.webp",
+    "release": "2025-12-01",
+    "type": "game",
+    "franchise": {
+        "universe": "Marvel",
+        "series": "marvel-series",
+        "subseries": null
+    },
+    "system": "nintendo-switch-2-system",
+    "classification": {
+        "genres": [],
+        "subgenres": [],
+        "themes": [],
+        "tags": []
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-switch-2",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "tribute-games-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": null,
+        "difficulty": null,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

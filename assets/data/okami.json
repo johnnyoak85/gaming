@@ -58,7 +58,9 @@
         ]
     },
     "companies": [
-        "Clover Studio"
+        "clover-studio-company",
+        "tose-company",
+        "ready-at-dawn-company"
     ],
     "progress": "planned",
     "backlog": {

@@ -2,7 +2,10 @@
     "id": "ghosts-n-goblins-nes",
     "name": "Ghosts 'n Goblins",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68o0.webp",
-    "release": "1985-09-01",
+    "aliases": [
+        "Demon Realm Village"
+    ],
+    "release": "1986-11-01",
     "type": "game",
     "franchise": {
         "universe": "Ghosts 'n Goblins",

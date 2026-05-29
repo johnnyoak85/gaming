@@ -8,14 +8,9 @@
     "series": "Egret II",
     "subseries": null
   },
-  "companies": {
-    "manufacturer": [
-      "Taito"
-    ],
-    "publisher": [
-      "Taito"
-    ]
-  },
+  "companies": [
+    "taito-company"
+  ],
   "hardware": {
     "category": "controller",
     "form": "standard",

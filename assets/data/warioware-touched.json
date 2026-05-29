@@ -69,7 +69,8 @@
         ]
     },
     "companies": [
-        "Nintendo SPD"
+        "nintendo-company",
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {

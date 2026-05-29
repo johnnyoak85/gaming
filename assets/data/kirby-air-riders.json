@@ -6,9 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Kirby",
-        "series": "Kirby Air Ride",
-        "subseries": null
+        "series": "kirby-series",
+        "subseries": "kirby-air-ride-series"
     },
+    "system": "nintendo-switch-2-system",
     "classification": {
         "genres": [
             "Racing"
@@ -54,8 +55,8 @@
         ]
     },
     "companies": [
-        "Sora Ltd.",
-        "Bandai Namco Studios"
+        "sora-company",
+        "bandai-namco-studios-company"
     ],
     "progress": "planned",
     "backlog": {

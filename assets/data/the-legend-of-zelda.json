@@ -2,6 +2,9 @@
     "id": "the-legend-of-zelda",
     "name": "The Legend of Zelda",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uii.webp",
+    "aliases": [
+        "The Hyrule Fantasy: Legend of Zelda"
+    ],
     "release": "1986-02-21",
     "type": "game",
     "franchise": {

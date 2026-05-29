@@ -2,7 +2,7 @@
     "id": "balloon-fight",
     "name": "Balloon Fight",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90t.webp",
-    "release": "1984-01-22",
+    "release": "1985-01-22",
     "type": "game",
     "franchise": {
         "universe": null,
@@ -52,7 +52,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "hal-laboratory-company"
     ],
     "progress": "planned",
     "backlog": {

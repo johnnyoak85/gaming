@@ -2,7 +2,7 @@
     "id": "donkey-kong-jr",
     "name": "Donkey Kong Jr.",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb5z.webp",
-    "release": "1982-08-01",
+    "release": "1983-07-15",
     "type": "game",
     "franchise": {
         "universe": "Mario",
@@ -69,6 +69,7 @@
         "reason": null,
         "notes": null
     },
+    "label": "Arcade Classic Series",
     "event": null,
     "notes": null
 }

@@ -51,7 +51,8 @@
         ]
     },
     "companies": [
-        "HAL Laboratory"
+        "hal-laboratory-company",
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {

@@ -2,13 +2,14 @@
     "id": "super-mario-bros-wonder-switch-2",
     "name": "Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobchm.webp",
-    "release": "2025-01-01",
+    "release": "2026-03-26",
     "type": "game",
     "franchise": {
         "universe": "Mario",
-        "series": "Super Mario",
+        "series": "super-mario-series",
         "subseries": null
     },
+    "system": "nintendo-switch-2-system",
     "classification": {
         "genres": [
             "Platform"
@@ -36,7 +37,7 @@
     "versions": [
         {
             "source": "super-mario-bros-wonder",
-            "format": "enhanced_port"
+            "format": "base"
         }
     ],
     "relationships": [],
@@ -51,7 +52,7 @@
         ]
     },
     "companies": [
-        "Nintendo EPD"
+        "nintendo-company"
     ],
     "progress": "planned",
     "backlog": {

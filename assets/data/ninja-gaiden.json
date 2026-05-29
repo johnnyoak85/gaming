@@ -2,6 +2,10 @@
     "id": "ninja-gaiden",
     "name": "Ninja Gaiden",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5iha.webp",
+    "aliases": [
+        "Shinobi: The Legend of the Dragon Sword",
+        "Shadow Warriors"
+    ],
     "release": "1988-12-09",
     "type": "game",
     "franchise": {

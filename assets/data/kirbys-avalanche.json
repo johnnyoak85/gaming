@@ -60,7 +60,8 @@
         ]
     },
     "companies": [
-        "Compile"
+        "hal-laboratory-company",
+        "compile-company"
     ],
     "progress": "planned",
     "backlog": {

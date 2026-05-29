@@ -2,11 +2,14 @@
     "id": "startropics",
     "name": "StarTropics",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sur.webp",
-    "release": "1990-07-20",
+    "aliases": [
+        "Punch-Out!! Featuring Mr. Dream"
+    ],
+    "release": "1990-08-20",
     "type": "game",
     "franchise": {
         "universe": "StarTropics",
-        "series": "starTropics-series",
+        "series": "startropics-series",
         "subseries": null
     },
     "system": "nintendo-entertainment-system-system",
@@ -49,7 +52,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "locomotive-corporation-company"
     ],
     "progress": "planned",
     "backlog": {

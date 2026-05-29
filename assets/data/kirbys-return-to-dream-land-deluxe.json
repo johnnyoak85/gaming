@@ -52,7 +52,8 @@
         ]
     },
     "companies": [
-        "HAL Laboratory"
+        "hal-laboratory-company",
+        "vanpool-company"
     ],
     "progress": "planned",
     "backlog": {

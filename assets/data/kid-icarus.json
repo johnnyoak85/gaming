@@ -2,6 +2,9 @@
     "id": "kid-icarus",
     "name": "Kid Icarus",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90j.webp",
+    "aliases": [
+        "Myth of Light: The Mirror of Palutena"
+    ],
     "release": "1986-12-19",
     "type": "game",
     "franchise": {
@@ -64,7 +67,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "tose-company"
     ],
     "progress": "planned",
     "backlog": {

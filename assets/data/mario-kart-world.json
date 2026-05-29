@@ -6,9 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Mario",
-        "series": "Mario Kart",
-        "subseries": null
+        "series": "super-mario-series",
+        "subseries": "mario-kart-series"
     },
+    "system": "nintendo-switch-2-system",
     "classification": {
         "genres": [
             "Racing"
@@ -55,7 +56,10 @@
         ]
     },
     "companies": [
-        "Nintendo EPD"
+        "nintendo-company",
+        "monolith-soft-company",
+        "1-up-studio-company",
+        "bandai-namco-studios-company"
     ],
     "progress": "planned",
     "backlog": {

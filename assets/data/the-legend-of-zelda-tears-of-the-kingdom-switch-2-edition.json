@@ -6,9 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "The Legend of Zelda",
-        "series": "The Legend of Zelda",
+        "series": "the-legend-of-zelda-series",
         "subseries": null
     },
+    "system": "nintendo-switch-2-system",
     "classification": {
         "genres": [
             "Action",
@@ -38,14 +39,10 @@
     "versions": [
         {
             "source": "the-legend-of-zelda-tears-of-the-kingdom",
-            "format": "enhanced_port"
+            "format": "base"
         }
     ],
     "relationships": [
-        {
-            "source": "the-legend-of-zelda-breath-of-the-wild",
-            "type": "prequel"
-        },
         {
             "source": "the-legend-of-zelda-breath-of-the-wild-switch-2-edition",
             "type": "prequel"
@@ -65,7 +62,8 @@
         ]
     },
     "companies": [
-        "Nintendo EPD"
+        "nintendo-company",
+        "monolith-soft-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -77,7 +75,7 @@
     },
     "acquisition": {
         "priority": 1,
-        "reason": "Same situation as BOTW",
+        "reason": "Technical upgrade, but redundant",
         "notes": "Own Switch version"
     },
     "event": null,

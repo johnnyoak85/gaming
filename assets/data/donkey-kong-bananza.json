@@ -6,9 +6,10 @@
     "type": "game",
     "franchise": {
         "universe": "Mario",
-        "series": "Donkey Kong",
-        "subseries": null
+        "series": "super-mario-series",
+        "subseries": "donkey-kong-series"
     },
+    "system": "nintendo-switch-2-system",
     "classification": {
         "genres": [
             "Platform",
@@ -51,7 +52,7 @@
         ]
     },
     "companies": [
-        "Nintendo EPD"
+        "nintendo-company"
     ],
     "progress": "paused",
     "backlog": {

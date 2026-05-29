@@ -2,6 +2,9 @@
     "id": "castlevania",
     "name": "Castlevania",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba2o.webp",
+    "aliases": [
+        "Devil's Castle Dracula"
+    ],
     "release": "1986-09-26",
     "type": "game",
     "franchise": {

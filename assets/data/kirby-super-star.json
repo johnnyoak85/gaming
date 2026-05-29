@@ -58,14 +58,9 @@
             "co_op"
         ]
     },
-    "companies": {
-        "developer": [
-            "HAL Laboratory"
-        ],
-        "publisher": [
-            "Nintendo"
-        ]
-    },
+    "companies": [
+        "hal-laboratory-company"
+    ],
     "progress": "planned",
     "backlog": {
         "priority": 5,

@@ -2,6 +2,9 @@
     "id": "super-mario-bros-2",
     "name": "Super Mario Bros. 2",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yq7.webp",
+    "aliases": [
+        "Super Mario Bros. USA"
+    ],
     "release": "1988-10-09",
     "type": "game",
     "franchise": {
@@ -52,7 +55,7 @@
             "type": "prequel"
         },
         {
-            "source": "super-mario-bros-2",
+            "source": "super-mario-bros-3",
             "type": "sequel"
         }
     ],

@@ -2,6 +2,9 @@
     "id": "kirbys-adventure",
     "name": "Kirby's Adventure",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3x.webp",
+    "aliases": [
+        "Kirby of the Stars: The Story of the Fountain of Dreams"
+    ],
     "release": "1993-03-23",
     "type": "game",
     "franchise": {

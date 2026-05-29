@@ -47,7 +47,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {

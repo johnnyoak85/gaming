@@ -2,7 +2,7 @@
     "id": "metroid",
     "name": "Metroid",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90o.webp",
-    "release": "1986-08-06",
+    "release": "1987-08-01",
     "type": "game",
     "franchise": {
         "universe": "Metroid",
@@ -67,7 +67,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {

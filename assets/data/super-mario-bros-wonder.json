@@ -35,7 +35,12 @@
             "notes": null
         }
     ],
-    "versions": [],
+    "versions": [
+        {
+            "source": "super-mario-bros-wonder-switch-2",
+            "format": "enhanced_port"
+        }
+    ],
     "relationships": [
         {
             "source": "new-super-mario-bros-u",

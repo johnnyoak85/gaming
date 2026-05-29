@@ -3,6 +3,9 @@
     "name": "Zelda II: The Adventure of Link",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uje.webp",
     "release": "1987-01-14",
+    "aliases": [
+        "The Legend of Zelda 2: The Adventure of Link"
+    ],
     "type": "game",
     "franchise": {
         "universe": "The Legend of Zelda",
@@ -52,10 +55,6 @@
     "relationships": [
         {
             "source": "the-legend-of-zelda",
-            "type": "prequel"
-        },
-        {
-            "source": "classic-nes-series-the-legend-of-zelda",
             "type": "prequel"
         }
     ],

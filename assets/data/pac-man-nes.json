@@ -2,7 +2,7 @@
     "id": "pac-man-nes",
     "name": "Pac-Man",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ula.webp",
-    "release": "1980-05-22",
+    "release": "1984-11-02",
     "type": "game",
     "franchise": {
         "universe": "Pac-Man",
@@ -50,7 +50,8 @@
         ]
     },
     "companies": [
-        "namco-company"
+        "namco-company",
+        "tengen-company"
     ],
     "progress": "planned",
     "backlog": {

@@ -2,7 +2,10 @@
     "id": "super-c",
     "name": "Super C",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fkf.webp",
-    "release": "1990-04-02",
+    "aliases": [
+        "Super Contra"
+    ],
+    "release": "1990-02-02",
     "type": "game",
     "franchise": {
         "universe": "Contra",

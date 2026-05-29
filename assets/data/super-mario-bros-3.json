@@ -2,6 +2,9 @@
     "id": "super-mario-bros-3",
     "name": "Super Mario Bros. 3",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ozx.webp",
+    "aliases": [
+        "Super Mario Brothers 3"
+    ],
     "release": "1988-10-23",
     "type": "game",
     "franchise": {

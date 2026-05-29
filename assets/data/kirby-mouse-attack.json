@@ -52,7 +52,9 @@
         ]
     },
     "companies": [
-        "HAL Laboratory"
+        "hal-laboratory-company",
+        "flagship-company",
+        "natsume-company"
     ],
     "progress": "planned",
     "backlog": {

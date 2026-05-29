@@ -2,11 +2,11 @@
     "id": "tecmo-bowl",
     "name": "Tecmo Bowl",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7qfn.webp",
-    "release": "1987-01-01",
+    "release": "1989-02-01",
     "type": "game",
     "franchise": {
         "universe": "Tecmo Bowl",
-        "series": "tecmo-series",
+        "series": "tecmo-bowl-series",
         "subseries": null
     },
     "system": "nintendo-entertainment-system-system",

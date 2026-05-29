@@ -2,7 +2,7 @@
     "id": "donkey-kong",
     "name": "Donkey Kong",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb69.webp",
-    "release": "1981-07-09",
+    "release": "1983-7-15",
     "type": "game",
     "franchise": {
         "universe": "Mario",
@@ -74,6 +74,7 @@
         "reason": null,
         "notes": null
     },
+    "label": "Arcade Classic Series",
     "event": null,
     "notes": null
 }

@@ -53,6 +53,7 @@
         ]
     },
     "companies": [
+        "nintendo-company",
         "intelligent-systems-company"
     ],
     "progress": "planned",

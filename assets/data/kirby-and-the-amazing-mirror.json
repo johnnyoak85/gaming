@@ -59,7 +59,9 @@
         ]
     },
     "companies": [
-        "HAL Laboratory"
+        "hal-laboratory-company",
+        "flagship-company",
+        "dimps-company"
     ],
     "progress": "planned",
     "backlog": {

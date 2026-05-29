@@ -59,7 +59,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -74,6 +75,7 @@
         "reason": null,
         "notes": null
     },
+    "label": "Arcade Classic Series",
     "event": null,
     "notes": null
 }
