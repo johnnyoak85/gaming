@@ -1,0 +1,23 @@
+{
+    "id": "hidenori-maezawa",
+    "name": "Hidenori Maezawa",
+    "description": "Konami composer and sound designer associated with several NES-era Konami soundtracks.",
+    "type": "person",
+    "portrait": "hidenori-maezawa",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "getsu-fuma-den",
+        "contra",
+        "super-c",
+        "castlevania-iii-draculas-curse",
+        "gradius-ii"
+    ],
+    "notes": null
+}

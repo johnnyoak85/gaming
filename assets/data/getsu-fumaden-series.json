@@ -1,0 +1,34 @@
+    {
+        "id": "getsu-fumaden-series",
+        "name": "GetsuFumaDen",
+        "description": "Konami action series built around Japanese dark fantasy, underworld demons, and the Getsu clan.",
+        "type": "series",
+        "logo": "getsu-fumaden-logo",
+        "circle": "minor",
+        "contains": [],
+        "companies": [
+            "konami-company"
+        ],
+        "people": [
+            "hidenori-maezawa"
+        ],
+        "essentials": [
+            "getsu-fuma-den",
+            "getsu-fumaden-undying-moon"
+        ],
+        "eras": [
+            {
+                "title": "Famicom Original",
+                "start_year": 1987,
+                "end_year": 1987,
+                "description": "Original Japan-only Famicom action-adventure."
+            },
+            {
+                "title": "Undying Moon Revival",
+                "start_year": 2022,
+                "end_year": null,
+                "description": "Modern roguelite action revival of the original setting."
+            }
+        ],
+        "notes": null
+    }

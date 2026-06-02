@@ -40,6 +40,10 @@
     "type": "game"
   },
   {
+    "id": "ape-company",
+    "type": "company"
+  },
+  {
     "id": "arcade-archives-vs-castlevania",
     "type": "game"
   },
@@ -110,6 +114,10 @@
   {
     "id": "blaster-master-enemy-below",
     "type": "game"
+  },
+  {
+    "id": "blaster-master-series",
+    "type": "series"
   },
   {
     "id": "blaster-master-zero",
@@ -804,12 +812,20 @@
     "type": "game"
   },
   {
+    "id": "earthbound-series",
+    "type": "series"
+  },
+  {
     "id": "eco-fighters",
     "type": "game"
   },
   {
     "id": "elephant-mario-amiibo",
     "type": "amiibo"
+  },
+  {
+    "id": "excite-series",
+    "type": "series"
   },
   {
     "id": "excitebike",
@@ -928,6 +944,10 @@
     "type": "game"
   },
   {
+    "id": "fire-emblem-archanea-series",
+    "type": "series"
+  },
+  {
     "id": "fire-emblem-awakening",
     "type": "game"
   },
@@ -1042,6 +1062,10 @@
   {
     "id": "genyo-takeda",
     "type": "person"
+  },
+  {
+    "id": "getsu-fuma-den",
+    "type": "game"
   },
   {
     "id": "ghosts-n-goblins",
@@ -1192,6 +1216,10 @@
     "type": "person"
   },
   {
+    "id": "hudson-soft-company",
+    "type": "company"
+  },
+  {
     "id": "hyper-dyne-side-arms",
     "type": "game"
   },
@@ -1284,12 +1312,20 @@
     "type": "game"
   },
   {
+    "id": "kid-dracula-series",
+    "type": "series"
+  },
+  {
     "id": "kid-icarus",
     "type": "game"
   },
   {
     "id": "kid-icarus-of-myths-and-monsters",
     "type": "game"
+  },
+  {
+    "id": "kid-icarus-series",
+    "type": "series"
   },
   {
     "id": "kid-icarus-uprising",
@@ -1586,6 +1622,10 @@
   {
     "id": "little-samson",
     "type": "game"
+  },
+  {
+    "id": "locomotive-corporation-company",
+    "type": "company"
   },
   {
     "id": "luigi-amiibo",
@@ -1952,6 +1992,10 @@
     "type": "game"
   },
   {
+    "id": "metal-gear-series",
+    "type": "series"
+  },
+  {
     "id": "metal-gear-solid",
     "type": "game"
   },
@@ -2234,6 +2278,10 @@
   {
     "id": "ninja-gaiden-ragebound",
     "type": "game"
+  },
+  {
+    "id": "ninja-gaiden-series",
+    "type": "series"
   },
   {
     "id": "nintendo-2ds",
@@ -2668,6 +2716,10 @@
     "type": "game"
   },
   {
+    "id": "punch-out-series",
+    "type": "series"
+  },
+  {
     "id": "punch-out-wii",
     "type": "game"
   },
@@ -3004,6 +3056,10 @@
     "type": "game"
   },
   {
+    "id": "snk-company",
+    "type": "company"
+  },
+  {
     "id": "sonic-3-and-knuckles",
     "type": "game"
   },
@@ -3264,6 +3320,10 @@
     "type": "game"
   },
   {
+    "id": "startropics-series",
+    "type": "series"
+  },
+  {
     "id": "stay-cool-kobayashi-san-a-river-city-ransom-story",
     "type": "game"
   },
@@ -3334,6 +3394,10 @@
   {
     "id": "strider",
     "type": "game"
+  },
+  {
+    "id": "sunsoft-company",
+    "type": "company"
   },
   {
     "id": "super-bomberman",
@@ -3680,6 +3744,10 @@
     "type": "person"
   },
   {
+    "id": "takeru-company",
+    "type": "company"
+  },
+  {
     "id": "tatakai-no-banka",
     "type": "game"
   },
@@ -3700,8 +3768,28 @@
     "type": "game"
   },
   {
+    "id": "tecmo-bowl-series",
+    "type": "series"
+  },
+  {
     "id": "tecmo-company",
     "type": "company"
+  },
+  {
+    "id": "teenage-mutant-ninja-turtles-ii-the-arcade-game-nes",
+    "type": "game"
+  },
+  {
+    "id": "teenage-mutant-ninja-turtles-iii-the-manhattan-project",
+    "type": "game"
+  },
+  {
+    "id": "teenage-mutant-ninja-turtles-nes",
+    "type": "game"
+  },
+  {
+    "id": "teenage-mutant-ninja-turtles-tournament-fighters-nes",
+    "type": "game"
   },
   {
     "id": "tenchu-2-birth-of-the-stealth-assassins",
@@ -4122,6 +4210,10 @@
   {
     "id": "wrecking-crew",
     "type": "game"
+  },
+  {
+    "id": "wrecking-crew-series",
+    "type": "series"
   },
   {
     "id": "x-men-origins-wolverine-uncaged-edition",

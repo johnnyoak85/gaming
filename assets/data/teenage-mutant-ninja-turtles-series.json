@@ -1,0 +1,37 @@
+{
+    "id": "teenage-mutant-ninja-turtles-series",
+    "name": "Teenage Mutant Ninja Turtles",
+    "description": "Licensed action franchise starring the four Turtles across arcade beat 'em ups, console action games, and fighting games.",
+    "type": "series",
+    "logo": "teenage-mutant-ninja-turtles-logo",
+    "circle": "major",
+    "contains": [
+        "teenage-mutant-ninja-turtles-tournament-fighters-series"
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [],
+    "essentials": [
+        "teenage-mutant-ninja-turtles-arcade",
+        "teenage-mutant-ninja-turtles-turtles-in-time-arcade",
+        "teenage-mutant-ninja-turtles-iv-turtles-in-time",
+        "teenage-mutant-ninja-turtles-the-hyperstone-heist",
+        "teenage-mutant-ninja-turtles-shredders-revenge"
+    ],
+    "eras": [
+        {
+            "title": "Konami Classic Era",
+            "start_year": 1989,
+            "end_year": 1994,
+            "description": "Arcade, NES, handheld, SNES, and Genesis games developed during the original TMNT boom."
+        },
+        {
+            "title": "Modern Revival Era",
+            "start_year": 2022,
+            "end_year": null,
+            "description": "Modern revival period led by Shredder's Revenge and classic-game preservation."
+        }
+    ],
+    "notes": null
+}
