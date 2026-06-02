@@ -2,6 +2,9 @@
     "id": "mega-man-6",
     "name": "Mega Man 6",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55cf.webp",
+    "aliases": [
+        "Rockman 6: The Greatest Battle in History!!"
+    ],
     "release": "1993-11-05",
     "type": "game",
     "franchise": {
@@ -72,5 +75,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Late NES Mega Man entry built around Rush adaptor suits and tournament Robot Masters.",
+    "people": [
+        "keiji-inafune"
+    ]
 }

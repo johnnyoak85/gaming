@@ -1,73 +1,79 @@
 {
-    "id": "balloon-fight",
-    "name": "Balloon Fight",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90t.webp",
-    "release": "1985-01-22",
-    "type": "game",
-    "franchise": {
-        "universe": null,
-        "series": "balloon-fight",
-        "subseries": null
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "Action"
-        ],
-        "subgenres": [
-            "Arcade"
-        ],
-        "themes": [],
-        "tags": [
-            "Retro",
-            "Arcade Style",
-            "Score Attack"
-        ]
-    },
-    "player_age": 6,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        }
+  "id": "balloon-fight",
+  "name": "Balloon Fight",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90t.webp",
+  "release": "1985-01-22",
+  "type": "game",
+  "franchise": {
+    "universe": null,
+    "series": "balloon-fight",
+    "subseries": null
+  },
+  "system": "nintendo-entertainment-system-system",
+  "description": "Arcade-style action game where you pop enemies’ balloons while staying airborne.",
+  "classification": {
+    "genres": [
+      "Action"
     ],
-    "versions": [],
-    "relationships": [
-        {
-            "source": "balloon-trip",
-            "type": "reimagining"
-        }
+    "subgenres": [
+      "Arcade"
     ],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 2
-        },
-        "modes": [
-            "solo",
-            "versus"
-        ]
+    "themes": [],
+    "tags": [
+      "Retro",
+      "Arcade Style",
+      "Score Attack"
+    ]
+  },
+  "player_age": 6,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [],
+  "relationships": [
+    {
+      "source": "balloon-trip",
+      "type": "reimagining"
+    }
+  ],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 2
     },
-    "companies": [
-        "nintendo-company",
-        "hal-laboratory-company"
-    ],
-    "progress": "planned",
-    "backlog": {
-        "priority": 2,
-        "reason": "Classic arcade-style score attack gameplay.",
-        "rating": 3,
-        "difficulty": 3,
-        "estimated_hours": 2
-    },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
-    },
-    "event": null,
+    "modes": [
+      "solo",
+      "versus"
+    ]
+  },
+  "companies": [
+    "nintendo-company",
+    "hal-laboratory-company"
+  ],
+  "people": [
+    "satoru-iwata",
+    "gunpei-yokoi",
+    "hirokazu-tanaka"
+  ],
+  "progress": "planned",
+  "backlog": {
+    "priority": 2,
+    "reason": "Classic arcade-style score attack gameplay.",
+    "rating": 3,
+    "difficulty": 3,
+    "estimated_hours": 2
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null
 }

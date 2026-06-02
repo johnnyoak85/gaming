@@ -1,0 +1,22 @@
+{
+    "id": "fukio-mitsuji",
+    "name": "Fukio Mitsuji",
+    "description": "Taito designer best known as the creator of Bubble Bobble.",
+    "type": "person",
+    "portrait": "fukio-mitsuji",
+    "roles": [
+        "designer"
+    ],
+    "companies": [
+        "taito-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "bubble-bobble",
+        "rainbow-islands",
+        "syvalion",
+        "liquid-kids"
+    ],
+    "notes": "Essential person link for Bubble Bobble."
+}

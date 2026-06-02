@@ -63,5 +63,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Maze action game where Bomberman clears enemies by placing bombs. ",
+    "people": [
+        "shinichi_nakamoto"
+    ]
 }

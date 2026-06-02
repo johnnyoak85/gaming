@@ -1,0 +1,25 @@
+{
+    "id": "yoshio-sakamoto",
+    "name": "Yoshio Sakamoto",
+    "description": "Nintendo designer and director strongly associated with Metroid.",
+    "type": "person",
+    "portrait": "yoshio-sakamoto",
+    "roles": [
+        "designer",
+        "director",
+        "producer"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "metroid",
+        "super-metroid",
+        "metroid-fusion",
+        "metroid-zero-mission",
+        "wario-ware-inc-mega-microgame"
+    ],
+    "notes": "Important Metroid-series curator link."
+}

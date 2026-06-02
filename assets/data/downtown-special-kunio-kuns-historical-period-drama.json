@@ -2,6 +2,9 @@
     "id": "downtown-special-kunio-kuns-historical-period-drama",
     "name": "Downtown Special Kunio-kun's Historical Period Drama!",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i1g.webp",
+    "aliases": [
+        "Downtown Special: It’s a Period Drama, Everyone Assemble!"
+    ],
     "release": "1991-12-06",
     "type": "game",
     "franchise": {
@@ -55,7 +58,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -71,5 +74,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Kunio-kun brawler reimagined as a comedic historical-period adventure.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

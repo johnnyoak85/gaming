@@ -2,6 +2,9 @@
     "id": "crash-n-the-boys-street-challenge",
     "name": "Crash 'n the Boys: Street Challenge",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vva.webp",
+    "aliases": [
+        "Surprise! Nekketsu New Records! The Distant Gold Medal"
+    ],
     "release": "1990-10-26",
     "type": "game",
     "franchise": {
@@ -59,7 +62,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -75,5 +78,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": "Localized version of Bikkuri Nekketsu Shin Kiroku."
+    "notes": "Localized version of Bikkuri Nekketsu Shin Kiroku.",
+    "description": "Kunio-kun sports competition game with violent, rule-breaking school events.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

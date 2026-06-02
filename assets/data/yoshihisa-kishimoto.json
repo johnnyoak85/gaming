@@ -1,0 +1,24 @@
+    {
+        "id": "yoshihisa-kishimoto",
+        "name": "Yoshihisa Kishimoto",
+        "description": "Creator of Kunio-kun and Double Dragon, foundational to belt-scrolling brawlers.",
+        "type": "person",
+        "portrait": "yoshihisa-kishimoto",
+        "roles": [
+            "designer",
+            "director"
+        ],
+        "companies": [
+            "technos-japan-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "renegade",
+            "double-dragon",
+            "double-dragon-ii-the-revenge",
+            "river-city-ransom",
+            "super-dodge-ball"
+        ],
+        "notes": "Important beat 'em up creator and Kunio-kun / Double Dragon figure."
+    }

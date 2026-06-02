@@ -2,6 +2,9 @@
     "id": "classic-nes-series-castlevania",
     "name": "Classic NES Series: Castlevania",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wyo.webp",
+    "aliases": [
+        "Devil's Castle Dracula"
+    ],
     "release": "2004-08-10",
     "type": "game",
     "franchise": {
@@ -75,5 +78,11 @@
         "notes": "Castlevania contained in Castlevania Anniversary Collection"
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Game Boy Advance re-release of the NES Castlevania.",
+    "people": [
+        "hitoshi-akamatsu",
+        "kinuyo-yamashita"
+    ],
+    "release_series": "classic_nes_series"
 }

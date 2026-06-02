@@ -2,6 +2,7 @@
     "id": "downtown-nekketsu-story",
     "name": "Downtown Nekketsu Story",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i13.webp",
+    "aliases": [],
     "release": "1989-04-25",
     "type": "game",
     "franchise": {
@@ -69,7 +70,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -85,5 +86,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Open-ended brawler RPG where Kunio and Riki fight gangs across town.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

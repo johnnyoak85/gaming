@@ -1,0 +1,24 @@
+{
+    "id": "nobuya-nakazato",
+    "name": "Nobuya Nakazato",
+    "description": "Konami designer and director strongly associated with Contra.",
+    "type": "person",
+    "portrait": "nobuya-nakazato",
+    "roles": [
+        "designer",
+        "director",
+        "producer"
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "super-c",
+        "contra-iii-the-alien-wars",
+        "contra-hard-corps",
+        "contra-shattered-soldier"
+    ],
+    "notes": "Good Contra-series curation link."
+}

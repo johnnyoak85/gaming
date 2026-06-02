@@ -1,0 +1,25 @@
+{
+    "id": "takashi-tezuka",
+    "name": "Takashi Tezuka",
+    "description": "Nintendo designer and director closely tied to Mario and Zelda.",
+    "type": "person",
+    "portrait": "takashi-tezuka",
+    "roles": [
+        "designer",
+        "director",
+        "producer"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "super-mario-bros",
+        "super-mario-bros-3",
+        "super-mario-world",
+        "the-legend-of-zelda-a-link-to-the-past",
+        "super-mario-world-2-yoshis-island"
+    ],
+    "notes": "One of Miyamoto's most important long-term creative partners."
+}

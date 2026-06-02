@@ -1,0 +1,19 @@
+    {
+        "id": "makoto-wada",
+        "name": "Makoto Wada",
+        "description": "Nintendo artist associated with Punch-Out!! character design.",
+        "type": "person",
+        "portrait": "makoto-wada",
+        "roles": [
+            "artist"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "sub",
+        "country": "JP",
+        "essentials": [
+            "punch-out-featuring-mr-dream"
+        ],
+        "notes": "Contextual person link for Punch-Out!! rather than a broad creator-page priority."
+    }

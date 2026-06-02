@@ -3,6 +3,10 @@
     "name": "Contra",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ys0.webp",
     "release": "1988-02-09",
+    "aliases": [
+        "Gryzor",
+        "Probotector"
+    ],
     "type": "game",
     "franchise": {
         "universe": "Contra",
@@ -75,5 +79,7 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Run-and-gun action game where commandos fight through alien-infested military zones.",
+    "people": []
 }

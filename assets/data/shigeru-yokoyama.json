@@ -1,0 +1,20 @@
+    {
+        "id": "shigeru-yokoyama",
+        "name": "Shigeru Yokoyama",
+        "description": "Namco designer associated with Galaga, one of the defining fixed-screen arcade shooters.",
+        "type": "person",
+        "portrait": "shigeru-yokoyama",
+        "roles": [
+            "designer"
+        ],
+        "companies": [
+            "namco-company"
+        ],
+        "circle": "sub",
+        "country": "JP",
+        "essentials": [
+            "galaga",
+            "galaga-demons-of-death"
+        ],
+        "notes": "Mostly useful as the creator-level link for Galaga."
+    }

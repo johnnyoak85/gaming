@@ -1,0 +1,23 @@
+{
+    "id": "hirokazu-ando",
+    "name": "Hirokazu Ando",
+    "description": "HAL composer associated with Kirby and Super Smash Bros.",
+    "type": "person",
+    "portrait": "hirokazu-ando",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "hal-laboratory-company",
+        "nintendo-company"
+    ],
+    "circle": "sub",
+    "country": "JP",
+    "essentials": [
+        "kirbys-adventure",
+        "kirby-super-star",
+        "super-smash-bros-melee",
+        "super-smash-bros-ultimate"
+    ],
+    "notes": "Useful as a Kirby and Smash Bros. music link."
+}

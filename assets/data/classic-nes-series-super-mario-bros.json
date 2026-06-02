@@ -2,6 +2,7 @@
     "id": "classic-nes-series-super-mario-bros",
     "name": "Classic NES Series: Super Mario Bros.",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3axg.webp",
+    "aliases": [],
     "release": "2004-07-09",
     "type": "game",
     "franchise": {
@@ -92,5 +93,12 @@
         "notes": "Original game contained in NES Classic Mini and Game & Watch Super Mario Edition"
     },
     "event": "Classic NES Series",
-    "notes": "GBA port/re-release of the NES original as part of the Classic NES Series."
+    "notes": "GBA port/re-release of the NES original as part of the Classic NES Series.",
+    "description": "Game Boy Advance re-release of the NES Super Mario Bros.",
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka",
+        "koji-kondo"
+    ],
+    "release_series": "classic_nes_series"
 }

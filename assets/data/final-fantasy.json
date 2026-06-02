@@ -1,69 +1,75 @@
 {
-    "id": "final-fantasy",
-    "name": "Final Fantasy",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xv8.webp",
-    "release": "1987-12-18",
-    "type": "game",
-    "franchise": {
-        "universe": "Final Fantasy",
-        "series": "final-fantasy-series",
-        "subseries": null
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "RPG"
-        ],
-        "subgenres": [
-            "JRPG",
-            "Turn-Based RPG"
-        ],
-        "themes": [
-            "Fantasy"
-        ],
-        "tags": [
-            "Classic",
-            "Party-Based"
-        ]
-    },
-    "player_age": 10,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        }
+  "id": "final-fantasy",
+  "name": "Final Fantasy",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xv8.webp",
+  "release": "1987-12-18",
+  "type": "game",
+  "franchise": {
+    "universe": "Final Fantasy",
+    "series": "final-fantasy-series",
+    "subseries": null
+  },
+  "system": "nintendo-entertainment-system-system",
+  "classification": {
+    "genres": [
+      "RPG"
     ],
-    "versions": [],
-    "relationships": [],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 1
-        },
-        "modes": [
-            "solo",
-            "turn_based"
-        ]
-    },
-    "companies": [
-        "square-company"
+    "subgenres": [
+      "JRPG",
+      "Turn-Based RPG"
     ],
-    "progress": "planned",
-    "backlog": {
-        "priority": 4,
-        "reason": "Foundational JRPG and start of the series.",
-        "rating": 5,
-        "difficulty": 3,
-        "estimated_hours": 20
+    "themes": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Classic",
+      "Party-Based"
+    ]
+  },
+  "player_age": 10,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [],
+  "relationships": [],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 1
     },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
-    },
-    "event": null,
+    "modes": [
+      "solo",
+      "turn_based"
+    ]
+  },
+  "companies": [
+    "square-company"
+  ],
+  "progress": "planned",
+  "backlog": {
+    "priority": 4,
+    "reason": "Foundational JRPG and start of the series.",
+    "rating": 5,
+    "difficulty": 3,
+    "estimated_hours": 20
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null,
+  "description": "Foundational console RPG where four Warriors of Light restore the elemental crystals.",
+  "people": [
+    "hironobu-sakaguchi",
+    "yoshitaka-amano",
+    "nobuo-uematsu"
+  ]
 }

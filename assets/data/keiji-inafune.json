@@ -1,0 +1,25 @@
+{
+    "id": "keiji-inafune",
+    "name": "Keiji Inafune",
+    "description": "Capcom artist and producer strongly associated with Mega Man.",
+    "type": "person",
+    "portrait": "keiji-inafune",
+    "roles": [
+        "artist",
+        "designer",
+        "producer"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "mega-man",
+        "mega-man-2",
+        "mega-man-x",
+        "onimusha-warlords",
+        "dead-rising"
+    ],
+    "notes": "Best used as a Mega Man curation signal, especially for character and series identity."
+}

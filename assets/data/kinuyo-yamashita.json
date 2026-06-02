@@ -1,0 +1,21 @@
+    {
+        "id": "kinuyo-yamashita",
+        "name": "Kinuyo Yamashita",
+        "description": "Composer of the original Castlevania soundtrack.",
+        "type": "person",
+        "portrait": "kinuyo-yamashita",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "konami-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "castlevania",
+            "power-blade",
+            "mega-man-x3"
+        ],
+        "notes": "Worth highlighting because the original Castlevania soundtrack is iconic."
+    }

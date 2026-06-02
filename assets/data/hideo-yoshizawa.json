@@ -1,0 +1,25 @@
+{
+    "id": "hideo-yoshizawa",
+    "name": "Hideo Yoshizawa",
+    "description": "Director and writer associated with Ninja Gaiden, Klonoa, and Mr. Driller.",
+    "type": "person",
+    "portrait": "hideo-yoshizawa",
+    "roles": [
+        "director",
+        "writer",
+        "producer"
+    ],
+    "companies": [
+        "tecmo-company",
+        "namco-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "ninja-gaiden",
+        "ninja-gaiden-ii-the-dark-sword-of-chaos",
+        "klonoa-door-to-phantomile",
+        "mr-driller"
+    ],
+    "notes": "Important for Ninja Gaiden specifically, but with a broader post-Tecmo career."
+}

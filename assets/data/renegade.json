@@ -2,6 +2,7 @@
     "id": "renegade",
     "name": "Renegade",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co471k.webp",
+    "aliases": [],
     "release": "1986-01-01",
     "type": "game",
     "franchise": {
@@ -62,7 +63,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -78,5 +79,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": "Westernized version of Nekketsu Kōha Kunio-kun."
+    "notes": "Westernized version of Nekketsu Kōha Kunio-kun.",
+    "description": "Westernized version of Kunio’s original brawler, focused on street fights against gangs.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

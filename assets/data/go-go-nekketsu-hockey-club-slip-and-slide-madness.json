@@ -2,6 +2,7 @@
     "id": "go-go-nekketsu-hockey-club-slip-and-slide-madness",
     "name": "Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i18.webp",
+    "aliases": [],
     "release": "1992-02-07",
     "type": "game",
     "franchise": {
@@ -53,7 +54,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -69,5 +70,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Kunio-kun hockey game that turns school sports into a brawler-like competition.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

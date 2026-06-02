@@ -1,0 +1,26 @@
+{
+    "id": "hironobu-sakaguchi",
+    "name": "Hironobu Sakaguchi",
+    "description": "Creator of Final Fantasy and one of the defining figures of Japanese console RPGs.",
+    "type": "person",
+    "portrait": "hironobu-sakaguchi",
+    "roles": [
+        "designer",
+        "director",
+        "producer",
+        "writer"
+    ],
+    "companies": [
+        "square-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy",
+        "final-fantasy-iv",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "chrono-trigger"
+    ],
+    "notes": "Central creative figure behind Square's RPG identity."
+}

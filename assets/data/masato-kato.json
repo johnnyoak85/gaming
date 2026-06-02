@@ -1,0 +1,25 @@
+    {
+        "id": "masato-kato",
+        "name": "Masato Kato",
+        "description": "Writer and artist known for Ninja Gaiden, Chrono Trigger, Xenogears, and Chrono Cross.",
+        "type": "person",
+        "portrait": "masato-kato",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "companies": [
+            "tecmo-company",
+            "square-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "ninja-gaiden",
+            "chrono-trigger",
+            "radical-dreamers",
+            "xenogears",
+            "chrono-cross"
+        ],
+        "notes": "Useful as a narrative/art curation link across action games and RPGs."
+    }

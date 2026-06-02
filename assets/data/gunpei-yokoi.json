@@ -1,0 +1,25 @@
+    {
+        "id": "gunpei-yokoi",
+        "name": "Gunpei Yokoi",
+        "description": "Nintendo designer and hardware visionary behind Game & Watch, Game Boy, Metroid, and Kid Icarus.",
+        "type": "person",
+        "portrait": "gunpei-yokoi",
+        "roles": [
+            "designer",
+            "producer",
+            "engineer"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "major",
+        "country": "JP",
+        "essentials": [
+            "game-and-watch",
+            "game-boy",
+            "metroid",
+            "kid-icarus",
+            "super-mario-land"
+        ],
+        "notes": "One of Nintendo's most important creative and hardware figures."
+    }

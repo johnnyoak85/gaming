@@ -2,6 +2,9 @@
     "id": "mega-man-3",
     "name": "Mega Man 3",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0z5.webp",
+    "aliases": [
+        "Rockman 3: The End of Dr. Wily!?"
+    ],
     "release": "1990-09-28",
     "type": "game",
     "franchise": {
@@ -78,5 +81,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Mega Man sequel introducing Rush and expanding the Robot Master formula.",
+    "people": [
+        "keiji-inafune"
+    ]
 }

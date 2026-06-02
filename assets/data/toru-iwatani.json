@@ -1,0 +1,21 @@
+{
+    "id": "toru-iwatani",
+    "name": "Toru Iwatani",
+    "description": "Creator of Pac-Man and one of arcade gaming's most important designers.",
+    "type": "person",
+    "portrait": "toru-iwatani",
+    "roles": [
+        "designer"
+    ],
+    "companies": [
+        "namco-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "pac-man",
+        "pole-position",
+        "pac-land"
+    ],
+    "notes": "Essential arcade-era creator."
+}

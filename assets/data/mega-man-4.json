@@ -2,6 +2,9 @@
     "id": "mega-man-4",
     "name": "Mega Man 4",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvuj.webp",
+    "aliases": [
+        "Rockman 4: A New Evil Ambition!!"
+    ],
     "release": "1991-12-06",
     "type": "game",
     "franchise": {
@@ -73,5 +76,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Mega Man sequel introducing the charge shot and a new fake-out villain.",
+    "people": [
+        "keiji-inafune"
+    ]
 }

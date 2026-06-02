@@ -1,0 +1,26 @@
+    {
+        "id": "shigeru-miyamoto",
+        "name": "Shigeru Miyamoto",
+        "description": "Creator of Mario, Donkey Kong, and Zelda. Nintendo's defining game designer.",
+        "type": "person",
+        "portrait": "shigeru-miyamoto",
+        "roles": [
+            "designer",
+            "director",
+            "producer",
+            "executive"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "major",
+        "country": "JP",
+        "essentials": [
+            "donkey-kong",
+            "super-mario-bros",
+            "the-legend-of-zelda",
+            "super-mario-64",
+            "the-legend-of-zelda-ocarina-of-time"
+        ],
+        "notes": "The central creative figure behind Nintendo's arcade and NES identity."
+    }

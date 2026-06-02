@@ -1,88 +1,93 @@
 {
-    "id": "zelda-ii-the-adventure-of-link",
-    "name": "Zelda II: The Adventure of Link",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uje.webp",
-    "release": "1987-01-14",
-    "aliases": [
-        "The Legend of Zelda 2: The Adventure of Link"
+  "id": "zelda-ii-the-adventure-of-link",
+  "name": "Zelda II: The Adventure of Link",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uje.webp",
+  "release": "1987-01-14",
+  "aliases": [
+    "The Legend of Zelda 2: The Adventure of Link"
+  ],
+  "type": "game",
+  "franchise": {
+    "universe": "The Legend of Zelda",
+    "series": "the-legend-of-zelda-series",
+    "subseries": null
+  },
+  "system": "nintendo-entertainment-system-system",
+  "classification": {
+    "genres": [
+      "Action",
+      "Adventure"
     ],
-    "type": "game",
-    "franchise": {
-        "universe": "The Legend of Zelda",
-        "series": "the-legend-of-zelda-series",
-        "subseries": null
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "subgenres": [
-            "Action RPG"
-        ],
-        "themes": [
-            "Fantasy"
-        ],
-        "tags": [
-            "Experimental",
-            "Retro"
-        ]
-    },
-    "player_age": 10,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        },
-        {
-            "platform": "game-watch-the-legend-of-zelda",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        }
+    "subgenres": [
+      "Action RPG"
     ],
-    "versions": [
-        {
-            "source": "classic-nes-series-zelda-ii-the-adventure-of-link",
-            "format": "port"
-        }
+    "themes": [
+      "Fantasy"
     ],
-    "relationships": [
-        {
-            "source": "the-legend-of-zelda",
-            "type": "prequel"
-        }
-    ],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 1
-        },
-        "modes": [
-            "solo"
-        ]
+    "tags": [
+      "Experimental",
+      "Retro"
+    ]
+  },
+  "player_age": 10,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
     },
-    "companies": [
-        "nintendo-company"
-    ],
-    "progress": "planned",
-    "backlog": {
-        "priority": 3,
-        "reason": "Unique experimental sequel in the series.",
-        "rating": 3,
-        "difficulty": 5,
-        "estimated_hours": 10
+    {
+      "platform": "game-watch-the-legend-of-zelda",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [
+    {
+      "source": "classic-nes-series-zelda-ii-the-adventure-of-link",
+      "format": "port"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "the-legend-of-zelda",
+      "type": "prequel"
+    }
+  ],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 1
     },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
-    },
-    "event": null,
+    "modes": [
+      "solo"
+    ]
+  },
+  "companies": [
+    "nintendo-company"
+  ],
+  "progress": "planned",
+  "backlog": {
+    "priority": 3,
+    "reason": "Unique experimental sequel in the series.",
+    "rating": 3,
+    "difficulty": 5,
+    "estimated_hours": 10
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null,
+  "description": "Side-scrolling action-RPG sequel where Link seeks the Triforce of Courage.",
+  "people": [
+    "shigeru-miyamoto",
+    "akito-nakatsuka"
+  ]
 }

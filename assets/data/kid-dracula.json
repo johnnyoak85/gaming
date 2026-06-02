@@ -2,6 +2,9 @@
     "id": "kid-dracula",
     "name": "Kid Dracula",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9o2.webp",
+    "aliases": [
+        "Devil’s Castle Special: Kid Dracula"
+    ],
     "release": "1990-10-19",
     "type": "game",
     "franchise": {
@@ -71,5 +74,7 @@
         "notes": null
     },
     "event": "Konami's 50th Anniversary",
-    "notes": "First and only official English-localized version of the Famicom Kid Dracula."
+    "notes": "First and only official English-localized version of the Famicom Kid Dracula.",
+    "description": "Cute parody Castlevania platformer starring Dracula’s son.",
+    "people": []
 }

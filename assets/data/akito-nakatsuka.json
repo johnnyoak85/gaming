@@ -1,0 +1,22 @@
+{
+    "id": "akito-nakatsuka",
+    "name": "Akito Nakatsuka",
+    "description": "Nintendo composer associated with several NES-era games, including Ice Climber and Zelda II.",
+    "type": "person",
+    "portrait": "akito-nakatsuka",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "circle": "sub",
+    "country": "JP",
+    "essentials": [
+        "ice-climber",
+        "zelda-ii-the-adventure-of-link",
+        "punch-out-featuring-mr-dream",
+        "pilotwings-64"
+    ],
+    "notes": "Useful as an NES-era Nintendo music credit."
+}

@@ -2,6 +2,9 @@
     "id": "blaster-master",
     "name": "Blaster Master",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pkj.webp",
+    "aliases": [
+        "Super Planetary War Records: Metafight"
+    ],
     "release": "1988-06-17",
     "type": "game",
     "franchise": {
@@ -76,5 +79,9 @@
         "notes": "Injected into NES Classic Mini."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Sci-fi action-adventure mixing side-scrolling vehicle combat with top-down exploration.",
+    "people": [
+        "naoki_kodaka"
+    ]
 }

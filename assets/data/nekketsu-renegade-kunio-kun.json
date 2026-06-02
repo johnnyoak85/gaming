@@ -2,6 +2,7 @@
     "id": "nekketsu-renegade-kunio-kun",
     "name": "Nekketsu Renegade Kunio-kun",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i11.webp",
+    "aliases": [],
     "release": "1986-04-25",
     "type": "game",
     "franchise": {
@@ -62,7 +63,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -78,5 +79,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Foundational school-brawler where Kunio fights gangs to defend his friend.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

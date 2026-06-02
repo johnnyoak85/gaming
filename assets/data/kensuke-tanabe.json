@@ -1,0 +1,25 @@
+    {
+        "id": "kensuke-tanabe",
+        "name": "Kensuke Tanabe",
+        "description": "Nintendo designer and producer linked to Super Mario Bros. 2, Metroid Prime, and Paper Mario.",
+        "type": "person",
+        "portrait": "kensuke-tanabe",
+        "roles": [
+            "designer",
+            "director",
+            "producer"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "super-mario-bros-2",
+            "the-legend-of-zelda-a-link-to-the-past",
+            "metroid-prime",
+            "paper-mario-the-thousand-year-door",
+            "donkey-kong-country-returns"
+        ],
+        "notes": "Important Nintendo producer/designer, especially for externally developed Nintendo projects."
+    }

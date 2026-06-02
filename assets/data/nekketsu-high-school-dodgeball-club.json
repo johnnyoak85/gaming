@@ -2,6 +2,7 @@
     "id": "nekketsu-high-school-dodgeball-club",
     "name": "Nekketsu High School Dodgeball Club",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i1z.webp",
+    "aliases": [],
     "release": "1988-07-26",
     "type": "game",
     "franchise": {
@@ -62,7 +63,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -78,5 +79,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Dodgeball brawler where Kunio’s team competes against international rivals.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

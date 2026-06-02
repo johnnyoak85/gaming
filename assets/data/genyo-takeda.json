@@ -1,0 +1,24 @@
+{
+    "id": "genyo-takeda",
+    "name": "Genyo Takeda",
+    "description": "Nintendo designer, producer, and engineer associated with Punch-Out!! and StarTropics.",
+    "type": "person",
+    "portrait": "genyo-takeda",
+    "roles": [
+        "designer",
+        "producer",
+        "engineer",
+        "executive"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "punch-out-featuring-mr-dream",
+        "startropics",
+        "wii"
+    ],
+    "notes": "Important Nintendo R&D figure with both software and hardware relevance."
+}

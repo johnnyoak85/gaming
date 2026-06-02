@@ -2,6 +2,9 @@
     "id": "earthbound-beginnings",
     "name": "EarthBound Beginnings",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mzl.webp",
+    "aliases": [
+        "Mother"
+    ],
     "release": "1989-07-27",
     "type": "game",
     "franchise": {
@@ -71,5 +74,10 @@
         "notes": null
     },
     "event": null,
-    "notes": "Released originally on Virtual Console."
+    "notes": "Released originally on Virtual Console.",
+    "description": "Offbeat modern-day RPG where children investigate psychic powers and alien influence.",
+    "people": [
+        "shigesato_itoi",
+        "hirokazu_tanaka"
+    ]
 }

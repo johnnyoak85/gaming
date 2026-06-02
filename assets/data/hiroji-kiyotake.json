@@ -1,0 +1,23 @@
+    {
+        "id": "hiroji-kiyotake",
+        "name": "Hiroji Kiyotake",
+        "description": "Nintendo artist and character designer associated with Samus Aran and Wario.",
+        "type": "person",
+        "portrait": "hiroji-kiyotake",
+        "roles": [
+            "artist",
+            "designer"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "metroid",
+            "super-metroid",
+            "super-mario-land-2-6-golden-coins",
+            "wario-land-super-mario-land-3"
+        ],
+        "notes": "Important as a character-design link for Metroid and Wario."
+    }

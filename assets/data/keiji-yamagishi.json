@@ -1,0 +1,21 @@
+    {
+        "id": "keiji-yamagishi",
+        "name": "Keiji Yamagishi",
+        "description": "Tecmo composer best known for Ninja Gaiden's NES soundtrack.",
+        "type": "person",
+        "portrait": "keiji-yamagishi",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "tecmo-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "ninja-gaiden",
+            "ninja-gaiden-ii-the-dark-sword-of-chaos",
+            "captain-tsubasa"
+        ],
+        "notes": "Strong composer link for Ninja Gaiden."
+    }

@@ -1,0 +1,19 @@
+{
+    "id": "takashi-tateishi",
+    "name": "Takashi Tateishi",
+    "description": "Capcom composer best known for Mega Man 2.",
+    "type": "person",
+    "portrait": "takashi-tateishi",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "circle": "sub",
+    "country": "JP",
+    "essentials": [
+        "mega-man-2"
+    ],
+    "notes": "Worth linking because Mega Man 2's soundtrack is one of the NES's iconic music works."
+}

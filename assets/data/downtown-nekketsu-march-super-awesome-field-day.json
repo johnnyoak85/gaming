@@ -2,6 +2,9 @@
     "id": "downtown-nekketsu-march-super-awesome-field-day",
     "name": "Downtown Nekketsu March Super-Awesome Field Day!",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4vku.webp",
+    "aliases": [
+        "Downtown Nekketsu March: Let’s Go to the Great Athletic Meet"
+    ],
     "release": "1990-10-12",
     "type": "game",
     "franchise": {
@@ -59,7 +62,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -75,5 +78,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Kunio-kun sports-brawler where schools compete in chaotic athletic events.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

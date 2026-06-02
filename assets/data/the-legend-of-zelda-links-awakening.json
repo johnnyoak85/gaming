@@ -9,7 +9,7 @@
         "series": "The Legend of Zelda",
         "subseries": null
     },
-    "system": "game-boy;p=",
+    "system": "game-boy-system",
     "classification": {
         "genres": [
             "Action",

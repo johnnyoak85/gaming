@@ -2,6 +2,7 @@
     "id": "classic-nes-series-metroid",
     "name": "Classic NES Series: Metroid",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wsx.webp",
+    "aliases": [],
     "release": "2004-08-10",
     "type": "game",
     "franchise": {
@@ -55,7 +56,8 @@
         ]
     },
     "companies": [
-        "nintendo-company"
+        "nintendo-company",
+        "intelligent-systems-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -71,5 +73,13 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Game Boy Advance re-release of the NES Metroid.",
+    "people": [
+        "gunpei-yokoi",
+        "yoshio-sakamoto",
+        "hiroji-kiyotake",
+        "hirokazu-tanaka"
+    ],
+    "release_series": "classic_nes_series"
 }

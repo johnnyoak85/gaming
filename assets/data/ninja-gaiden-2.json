@@ -2,6 +2,10 @@
     "id": "ninja-gaiden-2",
     "name": "Ninja Gaiden II: The Dark Sword of Chaos",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ubo.webp",
+    "aliases": [
+        "Legend of the Ninja Dragon Sword II: The Demonic Sword of Darkness",
+        "Shadow Warriors II"
+    ],
     "release": "1990-04-06",
     "type": "game",
     "franchise": {
@@ -73,5 +77,10 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Cinematic action-platformer sequel where Ryu battles Ashtar and the Dark Sword.",
+    "people": [
+        "hideo-yoshizawa",
+        "keiji-yamagishi"
+    ]
 }

@@ -1,0 +1,26 @@
+{
+    "id": "satoru-iwata",
+    "name": "Satoru Iwata",
+    "description": "HAL programmer turned Nintendo president. Strongly associated with Balloon Fight, Kirby, DS, and Wii.",
+    "type": "person",
+    "portrait": "satoru-iwata",
+    "roles": [
+        "programmer",
+        "producer",
+        "executive"
+    ],
+    "companies": [
+        "nintendo-company",
+        "hal-laboratory-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "balloon-fight",
+        "kirbys-adventure",
+        "earthbound",
+        "nintendo-ds",
+        "wii"
+    ],
+    "notes": "Important both as a programmer and as Nintendo's most beloved modern executive."
+}

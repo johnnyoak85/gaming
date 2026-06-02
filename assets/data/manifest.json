@@ -32,6 +32,10 @@
     "type": "hardware"
   },
   {
+    "id": "akito-nakatsuka",
+    "type": "person"
+  },
+  {
     "id": "akumajou-densetsu",
     "type": "game"
   },
@@ -72,6 +76,10 @@
     "type": "game"
   },
   {
+    "id": "bayonetta",
+    "type": "game"
+  },
+  {
     "id": "bayonetta-2",
     "type": "game"
   },
@@ -88,10 +96,6 @@
     "type": "amiibo"
   },
   {
-    "id": "bayonetta",
-    "type": "game"
-  },
-  {
     "id": "bionic-commando",
     "type": "game"
   },
@@ -100,7 +104,15 @@
     "type": "game"
   },
   {
+    "id": "blaster-master",
+    "type": "game"
+  },
+  {
     "id": "blaster-master-enemy-below",
+    "type": "game"
+  },
+  {
+    "id": "blaster-master-zero",
     "type": "game"
   },
   {
@@ -109,14 +121,6 @@
   },
   {
     "id": "blaster-master-zero-3",
-    "type": "game"
-  },
-  {
-    "id": "blaster-master-zero",
-    "type": "game"
-  },
-  {
-    "id": "blaster-master",
     "type": "game"
   },
   {
@@ -164,11 +168,11 @@
     "type": "game"
   },
   {
-    "id": "breath-of-fire-advance",
+    "id": "breath-of-fire",
     "type": "game"
   },
   {
-    "id": "breath-of-fire-ii-advance",
+    "id": "breath-of-fire-advance",
     "type": "game"
   },
   {
@@ -176,7 +180,7 @@
     "type": "game"
   },
   {
-    "id": "breath-of-fire",
+    "id": "breath-of-fire-ii-advance",
     "type": "game"
   },
   {
@@ -184,12 +188,12 @@
     "type": "game"
   },
   {
-    "id": "bubble-bobble-series",
-    "type": "series"
-  },
-  {
     "id": "bubble-bobble",
     "type": "game"
+  },
+  {
+    "id": "bubble-bobble-series",
+    "type": "series"
   },
   {
     "id": "c64-mini",
@@ -208,8 +212,16 @@
     "type": "game"
   },
   {
+    "id": "capcom-company",
+    "type": "company"
+  },
+  {
     "id": "capcom-fighting-collection",
     "type": "game"
+  },
+  {
+    "id": "capcom-play-system",
+    "type": "system"
   },
   {
     "id": "capcom-play-system-ii",
@@ -217,10 +229,6 @@
   },
   {
     "id": "capcom-play-system-iii",
-    "type": "system"
-  },
-  {
-    "id": "capcom-play-system",
     "type": "system"
   },
   {
@@ -237,6 +245,10 @@
   },
   {
     "id": "carrier-air-wing",
+    "type": "game"
+  },
+  {
+    "id": "castlevania",
     "type": "game"
   },
   {
@@ -312,7 +324,7 @@
     "type": "game"
   },
   {
-    "id": "castlevania-lords-of-shadow-2-revelations",
+    "id": "castlevania-lords-of-shadow",
     "type": "game"
   },
   {
@@ -320,11 +332,15 @@
     "type": "game"
   },
   {
-    "id": "castlevania-lords-of-shadow-mirror-of-fate-hd",
+    "id": "castlevania-lords-of-shadow-2-revelations",
     "type": "game"
   },
   {
     "id": "castlevania-lords-of-shadow-mirror-of-fate",
+    "type": "game"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-mirror-of-fate-hd",
     "type": "game"
   },
   {
@@ -340,10 +356,6 @@
     "type": "game"
   },
   {
-    "id": "castlevania-lords-of-shadow",
-    "type": "game"
-  },
-  {
     "id": "castlevania-order-of-ecclesia",
     "type": "game"
   },
@@ -356,15 +368,11 @@
     "type": "series"
   },
   {
-    "id": "castlevania-the-adventure-rebirth",
-    "type": "game"
-  },
-  {
     "id": "castlevania-the-adventure",
     "type": "game"
   },
   {
-    "id": "castlevania",
+    "id": "castlevania-the-adventure-rebirth",
     "type": "game"
   },
   {
@@ -392,11 +400,11 @@
     "type": "game"
   },
   {
-    "id": "chrono-trigger-ds",
+    "id": "chrono-trigger",
     "type": "game"
   },
   {
-    "id": "chrono-trigger",
+    "id": "chrono-trigger-ds",
     "type": "game"
   },
   {
@@ -425,6 +433,10 @@
   },
   {
     "id": "commando",
+    "type": "game"
+  },
+  {
+    "id": "contra",
     "type": "game"
   },
   {
@@ -462,10 +474,6 @@
   {
     "id": "contra-series",
     "type": "series"
-  },
-  {
-    "id": "contra",
-    "type": "game"
   },
   {
     "id": "crash-n-the-boys-street-challenge",
@@ -508,11 +516,11 @@
     "type": "game"
   },
   {
-    "id": "dig-dug-ii",
+    "id": "dig-dug",
     "type": "game"
   },
   {
-    "id": "dig-dug",
+    "id": "dig-dug-ii",
     "type": "game"
   },
   {
@@ -521,6 +529,10 @@
   },
   {
     "id": "doc-louis-punch-out",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong",
     "type": "game"
   },
   {
@@ -540,6 +552,14 @@
     "type": "game"
   },
   {
+    "id": "donkey-kong-country",
+    "type": "game"
+  },
+  {
+    "id": "donkey-kong-country-returns",
+    "type": "game"
+  },
+  {
     "id": "donkey-kong-country-returns-3d",
     "type": "game"
   },
@@ -548,15 +568,7 @@
     "type": "game"
   },
   {
-    "id": "donkey-kong-country-returns",
-    "type": "game"
-  },
-  {
     "id": "donkey-kong-country-tropical-freeze",
-    "type": "game"
-  },
-  {
-    "id": "donkey-kong-country",
     "type": "game"
   },
   {
@@ -570,10 +582,6 @@
   {
     "id": "donkey-kong-series",
     "type": "series"
-  },
-  {
-    "id": "donkey-kong",
-    "type": "game"
   },
   {
     "id": "dont-pull",
@@ -632,6 +640,10 @@
     "type": "game"
   },
   {
+    "id": "dr-mario",
+    "type": "game"
+  },
+  {
     "id": "dr-mario-and-germ-buster",
     "type": "game"
   },
@@ -644,15 +656,11 @@
     "type": "series"
   },
   {
-    "id": "dr-mario",
+    "id": "dr-robotniks-mean-bean-machine",
     "type": "game"
   },
   {
     "id": "dr-robotniks-mean-bean-machine-8bit",
-    "type": "game"
-  },
-  {
-    "id": "dr-robotniks-mean-bean-machine",
     "type": "game"
   },
   {
@@ -672,11 +680,11 @@
     "type": "game"
   },
   {
-    "id": "dragon-ball-raging-blast-2",
+    "id": "dragon-ball-raging-blast",
     "type": "game"
   },
   {
-    "id": "dragon-ball-raging-blast",
+    "id": "dragon-ball-raging-blast-2",
     "type": "game"
   },
   {
@@ -696,6 +704,10 @@
     "type": "game"
   },
   {
+    "id": "dragon-ball-z-budokai",
+    "type": "game"
+  },
+  {
     "id": "dragon-ball-z-budokai-2",
     "type": "game"
   },
@@ -704,19 +716,15 @@
     "type": "game"
   },
   {
+    "id": "dragon-ball-z-budokai-tenkaichi",
+    "type": "game"
+  },
+  {
     "id": "dragon-ball-z-budokai-tenkaichi-2",
     "type": "game"
   },
   {
     "id": "dragon-ball-z-budokai-tenkaichi-3",
-    "type": "game"
-  },
-  {
-    "id": "dragon-ball-z-budokai-tenkaichi",
-    "type": "game"
-  },
-  {
-    "id": "dragon-ball-z-budokai",
     "type": "game"
   },
   {
@@ -736,19 +744,19 @@
     "type": "game"
   },
   {
-    "id": "dragon-ball-z-supersonic-warriors-2",
-    "type": "game"
-  },
-  {
     "id": "dragon-ball-z-supersonic-warriors",
     "type": "game"
   },
   {
-    "id": "dragon-buster-ii",
+    "id": "dragon-ball-z-supersonic-warriors-2",
     "type": "game"
   },
   {
     "id": "dragon-buster",
+    "type": "game"
+  },
+  {
+    "id": "dragon-buster-ii",
     "type": "game"
   },
   {
@@ -788,11 +796,11 @@
     "type": "amiibo"
   },
   {
-    "id": "earthbound-beginnings",
+    "id": "earthbound",
     "type": "game"
   },
   {
-    "id": "earthbound",
+    "id": "earthbound-beginnings",
     "type": "game"
   },
   {
@@ -812,6 +820,10 @@
     "type": "game"
   },
   {
+    "id": "f-zero",
+    "type": "game"
+  },
+  {
     "id": "f-zero-gx",
     "type": "game"
   },
@@ -824,15 +836,15 @@
     "type": "game"
   },
   {
-    "id": "f-zero",
-    "type": "game"
-  },
-  {
     "id": "fable-anniversary",
     "type": "game"
   },
   {
     "id": "fable-ii",
+    "type": "game"
+  },
+  {
+    "id": "fable-iii",
     "type": "game"
   },
   {
@@ -844,11 +856,15 @@
     "type": "game"
   },
   {
-    "id": "fable-iii",
+    "id": "final-fantasy",
     "type": "game"
   },
   {
     "id": "final-fantasy-adventure",
+    "type": "game"
+  },
+  {
+    "id": "final-fantasy-iv",
     "type": "game"
   },
   {
@@ -860,7 +876,7 @@
     "type": "game"
   },
   {
-    "id": "final-fantasy-iv",
+    "id": "final-fantasy-ix",
     "type": "game"
   },
   {
@@ -868,12 +884,12 @@
     "type": "game"
   },
   {
-    "id": "final-fantasy-ix",
-    "type": "game"
-  },
-  {
     "id": "final-fantasy-series",
     "type": "series"
+  },
+  {
+    "id": "final-fantasy-vi",
+    "type": "game"
   },
   {
     "id": "final-fantasy-vi-advance",
@@ -884,7 +900,7 @@
     "type": "game"
   },
   {
-    "id": "final-fantasy-vi",
+    "id": "final-fantasy-vii",
     "type": "game"
   },
   {
@@ -900,23 +916,15 @@
     "type": "game"
   },
   {
+    "id": "final-fantasy-vii-remake",
+    "type": "game"
+  },
+  {
     "id": "final-fantasy-vii-remake-episode-intermission",
     "type": "game"
   },
   {
     "id": "final-fantasy-vii-remake-intergrade",
-    "type": "game"
-  },
-  {
-    "id": "final-fantasy-vii-remake",
-    "type": "game"
-  },
-  {
-    "id": "final-fantasy-vii",
-    "type": "game"
-  },
-  {
-    "id": "final-fantasy",
     "type": "game"
   },
   {
@@ -960,6 +968,14 @@
     "type": "game"
   },
   {
+    "id": "fukio-mitsuji",
+    "type": "person"
+  },
+  {
+    "id": "galaga",
+    "type": "game"
+  },
+  {
     "id": "galaga-nes",
     "type": "game"
   },
@@ -968,16 +984,20 @@
     "type": "series"
   },
   {
-    "id": "galaga",
-    "type": "game"
-  },
-  {
     "id": "galaxian",
     "type": "game"
   },
   {
+    "id": "game-boy",
+    "type": "hardware"
+  },
+  {
     "id": "game-boy--color-system",
     "type": "system"
+  },
+  {
+    "id": "game-boy-advance",
+    "type": "hardware"
   },
   {
     "id": "game-boy-advance-sp",
@@ -988,20 +1008,12 @@
     "type": "system"
   },
   {
-    "id": "game-boy-advance",
-    "type": "hardware"
-  },
-  {
     "id": "game-boy-color",
     "type": "hardware"
   },
   {
     "id": "game-boy-system",
     "type": "system"
-  },
-  {
-    "id": "game-boy",
-    "type": "hardware"
   },
   {
     "id": "game-gear-system",
@@ -1032,6 +1044,14 @@
     "type": "game"
   },
   {
+    "id": "genyo-takeda",
+    "type": "person"
+  },
+  {
+    "id": "ghosts-n-goblins",
+    "type": "game"
+  },
+  {
     "id": "ghosts-n-goblins-nes",
     "type": "game"
   },
@@ -1040,15 +1060,11 @@
     "type": "series"
   },
   {
-    "id": "ghosts-n-goblins",
+    "id": "ghouls-n-ghosts",
     "type": "game"
   },
   {
     "id": "ghouls-n-ghosts-genesis",
-    "type": "game"
-  },
-  {
-    "id": "ghouls-n-ghosts",
     "type": "game"
   },
   {
@@ -1060,6 +1076,10 @@
     "type": "game"
   },
   {
+    "id": "golden-sun",
+    "type": "game"
+  },
+  {
     "id": "golden-sun-dark-dawn",
     "type": "game"
   },
@@ -1068,7 +1088,7 @@
     "type": "game"
   },
   {
-    "id": "golden-sun",
+    "id": "gradius",
     "type": "game"
   },
   {
@@ -1092,7 +1112,7 @@
     "type": "series"
   },
   {
-    "id": "gradius",
+    "id": "grand-theft-auto-iv",
     "type": "game"
   },
   {
@@ -1108,10 +1128,6 @@
     "type": "game"
   },
   {
-    "id": "grand-theft-auto-iv",
-    "type": "game"
-  },
-  {
     "id": "grand-theft-auto-v",
     "type": "game"
   },
@@ -1124,6 +1140,10 @@
     "type": "amiibo"
   },
   {
+    "id": "gunpei-yokoi",
+    "type": "person"
+  },
+  {
     "id": "hal-laboratory-company",
     "type": "company"
   },
@@ -1132,11 +1152,11 @@
     "type": "game"
   },
   {
-    "id": "haunted-castle-revisited",
+    "id": "haunted-castle",
     "type": "game"
   },
   {
-    "id": "haunted-castle",
+    "id": "haunted-castle-revisited",
     "type": "game"
   },
   {
@@ -1148,8 +1168,32 @@
     "type": "game"
   },
   {
+    "id": "hideo-yoshizawa",
+    "type": "person"
+  },
+  {
+    "id": "hiroji-kiyotake",
+    "type": "person"
+  },
+  {
+    "id": "hirokazu-ando",
+    "type": "person"
+  },
+  {
+    "id": "hirokazu-tanaka",
+    "type": "person"
+  },
+  {
+    "id": "hironobu-sakaguchi",
+    "type": "person"
+  },
+  {
     "id": "hissatsu-buraiken",
     "type": "game"
+  },
+  {
+    "id": "hitoshi-akamatsu",
+    "type": "person"
   },
   {
     "id": "hyper-dyne-side-arms",
@@ -1160,15 +1204,19 @@
     "type": "game"
   },
   {
+    "id": "hyrule-warriors",
+    "type": "game"
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity",
+    "type": "game"
+  },
+  {
     "id": "hyrule-warriors-age-of-calamity-guardian-of-remembrance",
     "type": "game"
   },
   {
     "id": "hyrule-warriors-age-of-calamity-pulse-of-the-ancients",
-    "type": "game"
-  },
-  {
-    "id": "hyrule-warriors-age-of-calamity",
     "type": "game"
   },
   {
@@ -1181,10 +1229,6 @@
   },
   {
     "id": "hyrule-warriors-legends",
-    "type": "game"
-  },
-  {
-    "id": "hyrule-warriors",
     "type": "game"
   },
   {
@@ -1208,23 +1252,43 @@
     "type": "hardware"
   },
   {
+    "id": "journey",
+    "type": "game"
+  },
+  {
     "id": "journey-collectors-edition",
     "type": "game"
   },
   {
-    "id": "journey",
-    "type": "game"
+    "id": "jun-ishikawa",
+    "type": "person"
+  },
+  {
+    "id": "keiji-inafune",
+    "type": "person"
+  },
+  {
+    "id": "keiji-yamagishi",
+    "type": "person"
+  },
+  {
+    "id": "kensuke-tanabe",
+    "type": "person"
   },
   {
     "id": "kicks-amiibo",
     "type": "amiibo"
   },
   {
+    "id": "kid-dracula",
+    "type": "game"
+  },
+  {
     "id": "kid-dracula-gb",
     "type": "game"
   },
   {
-    "id": "kid-dracula",
+    "id": "kid-icarus",
     "type": "game"
   },
   {
@@ -1236,16 +1300,16 @@
     "type": "game"
   },
   {
-    "id": "kid-icarus",
-    "type": "game"
-  },
-  {
     "id": "king-dedede-amiibo",
     "type": "amiibo"
   },
   {
     "id": "king-k-rool-amiibo",
     "type": "amiibo"
+  },
+  {
+    "id": "kinuyo-yamashita",
+    "type": "person"
   },
   {
     "id": "kirby-64-the-crystal-shards",
@@ -1272,6 +1336,10 @@
     "type": "game"
   },
   {
+    "id": "kirby-and-the-forgotten-land-switch-2",
+    "type": "game"
+  },
+  {
     "id": "kirby-and-the-rainbow-paintbrush",
     "type": "game"
   },
@@ -1280,11 +1348,11 @@
     "type": "game"
   },
   {
-    "id": "kirby-dynablade-ds",
+    "id": "kirby-dynablade",
     "type": "game"
   },
   {
-    "id": "kirby-dynablade",
+    "id": "kirby-dynablade-ds",
     "type": "game"
   },
   {
@@ -1296,11 +1364,11 @@
     "type": "game"
   },
   {
-    "id": "kirby-gourmet-race-ds",
+    "id": "kirby-gourmet-race",
     "type": "game"
   },
   {
-    "id": "kirby-gourmet-race",
+    "id": "kirby-gourmet-race-ds",
     "type": "game"
   },
   {
@@ -1316,11 +1384,11 @@
     "type": "game"
   },
   {
-    "id": "kirby-milky-way-wishes-ds",
+    "id": "kirby-milky-way-wishes",
     "type": "game"
   },
   {
-    "id": "kirby-milky-way-wishes",
+    "id": "kirby-milky-way-wishes-ds",
     "type": "game"
   },
   {
@@ -1336,11 +1404,11 @@
     "type": "game"
   },
   {
-    "id": "kirby-revenge-of-meta-knight-ds",
+    "id": "kirby-revenge-of-meta-knight",
     "type": "game"
   },
   {
-    "id": "kirby-revenge-of-meta-knight",
+    "id": "kirby-revenge-of-meta-knight-ds",
     "type": "game"
   },
   {
@@ -1352,11 +1420,11 @@
     "type": "series"
   },
   {
-    "id": "kirby-spring-breeze-ds",
+    "id": "kirby-spring-breeze",
     "type": "game"
   },
   {
-    "id": "kirby-spring-breeze",
+    "id": "kirby-spring-breeze-ds",
     "type": "game"
   },
   {
@@ -1364,15 +1432,11 @@
     "type": "game"
   },
   {
-    "id": "kirby-super-star-ultra",
-    "type": "game"
-  },
-  {
     "id": "kirby-super-star",
     "type": "game"
   },
   {
-    "id": "kirby-the-great-cave-offensive-ds",
+    "id": "kirby-super-star-ultra",
     "type": "game"
   },
   {
@@ -1380,15 +1444,19 @@
     "type": "game"
   },
   {
+    "id": "kirby-the-great-cave-offensive-ds",
+    "type": "game"
+  },
+  {
     "id": "kirby-triple-deluxe",
     "type": "game"
   },
   {
-    "id": "kirbys-adventure-wii",
+    "id": "kirbys-adventure",
     "type": "game"
   },
   {
-    "id": "kirbys-adventure",
+    "id": "kirbys-adventure-wii",
     "type": "game"
   },
   {
@@ -1408,15 +1476,15 @@
     "type": "game"
   },
   {
+    "id": "kirbys-dream-land",
+    "type": "game"
+  },
+  {
     "id": "kirbys-dream-land-2",
     "type": "game"
   },
   {
     "id": "kirbys-dream-land-3",
-    "type": "game"
-  },
-  {
-    "id": "kirbys-dream-land",
     "type": "game"
   },
   {
@@ -1444,6 +1512,18 @@
     "type": "game"
   },
   {
+    "id": "koji-kondo",
+    "type": "person"
+  },
+  {
+    "id": "konami-company",
+    "type": "company"
+  },
+  {
+    "id": "kunio-kun-series",
+    "type": "series"
+  },
+  {
     "id": "kunio-kuns-nekketsu-soccer-league",
     "type": "game"
   },
@@ -1456,11 +1536,11 @@
     "type": "game"
   },
   {
-    "id": "life-force-jp",
+    "id": "life-force",
     "type": "game"
   },
   {
-    "id": "life-force",
+    "id": "life-force-jp",
     "type": "game"
   },
   {
@@ -1520,11 +1600,15 @@
     "type": "game"
   },
   {
-    "id": "luigis-mansion-2-hd",
+    "id": "luigis-mansion",
     "type": "game"
   },
   {
     "id": "luigis-mansion-2",
+    "type": "game"
+  },
+  {
+    "id": "luigis-mansion-2-hd",
     "type": "game"
   },
   {
@@ -1533,10 +1617,6 @@
   },
   {
     "id": "luigis-mansion-3ds",
-    "type": "game"
-  },
-  {
-    "id": "luigis-mansion",
     "type": "game"
   },
   {
@@ -1556,11 +1636,15 @@
     "type": "game"
   },
   {
-    "id": "mappy-land",
-    "type": "game"
+    "id": "makoto-wada",
+    "type": "person"
   },
   {
     "id": "mappy",
+    "type": "game"
+  },
+  {
+    "id": "mappy-land",
     "type": "game"
   },
   {
@@ -1568,15 +1652,15 @@
     "type": "amiibo"
   },
   {
+    "id": "mario-and-luigi-bowsers-inside-story",
+    "type": "game"
+  },
+  {
     "id": "mario-and-luigi-bowsers-inside-story-3ds",
     "type": "game"
   },
   {
     "id": "mario-and-luigi-bowsers-inside-story-plus-bowser-jrs-journey",
-    "type": "game"
-  },
-  {
-    "id": "mario-and-luigi-bowsers-inside-story",
     "type": "game"
   },
   {
@@ -1596,6 +1680,10 @@
     "type": "game"
   },
   {
+    "id": "mario-and-luigi-superstar-saga",
+    "type": "game"
+  },
+  {
     "id": "mario-and-luigi-superstar-saga-3ds",
     "type": "game"
   },
@@ -1604,12 +1692,12 @@
     "type": "game"
   },
   {
-    "id": "mario-and-luigi-superstar-saga",
-    "type": "game"
-  },
-  {
     "id": "mario-and-luma-amiibo",
     "type": "amiibo"
+  },
+  {
+    "id": "mario-bros",
+    "type": "game"
   },
   {
     "id": "mario-bros-advance",
@@ -1618,10 +1706,6 @@
   {
     "id": "mario-bros-series",
     "type": "series"
-  },
-  {
-    "id": "mario-bros",
-    "type": "game"
   },
   {
     "id": "mario-classic-colors-amiibo",
@@ -1656,7 +1740,19 @@
     "type": "game"
   },
   {
-    "id": "mega-drive-mini-2-controller",
+    "id": "marvel-cosmic-invasion",
+    "type": "game"
+  },
+  {
+    "id": "masahiro-sakurai",
+    "type": "person"
+  },
+  {
+    "id": "masato-kato",
+    "type": "person"
+  },
+  {
+    "id": "mega-drive-mini",
     "type": "hardware"
   },
   {
@@ -1664,12 +1760,16 @@
     "type": "hardware"
   },
   {
+    "id": "mega-drive-mini-2-controller",
+    "type": "hardware"
+  },
+  {
     "id": "mega-drive-mini-controller",
     "type": "hardware"
   },
   {
-    "id": "mega-drive-mini",
-    "type": "hardware"
+    "id": "mega-man",
+    "type": "game"
   },
   {
     "id": "mega-man-10",
@@ -1684,6 +1784,10 @@
     "type": "game"
   },
   {
+    "id": "mega-man-2",
+    "type": "game"
+  },
+  {
     "id": "mega-man-2-1994",
     "type": "game"
   },
@@ -1692,15 +1796,11 @@
     "type": "game"
   },
   {
-    "id": "mega-man-2",
+    "id": "mega-man-3",
     "type": "game"
   },
   {
     "id": "mega-man-3-1994",
-    "type": "game"
-  },
-  {
-    "id": "mega-man-3",
     "type": "game"
   },
   {
@@ -1732,11 +1832,11 @@
     "type": "amiibo"
   },
   {
-    "id": "mega-man-legacy-collection-2",
+    "id": "mega-man-legacy-collection",
     "type": "game"
   },
   {
-    "id": "mega-man-legacy-collection",
+    "id": "mega-man-legacy-collection-2",
     "type": "game"
   },
   {
@@ -1760,7 +1860,7 @@
     "type": "game"
   },
   {
-    "id": "mega-man-x-legacy-collection-2",
+    "id": "mega-man-x",
     "type": "game"
   },
   {
@@ -1768,7 +1868,7 @@
     "type": "game"
   },
   {
-    "id": "mega-man-x",
+    "id": "mega-man-x-legacy-collection-2",
     "type": "game"
   },
   {
@@ -1800,6 +1900,10 @@
     "type": "game"
   },
   {
+    "id": "mega-man-zero",
+    "type": "game"
+  },
+  {
     "id": "mega-man-zero-2",
     "type": "game"
   },
@@ -1816,19 +1920,11 @@
     "type": "game"
   },
   {
-    "id": "mega-man-zero",
-    "type": "game"
-  },
-  {
-    "id": "mega-man-zx-advent",
-    "type": "game"
-  },
-  {
     "id": "mega-man-zx",
     "type": "game"
   },
   {
-    "id": "mega-man",
+    "id": "mega-man-zx-advent",
     "type": "game"
   },
   {
@@ -1860,6 +1956,10 @@
     "type": "game"
   },
   {
+    "id": "metal-gear-solid",
+    "type": "game"
+  },
+  {
     "id": "metal-gear-solid-2-sons-of-liberty-hd",
     "type": "game"
   },
@@ -1884,11 +1984,11 @@
     "type": "game"
   },
   {
-    "id": "metal-gear-solid-master-collection-volume-1-bonus-content",
+    "id": "metal-gear-solid-master-collection-volume-1",
     "type": "game"
   },
   {
-    "id": "metal-gear-solid-master-collection-volume-1",
+    "id": "metal-gear-solid-master-collection-volume-1-bonus-content",
     "type": "game"
   },
   {
@@ -1908,11 +2008,11 @@
     "type": "game"
   },
   {
-    "id": "metal-gear-solid",
+    "id": "meteos",
     "type": "game"
   },
   {
-    "id": "meteos",
+    "id": "metroid",
     "type": "game"
   },
   {
@@ -1933,6 +2033,10 @@
   },
   {
     "id": "metroid-other-m",
+    "type": "game"
+  },
+  {
+    "id": "metroid-prime",
     "type": "game"
   },
   {
@@ -1960,10 +2064,6 @@
     "type": "game"
   },
   {
-    "id": "metroid-prime",
-    "type": "game"
-  },
-  {
     "id": "metroid-samus-returns",
     "type": "game"
   },
@@ -1976,12 +2076,12 @@
     "type": "game"
   },
   {
-    "id": "metroid",
+    "id": "midnight-wanderers-quest-for-the-chariot",
     "type": "game"
   },
   {
-    "id": "midnight-wanderers-quest-for-the-chariot",
-    "type": "game"
+    "id": "miki-higashino",
+    "type": "person"
   },
   {
     "id": "mineru-construct-amiibo",
@@ -2008,16 +2108,20 @@
     "type": "game"
   },
   {
-    "id": "mvs-mini-pad",
+    "id": "mvs-mini",
     "type": "hardware"
   },
   {
-    "id": "mvs-mini",
+    "id": "mvs-mini-pad",
     "type": "hardware"
   },
   {
     "id": "my-nintendo-picross-the-legend-of-zelda-twilight-princess",
     "type": "game"
+  },
+  {
+    "id": "namco-company",
+    "type": "company"
   },
   {
     "id": "namco-museum-archives-vol-1",
@@ -2028,11 +2132,11 @@
     "type": "game"
   },
   {
-    "id": "nec-pc-engine-coregrafx-mini-controller",
+    "id": "nec-pc-engine-coregrafx-mini",
     "type": "hardware"
   },
   {
-    "id": "nec-pc-engine-coregrafx-mini",
+    "id": "nec-pc-engine-coregrafx-mini-controller",
     "type": "hardware"
   },
   {
@@ -2040,16 +2144,20 @@
     "type": "game"
   },
   {
-    "id": "nekketsu-high-school-dodgeball-club-soccer-story",
+    "id": "nekketsu-high-school-dodgeball-club",
     "type": "game"
   },
   {
-    "id": "nekketsu-high-school-dodgeball-club",
+    "id": "nekketsu-high-school-dodgeball-club-soccer-story",
     "type": "game"
   },
   {
     "id": "nekketsu-renegade-kunio-kun",
     "type": "game"
+  },
+  {
+    "id": "nekketsu-series",
+    "type": "series"
   },
   {
     "id": "nekketsu-street-basketball-all-out-dunk-heroes",
@@ -2060,11 +2168,11 @@
     "type": "game"
   },
   {
-    "id": "nes-remix-2",
+    "id": "nes-remix",
     "type": "game"
   },
   {
-    "id": "nes-remix",
+    "id": "nes-remix-2",
     "type": "game"
   },
   {
@@ -2072,15 +2180,23 @@
     "type": "hardware"
   },
   {
-    "id": "new-super-luigi-u-switch",
-    "type": "game"
-  },
-  {
     "id": "new-super-luigi-u",
     "type": "game"
   },
   {
+    "id": "new-super-luigi-u-switch",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros",
+    "type": "game"
+  },
+  {
     "id": "new-super-mario-bros-2",
+    "type": "game"
+  },
+  {
+    "id": "new-super-mario-bros-u",
     "type": "game"
   },
   {
@@ -2092,15 +2208,7 @@
     "type": "game"
   },
   {
-    "id": "new-super-mario-bros-u",
-    "type": "game"
-  },
-  {
     "id": "new-super-mario-bros-wii",
-    "type": "game"
-  },
-  {
-    "id": "new-super-mario-bros",
     "type": "game"
   },
   {
@@ -2116,6 +2224,10 @@
     "type": "game"
   },
   {
+    "id": "ninja-gaiden",
+    "type": "game"
+  },
+  {
     "id": "ninja-gaiden-2",
     "type": "game"
   },
@@ -2128,10 +2240,6 @@
     "type": "game"
   },
   {
-    "id": "ninja-gaiden",
-    "type": "game"
-  },
-  {
     "id": "nintendo-2ds",
     "type": "hardware"
   },
@@ -2140,7 +2248,7 @@
     "type": "system"
   },
   {
-    "id": "nintendo-64-controller-switch",
+    "id": "nintendo-64",
     "type": "hardware"
   },
   {
@@ -2148,19 +2256,15 @@
     "type": "hardware"
   },
   {
+    "id": "nintendo-64-controller-switch",
+    "type": "hardware"
+  },
+  {
     "id": "nintendo-64-system",
     "type": "system"
   },
   {
-    "id": "nintendo-64",
-    "type": "hardware"
-  },
-  {
     "id": "nintendo-classic-controller-pro",
-    "type": "hardware"
-  },
-  {
-    "id": "nintendo-classic-mini-nintendo-entertainment-system-controller",
     "type": "hardware"
   },
   {
@@ -2168,11 +2272,15 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-classic-mini-super-nintendo-entertainment-system-controller",
+    "id": "nintendo-classic-mini-nintendo-entertainment-system-controller",
     "type": "hardware"
   },
   {
     "id": "nintendo-classic-mini-super-nintendo-entertainment-system",
+    "type": "hardware"
+  },
+  {
+    "id": "nintendo-classic-mini-super-nintendo-entertainment-system-controller",
     "type": "hardware"
   },
   {
@@ -2196,7 +2304,7 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-gamecube-controller-switch2",
+    "id": "nintendo-gamecube",
     "type": "hardware"
   },
   {
@@ -2204,11 +2312,15 @@
     "type": "hardware"
   },
   {
+    "id": "nintendo-gamecube-controller-switch2",
+    "type": "hardware"
+  },
+  {
     "id": "nintendo-gamecube-system",
     "type": "system"
   },
   {
-    "id": "nintendo-gamecube",
+    "id": "nintendo-joy-con",
     "type": "hardware"
   },
   {
@@ -2216,20 +2328,20 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-joy-con",
-    "type": "hardware"
-  },
-  {
     "id": "nintendo-land",
     "type": "game"
   },
   {
-    "id": "nintendo-switch-2-system",
-    "type": "system"
+    "id": "nintendo-switch",
+    "type": "hardware"
   },
   {
     "id": "nintendo-switch-2",
     "type": "hardware"
+  },
+  {
+    "id": "nintendo-switch-2-system",
+    "type": "system"
   },
   {
     "id": "nintendo-switch-pro-controller",
@@ -2244,7 +2356,7 @@
     "type": "system"
   },
   {
-    "id": "nintendo-switch",
+    "id": "nintendo-wii",
     "type": "hardware"
   },
   {
@@ -2256,16 +2368,20 @@
     "type": "hardware"
   },
   {
-    "id": "nintendo-wii-remote-plus",
+    "id": "nintendo-wii-remote",
     "type": "hardware"
   },
   {
-    "id": "nintendo-wii-remote",
+    "id": "nintendo-wii-remote-plus",
     "type": "hardware"
   },
   {
     "id": "nintendo-wii-system",
     "type": "system"
+  },
+  {
+    "id": "nintendo-wii-u",
+    "type": "hardware"
   },
   {
     "id": "nintendo-wii-u-gamepad",
@@ -2280,23 +2396,23 @@
     "type": "system"
   },
   {
-    "id": "nintendo-wii-u",
-    "type": "hardware"
+    "id": "nobuo-uematsu",
+    "type": "person"
   },
   {
-    "id": "nintendo-wii",
-    "type": "hardware"
+    "id": "nobuya-nakazato",
+    "type": "person"
   },
   {
     "id": "nostril-shot",
     "type": "game"
   },
   {
-    "id": "okami-hd",
+    "id": "okami",
     "type": "game"
   },
   {
-    "id": "okami",
+    "id": "okami-hd",
     "type": "game"
   },
   {
@@ -2328,6 +2444,10 @@
     "type": "game"
   },
   {
+    "id": "pac-man",
+    "type": "game"
+  },
+  {
     "id": "pac-man-256",
     "type": "game"
   },
@@ -2348,15 +2468,15 @@
     "type": "game"
   },
   {
+    "id": "pac-man-championship-edition",
+    "type": "game"
+  },
+  {
     "id": "pac-man-championship-edition-dx-plus",
     "type": "game"
   },
   {
     "id": "pac-man-championship-edition-nes",
-    "type": "game"
-  },
-  {
-    "id": "pac-man-championship-edition",
     "type": "game"
   },
   {
@@ -2380,10 +2500,6 @@
     "type": "game"
   },
   {
-    "id": "pac-man",
-    "type": "game"
-  },
-  {
     "id": "pac-mania",
     "type": "game"
   },
@@ -2393,6 +2509,10 @@
   },
   {
     "id": "pac-n-roll-remix",
+    "type": "game"
+  },
+  {
+    "id": "paper-mario",
     "type": "game"
   },
   {
@@ -2408,15 +2528,11 @@
     "type": "game"
   },
   {
-    "id": "paper-mario-the-thousand-year-door-switch",
-    "type": "game"
-  },
-  {
     "id": "paper-mario-the-thousand-year-door",
     "type": "game"
   },
   {
-    "id": "paper-mario",
+    "id": "paper-mario-the-thousand-year-door-switch",
     "type": "game"
   },
   {
@@ -2436,15 +2552,11 @@
     "type": "game"
   },
   {
-    "id": "playstation-2-system",
-    "type": "system"
-  },
-  {
     "id": "playstation-2",
     "type": "hardware"
   },
   {
-    "id": "playstation-3-system",
+    "id": "playstation-2-system",
     "type": "system"
   },
   {
@@ -2452,15 +2564,19 @@
     "type": "hardware"
   },
   {
+    "id": "playstation-3-system",
+    "type": "system"
+  },
+  {
     "id": "playstation-4-system",
     "type": "system"
   },
   {
-    "id": "playstation-classic-controller",
+    "id": "playstation-classic",
     "type": "hardware"
   },
   {
-    "id": "playstation-classic",
+    "id": "playstation-classic-controller",
     "type": "hardware"
   },
   {
@@ -2476,11 +2592,11 @@
     "type": "game"
   },
   {
-    "id": "pokemon-black-version-2",
+    "id": "pokemon-black-version",
     "type": "game"
   },
   {
-    "id": "pokemon-black-version",
+    "id": "pokemon-black-version-2",
     "type": "game"
   },
   {
@@ -2512,6 +2628,10 @@
     "type": "game"
   },
   {
+    "id": "portal",
+    "type": "game"
+  },
+  {
     "id": "portal-2",
     "type": "game"
   },
@@ -2520,19 +2640,15 @@
     "type": "game"
   },
   {
-    "id": "portal",
-    "type": "game"
-  },
-  {
     "id": "powered-gear-strategic-variant-armor-equipment",
     "type": "game"
   },
   {
-    "id": "prince-of-persia-snes",
+    "id": "prince-of-persia",
     "type": "game"
   },
   {
-    "id": "prince-of-persia",
+    "id": "prince-of-persia-snes",
     "type": "game"
   },
   {
@@ -2552,11 +2668,15 @@
     "type": "game"
   },
   {
+    "id": "punch-out",
+    "type": "game"
+  },
+  {
     "id": "punch-out-wii",
     "type": "game"
   },
   {
-    "id": "punch-out",
+    "id": "pyoro",
     "type": "game"
   },
   {
@@ -2573,10 +2693,6 @@
   },
   {
     "id": "pyoro-w",
-    "type": "game"
-  },
-  {
-    "id": "pyoro",
     "type": "game"
   },
   {
@@ -2602,6 +2718,10 @@
   {
     "id": "renegade",
     "type": "game"
+  },
+  {
+    "id": "renegade-series",
+    "type": "series"
   },
   {
     "id": "revali-amiibo",
@@ -2652,7 +2772,7 @@
     "type": "game"
   },
   {
-    "id": "river-city-girls-2-double-dragon-dlc",
+    "id": "river-city-girls",
     "type": "game"
   },
   {
@@ -2660,16 +2780,24 @@
     "type": "game"
   },
   {
-    "id": "river-city-girls-zero",
+    "id": "river-city-girls-2-double-dragon-dlc",
     "type": "game"
   },
   {
-    "id": "river-city-girls",
+    "id": "river-city-girls-series",
+    "type": "series"
+  },
+  {
+    "id": "river-city-girls-zero",
     "type": "game"
   },
   {
     "id": "river-city-ransom",
     "type": "game"
+  },
+  {
+    "id": "river-city-ransom-series",
+    "type": "series"
   },
   {
     "id": "robotrek",
@@ -2692,15 +2820,15 @@
     "type": "amiibo"
   },
   {
+    "id": "salamander",
+    "type": "game"
+  },
+  {
     "id": "salamander-2",
     "type": "game"
   },
   {
     "id": "salamander-iii",
-    "type": "game"
-  },
-  {
-    "id": "salamander",
     "type": "game"
   },
   {
@@ -2724,6 +2852,10 @@
     "type": "amiibo"
   },
   {
+    "id": "satoru-iwata",
+    "type": "person"
+  },
+  {
     "id": "saturday-night-slam-masters",
     "type": "game"
   },
@@ -2736,11 +2868,11 @@
     "type": "game"
   },
   {
-    "id": "scott-pilgrim-vs-the-world-the-game-complete-edition",
+    "id": "scott-pilgrim-vs-the-world-the-game",
     "type": "game"
   },
   {
-    "id": "scott-pilgrim-vs-the-world-the-game",
+    "id": "scott-pilgrim-vs-the-world-the-game-complete-edition",
     "type": "game"
   },
   {
@@ -2760,11 +2892,15 @@
     "type": "game"
   },
   {
+    "id": "sega-astro-city-mini",
+    "type": "hardware"
+  },
+  {
     "id": "sega-astro-city-mini-stick",
     "type": "hardware"
   },
   {
-    "id": "sega-astro-city-mini",
+    "id": "sega-dreamcast",
     "type": "hardware"
   },
   {
@@ -2774,10 +2910,6 @@
   {
     "id": "sega-dreamcast-system",
     "type": "system"
-  },
-  {
-    "id": "sega-dreamcast",
-    "type": "hardware"
   },
   {
     "id": "sega-master-system",
@@ -2808,6 +2940,10 @@
     "type": "game"
   },
   {
+    "id": "shantae",
+    "type": "game"
+  },
+  {
     "id": "shantae-advance-risky-revolution",
     "type": "game"
   },
@@ -2820,6 +2956,10 @@
     "type": "game"
   },
   {
+    "id": "shantae-half-genie-hero",
+    "type": "game"
+  },
+  {
     "id": "shantae-half-genie-hero-friends-to-the-end",
     "type": "game"
   },
@@ -2828,19 +2968,11 @@
     "type": "game"
   },
   {
-    "id": "shantae-half-genie-hero",
-    "type": "game"
-  },
-  {
-    "id": "shantae-riskys-revenge-directors-cut",
-    "type": "game"
-  },
-  {
     "id": "shantae-riskys-revenge",
     "type": "game"
   },
   {
-    "id": "shantae",
+    "id": "shantae-riskys-revenge-directors-cut",
     "type": "game"
   },
   {
@@ -2850,6 +2982,14 @@
   {
     "id": "sheriff-wario",
     "type": "game"
+  },
+  {
+    "id": "shigeru-miyamoto",
+    "type": "person"
+  },
+  {
+    "id": "shigeru-yokoyama",
+    "type": "person"
   },
   {
     "id": "sidon-amiibo",
@@ -2868,15 +3008,19 @@
     "type": "game"
   },
   {
-    "id": "sonic-3-and-knuckles-2022",
-    "type": "game"
-  },
-  {
     "id": "sonic-3-and-knuckles",
     "type": "game"
   },
   {
+    "id": "sonic-3-and-knuckles-2022",
+    "type": "game"
+  },
+  {
     "id": "sonic-3d-blast",
+    "type": "game"
+  },
+  {
+    "id": "sonic-advance",
     "type": "game"
   },
   {
@@ -2888,11 +3032,7 @@
     "type": "game"
   },
   {
-    "id": "sonic-advance",
-    "type": "game"
-  },
-  {
-    "id": "sonic-adventure-2-battle",
+    "id": "sonic-adventure",
     "type": "game"
   },
   {
@@ -2900,11 +3040,11 @@
     "type": "game"
   },
   {
-    "id": "sonic-adventure-dx",
+    "id": "sonic-adventure-2-battle",
     "type": "game"
   },
   {
-    "id": "sonic-adventure",
+    "id": "sonic-adventure-dx",
     "type": "game"
   },
   {
@@ -2924,11 +3064,11 @@
     "type": "game"
   },
   {
-    "id": "sonic-drift-2",
+    "id": "sonic-drift",
     "type": "game"
   },
   {
-    "id": "sonic-drift",
+    "id": "sonic-drift-2",
     "type": "game"
   },
   {
@@ -2952,11 +3092,11 @@
     "type": "game"
   },
   {
-    "id": "sonic-mania-plus",
+    "id": "sonic-mania",
     "type": "game"
   },
   {
-    "id": "sonic-mania",
+    "id": "sonic-mania-plus",
     "type": "game"
   },
   {
@@ -2972,19 +3112,19 @@
     "type": "game"
   },
   {
-    "id": "sonic-rush-adventure",
-    "type": "game"
-  },
-  {
     "id": "sonic-rush",
     "type": "game"
   },
   {
-    "id": "sonic-spinball-8bit",
+    "id": "sonic-rush-adventure",
     "type": "game"
   },
   {
     "id": "sonic-spinball",
+    "type": "game"
+  },
+  {
+    "id": "sonic-spinball-8bit",
     "type": "game"
   },
   {
@@ -2993,6 +3133,14 @@
   },
   {
     "id": "sonic-the-fighters",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog",
+    "type": "game"
+  },
+  {
+    "id": "sonic-the-hedgehog-2",
     "type": "game"
   },
   {
@@ -3005,10 +3153,6 @@
   },
   {
     "id": "sonic-the-hedgehog-2-8bit",
-    "type": "game"
-  },
-  {
-    "id": "sonic-the-hedgehog-2",
     "type": "game"
   },
   {
@@ -3036,19 +3180,15 @@
     "type": "game"
   },
   {
-    "id": "sonic-the-hedgehog-cd-2011",
-    "type": "game"
-  },
-  {
     "id": "sonic-the-hedgehog-cd",
     "type": "game"
   },
   {
-    "id": "sonic-the-hedgehog-genesis",
+    "id": "sonic-the-hedgehog-cd-2011",
     "type": "game"
   },
   {
-    "id": "sonic-the-hedgehog",
+    "id": "sonic-the-hedgehog-genesis",
     "type": "game"
   },
   {
@@ -3068,6 +3208,10 @@
     "type": "game"
   },
   {
+    "id": "soulcalibur",
+    "type": "game"
+  },
+  {
     "id": "soulcalibur-ii",
     "type": "game"
   },
@@ -3081,10 +3225,6 @@
   },
   {
     "id": "soulcalibur-vi",
-    "type": "game"
-  },
-  {
-    "id": "soulcalibur",
     "type": "game"
   },
   {
@@ -3112,6 +3252,10 @@
     "type": "game"
   },
   {
+    "id": "star-fox",
+    "type": "game"
+  },
+  {
     "id": "star-fox-2",
     "type": "game"
   },
@@ -3124,10 +3268,6 @@
     "type": "game"
   },
   {
-    "id": "star-fox",
-    "type": "game"
-  },
-  {
     "id": "startropics",
     "type": "game"
   },
@@ -3136,19 +3276,11 @@
     "type": "game"
   },
   {
+    "id": "street-fighter",
+    "type": "game"
+  },
+  {
     "id": "street-fighter-30th-anniversary-collection",
-    "type": "game"
-  },
-  {
-    "id": "street-fighter-alpha-2",
-    "type": "game"
-  },
-  {
-    "id": "street-fighter-alpha-3-playstation",
-    "type": "game"
-  },
-  {
-    "id": "street-fighter-alpha-3",
     "type": "game"
   },
   {
@@ -3156,7 +3288,23 @@
     "type": "game"
   },
   {
+    "id": "street-fighter-alpha-2",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-alpha-3",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-alpha-3-playstation",
+    "type": "game"
+  },
+  {
     "id": "street-fighter-anniversary-collection",
+    "type": "game"
+  },
+  {
+    "id": "street-fighter-ii",
     "type": "game"
   },
   {
@@ -3176,7 +3324,7 @@
     "type": "game"
   },
   {
-    "id": "street-fighter-ii",
+    "id": "street-fighter-iii",
     "type": "game"
   },
   {
@@ -3184,19 +3332,11 @@
     "type": "game"
   },
   {
-    "id": "street-fighter-iii-3rd-strike-playstation-2",
-    "type": "game"
-  },
-  {
     "id": "street-fighter-iii-3rd-strike",
     "type": "game"
   },
   {
-    "id": "street-fighter-iii",
-    "type": "game"
-  },
-  {
-    "id": "street-fighter",
+    "id": "street-fighter-iii-3rd-strike-playstation-2",
     "type": "game"
   },
   {
@@ -3256,6 +3396,10 @@
     "type": "game"
   },
   {
+    "id": "super-mario-3d-world",
+    "type": "game"
+  },
+  {
     "id": "super-mario-3d-world-plus-bowsers-fury",
     "type": "game"
   },
@@ -3264,7 +3408,7 @@
     "type": "game"
   },
   {
-    "id": "super-mario-3d-world",
+    "id": "super-mario-64",
     "type": "game"
   },
   {
@@ -3273,10 +3417,6 @@
   },
   {
     "id": "super-mario-64-switch",
-    "type": "game"
-  },
-  {
-    "id": "super-mario-64",
     "type": "game"
   },
   {
@@ -3292,11 +3432,19 @@
     "type": "game"
   },
   {
+    "id": "super-mario-all-stars",
+    "type": "game"
+  },
+  {
     "id": "super-mario-all-stars-25th-anniversary-edition",
     "type": "game"
   },
   {
-    "id": "super-mario-all-stars",
+    "id": "super-mario-bros",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-bros-2",
     "type": "game"
   },
   {
@@ -3308,7 +3456,7 @@
     "type": "game"
   },
   {
-    "id": "super-mario-bros-2",
+    "id": "super-mario-bros-3",
     "type": "game"
   },
   {
@@ -3317,10 +3465,6 @@
   },
   {
     "id": "super-mario-bros-3-snes",
-    "type": "game"
-  },
-  {
-    "id": "super-mario-bros-3",
     "type": "game"
   },
   {
@@ -3336,15 +3480,11 @@
     "type": "game"
   },
   {
-    "id": "super-mario-bros-the-lost-levels-snes",
-    "type": "game"
-  },
-  {
     "id": "super-mario-bros-the-lost-levels",
     "type": "game"
   },
   {
-    "id": "super-mario-bros-wonder-switch-2",
+    "id": "super-mario-bros-the-lost-levels-snes",
     "type": "game"
   },
   {
@@ -3352,15 +3492,19 @@
     "type": "game"
   },
   {
-    "id": "super-mario-bros",
+    "id": "super-mario-bros-wonder-switch-2",
     "type": "game"
   },
   {
-    "id": "super-mario-galaxy-2-switch",
+    "id": "super-mario-galaxy",
     "type": "game"
   },
   {
     "id": "super-mario-galaxy-2",
+    "type": "game"
+  },
+  {
+    "id": "super-mario-galaxy-2-switch",
     "type": "game"
   },
   {
@@ -3372,15 +3516,7 @@
     "type": "game"
   },
   {
-    "id": "super-mario-galaxy",
-    "type": "game"
-  },
-  {
     "id": "super-mario-kart",
-    "type": "game"
-  },
-  {
-    "id": "super-mario-land-2-6-golden-coins",
     "type": "game"
   },
   {
@@ -3388,15 +3524,19 @@
     "type": "game"
   },
   {
+    "id": "super-mario-land-2-6-golden-coins",
+    "type": "game"
+  },
+  {
     "id": "super-mario-odyssey",
     "type": "game"
   },
   {
-    "id": "super-mario-rpg-legend-of-the-seven-stars",
+    "id": "super-mario-rpg",
     "type": "game"
   },
   {
-    "id": "super-mario-rpg",
+    "id": "super-mario-rpg-legend-of-the-seven-stars",
     "type": "game"
   },
   {
@@ -3408,11 +3548,15 @@
     "type": "series"
   },
   {
+    "id": "super-mario-sunshine",
+    "type": "game"
+  },
+  {
     "id": "super-mario-sunshine-switch",
     "type": "game"
   },
   {
-    "id": "super-mario-sunshine",
+    "id": "super-mario-world",
     "type": "game"
   },
   {
@@ -3421,10 +3565,6 @@
   },
   {
     "id": "super-mario-world-advance",
-    "type": "game"
-  },
-  {
-    "id": "super-mario-world",
     "type": "game"
   },
   {
@@ -3464,6 +3604,10 @@
     "type": "game"
   },
   {
+    "id": "super-smash-bros",
+    "type": "game"
+  },
+  {
     "id": "super-smash-bros-brawl",
     "type": "game"
   },
@@ -3480,7 +3624,11 @@
     "type": "game"
   },
   {
-    "id": "super-smash-bros",
+    "id": "super-street-fighter-ii",
+    "type": "game"
+  },
+  {
+    "id": "super-street-fighter-ii-turbo",
     "type": "game"
   },
   {
@@ -3489,14 +3637,6 @@
   },
   {
     "id": "super-street-fighter-ii-turbo-revival",
-    "type": "game"
-  },
-  {
-    "id": "super-street-fighter-ii-turbo",
-    "type": "game"
-  },
-  {
-    "id": "super-street-fighter-ii",
     "type": "game"
   },
   {
@@ -3524,6 +3664,14 @@
     "type": "game"
   },
   {
+    "id": "taito-company",
+    "type": "company"
+  },
+  {
+    "id": "taito-egret-ii-mini",
+    "type": "hardware"
+  },
+  {
     "id": "taito-egret-ii-mini-paddle",
     "type": "hardware"
   },
@@ -3532,8 +3680,12 @@
     "type": "hardware"
   },
   {
-    "id": "taito-egret-ii-mini",
-    "type": "hardware"
+    "id": "takashi-tateishi",
+    "type": "person"
+  },
+  {
+    "id": "takashi-tezuka",
+    "type": "person"
   },
   {
     "id": "tatakai-no-banka",
@@ -3548,8 +3700,16 @@
     "type": "game"
   },
   {
+    "id": "technos-japan-company",
+    "type": "company"
+  },
+  {
     "id": "tecmo-bowl",
     "type": "game"
+  },
+  {
+    "id": "tecmo-company",
+    "type": "company"
   },
   {
     "id": "tenchu-2-birth-of-the-stealth-assassins",
@@ -3572,6 +3732,10 @@
     "type": "game"
   },
   {
+    "id": "tengen-company",
+    "type": "company"
+  },
+  {
     "id": "terranigma",
     "type": "game"
   },
@@ -3581,6 +3745,10 @@
   },
   {
     "id": "tetris-mega-drive",
+    "type": "game"
+  },
+  {
+    "id": "the-binding-of-isaac-repentance-+",
     "type": "game"
   },
   {
@@ -3596,7 +3764,15 @@
     "type": "game"
   },
   {
+    "id": "the-legend-of-zelda",
+    "type": "game"
+  },
+  {
     "id": "the-legend-of-zelda-a-link-between-worlds",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-a-link-to-the-past",
     "type": "game"
   },
   {
@@ -3608,7 +3784,7 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-a-link-to-the-past",
+    "id": "the-legend-of-zelda-breath-of-the-wild",
     "type": "game"
   },
   {
@@ -3624,15 +3800,15 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-breath-of-the-wild",
-    "type": "game"
-  },
-  {
     "id": "the-legend-of-zelda-collectors-edition",
     "type": "game"
   },
   {
     "id": "the-legend-of-zelda-echoes-of-wisdom",
+    "type": "game"
+  },
+  {
+    "id": "the-legend-of-zelda-four-swords",
     "type": "game"
   },
   {
@@ -3644,7 +3820,7 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-four-swords",
+    "id": "the-legend-of-zelda-links-awakening",
     "type": "game"
   },
   {
@@ -3656,7 +3832,7 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-links-awakening",
+    "id": "the-legend-of-zelda-majoras-mask",
     "type": "game"
   },
   {
@@ -3664,11 +3840,11 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-majoras-mask",
+    "id": "the-legend-of-zelda-minish-cap",
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-minish-cap",
+    "id": "the-legend-of-zelda-ocarina-of-time",
     "type": "game"
   },
   {
@@ -3681,10 +3857,6 @@
   },
   {
     "id": "the-legend-of-zelda-ocarina-of-time-master-quest",
-    "type": "game"
-  },
-  {
-    "id": "the-legend-of-zelda-ocarina-of-time",
     "type": "game"
   },
   {
@@ -3704,11 +3876,11 @@
     "type": "series"
   },
   {
-    "id": "the-legend-of-zelda-skyward-sword-hd",
+    "id": "the-legend-of-zelda-skyward-sword",
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-skyward-sword",
+    "id": "the-legend-of-zelda-skyward-sword-hd",
     "type": "game"
   },
   {
@@ -3716,15 +3888,11 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-tears-of-the-kingdom-switch-2-edition",
-    "type": "game"
-  },
-  {
     "id": "the-legend-of-zelda-tears-of-the-kingdom",
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-the-wind-waker-hd",
+    "id": "the-legend-of-zelda-tears-of-the-kingdom-switch-2-edition",
     "type": "game"
   },
   {
@@ -3732,11 +3900,11 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-tri-force-heroes",
+    "id": "the-legend-of-zelda-the-wind-waker-hd",
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda-twilight-princess-hd",
+    "id": "the-legend-of-zelda-tri-force-heroes",
     "type": "game"
   },
   {
@@ -3744,7 +3912,7 @@
     "type": "game"
   },
   {
-    "id": "the-legend-of-zelda",
+    "id": "the-legend-of-zelda-twilight-princess-hd",
     "type": "game"
   },
   {
@@ -3772,6 +3940,10 @@
     "type": "game"
   },
   {
+    "id": "tokuro-fujiwara",
+    "type": "person"
+  },
+  {
     "id": "toon-link-amiibo",
     "type": "amiibo"
   },
@@ -3780,11 +3952,19 @@
     "type": "amiibo"
   },
   {
-    "id": "trials-of-mana-hd-remake",
-    "type": "game"
+    "id": "toru-iwatani",
+    "type": "person"
+  },
+  {
+    "id": "tose-company",
+    "type": "company"
   },
   {
     "id": "trials-of-mana",
+    "type": "game"
+  },
+  {
+    "id": "trials-of-mana-hd-remake",
     "type": "game"
   },
   {
@@ -3876,11 +4056,11 @@
     "type": "game"
   },
   {
-    "id": "wario-land-ii-game-boy-color",
+    "id": "wario-land-ii",
     "type": "game"
   },
   {
-    "id": "wario-land-ii",
+    "id": "wario-land-ii-game-boy-color",
     "type": "game"
   },
   {
@@ -3924,19 +4104,19 @@
     "type": "game"
   },
   {
-    "id": "wii-play-motion",
-    "type": "game"
-  },
-  {
     "id": "wii-play",
     "type": "game"
   },
   {
-    "id": "wii-sports-resort",
+    "id": "wii-play-motion",
     "type": "game"
   },
   {
     "id": "wii-sports",
+    "type": "game"
+  },
+  {
+    "id": "wii-sports-resort",
     "type": "game"
   },
   {
@@ -3956,16 +4136,16 @@
     "type": "game"
   },
   {
+    "id": "xbox-360",
+    "type": "hardware"
+  },
+  {
     "id": "xbox-360-controller",
     "type": "hardware"
   },
   {
     "id": "xbox-360-system",
     "type": "system"
-  },
-  {
-    "id": "xbox-360",
-    "type": "hardware"
   },
   {
     "id": "xbox-live-arcade",
@@ -3982,6 +4162,14 @@
   {
     "id": "xevious",
     "type": "game"
+  },
+  {
+    "id": "yoshihisa-kishimoto",
+    "type": "person"
+  },
+  {
+    "id": "yoshio-sakamoto",
+    "type": "person"
   },
   {
     "id": "yoshis-island-advance",
@@ -4002,6 +4190,10 @@
   {
     "id": "yoshis-story",
     "type": "game"
+  },
+  {
+    "id": "yoshitaka-amano",
+    "type": "person"
   },
   {
     "id": "young-link-amiibo",
@@ -4038,25 +4230,5 @@
   {
     "id": "zero-suit-samus-amiibo",
     "type": "amiibo"
-  },
-  {
-    "id": "kunio-kun-series",
-    "type": "series"
-  },
-  {
-    "id": "nekketsu-series",
-    "type": "series"
-  },
-  {
-    "id": "renegade-series",
-    "type": "series"
-  },
-  {
-    "id": "river-city-girls-series",
-    "type": "series"
-  },
-  {
-    "id": "river-city-ransom-series",
-    "type": "series"
   }
 ]

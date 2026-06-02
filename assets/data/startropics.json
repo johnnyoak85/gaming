@@ -1,73 +1,77 @@
 {
-    "id": "startropics",
-    "name": "StarTropics",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sur.webp",
-    "aliases": [
-        "Punch-Out!! Featuring Mr. Dream"
+  "id": "startropics",
+  "name": "StarTropics",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sur.webp",
+  "aliases": [
+    "Punch-Out!! Featuring Mr. Dream"
+  ],
+  "release": "1990-08-20",
+  "type": "game",
+  "franchise": {
+    "universe": "StarTropics",
+    "series": "startropics-series",
+    "subseries": null
+  },
+  "system": "nintendo-entertainment-system-system",
+  "classification": {
+    "genres": [
+      "Action",
+      "Adventure"
     ],
-    "release": "1990-08-20",
-    "type": "game",
-    "franchise": {
-        "universe": "StarTropics",
-        "series": "startropics-series",
-        "subseries": null
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "subgenres": [
-            "Action Adventure"
-        ],
-        "themes": [
-            "Adventure"
-        ],
-        "tags": [
-            "Puzzle Solving",
-            "Exploration",
-            "Retro"
-        ]
-    },
-    "player_age": 10,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        }
+    "subgenres": [
+      "Action Adventure"
     ],
-    "versions": [],
-    "relationships": [],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 1
-        },
-        "modes": [
-            "solo"
-        ]
-    },
-    "companies": [
-        "nintendo-company",
-        "locomotive-corporation-company"
+    "themes": [
+      "Adventure"
     ],
-    "progress": "planned",
-    "backlog": {
-        "priority": 3,
-        "reason": "Unique NES action-adventure with Zelda-like structure.",
-        "rating": 4,
-        "difficulty": 3,
-        "estimated_hours": 10
+    "tags": [
+      "Puzzle Solving",
+      "Exploration",
+      "Retro"
+    ]
+  },
+  "player_age": 10,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [],
+  "relationships": [],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 1
     },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
-    },
-    "event": null,
+    "modes": [
+      "solo"
+    ]
+  },
+  "companies": [
+    "nintendo-company",
+    "locomotive-corporation-company"
+  ],
+  "progress": "planned",
+  "backlog": {
+    "priority": 3,
+    "reason": "Unique NES action-adventure with Zelda-like structure.",
+    "rating": 4,
+    "difficulty": 3,
+    "estimated_hours": 10
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null,
+  "description": "Adventure game where Mike Jones explores islands, dungeons, and alien mysteries.",
+  "people": [
+    "genyo-takeda"
+  ]
 }

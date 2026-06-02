@@ -1,0 +1,23 @@
+{
+    "id": "yoshitaka-amano",
+    "name": "Yoshitaka Amano",
+    "description": "Illustrator and character artist whose work shaped Final Fantasy's early visual identity.",
+    "type": "person",
+    "portrait": "yoshitaka-amano",
+    "roles": [
+        "artist"
+    ],
+    "companies": [
+        "square-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy",
+        "final-fantasy-ii",
+        "final-fantasy-iv",
+        "final-fantasy-v",
+        "final-fantasy-vi"
+    ],
+    "notes": "Best used as a visual-identity curation link for Final Fantasy."
+}

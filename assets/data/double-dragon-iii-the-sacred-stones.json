@@ -2,6 +2,9 @@
     "id": "double-dragon-iii-the-sacred-stones",
     "name": "Double Dragon III: The Sacred Stones",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wuo.webp",
+    "aliases": [
+        "Double Dragon III: The Rosetta Stone"
+    ],
     "release": "1991-02-22",
     "type": "game",
     "franchise": {
@@ -54,7 +57,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -70,5 +73,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Beat ’em up sequel where the Lee brothers travel the world searching for sacred stones.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

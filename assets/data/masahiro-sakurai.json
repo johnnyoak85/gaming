@@ -1,0 +1,25 @@
+{
+    "id": "masahiro-sakurai",
+    "name": "Masahiro Sakurai",
+    "description": "Creator of Kirby and Super Smash Bros. Known for highly polished, systems-driven action games.",
+    "type": "person",
+    "portrait": "masahiro-sakurai",
+    "roles": [
+        "designer",
+        "director"
+    ],
+    "companies": [
+        "hal-laboratory-company",
+        "nintendo-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "kirbys-dream-land",
+        "kirbys-adventure",
+        "super-smash-bros",
+        "super-smash-bros-melee",
+        "super-smash-bros-ultimate"
+    ],
+    "notes": "One of Nintendo's most recognizable post-NES-era game directors."
+}

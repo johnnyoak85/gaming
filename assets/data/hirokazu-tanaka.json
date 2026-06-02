@@ -1,0 +1,23 @@
+    {
+        "id": "hirokazu-tanaka",
+        "name": "Hirokazu Tanaka",
+        "description": "Nintendo composer and sound designer for several early NES classics.",
+        "type": "person",
+        "portrait": "hirokazu-tanaka",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "balloon-fight",
+            "metroid",
+            "kid-icarus",
+            "super-mario-land",
+            "earthbound"
+        ],
+        "notes": "Major early Nintendo sound figure."
+    }

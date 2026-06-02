@@ -1,0 +1,22 @@
+{
+    "id": "miki-higashino",
+    "name": "Miki Higashino",
+    "description": "Konami composer associated with Gradius, Contra, and Suikoden.",
+    "type": "person",
+    "portrait": "miki-higashino",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "gradius",
+        "contra-iii-the-alien-wars",
+        "suikoden",
+        "suikoden-ii"
+    ],
+    "notes": "Useful composer link for Konami's arcade and RPG lineage."
+}

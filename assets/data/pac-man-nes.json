@@ -67,5 +67,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "NES version of Namco’s maze chase arcade classic about eating dots and avoiding ghosts.",
+    "people": [
+        "toru-iwatani"
+    ]
 }

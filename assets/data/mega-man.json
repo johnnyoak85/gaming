@@ -2,6 +2,9 @@
     "id": "mega-man",
     "name": "Mega Man",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0z2.webp",
+    "aliases": [
+        "Rockman"
+    ],
     "release": "1987-12-17",
     "type": "game",
     "franchise": {
@@ -75,5 +78,11 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Action-platformer where Mega Man defeats Robot Masters and takes their weapons.",
+    "people": [
+        "keiji-inafune",
+        "tokuro-fujiwara",
+        "manami_matsumae"
+    ]
 }

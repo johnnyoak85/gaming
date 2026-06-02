@@ -1,0 +1,23 @@
+    {
+        "id": "koji-kondo",
+        "name": "Koji Kondo",
+        "description": "Composer of the most recognizable Mario and Zelda music.",
+        "type": "person",
+        "portrait": "koji-kondo",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "nintendo-company"
+        ],
+        "circle": "major",
+        "country": "JP",
+        "essentials": [
+            "super-mario-bros",
+            "the-legend-of-zelda",
+            "super-mario-bros-3",
+            "super-mario-world",
+            "the-legend-of-zelda-ocarina-of-time"
+        ],
+        "notes": "Nintendo's most important composer and one of the defining sound identities of the NES."
+    }

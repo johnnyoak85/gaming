@@ -2,6 +2,7 @@
     "id": "nekketsu-fighting-legend",
     "name": "Nekketsu Fighting Legend",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i0w.webp",
+    "aliases": [],
     "release": "1992-12-23",
     "type": "game",
     "franchise": {
@@ -54,7 +55,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -70,5 +71,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Kunio-kun tournament fighter focused on team battles and schoolyard rivalry.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

@@ -2,6 +2,7 @@
     "id": "nekketsu-high-school-dodgeball-club-soccer-story",
     "name": "Nekketsu High School Dodgeball Club - Soccer Story",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6cjm.webp",
+    "aliases": [],
     "release": "1990-05-18",
     "type": "game",
     "franchise": {
@@ -62,7 +63,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -78,5 +79,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": "Westernized adaptation became Nintendo World Cup."
+    "notes": "Westernized adaptation became Nintendo World Cup.",
+    "description": "Kunio-kun soccer game mixing sports rules with rough physical play.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

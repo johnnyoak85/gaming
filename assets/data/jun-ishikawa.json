@@ -1,0 +1,23 @@
+    {
+        "id": "jun-ishikawa",
+        "name": "Jun Ishikawa",
+        "description": "HAL composer strongly associated with Kirby's musical identity.",
+        "type": "person",
+        "portrait": "jun-ishikawa",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "hal-laboratory-company",
+            "nintendo-company"
+        ],
+        "circle": "sub",
+        "country": "JP",
+        "essentials": [
+            "kirbys-adventure",
+            "kirby-super-star",
+            "kirby-64-the-crystal-shards",
+            "kirby-and-the-forgotten-land"
+        ],
+        "notes": "One of the key long-running composers behind Kirby."
+    }

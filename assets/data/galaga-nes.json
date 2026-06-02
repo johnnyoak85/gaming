@@ -1,72 +1,76 @@
 {
-    "id": "galaga-nes",
-    "name": "Galaga: Demons of Death",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dgt.webp",
-    "release": "1985-02-15",
-    "type": "game",
-    "franchise": {
-        "universe": "United Galaxy Space Force",
-        "series": "united-galaxy-space-force-series",
-        "subseries": "galaga-series"
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "Shooter"
-        ],
-        "subgenres": [
-            "Fixed Shooter"
-        ],
-        "themes": [
-            "Sci-Fi"
-        ],
-        "tags": [
-            "Arcade",
-            "Score Attack"
-        ]
-    },
-    "player_age": 6,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        }
+  "id": "galaga-nes",
+  "name": "Galaga: Demons of Death",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dgt.webp",
+  "release": "1985-02-15",
+  "type": "game",
+  "franchise": {
+    "universe": "United Galaxy Space Force",
+    "series": "united-galaxy-space-force-series",
+    "subseries": "galaga-series"
+  },
+  "system": "nintendo-entertainment-system-system",
+  "classification": {
+    "genres": [
+      "Shooter"
     ],
-    "versions": [
-        {
-            "source": "galaga",
-            "type": "base"
-        }
+    "subgenres": [
+      "Fixed Shooter"
     ],
-    "relationships": [],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 2
-        },
-        "modes": [
-            "solo"
-        ]
-    },
-    "companies": [
-        "namco-series"
+    "themes": [
+      "Sci-Fi"
     ],
-    "progress": "planned",
-    "backlog": {
-        "priority": 4,
-        "reason": "One of the most iconic arcade shooters.",
-        "rating": 5,
-        "difficulty": 3,
-        "estimated_hours": 2
+    "tags": [
+      "Arcade",
+      "Score Attack"
+    ]
+  },
+  "player_age": 6,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [
+    {
+      "source": "galaga",
+      "type": "base"
+    }
+  ],
+  "relationships": [],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 2
     },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
-    },
-    "event": null,
+    "modes": [
+      "solo"
+    ]
+  },
+  "companies": [
+    "namco-company"
+  ],
+  "progress": "planned",
+  "backlog": {
+    "priority": 4,
+    "reason": "One of the most iconic arcade shooters.",
+    "rating": 5,
+    "difficulty": 3,
+    "estimated_hours": 2
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null,
+  "description": "NES version of Namco’s fixed-screen arcade shooter about capturing and rescuing fighters.",
+  "people": [
+    "shigeru-yokoyama"
+  ]
 }

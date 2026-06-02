@@ -1,88 +1,95 @@
 {
-    "id": "metroid",
-    "name": "Metroid",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90o.webp",
-    "release": "1987-08-01",
-    "type": "game",
-    "franchise": {
-        "universe": "Metroid",
-        "series": "metroid-series",
-        "subseries": null
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "subgenres": [
-            "Metroidvania"
-        ],
-        "themes": [
-            "Sci-Fi"
-        ],
-        "tags": [
-            "Retro",
-            "Exploration",
-            "Atmospheric"
-        ]
-    },
-    "player_age": 10,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        }
+  "id": "metroid",
+  "name": "Metroid",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob90o.webp",
+  "release": "1987-08-01",
+  "type": "game",
+  "franchise": {
+    "universe": "Metroid",
+    "series": "metroid-series",
+    "subseries": null
+  },
+  "system": "nintendo-entertainment-system-system",
+  "classification": {
+    "genres": [
+      "Action",
+      "Adventure"
     ],
-    "versions": [
-        {
-            "source": "classic-nes-series-metroid",
-            "format": "port"
-        },
-        {
-            "source": "metroid-zero-mission",
-            "format": "enhanced_remake"
-        }
+    "subgenres": [
+      "Metroidvania"
     ],
-    "relationships": [
-        {
-            "source": "metroid-ii-return-of-samus",
-            "type": "sequel"
-        },
-        {
-            "source": "kid-icarus",
-            "type": "twin_engine"
-        }
+    "themes": [
+      "Sci-Fi"
     ],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 1
-        },
-        "modes": [
-            "solo"
-        ]
+    "tags": [
+      "Retro",
+      "Exploration",
+      "Atmospheric"
+    ]
+  },
+  "player_age": 10,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [
+    {
+      "source": "classic-nes-series-metroid",
+      "format": "port"
     },
-    "companies": [
-        "nintendo-company",
-        "intelligent-systems-company"
-    ],
-    "progress": "planned",
-    "backlog": {
-        "priority": 4,
-        "reason": "Origin of the Metroid formula and timeline starting point.",
-        "rating": 4,
-        "difficulty": 4,
-        "estimated_hours": 6
+    {
+      "source": "metroid-zero-mission",
+      "format": "enhanced_remake"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "metroid-ii-return-of-samus",
+      "type": "sequel"
     },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
+    {
+      "source": "kid-icarus",
+      "type": "twin_engine"
+    }
+  ],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 1
     },
-    "event": null,
+    "modes": [
+      "solo"
+    ]
+  },
+  "companies": [
+    "nintendo-company",
+    "intelligent-systems-company"
+  ],
+  "progress": "planned",
+  "backlog": {
+    "priority": 4,
+    "reason": "Origin of the Metroid formula and timeline starting point.",
+    "rating": 4,
+    "difficulty": 4,
+    "estimated_hours": 6
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null,
+  "description": "Sci-fi action-adventure where Samus explores Zebes and battles the Space Pirates.",
+  "people": [
+    "gunpei-yokoi",
+    "yoshio-sakamoto",
+    "hiroji-kiyotake",
+    "hirokazu-tanaka"
+  ]
 }

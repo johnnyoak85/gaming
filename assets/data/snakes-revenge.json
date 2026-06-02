@@ -2,6 +2,9 @@
     "id": "snakes-revenge",
     "name": "Snake's Revenge",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co987l.webp",
+    "aliases": [
+        "Rockman 6: The Greatest Battle in History!!"
+    ],
     "release": "1990-04-01",
     "type": "game",
     "franchise": {
@@ -72,5 +75,9 @@
         "notes": "Contained in Metal Gear Solid: Master Collection Vol. 1 Bonus Content."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "NES-only Metal Gear sequel where Snake infiltrates another enemy fortress.",
+    "people": [
+        "hitoshi_akamatsu"
+    ]
 }

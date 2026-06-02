@@ -1,84 +1,88 @@
 {
-    "id": "castlevania-ii-simons-quest",
-    "name": "Castlevania II: Simon's Quest",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9sfd.webp",
-    "aliases": [
-        "Dracula II: The Accursed Seal"
+  "id": "castlevania-ii-simons-quest",
+  "name": "Castlevania II: Simon's Quest",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9sfd.webp",
+  "aliases": [
+    "Dracula II: The Accursed Seal"
+  ],
+  "release": "1987-08-28",
+  "type": "game",
+  "franchise": {
+    "universe": "Castlevania",
+    "series": "castlevania-series",
+    "subseries": null
+  },
+  "system": "nintendo-entertainment-system-system",
+  "classification": {
+    "genres": [
+      "Action",
+      "Adventure"
     ],
-    "release": "1987-08-28",
-    "type": "game",
-    "franchise": {
-        "universe": "Castlevania",
-        "series": "castlevania-series",
-        "subseries": null
-    },
-    "system": "nintendo-entertainment-system-system",
-    "classification": {
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "subgenres": [
-            "Action Adventure"
-        ],
-        "themes": [
-            "Gothic",
-            "Horror"
-        ],
-        "tags": [
-            "Exploration",
-            "Cryptic"
-        ]
-    },
-    "player_age": 12,
-    "access": [
-        {
-            "platform": "nintendo-classic-mini-nintendo-entertainment-system",
-            "via": null,
-            "format": "built_in",
-            "status": "owned",
-            "notes": null
-        },
-        {
-            "platform": "castlevania-anniversary-collection",
-            "via": null,
-            "format": "contained",
-            "status": "owned",
-            "notes": null
-        }
+    "subgenres": [
+      "Action Adventure"
     ],
-    "versions": [],
-    "relationships": [
-        {
-            "source": "castlevania",
-            "type": "prequel"
-        }
+    "themes": [
+      "Gothic",
+      "Horror"
     ],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 1
-        },
-        "modes": [
-            "solo"
-        ]
+    "tags": [
+      "Exploration",
+      "Cryptic"
+    ]
+  },
+  "player_age": 12,
+  "access": [
+    {
+      "platform": "nintendo-classic-mini-nintendo-entertainment-system",
+      "via": null,
+      "format": "built_in",
+      "status": "owned",
+      "notes": null
     },
-    "companies": [
-        "konami-company"
-    ],
-    "progress": "finished",
-    "backlog": {
-        "priority": 3,
-        "reason": "Experimental early open-ended Castlevania.",
-        "rating": 3,
-        "difficulty": 4,
-        "estimated_hours": 6
+    {
+      "platform": "castlevania-anniversary-collection",
+      "via": null,
+      "format": "contained",
+      "status": "owned",
+      "notes": null
+    }
+  ],
+  "versions": [],
+  "relationships": [
+    {
+      "source": "castlevania",
+      "type": "prequel"
+    }
+  ],
+  "playstyle": {
+    "players": {
+      "min": 1,
+      "max": 1
     },
-    "acquisition": {
-        "priority": null,
-        "reason": null,
-        "notes": null
-    },
-    "event": null,
+    "modes": [
+      "solo"
+    ]
+  },
+  "companies": [
+    "konami-company"
+  ],
+  "progress": "finished",
+  "backlog": {
+    "priority": 3,
+    "reason": "Experimental early open-ended Castlevania.",
+    "rating": 3,
+    "difficulty": 4,
+    "estimated_hours": 6
+  },
+  "acquisition": {
+    "priority": null,
+    "reason": null,
     "notes": null
+  },
+  "event": null,
+  "notes": null,
+  "description": "Adventure-heavy Castlevania sequel with towns, exploration, items, and cryptic progression.",
+  "people": [
+    "hitoshi-akamatsu"
+  ]
 }

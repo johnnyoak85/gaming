@@ -1,0 +1,23 @@
+{
+    "id": "nobuo-uematsu",
+    "name": "Nobuo Uematsu",
+    "description": "Final Fantasy composer and one of the most famous composers in video games.",
+    "type": "person",
+    "portrait": "nobuo-uematsu",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "square-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy",
+        "final-fantasy-iv",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "final-fantasy-ix"
+    ],
+    "notes": "The core musical identity of classic Final Fantasy."
+}

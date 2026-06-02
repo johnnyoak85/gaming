@@ -1,0 +1,25 @@
+    {
+        "id": "tokuro-fujiwara",
+        "name": "Tokuro Fujiwara",
+        "description": "Capcom designer and producer associated with Ghosts 'n Goblins, Commando, and early Mega Man.",
+        "type": "person",
+        "portrait": "tokuro-fujiwara",
+        "roles": [
+            "designer",
+            "director",
+            "producer"
+        ],
+        "companies": [
+            "capcom-company"
+        ],
+        "circle": "major",
+        "country": "JP",
+        "essentials": [
+            "ghosts-n-goblins",
+            "commando",
+            "bionic-commando",
+            "mega-man-2",
+            "resident-evil"
+        ],
+        "notes": "Important Capcom arcade/NES-era creative figure."
+    }

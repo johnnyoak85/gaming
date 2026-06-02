@@ -2,6 +2,7 @@
     "id": "surprise-nekketsu-new-records-the-distant-gold-medal",
     "name": "Surprise! Nekketsu New Records! The Distant Gold Medal",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i1a.webp",
+    "aliases": [],
     "release": "1992-06-26",
     "type": "game",
     "franchise": {
@@ -54,7 +55,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -70,5 +71,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Kunio-kun event competition game with violent track-and-field-style challenges.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

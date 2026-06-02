@@ -2,6 +2,9 @@
     "id": "crystalis",
     "name": "Crystalis",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ek8.webp",
+    "aliases": [
+        "God Slayer: Sonata of the Far Away Sky"
+    ],
     "release": "1990-04-13",
     "type": "game",
     "franchise": {
@@ -65,5 +68,7 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Action RPG set after a global catastrophe, mixing sword upgrades with light exploration.",
+    "people": []
 }

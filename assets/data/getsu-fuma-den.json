@@ -1,0 +1,82 @@
+    {
+        "id": "getsu-fuma-den",
+        "name": "Getsu Fūma Den",
+        "description": "Famicom action-adventure where Getsu Fūma crosses the underworld to defeat Ryūkotsuki.",
+        "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w5a.webp",
+        "release": "1987-07-07",
+        "type": "game",
+        "category": "single_entry",
+        "aliases": [
+            "Legend of Getsu Fuuma"
+        ],
+        "franchise": {
+            "series": "getsu-fumaden-series",
+            "subseries": null
+        },
+        "system": "nintendo-entertainment-system-system",
+        "companies": [
+            "konami-company"
+        ],
+        "people": [
+            "hidenori-maezawa"
+        ],
+        "release_line": null,
+        "event": null,
+        "classification": {
+            "genres": [
+                "Action",
+                "Adventure"
+            ],
+            "subgenres": [
+                "Action Adventure"
+            ],
+            "themes": [
+                "Dark Fantasy",
+                "Japanese Mythology"
+            ],
+            "tags": [
+                "Retro",
+                "Famicom",
+                "Konami"
+            ]
+        },
+        "player_age": 10,
+        "playstyle": {
+            "min_players": 1,
+            "max_players": 1,
+            "modes": [
+                "solo"
+            ]
+        },
+        "progress": "planned",
+        "backlog": {
+            "priority": 3,
+            "reason": "Interesting Konami Famicom action-adventure and historical predecessor to Undying Moon.",
+            "rating": 3,
+            "difficulty": 4,
+            "estimated_hours": 6
+        },
+        "access": [
+            {
+                "platform": "nintendo-switch",
+                "via": "getsu-fumaden-undying-moon-deluxe-edition",
+                "format": "contained",
+                "status": "owned",
+                "notes": "Included in GetsuFumaDen: Undying Moon Deluxe Edition."
+            }
+        ],
+        "versions": [],
+        "contains": [],
+        "relationships": [
+            {
+                "source": "getsu-fumaden-undying-moon",
+                "type": "sequel"
+            }
+        ],
+        "acquisition": {
+            "priority": null,
+            "reason": null,
+            "notes": "Owned digitally through GetsuFumaDen: Undying Moon Deluxe Edition."
+        },
+        "notes": "Original Japanese Famicom game included as a bonus with the Deluxe Edition."
+    }

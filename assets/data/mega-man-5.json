@@ -2,6 +2,9 @@
     "id": "mega-man-5",
     "name": "Mega Man 5",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvuk.webp",
+    "aliases": [
+        "Rockman 5: Blues’s Trap!?"
+    ],
     "release": "1992-12-04",
     "type": "game",
     "franchise": {
@@ -72,5 +75,9 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Mega Man sequel with Beat, Proto Man mystery, and another Robot Master set.",
+    "people": [
+        "keiji-inafune"
+    ]
 }

@@ -2,6 +2,9 @@
     "id": "ninja-gaiden-3",
     "name": "Ninja Gaiden III: The Ancient Ship of Doom",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ips.webp",
+    "aliases": [
+        "Legend of the Ninja Dragon Sword III: Ark of the Underworld"
+    ],
     "release": "1991-06-21",
     "type": "game",
     "franchise": {
@@ -69,5 +72,10 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Cinematic action-platformer sequel involving Ryu, clones, and a mysterious warship.",
+    "people": [
+        "hideo-yoshizawa",
+        "masato-kato"
+    ]
 }

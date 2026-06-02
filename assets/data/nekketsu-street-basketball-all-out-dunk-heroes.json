@@ -2,6 +2,7 @@
     "id": "nekketsu-street-basketball-all-out-dunk-heroes",
     "name": "Nekketsu! Street Basketball All-Out Dunk Heroes",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i16.webp",
+    "aliases": [],
     "release": "1993-12-17",
     "type": "game",
     "franchise": {
@@ -53,7 +54,7 @@
         ]
     },
     "companies": [
-        "technos-company"
+        "technos-japan-company"
     ],
     "progress": "planned",
     "backlog": {
@@ -69,5 +70,9 @@
         "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Kunio-kun basketball game with chaotic courts, weapons, and exaggerated scoring.",
+    "people": [
+        "yoshihisa_kishimoto"
+    ]
 }

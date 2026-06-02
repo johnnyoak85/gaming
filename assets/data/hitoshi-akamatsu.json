@@ -1,0 +1,22 @@
+    {
+        "id": "hitoshi-akamatsu",
+        "name": "Hitoshi Akamatsu",
+        "description": "Konami director associated with the early Castlevania identity.",
+        "type": "person",
+        "portrait": "hitoshi-akamatsu",
+        "roles": [
+            "director",
+            "writer"
+        ],
+        "companies": [
+            "konami-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "castlevania",
+            "castlevania-ii-simons-quest",
+            "castlevania-iii-draculas-curse"
+        ],
+        "notes": "Best used as the early Castlevania creative lead."
+    }

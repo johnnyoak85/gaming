@@ -2,6 +2,7 @@
     "id": "wrecking-crew",
     "name": "Wrecking Crew",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co549q.webp",
+    "aliases": [],
     "release": "1985-06-18",
     "type": "game",
     "franchise": {
@@ -64,5 +65,10 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "Puzzle-action game where Mario demolishes structures while avoiding enemies.",
+    "people": [
+        "yoshio_sakamoto",
+        "hirokazu_tanaka"
+    ]
 }

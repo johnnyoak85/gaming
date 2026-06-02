@@ -2,6 +2,7 @@
     "id": "metal-gear-nes",
     "name": "Metal Gear",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p0n.webp",
+    "aliases": [],
     "release": "1988-06-01",
     "type": "game",
     "franchise": {
@@ -75,5 +76,9 @@
         "notes": "Contained in Metal Gear Solid: Master Collection Vol. 1 Bonus Content."
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "description": "NES version of the stealth action game where Solid Snake infiltrates Outer Heaven.",
+    "people": [
+        "hideo_kojima"
+    ]
 }
