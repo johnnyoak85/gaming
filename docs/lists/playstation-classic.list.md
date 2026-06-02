@@ -1,3 +1,7 @@
+# PlayStation Classic
+
+## Built in games
+
 Battle Arena Toshinden  
 Cool Boarders 2  
 Destruction Derby  
@@ -19,10 +23,7 @@ Tom Clancy’s Rainbow Six
 Twisted Metal  
 Wild Arms
 
----
-
-Extras we are adding
----------------------
+## Injection
 
 Crash Bandicoot
 Crash Bandicoot 2: Cortex Strikes Back

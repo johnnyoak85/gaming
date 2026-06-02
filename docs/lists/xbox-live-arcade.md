@@ -1,17 +1,5 @@
 # XBox 360
 
-## Owned
-
-X-Men Origins Wolverine: Uncaged Edition
-Soul Calibur IV
-Fable II
-Fable III
-GTA IV
-Tenchu Z
-Dragon Ball Raging Blast
-Dragon Ball Raging Blast 2
-Dragon Ball Burst Limit
-
 ## Wishlist
 
 ### Digital
@@ -21,10 +9,8 @@ Dragon Ball Burst Limit
 | Black Knight Sword                    | Suda51 oddity, stuck on XBLA                | **High**                          |
 | Guardian Heroes                       | Niche remake tied to XBLA                   | **Medium**                        |
 | Hydro Thunder Hurricane               | Arcade-style racer, niche and tied to XBLA  | **Medium**                        |
-| Scott Pilgrim vs. the World: The Game | Was delisted, later revived                 | **Medium** (historical curiosity) |
 | Rez HD                                | Important but widely ported                 | **Low**                           |
 | Dust: An Elysian Tail                 | XBLA success story, now preserved elsewhere | **Low**                           |
-| Braid                                 | Kickstarted indie boom                      | **Low** (play elsewhere)          |
 | Limbo                                 | Iconic indie aesthetic                      | **Low** (play elsewhere)          |
 | Fez                                   | Cult puzzle platformer                      | **Low** (play elsewhere)          |
 | Castle Crashers                       | Defining co-op indie                        | **Low** (play elsewhere)          |
@@ -34,19 +20,6 @@ Dragon Ball Burst Limit
 - Deathspank (Digital)
 
 ---
-
-### What I already own
-
-- Braid
-- Castlevania: Harmony of Despair
-- Hard Corps: Uprising
-- Hexic HD
-- Portal: Still Alive
-- Rocket Knight
-- Scott Pilgrim versus The World: The Game
-- SoulCalibur
-- Stacking
-- Super Street Fighter 2 Turbo HD Remix
 
 ### What I have ready to inject
 

@@ -2,43 +2,48 @@
 
 ## What this project is
 
-A personal **gaming collection database** — unified data model powering multiple views (dashboard, list pages, detail pages, wishlist). Static site hosted on GitHub Pages; vanilla HTML + CSS + ES-module JS, no build step, no framework.
+A personal **gaming collection database** — unified data model powering multiple views (dashboard, list pages, detail pages, taxonomy browsers, wishlist). Static site hosted on GitHub Pages; vanilla HTML + CSS + ES-module JS, no build step, no framework.
 
-The mental model: **one dataset, multiple lenses** — Dashboard (overview), List pages ("what do I own?"), Wishlist ("what do I want?"), Detail ("full info on one entry").
+The mental model: **one dataset, multiple lenses** — Dashboard (overview/navigation), Collection lists ("what do I own?"), Taxonomy browsers (systems/series/companies), Detail pages ("full info on one entry"), Wishlist ("what do I want?").
 
 ## Repo structure
 
 ```
 gaming/
-├── data/
-│   ├── manifest.json          # Entry index: [{id, type}, ...] (~843 entries)
-│   ├── super-mario-bros.json  # One JSON file per entry, flat in data/
-│   ├── game-boy.json
-│   ├── bowser-amiibo.json
-│   └── ...
+├── assets/
+│   ├── data/
+│   │   ├── manifest.json          # Entry index: [{id, type}, ...] (~1027 entries)
+│   │   ├── super-mario-bros.json  # One JSON file per entry, flat in assets/data/
+│   │   ├── game-boy.json
+│   │   └── ...
+│   ├── images/                    # Local cover images (game/, hardware/ subdirs)
+│   ├── icons/                     # System/series/company logos
+│   └── fonts/
 ├── scripts/
 │   ├── catalog.js             # Central data loader/cache (manifest + solo files)
 │   ├── dashboard.js           # Dashboard page logic
 │   ├── games.js               # Games list page logic
-│   ├── consoles.js            # Consoles list page logic
+│   ├── consoles.js            # Consoles list page logic (legacy name for hardware list)
 │   ├── amiibos.js             # Amiibos list page logic
 │   ├── wishlist.js            # Wishlist aggregator page logic
 │   ├── detail.js              # Game detail page logic + rendering
 │   ├── hardware-detail.js     # Hardware detail page logic + rendering
 │   ├── amiibo-detail.js       # Amiibo detail page logic + rendering
+│   ├── systems.js             # Systems list page logic
+│   ├── system-detail.js       # System detail page logic
+│   ├── series.js              # Series list page logic
+│   ├── series-detail.js       # Series detail page logic
+│   ├── developers.js          # Companies list page logic
+│   ├── developer-detail.js    # Company detail page logic
 │   └── collection/            # Collection browser (not yet wired in)
 │       └── index.js
-├── style/
+├── styles/
 │   ├── dashboard.css          # Dashboard tiles, purple/dark theme
 │   ├── list.css               # Shared list/grid/cards for all list pages
-│   ├── collection.css         # Collection browser (not yet wired in)
 │   ├── detail.css             # Shared detail page layout (hero, sections, fields, chips)
 │   ├── hardware-detail.css    # Hardware-specific detail styling
-│   └── amiibo-detail.css      # Amiibo-specific detail styling
-├── images/                    # Local cover PNGs (~91 files, kebab-case slugs)
-├── staging/                   # Raw scraped data (DekuDeals export, etc.)
-│   ├── collection.json
-│   └── page.html
+│   ├── amiibo-detail.css      # Amiibo-specific detail styling
+│   └── collection.css         # Collection browser (not yet wired in)
 ├── docs/
 │   ├── schemas/               # Canonical JSON schemas (one per type)
 │   │   ├── game.md
@@ -50,46 +55,53 @@ gaming/
 │   ├── wishlists/             # Per-platform hardware wishlists
 │   ├── profile/               # Collector profile + philosophy docs
 │   └── universes.md           # Franchise universe groupings
-├── index.html                 # Dashboard — links to all list pages
+├── staging/                   # Raw scraped data (DekuDeals export, etc.)
+├── index.html                 # Dashboard — navigation hub
 ├── games.html                 # Games list page
-├── consoles.html              # Consoles list page
+├── consoles.html              # Hardware list page
 ├── amiibos.html               # Amiibos list page
+├── systems.html               # Systems taxonomy page
+├── series.html                # Series taxonomy page
+├── developers.html            # Companies taxonomy page
 ├── wishlist.html              # Wishlist aggregator (all types)
 ├── detail.html                # Game/collection/bundle detail page shell
 ├── hardware-detail.html       # Hardware detail page shell
 ├── amiibo-detail.html         # Amiibo detail page shell
-├── todo.md                    # Task tracking + open issues
-├── copilot.md                 # Scratch notes for copilot context
-├── missing.md                 # Priority hardware gaps + era mapping
-└── chatgpt.md                 # Collector context for ChatGPT sessions
+├── system-detail.html         # System detail page shell
+├── series-detail.html         # Series detail page shell
+├── developer-detail.html      # Company detail page shell
+└── todo.md                    # Task tracking + open issues
 ```
 
 ## Data architecture
 
 ### Storage model
 
-Each entry is stored as an individual JSON file in `data/{id}.json`. The `data/manifest.json` file is an index array of `{id, type}` objects used by the catalog loader.
+Each entry is stored as an individual JSON file in `assets/data/{id}.json`. The `assets/data/manifest.json` file is an index array of `{id, type}` objects used by the catalog loader.
 
 **catalog.js** is the central data module. It:
 1. Fetches `manifest.json` to get the entry list
-2. Fetches individual `data/{id}.json` files in parallel batches of 50
+2. Fetches individual `assets/data/{id}.json` files in parallel batches of 50
 3. Caches the full catalog in `localStorage` (versioned by manifest length)
-4. Exports: `loadCatalog`, `invalidateCache`, `getGames`, `getHardware`, `getAmiibo`
+4. Exports: `loadCatalog`, `invalidateCache`, `getGames`, `getHardware`, `getAmiibo`, `getSystems`, `getSeries`, `getCompanies`
 
-Detail pages fetch individual `data/{id}.json` files directly (no catalog needed).
+Detail pages fetch individual `assets/data/{id}.json` files directly (no catalog needed).
 
 ### Type discrimination
 
 The `type` field on each entry determines routing:
 
-| Type           | Detail page                        | List page     |
-|----------------|------------------------------------|---------------|
-| `game`         | `detail.html?id=<slug>`            | `games.html`  |
-| `collection`   | `detail.html?id=<slug>`            | `games.html`  |
-| `bundle`       | `detail.html?id=<slug>`            | `games.html`  |
-| `hardware`     | `hardware-detail.html?id=<slug>`   | `consoles.html` |
-| `amiibo`       | `amiibo-detail.html?id=<slug>`     | `amiibos.html` |
-| `merchandise`  | *(not yet built)*                  | *(not yet built)* |
+| Type           | Detail page                        | List page        |
+|----------------|------------------------------------|------------------|
+| `game`         | `detail.html?id=<slug>`            | `games.html`     |
+| `collection`   | `detail.html?id=<slug>`            | `games.html`     |
+| `bundle`       | `detail.html?id=<slug>`            | `games.html`     |
+| `hardware`     | `hardware-detail.html?id=<slug>`   | `consoles.html`  |
+| `amiibo`       | `amiibo-detail.html?id=<slug>`     | `amiibos.html`   |
+| `system`       | `system-detail.html?id=<slug>`     | `systems.html`   |
+| `series`       | `series-detail.html?id=<slug>`     | `series.html`    |
+| `company`      | `developer-detail.html?id=<slug>`  | `developers.html`|
+| `merchandise`  | *(not yet built)*                  | *(not yet built)*|
 
 ## Data model — current schemas
 
@@ -211,10 +223,29 @@ Key differences from older schema:
 
 Type `"merchandise"` covers soundtracks, artbooks, guides, steelbooks, figures, statues, LEGO sets, collector's edition extras, and select promotional items.
 
+### Taxonomy entries (system, series, company)
+
+These are lightweight entries used for filtering and navigation — they group other entries by console family, franchise, or developer/publisher.
+
+```json
+// System — groups hardware + games by platform family
+{ "id": "game-boy", "type": "system", "name": "Game Boy", "logo": "game-boy-logo" }
+
+// Series — groups entries by franchise; circle controls list visibility
+{ "id": "bomberman-series", "type": "series", "name": "Bomberman", "logo": "bomberman-logo", "circle": "major" }
+
+// Company — developer/publisher; circle controls list visibility
+{ "id": "capcom-company", "type": "company", "name": "Capcom", "logo": "capcom-logo", "circle": "major", "founded": "1979-05-30" }
+```
+
+- **`circle`** (`major` | `minor` | `sub`): determines visibility on list pages — only `major` and `minor` appear in the main list.
+- **`logo`** references an icon file in `assets/icons/`.
+- Games/hardware link to these via `franchise.series`, `franchise.subseries`, `system`, and `companies` fields.
+
 ## Enums (use these exact values)
 
 ```
-Types:              game | collection | bundle | hardware | amiibo | merchandise
+Types:              game | collection | bundle | hardware | amiibo | system | series | company | merchandise
 
 Progress:           planned | playing | paused | finished | completed | dropped
 
@@ -222,7 +253,8 @@ Access Format:      physical | digital | built_in | contained | injected | repro
 Access Status:      owned | wishlist | borrowed | subscription | unavailable
 
 Version Format:     base | port | enhanced_port | remaster | enhanced_remaster |
-                    remake | enhanced_remake | remix | enhanced_remix
+                    remake | enhanced_remake | remix | enhanced_remix |
+                    regional_variant | demake | enhanced_version
 
 Relationship Type:  original | prequel | sequel | spinoff | spiritual_successor |
                     spiritual_predecessor | reimagining | expansion | twin_engine | twin_game
@@ -248,7 +280,7 @@ Acquisition Priority: 1 (Low) | 2 (Medium) | 3 (High) | 4 (Essential) | 5 (Non-n
 ## Conventions
 
 - **IDs** are kebab-case slugs (e.g. `super-mario-bros`, `game-boy-advance`).
-- **Covers**: games use full IGDB URLs (`.webp`); hardware uses short slugs resolved to `./images/<slug>.png`; amiibo uses full amiibo.life URLs.
+- **Covers**: games use full IGDB URLs (`.webp`); hardware uses short slugs resolved to `./assets/images/hardware/<slug>.png`; amiibo uses full amiibo.life URLs.
 - **`access[].platform`** references a hardware entry's `id`.
 - **`access[].via`** references a game/collection/hardware entry's `id` (the source granting access).
 - **`versions[].source`** references another entry's `id`.
@@ -284,16 +316,22 @@ Acquisition Priority: 1 (Low) | 2 (Medium) | 3 (High) | 4 (Essential) | 5 (Non-n
 
 ## Pages overview
 
-| Page               | HTML               | Script                  | CSS               |
-|--------------------|--------------------|-------------------------|--------------------|
-| Dashboard          | `index.html`       | `scripts/dashboard.js`  | `style/dashboard.css` |
-| Games list         | `games.html`       | `scripts/games.js`      | `style/list.css`   |
-| Consoles list      | `consoles.html`    | `scripts/consoles.js`   | `style/list.css`   |
-| Amiibos list       | `amiibos.html`     | `scripts/amiibos.js`    | `style/list.css`   |
-| Wishlist           | `wishlist.html`    | `scripts/wishlist.js`   | `style/list.css`   |
-| Game detail        | `detail.html`      | `scripts/detail.js`     | `style/detail.css` + `style/hardware-detail.css` |
-| Hardware detail    | `hardware-detail.html` | `scripts/hardware-detail.js` | `style/detail.css` + `style/hardware-detail.css` |
-| Amiibo detail      | `amiibo-detail.html` | `scripts/amiibo-detail.js` | `style/detail.css` + `style/hardware-detail.css` + `style/amiibo-detail.css` |
+| Page               | HTML                   | Script                        | CSS                    |
+|--------------------|------------------------|-------------------------------|------------------------|
+| Dashboard          | `index.html`           | `scripts/dashboard.js`        | `styles/dashboard.css` |
+| Games list         | `games.html`           | `scripts/games.js`            | `styles/list.css`      |
+| Consoles list      | `consoles.html`        | `scripts/consoles.js`         | `styles/list.css`      |
+| Amiibos list       | `amiibos.html`         | `scripts/amiibos.js`          | `styles/list.css`      |
+| Wishlist           | `wishlist.html`        | `scripts/wishlist.js`         | `styles/list.css`      |
+| Systems list       | `systems.html`         | `scripts/systems.js`          | `styles/list.css`      |
+| Series list        | `series.html`          | `scripts/series.js`           | `styles/list.css`      |
+| Companies list     | `developers.html`      | `scripts/developers.js`       | `styles/list.css`      |
+| Game detail        | `detail.html`          | `scripts/detail.js`           | `styles/detail.css`    |
+| Hardware detail    | `hardware-detail.html` | `scripts/hardware-detail.js`  | `styles/detail.css` + `styles/hardware-detail.css` |
+| Amiibo detail      | `amiibo-detail.html`   | `scripts/amiibo-detail.js`    | `styles/detail.css` + `styles/amiibo-detail.css`   |
+| System detail      | `system-detail.html`   | `scripts/system-detail.js`    | `styles/detail.css`    |
+| Series detail      | `series-detail.html`   | `scripts/series-detail.js`    | `styles/detail.css`    |
+| Company detail     | `developer-detail.html`| `scripts/developer-detail.js` | `styles/detail.css`    |
 
 ## Open issues (from todo.md)
 
@@ -304,7 +342,6 @@ Acquisition Priority: 1 (Low) | 2 (Medium) | 3 (High) | 4 (Essential) | 5 (Non-n
 ## Planned features
 
 - **Metrics page**: total games, games per console, games per series, owned vs wishlist counts, total consoles, controllers per console.
-- **Series page**: lists franchises with logos; clicking navigates to a page with all entries from that series across all types.
 - **Merchandise page**: lists merchandise entries (schema ready in `docs/schemas/merch.md`, data not yet created).
 - **Collection browser** (`scripts/collection/index.js`): richer filtering/sorting — exists but not wired into any HTML page.
 - Shared render helpers should be extracted to a common module.

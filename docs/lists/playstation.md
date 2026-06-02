@@ -1,20 +1,33 @@
-# Wishlist
+# PlayStation Family
 
-## PlayStation
+## Owned
+
+### PlayStation
+
+- Tekken 3
+- Tomb Raider III
+
+### PlayStation 2
+
+- We Love Katamari
+- Tokobot Plus: Mysteries of the Karakuri
+
+## Wishlist
+
+### PlayStation
 
 | Name                               | Why                                                        | Priority          | Notes                                        |
 | ---------------------------------- | ---------------------------------------------------------- | ----------------- | -------------------------------------------- |
 | Castlevania: Symphony of the Night | Genre-defining; fits your Castlevania priority             | ❤️ Non-negotiable | Expensive / scalped                          |
-| Final Fantasy IX                   | Strong emotional attachment; peak classic FF identity      | ❤️ Non-negotiable | Own digital on Switch                        |
-| Metal Gear Solid                   | Massive historical title + fits your stealth/action taste  | 🧡 Essential      | Own via Master Collection Vol.1 + PS Classic |
 | Gran Turismo 2                     | Racing representation (you lack this on PS1)               | 💛 High           |                                              |
 | Driver                             | Unique driving/action hybrid                               | 💛 High           |                                              |
 | Resident Evil 2                    | Survival horror peak; major PS1 pillar                     | 💛 High           |                                              |
 | Castlevania Chronicles             | Rare Castlevania entry; **not preserved elsewhere**        | 💛 High           | X68000 origin; niche availability            |
 | Silent Hill                        | Defines psychological horror; complements Resident Evil II | 💛 High           |                                              |
-| Final Fantasy VII                  | Historical landmark, but low personal engagement           | 🤍 Low            | Own digital + PS Classic                     |
 
-## PlayStation 2
+- Bloody Roar 2
+
+### PlayStation 2
 
 | Name                                | Why                                                 | Priority          | Notes               |
 | ----------------------------------- | --------------------------------------------------- | ----------------- | ------------------- |
@@ -31,7 +44,10 @@
 | Prince of Persia: The Sands of Time | Major action-adventure milestone                    | 💛 High           |                     |
 | Devil May Cry 2                     | Weak entry; mostly archival                         | 🤍 Low            | Used to own         |
 
-## PlayStation 3
+- Tekken 5
+- Dead or Alive 2
+
+### PlayStation 3
 
 | Name                                     | Why                                                 | Priority     | Notes                               |
 | ---------------------------------------- | --------------------------------------------------- | ------------ | ----------------------------------- |
@@ -42,7 +58,7 @@
 | Infamous                                 | Major PS3-exclusive IP; fills open-world/action gap | 💛 High      |                                     |
 | LittleBigPlanet                          | Creative/social pillar of the platform              | 🩷 Medium    |                                     |
 
-## PlayStation Network
+### PlayStation Network
 
 - Tokyo Jungle
 - Echochrome

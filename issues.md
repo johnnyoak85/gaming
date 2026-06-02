@@ -1,20 +1,59 @@
-Library
+# Issues
 
-- Games
-  - Should show only entries that are of `type: game` and have at least one entry of `access` with `format: physical` and `status: owned`.
-  - Entries should be sorted by release date, earlier to later.
-- Hardware
-  - Should show only entries that are of `type: hardware` and have at least one entry of `ownership` with `status: owned`. Every entry that shares its identity with a system is showing twice.
-  - Entries should be sorted by release date, earlier to later and then by category, computer | console -> controller -> accessory
-- Amiibo
-  - Entries should be sorted by release date, earlier to later.
-- Wishlist
-  - Games should have a second button row to choose between `format: physical` and `format: digital`, other formats are discarded.
-  - Entries should be sorted by release date, earlier to later.
+## Library
 
-Worlds
+### Collection
 
-- When listing games: sort by release date, earlier to later and then by format, contained last.
-- When listing hardware: sort by release date, earlier to later and then by category, computer | console -> controller -> accessory
+- Too confusing right now, both are either a huge list of games or a huge list of hardware. Not very nice to navigate
 
-ALL ENTRIES EVERYWHERE SHOULD BE SORTED BY RELEASE DATE, EARLIER TO LATER.
+### Wishlist
+
+- Wishlist should be it's own page to make it easier to share by url
+- It shows games, hardware, amiibo and merchandise
+- It should only show physical games, not digital ones
+- Upon arriving at the page, there should be 3 cards:
+  - Systems
+  - Collectibles
+- Systems shows a list of system entries for which there are wishlisted items for (physical games, hardware)
+- Collectibles allows selection of either Amiibo or any other merchandise
+
+## Worlds
+
+### Companies
+
+- Create two sections: Major, Minor
+- Organize each section by foundation date
+- Sub companies only appear inside their parent company
+
+#### Company
+
+- Sections: Companies (sub, if exist, called Subsidiaries)
+- Games: Organized by company eras
+
+### Systems
+
+- Organize by sections, each section is a gaming era
+
+#### System
+
+- First section: hardware
+- Second section: games
+  - Organize by system's eras
+
+### Series
+
+- Create two sections: Major, Minor
+- Organize each section by start date
+- Sub series only appear inside their parent series
+
+#### Series (single entry)
+
+- Sections:
+  - Series (sub, if exist)
+  - Hardware (if it exists)
+  - Games: Organized launch date
+  - Amiibo  (if it exists)
+
+### People
+
+### Events

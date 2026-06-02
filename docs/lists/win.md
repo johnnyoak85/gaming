@@ -13,3 +13,18 @@
 | Quake II                        | FPS lineage alongside Half-Life                         | 💛 High           |                       |
 | Unreal                          | Technical showcase; engine milestone                    | 💛 High           |                       |
 | RollerCoaster Tycoon            | Peak management sim; fits your Bullfrog lineage         | 🩷 Medium         | Respect > play intent |
+
+## Owned on steam
+
+- Tomb Raider I
+- Tomb Raider II
+- Tomb Raider III: Adventures of Lara Croft
+- Tomb Raider: The Last Revelation
+- Tomb Raider: Chronicles
+- Tomb Raider: The Angel of Darkness
+- Tomb Raider: Anniversary
+- Tomb Raider: Legend
+- Tomb Raider: Underworld
+- Tomb Raider
+- Shadow of the Tomb Raider
+- Rise of the Tomb Raider
