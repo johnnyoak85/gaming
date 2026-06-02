@@ -1,8 +1,46 @@
-{
-    "id": "hal-laboratory-company",
-    "founded": "1980-02-21",
-    "type": "company",
-    "name": "Hal Laboratory",
-    "logo": "hal-laboratory-logo",
-    "circle": "sub"
-}
+    {
+        "id": "hal-laboratory-company",
+        "name": "HAL Laboratory",
+        "description": "Japanese developer closely associated with Nintendo, best known for Kirby, EarthBound support, and Super Smash Bros.",
+        "type": "company",
+        "logo": "hal-laboratory-logo",
+        "circle": "sub",
+        "founded": "1980-02-21",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "satoru-iwata",
+            "masahiro-sakurai",
+            "hirokazu-ando",
+            "jun-ishikawa"
+        ],
+        "essentials": [
+            "kirbys-adventure",
+            "earthbound",
+            "kirby-super-star",
+            "super-smash-bros",
+            "super-smash-bros-melee"
+        ],
+        "eras": [
+            {
+                "title": "Early Nintendo Collaboration",
+                "start_year": 1980,
+                "end_year": 1991,
+                "description": "Computer-game origins and early Nintendo support work."
+            },
+            {
+                "title": "Kirby and Smash Era",
+                "start_year": 1992,
+                "end_year": 2008,
+                "description": "Kirby becomes HAL's defining franchise, followed by the original Smash Bros. games."
+            },
+            {
+                "title": "Modern Kirby Era",
+                "start_year": 2009,
+                "end_year": null,
+                "description": "Continued Kirby development and Nintendo-exclusive identity."
+            }
+        ],
+        "notes": "Modeled as a Nintendo child in this taxonomy because it is primarily useful as a Nintendo-associated studio page."
+    }

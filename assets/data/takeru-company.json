@@ -1,0 +1,30 @@
+{
+    "id": "takeru-company",
+    "name": "Takeru",
+    "description": "Short-lived Japanese developer associated with Little Samson and Cocoron.",
+    "type": "company",
+    "logo": "takeru-logo",
+    "circle": "sub",
+    "founded": "1990-01-01",
+    "defunct": {
+        "date": "1994-01-01",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "little-samson",
+        "cocoron"
+    ],
+    "eras": [
+        {
+            "title": "Brief Famicom Era",
+            "start_year": 1990,
+            "end_year": 1994,
+            "description": "Short active period producing a small number of technically polished late-generation games."
+        }
+    ],
+    "notes": "Also associated with the Sur Dé Wave name. Exact founding and closure dates are hard to pin down, so the dates here use year-level approximations."
+}

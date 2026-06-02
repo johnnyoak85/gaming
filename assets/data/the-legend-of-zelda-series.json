@@ -1,7 +1,53 @@
 {
     "id": "the-legend-of-zelda-series",
-    "type": "series",
     "name": "The Legend of Zelda",
+    "description": "Nintendo's adventure franchise about Link, Zelda, Hyrule, exploration, dungeons, and mythic cycles.",
+    "type": "series",
     "logo": "the-legend-of-zelda-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka",
+        "koji-kondo",
+        "eiji-aonuma"
+    ],
+    "essentials": [
+        "the-legend-of-zelda",
+        "the-legend-of-zelda-a-link-to-the-past",
+        "the-legend-of-zelda-ocarina-of-time",
+        "the-legend-of-zelda-the-wind-waker",
+        "the-legend-of-zelda-breath-of-the-wild",
+        "the-legend-of-zelda-tears-of-the-kingdom"
+    ],
+    "eras": [
+        {
+            "title": "Classic 2D Era",
+            "start_year": 1986,
+            "end_year": 1993,
+            "description": "Original top-down adventures and the foundation of Zelda's exploration-dungeon structure."
+        },
+        {
+            "title": "3D Template Era",
+            "start_year": 1998,
+            "end_year": 2006,
+            "description": "Ocarina of Time and its successors define 3D Zelda structure."
+        },
+        {
+            "title": "Experimentation Era",
+            "start_year": 2009,
+            "end_year": 2015,
+            "description": "Handheld, motion-control, and structural experiments before the open-air reset."
+        },
+        {
+            "title": "Open-Air Era",
+            "start_year": 2017,
+            "end_year": null,
+            "description": "Breath of the Wild and Tears of the Kingdom reshape Zelda around open-ended systemic exploration."
+        }
+    ],
+    "notes": null
 }

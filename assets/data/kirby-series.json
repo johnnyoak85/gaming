@@ -1,7 +1,47 @@
 {
     "id": "kirby-series",
-    "type": "series",
     "name": "Kirby",
+    "description": "HAL Laboratory and Nintendo's accessible action-platforming franchise starring Kirby and his copy abilities.",
+    "type": "series",
     "logo": "kirby-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "hal-laboratory-company",
+        "nintendo-company"
+    ],
+    "people": [
+        "masahiro-sakurai",
+        "satoru-iwata",
+        "hirokazu-ando",
+        "jun-ishikawa"
+    ],
+    "essentials": [
+        "kirbys-dream-land",
+        "kirbys-adventure",
+        "kirby-super-star",
+        "kirby-planet-robobot",
+        "kirby-and-the-forgotten-land"
+    ],
+    "eras": [
+        {
+            "title": "Sakurai Era",
+            "start_year": 1992,
+            "end_year": 2003,
+            "description": "Original Kirby identity, copy abilities, Super Star structure, and early experiments."
+        },
+        {
+            "title": "Modern HAL Era",
+            "start_year": 2011,
+            "end_year": 2021,
+            "description": "Return to polished 2D platforming and expanded copy-ability design."
+        },
+        {
+            "title": "3D Era",
+            "start_year": 2022,
+            "end_year": null,
+            "description": "Full 3D mainline Kirby beginning with Forgotten Land."
+        }
+    ],
+    "notes": null
 }

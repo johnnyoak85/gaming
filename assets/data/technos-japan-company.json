@@ -1,8 +1,47 @@
-{
-    "id": "technos-japan-company",
-    "founded": "1981-12-01",
-    "type": "company",
-    "name": "Technōs Japan",
-    "logo": "technos-japan-logo",
-    "circle": "minor"
-}
+    {
+        "id": "technos-japan-company",
+        "name": "Technōs Japan",
+        "description": "Defunct Japanese developer known for Kunio-kun, Renegade, Double Dragon, and influential beat 'em ups.",
+        "type": "company",
+        "logo": "technos-japan-logo",
+        "circle": "minor",
+        "founded": "1981-12-01",
+        "defunct": {
+            "date": "1996-01-01",
+            "reason": "dissolved",
+            "successor": "arc-system-works-company"
+        },
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "yoshihisa-kishimoto"
+        ],
+        "essentials": [
+            "renegade",
+            "double-dragon",
+            "river-city-ransom",
+            "super-dodge-ball",
+            "downtown-nekketsu-story"
+        ],
+        "eras": [
+            {
+                "title": "Kunio and Double Dragon Era",
+                "start_year": 1981,
+                "end_year": 1991,
+                "description": "Creation of Kunio-kun, Renegade, Double Dragon, and Technōs' defining brawler identity."
+            },
+            {
+                "title": "Late Technōs Era",
+                "start_year": 1992,
+                "end_year": 1996,
+                "description": "Later sequels and decline before bankruptcy."
+            },
+            {
+                "title": "Arc System Works Legacy Era",
+                "start_year": 2015,
+                "end_year": null,
+                "description": "Kunio-kun and Double Dragon legacy under Arc System Works ownership."
+            }
+        ],
+        "notes": "Arc System Works later acquired the Technōs intellectual properties; the original company itself was dissolved."
+    }

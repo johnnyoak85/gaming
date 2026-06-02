@@ -1,7 +1,8 @@
 {
     "id": "kunio-kun-series",
+    "name": "Kunio-kun",
+    "description": "Technōs Japan's schoolyard action franchise spanning brawlers, sports games, and River City spin-offs.",
     "type": "series",
-    "name": "Kunio Kun",
     "logo": "kunio-kun-logo",
     "circle": "minor",
     "contains": [
@@ -9,5 +10,34 @@
         "river-city-ransom-series",
         "nekketsu-series",
         "river-city-girls-series"
-    ]
+    ],
+    "companies": [
+        "technos-japan-company",
+        "arc-system-works-company"
+    ],
+    "people": [
+        "yoshihisa-kishimoto"
+    ],
+    "essentials": [
+        "nekketsu-renegade-kunio-kun",
+        "downtown-nekketsu-story",
+        "river-city-ransom",
+        "super-dodge-ball",
+        "river-city-girls"
+    ],
+    "eras": [
+        {
+            "title": "Technōs Era",
+            "start_year": 1986,
+            "end_year": 1996,
+            "description": "Original brawler and sports period under Technōs Japan."
+        },
+        {
+            "title": "Arc System Works Revival Era",
+            "start_year": 2015,
+            "end_year": null,
+            "description": "Modern revival and localization period under Arc System Works."
+        }
+    ],
+    "notes": null
 }

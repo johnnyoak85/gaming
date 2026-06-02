@@ -1,0 +1,33 @@
+{
+    "id": "ape-company",
+    "name": "Ape",
+    "description": "Japanese studio created around Shigesato Itoi's Mother series. Later evolved into Creatures.",
+    "type": "company",
+    "logo": "ape-logo",
+    "circle": "minor",
+    "founded": "1989-03-01",
+    "defunct": {
+        "date": "1995-11-08",
+        "reason": "renamed",
+        "successor": "creatures-company"
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [
+        "shigesato-itoi",
+        "hirokazu-tanaka"
+    ],
+    "essentials": [
+        "earthbound-beginnings",
+        "earthbound"
+    ],
+    "eras": [
+        {
+            "title": "Mother Era",
+            "start_year": 1989,
+            "end_year": 1995,
+            "description": "Short-lived studio period centered on Mother and Mother 2."
+        }
+    ],
+    "notes": "Ape's game development identity is mostly relevant through Mother/EarthBound before the company transitioned into Creatures."
+}

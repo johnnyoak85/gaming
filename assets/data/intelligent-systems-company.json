@@ -1,8 +1,50 @@
-{
-    "id": "intelligent-systems-company",
-    "founded": "1983-07-14",
-    "type": "company",
-    "name": "Intelligent Systems",
-    "logo": "intelligent-systems-logo",
-    "circle": "sub"
-}
+    {
+        "id": "intelligent-systems-company",
+        "name": "Intelligent Systems",
+        "description": "Nintendo-associated developer known for Fire Emblem, Paper Mario, WarioWare, and Nintendo development tools.",
+        "type": "company",
+        "logo": "intelligent-systems-logo",
+        "circle": "sub",
+        "founded": "1983-07-14",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "shouzou-kaga",
+            "yuka-tsujiyoko"
+        ],
+        "essentials": [
+            "fire-emblem-shadow-dragon-and-the-blade-of-light",
+            "fire-emblem-mystery-of-the-emblem",
+            "paper-mario",
+            "paper-mario-the-thousand-year-door",
+            "wario-ware-inc-mega-microgame"
+        ],
+        "eras": [
+            {
+                "title": "Nintendo Tools and Famicom Era",
+                "start_year": 1983,
+                "end_year": 1989,
+                "description": "Early Nintendo support, programming tools, and technical work."
+            },
+            {
+                "title": "Fire Emblem Foundation",
+                "start_year": 1990,
+                "end_year": 1999,
+                "description": "Creation and growth of Fire Emblem across Nintendo's 8-bit and 16-bit systems."
+            },
+            {
+                "title": "Paper Mario and WarioWare Era",
+                "start_year": 2000,
+                "end_year": 2011,
+                "description": "Expansion into Mario RPGs, WarioWare, and broader Nintendo software."
+            },
+            {
+                "title": "Modern Fire Emblem Era",
+                "start_year": 2012,
+                "end_year": null,
+                "description": "Fire Emblem's global revival and continued Nintendo collaboration."
+            }
+        ],
+        "notes": "Modeled as a Nintendo child in this taxonomy because it functions as a Nintendo-associated internal/partner studio for browsing."
+    }

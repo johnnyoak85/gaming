@@ -1,8 +1,50 @@
-{
-    "id": "capcom-company",
-    "founded": "1979-05-30",
-    "type": "company",
-    "name": "Capcom",
-    "logo": "capcom-logo",
-    "circle": "major"
-}
+    {
+        "id": "capcom-company",
+        "name": "Capcom",
+        "description": "Japanese developer and publisher known for Mega Man, Street Fighter, Resident Evil, Monster Hunter, and Devil May Cry.",
+        "type": "company",
+        "logo": "capcom-logo",
+        "circle": "major",
+        "founded": "1979-05-30",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "tokuro-fujiwara",
+            "keiji-inafune"
+        ],
+        "essentials": [
+            "mega-man-2",
+            "street-fighter-ii-the-world-warrior",
+            "resident-evil",
+            "devil-may-cry",
+            "monster-hunter-world"
+        ],
+        "eras": [
+            {
+                "title": "Arcade and NES Era",
+                "start_year": 1979,
+                "end_year": 1990,
+                "description": "Early arcade hits and the rise of Capcom's NES identity."
+            },
+            {
+                "title": "Fighting Game Era",
+                "start_year": 1991,
+                "end_year": 1999,
+                "description": "Street Fighter II, arcade dominance, and major console franchises."
+            },
+            {
+                "title": "Survival and Action Era",
+                "start_year": 1996,
+                "end_year": 2016,
+                "description": "Resident Evil, Devil May Cry, Monster Hunter, and Capcom's 3D action identity."
+            },
+            {
+                "title": "Modern Revival Era",
+                "start_year": 2017,
+                "end_year": null,
+                "description": "Major comeback period led by Resident Evil, Monster Hunter, and polished legacy revivals."
+            }
+        ],
+        "notes": null
+    }

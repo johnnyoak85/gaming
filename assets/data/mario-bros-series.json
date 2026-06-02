@@ -1,7 +1,21 @@
 {
     "id": "mario-bros-series",
-    "type": "series",
     "name": "Mario Bros.",
+    "description": "Early Mario arcade branch centered on single-screen platform action with Mario and Luigi.",
+    "type": "series",
     "logo": "mario-bros-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "gunpei-yokoi"
+    ],
+    "essentials": [
+        "mario-bros"
+    ],
+    "eras": [],
+    "notes": null
 }

@@ -1,7 +1,25 @@
 {
     "id": "nekketsu-series",
-    "type": "series",
     "name": "Nekketsu",
+    "description": "Kunio-kun subseries focused on Nekketsu High and its brawler-sports schoolyard identity.",
+    "type": "series",
     "logo": "nekketsu-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "technos-japan-company",
+        "arc-system-works-company"
+    ],
+    "people": [
+        "yoshihisa-kishimoto"
+    ],
+    "essentials": [
+        "nekketsu-renegade-kunio-kun",
+        "nekketsu-high-school-dodgeball-club",
+        "go-go-nekketsu-hockey-club-slip-and-slide-madness",
+        "nekketsu-fighting-legend",
+        "nekketsu-street-basketball-all-out-dunk-heroes"
+    ],
+    "eras": [],
+    "notes": null
 }

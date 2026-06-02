@@ -1,0 +1,32 @@
+{
+  "id": "tecmo-bowl-series",
+  "name": "Tecmo Bowl",
+  "description": "Tecmo's arcade-style American football series known for fast play and accessible sports action.",
+  "type": "series",
+  "logo": "tecmo-bowl-logo",
+  "circle": "minor",
+  "contains": [],
+  "companies": [
+    "tecmo-company"
+  ],
+  "people": [],
+  "essentials": [
+    "tecmo-bowl",
+    "tecmo-super-bowl"
+  ],
+  "eras": [
+    {
+      "title": "Arcade and NES Era",
+      "start_year": 1987,
+      "end_year": 1991,
+      "description": "Original arcade and NES entries, culminating in Tecmo Super Bowl."
+    },
+    {
+      "title": "Later Sequel Era",
+      "start_year": 1992,
+      "end_year": 2008,
+      "description": "Follow-up entries across later consoles and handhelds."
+    }
+  ],
+  "notes": null
+}

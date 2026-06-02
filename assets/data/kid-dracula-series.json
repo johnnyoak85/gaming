@@ -1,0 +1,19 @@
+{
+    "id": "kid-dracula-series",
+    "name": "Kid Dracula",
+    "description": "Cute Castlevania parody subseries starring Dracula's son in lighter action-platformers.",
+    "type": "series",
+    "logo": "kid-dracula-logo",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [],
+    "essentials": [
+        "kid-dracula",
+        "kid-dracula-game-boy"
+    ],
+    "eras": [],
+    "notes": "Subseries of castlevania-series. Parent should contain this ID."
+}

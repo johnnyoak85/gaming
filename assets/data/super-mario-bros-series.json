@@ -1,7 +1,45 @@
 {
     "id": "super-mario-bros-series",
-    "type": "series",
     "name": "Super Mario Bros.",
+    "description": "Mainline 2D Mario platforming branch built around side-scrolling stages, power-ups, and Mushroom Kingdom adventures.",
+    "type": "series",
     "logo": "super-mario-bros-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka",
+        "koji-kondo"
+    ],
+    "essentials": [
+        "super-mario-bros",
+        "super-mario-bros-3",
+        "super-mario-world",
+        "new-super-mario-bros",
+        "super-mario-bros-wonder"
+    ],
+    "eras": [
+        {
+            "title": "Classic 2D Era",
+            "start_year": 1985,
+            "end_year": 1995,
+            "description": "Original 2D platformers that defined Mario's core language."
+        },
+        {
+            "title": "New Super Mario Era",
+            "start_year": 2006,
+            "end_year": 2019,
+            "description": "Modern revival of traditional 2D Mario structure."
+        },
+        {
+            "title": "Wonder Era",
+            "start_year": 2023,
+            "end_year": null,
+            "description": "New expressive 2D direction beginning with Wonder."
+        }
+    ],
+    "notes": null
 }

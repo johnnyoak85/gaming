@@ -1,10 +1,45 @@
 {
     "id": "contra-series",
-    "type": "series",
     "name": "Contra",
+    "description": "Konami's run-and-gun action franchise about commandos, alien threats, and relentless co-op shooting.",
+    "type": "series",
     "logo": "contra-logo",
     "circle": "major",
     "contains": [
         "hard-corps-series"
-    ]
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [
+        "nobuya-nakazato"
+    ],
+    "essentials": [
+        "contra",
+        "super-c",
+        "contra-iii-the-alien-wars",
+        "contra-hard-corps",
+        "contra-shattered-soldier"
+    ],
+    "eras": [
+        {
+            "title": "Classic Run-and-Gun Era",
+            "start_year": 1987,
+            "end_year": 1994,
+            "description": "Arcade, NES, SNES, and Genesis entries that define the fast co-op run-and-gun formula."
+        },
+        {
+            "title": "Experimentation Era",
+            "start_year": 1996,
+            "end_year": 2004,
+            "description": "3D attempts and later returns to stricter action design."
+        },
+        {
+            "title": "Legacy Revival Era",
+            "start_year": 2007,
+            "end_year": null,
+            "description": "Revivals, re-releases, and retro-styled attempts to recapture classic Contra."
+        }
+    ],
+    "notes": null
 }

@@ -1,0 +1,37 @@
+{
+    "id": "punch-out-series",
+    "name": "Punch-Out!!",
+    "description": "Nintendo boxing series built around pattern recognition, timing, and exaggerated opponents.",
+    "type": "series",
+    "logo": "punch-out-logo",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "genyo-takeda",
+        "makoto-wada"
+    ],
+    "essentials": [
+        "punch-out-arcade",
+        "punch-out-featuring-mr-dream",
+        "super-punch-out",
+        "punch-out-wii"
+    ],
+    "eras": [
+        {
+            "title": "Classic Era",
+            "start_year": 1984,
+            "end_year": 1994,
+            "description": "Arcade, NES, and SNES entries defining the pattern-boxing formula."
+        },
+        {
+            "title": "Revival Era",
+            "start_year": 2009,
+            "end_year": 2009,
+            "description": "Next Level Games revival that modernized the classic formula."
+        }
+    ],
+    "notes": null
+}

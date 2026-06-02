@@ -1,0 +1,49 @@
+{
+    "id": "sunsoft-company",
+    "name": "Sunsoft",
+    "description": "Game brand of Sun Corporation, known for technically strong NES games like Blaster Master, Batman, Gimmick!, and Ufouria.",
+    "type": "company",
+    "logo": "sunsoft-logo",
+    "circle": "minor",
+    "founded": "1971-04-16",
+    "defunct": null,
+    "contains": [],
+    "country": "JP",
+    "people": [
+        "naoki-kodaka"
+    ],
+    "essentials": [
+        "blaster-master",
+        "batman-the-video-game",
+        "gimmick",
+        "ufouria-the-saga",
+        "mr-gimmick"
+    ],
+    "eras": [
+        {
+            "title": "Electronics and Arcade Origins",
+            "start_year": 1971,
+            "end_year": 1984,
+            "description": "Sun Corporation's pre-console period, moving from electronics into arcade games."
+        },
+        {
+            "title": "NES/Famicom Cult Era",
+            "start_year": 1985,
+            "end_year": 1992,
+            "description": "Sunsoft's strongest creative period, marked by technically impressive NES and Famicom games."
+        },
+        {
+            "title": "Decline and Dormancy",
+            "start_year": 1993,
+            "end_year": 2021,
+            "description": "Reduced international presence and long periods of inactivity around the Sunsoft brand."
+        },
+        {
+            "title": "Retro Revival",
+            "start_year": 2022,
+            "end_year": null,
+            "description": "Modern revival of the Sunsoft catalogue through collections, sequels, and re-releases."
+        }
+    ],
+    "notes": "Sunsoft is best treated as the game-development brand of Sun Corporation rather than a separate independent company."
+}

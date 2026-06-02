@@ -1,7 +1,38 @@
 {
     "id": "double-dragon-series",
-    "type": "series",
     "name": "Double Dragon",
+    "description": "Technōs Japan's beat 'em up franchise about the Lee brothers and street-gang martial arts action.",
+    "type": "series",
     "logo": "double-dragon-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "technos-japan-company",
+        "arc-system-works-company"
+    ],
+    "people": [
+        "yoshihisa-kishimoto"
+    ],
+    "essentials": [
+        "double-dragon",
+        "double-dragon-ii-the-revenge",
+        "double-dragon-advance",
+        "double-dragon-neon",
+        "double-dragon-gaiden-rise-of-the-dragons"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Brawler Era",
+            "start_year": 1987,
+            "end_year": 1992,
+            "description": "Original Technōs period that helped define the belt-scrolling beat 'em up."
+        },
+        {
+            "title": "Revival Era",
+            "start_year": 2003,
+            "end_year": null,
+            "description": "Modern remakes, tributes, and Arc System Works-era revivals."
+        }
+    ],
+    "notes": null
 }

@@ -1,10 +1,49 @@
 {
     "id": "metroid-series",
-    "type": "series",
     "name": "Metroid",
+    "description": "Nintendo sci-fi action-adventure franchise starring Samus Aran, built around exploration, upgrades, isolation, and alien worlds.",
+    "type": "series",
     "logo": "metroid-logo",
     "circle": "major",
     "contains": [
         "metroid-prime-series"
-    ]
+    ],
+    "companies": [
+        "nintendo-company",
+        "intelligent-systems-company"
+    ],
+    "people": [
+        "gunpei-yokoi",
+        "yoshio-sakamoto",
+        "hiroji-kiyotake",
+        "hirokazu-tanaka"
+    ],
+    "essentials": [
+        "metroid",
+        "super-metroid",
+        "metroid-prime",
+        "metroid-fusion",
+        "metroid-dread"
+    ],
+    "eras": [
+        {
+            "title": "Classic Exploration Era",
+            "start_year": 1986,
+            "end_year": 2002,
+            "description": "2D exploration lineage from Metroid through Super Metroid and Fusion."
+        },
+        {
+            "title": "Prime Era",
+            "start_year": 2002,
+            "end_year": 2007,
+            "description": "First-person adventure branch led by Retro Studios."
+        },
+        {
+            "title": "Modern Revival Era",
+            "start_year": 2017,
+            "end_year": null,
+            "description": "Remakes and new entries restoring Metroid as an active Nintendo franchise."
+        }
+    ],
+    "notes": null
 }

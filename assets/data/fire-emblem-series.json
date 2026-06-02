@@ -1,7 +1,53 @@
 {
     "id": "fire-emblem-series",
-    "type": "series",
     "name": "Fire Emblem",
+    "description": "Nintendo and Intelligent Systems tactical RPG franchise built around grid battles, character armies, and permanent consequences.",
+    "type": "series",
     "logo": "fire-emblem-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [
+        "fire-emblem-archanea-series"
+    ],
+    "companies": [
+        "intelligent-systems-company",
+        "nintendo-company"
+    ],
+    "people": [
+        "shouzou-kaga",
+        "yuka-tsujiyoko"
+    ],
+    "essentials": [
+        "fire-emblem-shadow-dragon-and-the-blade-of-light",
+        "fire-emblem-mystery-of-the-emblem",
+        "fire-emblem-the-blazing-blade",
+        "fire-emblem-awakening",
+        "fire-emblem-three-houses"
+    ],
+    "eras": [
+        {
+            "title": "Kaga Era",
+            "start_year": 1990,
+            "end_year": 1999,
+            "description": "Original creator-led period that established Fire Emblem's tactical RPG identity."
+        },
+        {
+            "title": "GBA and Global Era",
+            "start_year": 2002,
+            "end_year": 2008,
+            "description": "International breakthrough and portable refinement."
+        },
+        {
+            "title": "Revival Era",
+            "start_year": 2012,
+            "end_year": 2017,
+            "description": "Awakening and Fates revive the franchise commercially."
+        },
+        {
+            "title": "Modern Console Era",
+            "start_year": 2019,
+            "end_year": null,
+            "description": "Large-scale Switch-era entries with broader RPG and social systems."
+        }
+    ],
+    "notes": null
 }

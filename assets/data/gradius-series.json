@@ -1,7 +1,37 @@
 {
     "id": "gradius-series",
-    "type": "series",
     "name": "Gradius",
+    "description": "Konami's side-scrolling shooter franchise known for the Vic Viper, power meters, options, and checkpoint tension.",
+    "type": "series",
     "logo": "gradius-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [
+        "miki-higashino"
+    ],
+    "essentials": [
+        "gradius",
+        "gradius-ii",
+        "gradius-iii",
+        "gradius-gaiden",
+        "gradius-v"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Era",
+            "start_year": 1985,
+            "end_year": 1989,
+            "description": "Original arcade releases establishing the power-meter shooter formula."
+        },
+        {
+            "title": "Console Expansion Era",
+            "start_year": 1990,
+            "end_year": 2004,
+            "description": "16-bit, PlayStation, and PS2 entries expanding the series' technical and design range."
+        }
+    ],
+    "notes": null
 }

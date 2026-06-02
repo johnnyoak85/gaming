@@ -1,8 +1,34 @@
-{
-    "id": "tose-company",
-    "founded": "1979-11-01",
-    "type": "company",
-    "name": "Tose",
-    "logo": "tose-logo",
-    "circle": "major"
-}
+    {
+        "id": "tose-company",
+        "name": "Tose",
+        "description": "Japanese contract developer known for extensive co-development and porting work across many publishers' games.",
+        "type": "company",
+        "logo": "tose-logo",
+        "circle": "minor",
+        "founded": "1979-11-01",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [],
+        "essentials": [
+            "kid-icarus",
+            "dragon-quest-monsters",
+            "game-and-watch-gallery",
+            "starfy"
+        ],
+        "eras": [
+            {
+                "title": "Hidden Developer Era",
+                "start_year": 1979,
+                "end_year": 1999,
+                "description": "Long period of largely uncredited or lightly credited development and porting work."
+            },
+            {
+                "title": "Portable Co-development Era",
+                "start_year": 2000,
+                "end_year": null,
+                "description": "Continued contract development, especially on handheld and licensed projects."
+            }
+        ],
+        "notes": "Not major in list-page prominence despite its large output; best treated as a minor contract-development studio."
+    }

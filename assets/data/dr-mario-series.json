@@ -1,7 +1,23 @@
 {
     "id": "dr-mario-series",
-    "type": "series",
     "name": "Dr. Mario",
+    "description": "Mario puzzle subseries about clearing viruses with falling colored capsules.",
+    "type": "series",
     "logo": "dr-mario-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "gunpei-yokoi",
+        "hirokazu-tanaka"
+    ],
+    "essentials": [
+        "dr-mario",
+        "dr-mario-64",
+        "dr-mario-world"
+    ],
+    "eras": [],
+    "notes": null
 }

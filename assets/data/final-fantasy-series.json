@@ -1,7 +1,60 @@
 {
     "id": "final-fantasy-series",
-    "type": "series",
     "name": "Final Fantasy",
+    "description": "Square's flagship RPG franchise, known for reinvention, dramatic storytelling, summons, crystals, and iconic music.",
+    "type": "series",
     "logo": "final-fantasy-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "square-company",
+        "square-enix-company"
+    ],
+    "people": [
+        "hironobu-sakaguchi",
+        "nobuo-uematsu",
+        "yoshitaka-amano"
+    ],
+    "essentials": [
+        "final-fantasy",
+        "final-fantasy-iv",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "final-fantasy-ix",
+        "final-fantasy-x",
+        "final-fantasy-xiv"
+    ],
+    "eras": [
+        {
+            "title": "Famicom Era",
+            "start_year": 1987,
+            "end_year": 1990,
+            "description": "Original 8-bit RPG trilogy establishing crystals, parties, jobs, and the series identity."
+        },
+        {
+            "title": "Super Famicom Golden Era",
+            "start_year": 1991,
+            "end_year": 1994,
+            "description": "Narrative and systems peak of the 2D era."
+        },
+        {
+            "title": "PlayStation Cinematic Era",
+            "start_year": 1997,
+            "end_year": 2000,
+            "description": "Pre-rendered backgrounds, cinematic presentation, and global mainstream breakthrough."
+        },
+        {
+            "title": "PS2 and Online Expansion Era",
+            "start_year": 2001,
+            "end_year": 2006,
+            "description": "Voice acting, online RPG expansion, and more experimental structure."
+        },
+        {
+            "title": "Modern Reinvention Era",
+            "start_year": 2009,
+            "end_year": null,
+            "description": "HD-era reinventions, MMO revival, action combat, and large-scale remakes."
+        }
+    ],
+    "notes": null
 }

@@ -1,7 +1,43 @@
 {
     "id": "pac-man-series",
-    "type": "series",
     "name": "Pac-Man",
+    "description": "Namco's maze-chase franchise starring Pac-Man, one of arcade gaming's most recognizable characters.",
+    "type": "series",
     "logo": "pac-man-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "namco-company"
+    ],
+    "people": [
+        "toru-iwatani"
+    ],
+    "essentials": [
+        "pac-man",
+        "ms-pac-man",
+        "pac-land",
+        "pac-mania",
+        "pac-man-championship-edition"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Maze Era",
+            "start_year": 1980,
+            "end_year": 1987,
+            "description": "Original maze-chase and arcade sequel period."
+        },
+        {
+            "title": "Character Experimentation Era",
+            "start_year": 1984,
+            "end_year": 2005,
+            "description": "Platformers, 3D games, and character-brand experiments."
+        },
+        {
+            "title": "Championship Era",
+            "start_year": 2007,
+            "end_year": null,
+            "description": "Modern score-attack reinterpretations and legacy releases."
+        }
+    ],
+    "notes": null
 }

@@ -1,0 +1,36 @@
+{
+    "id": "blaster-master-series",
+    "name": "Blaster Master",
+    "description": "Sunsoft's sci-fi action-adventure series mixing vehicle combat with on-foot exploration.",
+    "type": "series",
+    "logo": "blaster-master-logo",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "sunsoft-company"
+    ],
+    "people": [
+        "naoki-kodaka"
+    ],
+    "essentials": [
+        "blaster-master",
+        "blaster-master-zero",
+        "blaster-master-zero-ii",
+        "blaster-master-zero-iii"
+    ],
+    "eras": [
+        {
+            "title": "Sunsoft Era",
+            "start_year": 1988,
+            "end_year": 1993,
+            "description": "Original Sunsoft period centered on the NES game and early sequels."
+        },
+        {
+            "title": "Zero Era",
+            "start_year": 2017,
+            "end_year": 2021,
+            "description": "Inti Creates revival trilogy reimagining and expanding the original concept."
+        }
+    ],
+    "notes": null
+}

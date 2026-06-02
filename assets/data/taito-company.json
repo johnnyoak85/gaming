@@ -1,8 +1,49 @@
-{
-    "id": "taito-company",
-    "founded": "1953-08-24",
-    "type": "company",
-    "name": "Taito",
-    "logo": "taito-logo",
-    "circle": "major"
-}
+    {
+        "id": "taito-company",
+        "name": "Taito",
+        "description": "Japanese arcade developer and publisher known for Space Invaders, Bubble Bobble, Arkanoid, Darius, and Puzzle Bobble.",
+        "type": "company",
+        "logo": "taito-logo",
+        "circle": "major",
+        "founded": "1953-08-24",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "fukio-mitsuji"
+        ],
+        "essentials": [
+            "space-invaders",
+            "bubble-bobble",
+            "arkanoid",
+            "darius",
+            "puzzle-bobble"
+        ],
+        "eras": [
+            {
+                "title": "Arcade Foundation",
+                "start_year": 1953,
+                "end_year": 1977,
+                "description": "Pre-Space Invaders amusement and arcade-machine period."
+            },
+            {
+                "title": "Space Invaders Era",
+                "start_year": 1978,
+                "end_year": 1985,
+                "description": "Taito's global arcade breakthrough and early video-game dominance."
+            },
+            {
+                "title": "Bubble Bobble and Darius Era",
+                "start_year": 1986,
+                "end_year": 1995,
+                "description": "Character-driven arcade games, shooters, and puzzle-action classics."
+            },
+            {
+                "title": "Square Enix Era",
+                "start_year": 2005,
+                "end_year": null,
+                "description": "Modern period as a Square Enix subsidiary focused on arcade operations, legacy games, and selective releases."
+            }
+        ],
+        "notes": "Currently under Square Enix, but kept major because Taito is a historically major arcade company."
+    }

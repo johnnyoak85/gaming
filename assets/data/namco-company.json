@@ -1,8 +1,48 @@
-{
-    "id": "namco-company",
-    "founded": "1955-06-01",
-    "type": "company",
-    "name": "Mamco",
-    "logo": "namco-logo",
-    "circle": "major"
-}
+    {
+        "id": "namco-company",
+        "name": "Namco",
+        "description": "Japanese arcade and console developer behind Pac-Man, Galaga, Ridge Racer, Tekken, and many arcade classics.",
+        "type": "company",
+        "logo": "namco-logo",
+        "circle": "major",
+        "founded": "1955-06-01",
+        "defunct": {
+            "date": "2006-03-31",
+            "reason": "merged",
+            "successor": "bandai-namco-company"
+        },
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "toru-iwatani",
+            "shigeru-yokoyama"
+        ],
+        "essentials": [
+            "pac-man",
+            "galaga",
+            "dig-dug",
+            "ridge-racer",
+            "tekken-3"
+        ],
+        "eras": [
+            {
+                "title": "Electromechanical and Arcade Origins",
+                "start_year": 1955,
+                "end_year": 1979,
+                "description": "Early amusement-machine period leading into video arcade success."
+            },
+            {
+                "title": "Arcade Golden Age",
+                "start_year": 1980,
+                "end_year": 1988,
+                "description": "Pac-Man, Galaga, Dig Dug, and Namco's defining arcade identity."
+            },
+            {
+                "title": "3D Arcade and PlayStation Era",
+                "start_year": 1989,
+                "end_year": 2006,
+                "description": "Ridge Racer, Tekken, Ace Combat, and the final Namco period before Bandai Namco."
+            }
+        ],
+        "notes": "Use this for the historic Namco identity. Modern successor is Bandai Namco."
+    }

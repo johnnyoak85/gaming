@@ -1,7 +1,43 @@
 {
     "id": "donkey-kong-series",
-    "type": "series",
     "name": "Donkey Kong",
+    "description": "Nintendo series centered on Donkey Kong, spanning arcade platformers, jungle platformers, and character-driven spin-offs.",
+    "type": "series",
     "logo": "donkey-kong-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto"
+    ],
+    "essentials": [
+        "donkey-kong",
+        "donkey-kong-jr",
+        "donkey-kong-country",
+        "donkey-kong-country-2-diddys-kong-quest",
+        "donkey-kong-country-tropical-freeze"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Era",
+            "start_year": 1981,
+            "end_year": 1983,
+            "description": "Original arcade platformers that introduced Donkey Kong and Mario."
+        },
+        {
+            "title": "Country Era",
+            "start_year": 1994,
+            "end_year": 1996,
+            "description": "Rare-developed platformers that redefined Donkey Kong as a jungle platforming franchise."
+        },
+        {
+            "title": "Modern Country Era",
+            "start_year": 2010,
+            "end_year": null,
+            "description": "Retro Studios revival of the Donkey Kong Country style."
+        }
+    ],
+    "notes": null
 }

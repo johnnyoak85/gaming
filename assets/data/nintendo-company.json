@@ -1,13 +1,76 @@
-{
-    "id": "nintendo-company",
-    "founded": "1889-09-23",
-    "type": "company",
-    "name": "Nintendo",
-    "logo": "nintendo-logo",
-    "circle": "major",
-    "contains": [
-        "hal-laboratory-company",
-        "intelligent-systems-company",
-        "ape-company"
-    ]
-}
+    {
+        "id": "nintendo-company",
+        "name": "Nintendo",
+        "description": "Japanese game company and console manufacturer. Creator of Mario, Zelda, Metroid, Pokémon, and many of gaming's most important franchises.",
+        "type": "company",
+        "logo": "nintendo-logo",
+        "circle": "major",
+        "founded": "1889-09-23",
+        "defunct": null,
+        "contains": [
+            "hal-laboratory-company",
+            "intelligent-systems-company"
+        ],
+        "country": "JP",
+        "people": [
+            "shigeru-miyamoto",
+            "gunpei-yokoi",
+            "satoru-iwata",
+            "takashi-tezuka",
+            "koji-kondo",
+            "yoshio-sakamoto",
+            "genyo-takeda"
+        ],
+        "essentials": [
+            "nintendo-entertainment-system",
+            "super-mario-bros",
+            "the-legend-of-zelda",
+            "game-boy",
+            "the-legend-of-zelda-breath-of-the-wild"
+        ],
+        "eras": [
+            {
+                "title": "Toy and Card Era",
+                "start_year": 1889,
+                "end_year": 1976,
+                "description": "Pre-video-game period of playing cards, toys, and entertainment products."
+            },
+            {
+                "title": "Arcade and Game & Watch Era",
+                "start_year": 1977,
+                "end_year": 1982,
+                "description": "Nintendo's transition into electronic games, arcade releases, and handheld LCD games."
+            },
+            {
+                "title": "Famicom / NES Era",
+                "start_year": 1983,
+                "end_year": 1990,
+                "description": "Console-market breakthrough and creation of Nintendo's core franchises."
+            },
+            {
+                "title": "Super Nintendo and Game Boy Era",
+                "start_year": 1991,
+                "end_year": 1995,
+                "description": "16-bit dominance and handheld expansion."
+            },
+            {
+                "title": "3D Transition Era",
+                "start_year": 1996,
+                "end_year": 2005,
+                "description": "Nintendo 64, GameCube, Game Boy Advance, and the move to 3D franchise design."
+            },
+            {
+                "title": "Blue Ocean Era",
+                "start_year": 2004,
+                "end_year": 2012,
+                "description": "Nintendo DS and Wii broaden the gaming audience."
+            },
+            {
+                "title": "Hybrid Era",
+                "start_year": 2017,
+                "end_year": null,
+                "description": "Switch-era convergence of handheld and console development."
+            }
+        ],
+        "notes": "Ape is not contained here; it is modeled as a separate minor company that later became Creatures."
+    }

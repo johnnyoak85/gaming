@@ -812,10 +812,6 @@
     "type": "amiibo"
   },
   {
-    "id": "enix-company",
-    "type": "company"
-  },
-  {
     "id": "excitebike",
     "type": "game"
   },
@@ -3241,10 +3237,6 @@
   },
   {
     "id": "square-company",
-    "type": "company"
-  },
-  {
-    "id": "square-enix-company",
     "type": "company"
   },
   {

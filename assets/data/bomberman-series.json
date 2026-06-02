@@ -1,7 +1,44 @@
-{
-    "id": "bomberman-series",
-    "type": "series",
-    "name": "Bomberman",
-    "logo": "bomberman-logo",
-    "circle": "major"
-}
+    {
+        "id": "bomberman-series",
+        "name": "Bomberman",
+        "description": "Hudson Soft's maze-action franchise built around bombs, destructible blocks, power-ups, and multiplayer chaos.",
+        "type": "series",
+        "logo": "bomberman-logo",
+        "circle": "major",
+        "contains": [],
+        "companies": [
+            "hudson-soft-company",
+            "konami-company"
+        ],
+        "people": [
+            "shinichi-nakamoto"
+        ],
+        "essentials": [
+            "bomberman",
+            "bomberman-94",
+            "super-bomberman",
+            "saturn-bomberman",
+            "super-bomberman-r"
+        ],
+        "eras": [
+            {
+                "title": "Hudson Classic Era",
+                "start_year": 1983,
+                "end_year": 1993,
+                "description": "Original maze-action formula and early console multiplayer identity."
+            },
+            {
+                "title": "Party Multiplayer Era",
+                "start_year": 1993,
+                "end_year": 2006,
+                "description": "Super Bomberman, Saturn Bomberman, and the franchise's peak as a local multiplayer staple."
+            },
+            {
+                "title": "Konami Legacy Era",
+                "start_year": 2012,
+                "end_year": null,
+                "description": "Post-Hudson period under Konami, focused on revivals and legacy releases."
+            }
+        ],
+        "notes": null
+    }

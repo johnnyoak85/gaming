@@ -1,7 +1,50 @@
-{
-    "id": "square-company",
-    "type": "company",
-    "name": "Square",
-    "logo": "square-logo",
-    "circle": "sub"
-}
+    {
+        "id": "square-company",
+        "name": "Square",
+        "description": "Japanese RPG developer and publisher best known for Final Fantasy, Chrono Trigger, Secret of Mana, and Xenogears.",
+        "type": "company",
+        "logo": "square-logo",
+        "circle": "major",
+        "founded": "1983-09-01",
+        "defunct": {
+            "date": "2003-04-01",
+            "reason": "merged",
+            "successor": "square-enix-company"
+        },
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "hironobu-sakaguchi",
+            "nobuo-uematsu",
+            "yoshitaka-amano",
+            "masato-kato"
+        ],
+        "essentials": [
+            "final-fantasy",
+            "final-fantasy-iv",
+            "final-fantasy-vi",
+            "chrono-trigger",
+            "final-fantasy-vii"
+        ],
+        "eras": [
+            {
+                "title": "Famicom RPG Foundation",
+                "start_year": 1983,
+                "end_year": 1990,
+                "description": "Early Square period culminating in Final Fantasy."
+            },
+            {
+                "title": "Super Famicom Golden Age",
+                "start_year": 1991,
+                "end_year": 1995,
+                "description": "Peak 16-bit RPG period with Final Fantasy, Mana, and Chrono Trigger."
+            },
+            {
+                "title": "PlayStation Cinematic RPG Era",
+                "start_year": 1996,
+                "end_year": 2003,
+                "description": "Final Fantasy VII and Square's defining 3D cinematic RPG period before the Enix merger."
+            }
+        ],
+        "notes": "Use this for the historic Square identity before Square Enix."
+    }

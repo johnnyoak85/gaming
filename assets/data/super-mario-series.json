@@ -1,7 +1,8 @@
 {
     "id": "super-mario-series",
-    "type": "series",
     "name": "Super Mario",
+    "description": "Nintendo's flagship Mario franchise, covering mainline platformers and closely related Mario branches.",
+    "type": "series",
     "logo": "super-mario-logo",
     "circle": "major",
     "contains": [
@@ -9,5 +10,55 @@
         "mario-bros-series",
         "dr-mario-series",
         "donkey-kong-series"
-    ]
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka",
+        "koji-kondo"
+    ],
+    "essentials": [
+        "donkey-kong",
+        "super-mario-bros",
+        "super-mario-bros-3",
+        "super-mario-world",
+        "super-mario-64",
+        "super-mario-galaxy",
+        "super-mario-odyssey"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Foundation",
+            "start_year": 1981,
+            "end_year": 1984,
+            "description": "Donkey Kong and Mario Bros. establish Mario before the mainline platforming formula."
+        },
+        {
+            "title": "Classic 2D Era",
+            "start_year": 1985,
+            "end_year": 1995,
+            "description": "NES, Game Boy, and SNES platformers define Mario as Nintendo's flagship."
+        },
+        {
+            "title": "3D Transition Era",
+            "start_year": 1996,
+            "end_year": 2002,
+            "description": "Mario 64 and Sunshine establish open 3D Mario."
+        },
+        {
+            "title": "Galaxy and Modern 2D Era",
+            "start_year": 2006,
+            "end_year": 2013,
+            "description": "Parallel growth of linear 3D Mario and New Super Mario Bros."
+        },
+        {
+            "title": "Sandbox Revival Era",
+            "start_year": 2017,
+            "end_year": null,
+            "description": "Modern Mario led by Odyssey, Wonder, and Switch-era consolidation."
+        }
+    ],
+    "notes": null
 }

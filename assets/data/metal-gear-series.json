@@ -1,0 +1,49 @@
+{
+    "id": "metal-gear-series",
+    "name": "Metal Gear",
+    "description": "Kojima's stealth action series about soldiers, nuclear deterrence, conspiracies, and living weapons.",
+    "type": "series",
+    "logo": "metal-gear-logo",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [
+        "hideo-kojima"
+    ],
+    "essentials": [
+        "metal-gear",
+        "metal-gear-2-solid-snake",
+        "metal-gear-solid",
+        "metal-gear-solid-2-sons-of-liberty",
+        "metal-gear-solid-3-snake-eater"
+    ],
+    "eras": [
+        {
+            "title": "MSX Origin Era",
+            "start_year": 1987,
+            "end_year": 1990,
+            "description": "Original 2D stealth games that established the core formula."
+        },
+        {
+            "title": "Solid Era",
+            "start_year": 1998,
+            "end_year": 2004,
+            "description": "Cinematic 3D period that defined the franchise's global identity."
+        },
+        {
+            "title": "Late Kojima Era",
+            "start_year": 2008,
+            "end_year": 2015,
+            "description": "Final Kojima-led period from MGS4 through The Phantom Pain."
+        },
+        {
+            "title": "Post-Kojima Era",
+            "start_year": 2016,
+            "end_year": null,
+            "description": "Konami-controlled legacy period after Kojima's departure."
+        }
+    ],
+    "notes": "NES Metal Gear and Snake's Revenge are part of the franchise history, but the MSX line is the creative spine."
+}

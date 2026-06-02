@@ -1,7 +1,36 @@
 {
     "id": "galaga-series",
-    "type": "series",
     "name": "Galaga",
+    "description": "Namco's fixed-screen arcade shooting branch descended from Galaxian, centered on enemy formations and captured fighters.",
+    "type": "series",
     "logo": "galaga-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "namco-company"
+    ],
+    "people": [
+        "shigeru-yokoyama"
+    ],
+    "essentials": [
+        "galaga",
+        "gaplus",
+        "galaga-88",
+        "galaga-legions"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Shooter Era",
+            "start_year": 1981,
+            "end_year": 1988,
+            "description": "Original arcade lineage from Galaga through Galaga '88."
+        },
+        {
+            "title": "Modern Revival Era",
+            "start_year": 2008,
+            "end_year": null,
+            "description": "Modern downloadable reinterpretations and legacy releases."
+        }
+    ],
+    "notes": null
 }

@@ -1,0 +1,47 @@
+{
+    "id": "snk-company",
+    "name": "SNK",
+    "description": "Japanese arcade and console developer known for Neo Geo, The King of Fighters, Fatal Fury, Metal Slug, and Samurai Shodown.",
+    "type": "company",
+    "logo": "snk-logo",
+    "circle": "major",
+    "founded": "1978-07-22",
+    "defunct": null,
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "ikari-warriors",
+        "crystalis",
+        "fatal-fury-king-of-fighters",
+        "the-king-of-fighters-94",
+        "metal-slug"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Foundation",
+            "start_year": 1978,
+            "end_year": 1989,
+            "description": "Early arcade period leading into recognizable SNK action and shooting games."
+        },
+        {
+            "title": "Neo Geo Era",
+            "start_year": 1990,
+            "end_year": 2001,
+            "description": "SNK's defining arcade and home-console identity through Neo Geo hardware and fighting games."
+        },
+        {
+            "title": "Playmore Recovery",
+            "start_year": 2001,
+            "end_year": 2016,
+            "description": "Post-bankruptcy revival period under Playmore and SNK Playmore branding."
+        },
+        {
+            "title": "Modern SNK",
+            "start_year": 2016,
+            "end_year": null,
+            "description": "Restored SNK branding and renewed focus on legacy fighting franchises."
+        }
+    ],
+    "notes": "This entry represents the SNK brand lineage for curation, despite the original company's bankruptcy and later Playmore/SNK corporate continuity."
+}

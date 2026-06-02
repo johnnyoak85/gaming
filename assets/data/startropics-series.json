@@ -1,0 +1,22 @@
+{
+    "id": "startropics-series",
+    "name": "StarTropics",
+    "description": "Nintendo adventure series about island exploration, dungeons, puzzles, and alien mysteries.",
+    "type": "series",
+    "logo": "startropics-logo",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "nintendo-company",
+        "locomotive-corporation-company"
+    ],
+    "people": [
+        "genyo-takeda"
+    ],
+    "essentials": [
+        "startropics",
+        "zodas-revenge-startropics-ii"
+    ],
+    "eras": [],
+    "notes": null
+}

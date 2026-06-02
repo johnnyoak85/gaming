@@ -1,0 +1,25 @@
+    {
+        "id": "locomotive-corporation-company",
+        "name": "Locomotive Corporation",
+        "description": "Kyoto-based Japanese developer best known in this collection for co-developing StarTropics.",
+        "type": "company",
+        "logo": "locomotive-corporation-logo",
+        "circle": "minor",
+        "founded": "1987-05-01",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [],
+        "essentials": [
+            "startropics"
+        ],
+        "eras": [
+            {
+                "title": "NES Collaboration Era",
+                "start_year": 1987,
+                "end_year": 1994,
+                "description": "Period where Locomotive appears as a small contract developer on Japanese console projects."
+            }
+        ],
+        "notes": "Founded in May 1987. I did not find a clean cessation date, so `defunct` is left null until you decide how to represent unknown/inactive companies."
+    }

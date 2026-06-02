@@ -1,0 +1,22 @@
+  {
+    "id": "wrecking-crew-series",
+    "name": "Wrecking Crew",
+    "description": "Nintendo puzzle-action series where Mario demolishes structures while avoiding enemies.",
+    "type": "series",
+    "logo": "wrecking-crew-logo",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+      "nintendo-company"
+    ],
+    "people": [
+      "yoshio-sakamoto",
+      "hirokazu-tanaka"
+    ],
+    "essentials": [
+      "wrecking-crew",
+      "wrecking-crew-98"
+    ],
+    "eras": [],
+    "notes": "Can be treated as a Mario-related branch, but not necessarily a child of Super Mario unless you want the Mario hierarchy to absorb every Mario-starring game."
+  }

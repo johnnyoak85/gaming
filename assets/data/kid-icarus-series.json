@@ -1,0 +1,37 @@
+{
+    "id": "kid-icarus-series",
+    "name": "Kid Icarus",
+    "description": "Nintendo mythological action series starring Pit and Palutena.",
+    "type": "series",
+    "logo": "kid-icarus-logo",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "gunpei-yokoi",
+        "yoshio-sakamoto",
+        "hirokazu-tanaka",
+        "masahiro-sakurai"
+    ],
+    "essentials": [
+        "kid-icarus",
+        "kid-icarus-uprising"
+    ],
+    "eras": [
+        {
+            "title": "Classic Era",
+            "start_year": 1986,
+            "end_year": 1991,
+            "description": "Original NES/Famicom Disk System and Game Boy entries."
+        },
+        {
+            "title": "Uprising Era",
+            "start_year": 2012,
+            "end_year": 2012,
+            "description": "Sakurai-led 3DS revival."
+        }
+    ],
+    "notes": null
+}

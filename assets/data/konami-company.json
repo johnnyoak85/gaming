@@ -1,8 +1,53 @@
-{
-    "id": "konami-company",
-    "founded": "1969-03-21",
-    "type": "company",
-    "name": "Konami",
-    "logo": "konami-logo",
-    "circle": "major"
-}
+    {
+        "id": "konami-company",
+        "name": "Konami",
+        "description": "Japanese developer and publisher known for Castlevania, Contra, Metal Gear, Gradius, Bomberman, and arcade classics.",
+        "type": "company",
+        "logo": "konami-logo",
+        "circle": "major",
+        "founded": "1969-03-21",
+        "defunct": null,
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "hideo-kojima",
+            "hitoshi-akamatsu",
+            "kinuyo-yamashita",
+            "miki-higashino",
+            "nobuya-nakazato"
+        ],
+        "essentials": [
+            "castlevania",
+            "contra",
+            "gradius",
+            "metal-gear-solid",
+            "castlevania-symphony-of-the-night"
+        ],
+        "eras": [
+            {
+                "title": "Arcade and Famicom Era",
+                "start_year": 1969,
+                "end_year": 1989,
+                "description": "Arcade growth and major NES/Famicom franchises."
+            },
+            {
+                "title": "Console Golden Era",
+                "start_year": 1990,
+                "end_year": 2004,
+                "description": "Peak period for Castlevania, Contra, Metal Gear, Silent Hill, and rhythm games."
+            },
+            {
+                "title": "Late Kojima and Decline Era",
+                "start_year": 2005,
+                "end_year": 2015,
+                "description": "Later Kojima productions and reduced traditional console focus."
+            },
+            {
+                "title": "Legacy Revival Era",
+                "start_year": 2016,
+                "end_year": null,
+                "description": "Collections, remakes, and selective revivals of legacy franchises."
+            }
+        ],
+        "notes": "Hudson Soft merged into Konami in 2012, but Hudson is better represented as a defunct company with Konami as successor rather than as an active child."
+    }

@@ -1,8 +1,49 @@
-{
-    "id": "tecmo-company",
-    "founded": "1967-07-31",
-    "type": "company",
-    "name": "Tecmo",
-    "logo": "tecmo-logo",
-    "circle": "sub"
-}
+    {
+        "id": "tecmo-company",
+        "name": "Tecmo",
+        "description": "Japanese developer and publisher known for Ninja Gaiden, Tecmo Bowl, Dead or Alive, and Monster Rancher.",
+        "type": "company",
+        "logo": "tecmo-logo",
+        "circle": "minor",
+        "founded": "1967-07-31",
+        "defunct": {
+            "date": "2011-04-01",
+            "reason": "merged",
+            "successor": "koei-tecmo-company"
+        },
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "hideo-yoshizawa",
+            "keiji-yamagishi",
+            "masato-kato"
+        ],
+        "essentials": [
+            "ninja-gaiden",
+            "ninja-gaiden-ii-the-dark-sword-of-chaos",
+            "tecmo-bowl",
+            "dead-or-alive",
+            "ninja-gaiden-black"
+        ],
+        "eras": [
+            {
+                "title": "Arcade and NES Era",
+                "start_year": 1967,
+                "end_year": 1992,
+                "description": "Tecmo's classic arcade and NES identity through Ninja Gaiden, Tecmo Bowl, and Captain Tsubasa."
+            },
+            {
+                "title": "Team Ninja Era",
+                "start_year": 1995,
+                "end_year": 2008,
+                "description": "Dead or Alive and the 3D Ninja Gaiden revival."
+            },
+            {
+                "title": "Koei Tecmo Legacy Era",
+                "start_year": 2009,
+                "end_year": null,
+                "description": "Tecmo brands continued under Koei Tecmo."
+            }
+        ],
+        "notes": "Historic Tecmo identity; modern successor is Koei Tecmo."
+    }

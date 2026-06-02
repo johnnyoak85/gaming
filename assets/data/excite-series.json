@@ -1,0 +1,35 @@
+{
+    "id": "excite-series",
+    "name": "Excite",
+    "description": "Nintendo racing series built around fast off-road vehicles, jumps, and arcade handling.",
+    "type": "series",
+    "logo": "excite-logo",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto"
+    ],
+    "essentials": [
+        "excitebike",
+        "excitebike-64",
+        "excite-truck"
+    ],
+    "eras": [
+        {
+            "title": "Bike Era",
+            "start_year": 1984,
+            "end_year": 2000,
+            "description": "Original motocross-focused period from Excitebike through Excitebike 64."
+        },
+        {
+            "title": "Vehicle Era",
+            "start_year": 2006,
+            "end_year": 2009,
+            "description": "Wii-era expansion into trucks and bots."
+        }
+    ],
+    "notes": null
+}

@@ -1,10 +1,24 @@
 {
     "id": "united-galaxy-space-force-series",
-    "type": "series",
     "name": "United Galaxy Space Force",
+    "description": "Namco's loose shared sci-fi setting connecting Galaxian, Galaga, and related arcade shooter works.",
+    "type": "series",
     "logo": "ugsf-logo",
     "circle": "major",
     "contains": [
         "galaga-series"
-    ]
+    ],
+    "companies": [
+        "namco-company"
+    ],
+    "people": [],
+    "essentials": [
+        "galaxian",
+        "galaga",
+        "gaplus",
+        "galaga-88",
+        "starblade"
+    ],
+    "eras": [],
+    "notes": null
 }

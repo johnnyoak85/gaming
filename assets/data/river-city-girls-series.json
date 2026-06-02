@@ -1,7 +1,20 @@
 {
     "id": "river-city-girls-series",
-    "type": "series",
     "name": "River City Girls",
+    "description": "Modern River City subseries starring Kyoko and Misako in stylish co-op beat 'em up adventures.",
+    "type": "series",
     "logo": "river-city-girls-logo",
-    "circle": "sub"
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "wayforward-company",
+        "arc-system-works-company"
+    ],
+    "people": [],
+    "essentials": [
+        "river-city-girls",
+        "river-city-girls-2"
+    ],
+    "eras": [],
+    "notes": null
 }

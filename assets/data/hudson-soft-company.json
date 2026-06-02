@@ -1,0 +1,47 @@
+    {
+        "id": "hudson-soft-company",
+        "name": "Hudson Soft",
+        "description": "Japanese developer and publisher known for Bomberman, Adventure Island, PC Engine support, and early console multiplayer games.",
+        "type": "company",
+        "logo": "hudson-soft-logo",
+        "circle": "minor",
+        "founded": "1973-05-18",
+        "defunct": {
+            "date": "2012-03-01",
+            "reason": "merged",
+            "successor": "konami-company"
+        },
+        "contains": [],
+        "country": "JP",
+        "people": [
+            "shinichi-nakamoto"
+        ],
+        "essentials": [
+            "bomberman",
+            "adventure-island",
+            "bonks-adventure",
+            "super-bomberman",
+            "bomberman-94"
+        ],
+        "eras": [
+            {
+                "title": "Microcomputer Origins",
+                "start_year": 1973,
+                "end_year": 1984,
+                "description": "Early software and computer period before Hudson became a major console name."
+            },
+            {
+                "title": "Famicom and PC Engine Era",
+                "start_year": 1985,
+                "end_year": 1994,
+                "description": "Hudson's strongest console period, led by Bomberman, Adventure Island, and close ties to the PC Engine."
+            },
+            {
+                "title": "Late Independence",
+                "start_year": 1995,
+                "end_year": 2012,
+                "description": "Later period of sequels, licensed work, and gradual absorption into Konami."
+            }
+        ],
+        "notes": "The Hudson brand and catalogue are now controlled by Konami."
+    }

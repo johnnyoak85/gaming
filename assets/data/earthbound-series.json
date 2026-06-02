@@ -1,0 +1,26 @@
+{
+    "id": "earthbound-series",
+    "name": "EarthBound",
+    "description": "Nintendo's offbeat modern-day RPG series created by Shigesato Itoi, known as Mother in Japan.",
+    "type": "series",
+    "logo": "earthbound-logo",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "nintendo-company",
+        "ape-company",
+        "hal-laboratory-company"
+    ],
+    "people": [
+        "shigesato-itoi",
+        "hirokazu-tanaka",
+        "satoru-iwata"
+    ],
+    "essentials": [
+        "earthbound-beginnings",
+        "earthbound",
+        "mother-3"
+    ],
+    "eras": [],
+    "notes": "Use EarthBound as the public-facing western name while keeping Mother as an alias at game level."
+}

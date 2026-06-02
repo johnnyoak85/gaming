@@ -1,7 +1,55 @@
 {
     "id": "castlevania-series",
-    "type": "series",
     "name": "Castlevania",
+    "description": "Konami's gothic action franchise about the Belmonts, Dracula, and monster-filled castles.",
+    "type": "series",
     "logo": "castlevania-logo",
-    "circle": "major"
+    "circle": "major",
+    "contains": [
+        "kid-dracula-series",
+        "lords-of-shadows-series"
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [
+        "hitoshi-akamatsu",
+        "kinuyo-yamashita",
+        "koji-igarashi"
+    ],
+    "essentials": [
+        "castlevania",
+        "castlevania-iii-draculas-curse",
+        "super-castlevania-iv",
+        "castlevania-rondo-of-blood",
+        "castlevania-symphony-of-the-night",
+        "castlevania-aria-of-sorrow"
+    ],
+    "eras": [
+        {
+            "title": "Classic Action Era",
+            "start_year": 1986,
+            "end_year": 1995,
+            "description": "Stage-based action games focused on deliberate platforming, whips, sub-weapons, and gothic horror."
+        },
+        {
+            "title": "Igavania Era",
+            "start_year": 1997,
+            "end_year": 2008,
+            "description": "Exploration-focused action RPG period shaped by Symphony of the Night and the handheld entries."
+        },
+        {
+            "title": "Modern Reinterpretation Era",
+            "start_year": 2010,
+            "end_year": 2014,
+            "description": "Lords of Shadow continuity and major 3D reboot attempts."
+        },
+        {
+            "title": "Legacy Collection Era",
+            "start_year": 2019,
+            "end_year": null,
+            "description": "Collections, re-releases, and preservation-focused releases."
+        }
+    ],
+    "notes": null
 }

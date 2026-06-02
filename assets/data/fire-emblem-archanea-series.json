@@ -1,0 +1,39 @@
+{
+    "id": "fire-emblem-archanea-series",
+    "name": "Fire Emblem: Archanea",
+    "description": "The original Fire Emblem continuity centered on Marth, Archanea, and related remakes.",
+    "type": "series",
+    "logo": "fire-emblem-archanea-logo",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "intelligent-systems-company",
+        "nintendo-company"
+    ],
+    "people": [
+        "shouzou-kaga",
+        "yuka-tsujiyoko",
+        "gunpei-yokoi"
+    ],
+    "essentials": [
+        "fire-emblem-shadow-dragon-and-the-blade-of-light",
+        "fire-emblem-mystery-of-the-emblem",
+        "fire-emblem-shadow-dragon",
+        "fire-emblem-awakening"
+    ],
+    "eras": [
+        {
+            "title": "Original Archanea Era",
+            "start_year": 1990,
+            "end_year": 1994,
+            "description": "The Famicom and Super Famicom Marth games that established Fire Emblem."
+        },
+        {
+            "title": "Remake and Legacy Era",
+            "start_year": 2008,
+            "end_year": null,
+            "description": "DS remakes and later games that return to or reference the Archanea setting."
+        }
+    ],
+    "notes": "Subseries of fire-emblem-series. Parent should contain this ID."
+}

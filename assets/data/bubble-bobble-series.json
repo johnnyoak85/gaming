@@ -1,11 +1,40 @@
 {
     "id": "bubble-bobble-series",
-    "type": "series",
     "name": "Bubble Bobble",
+    "description": "Taito's arcade action-puzzle franchise starring Bub and Bob, with major puzzle and platforming branches.",
+    "type": "series",
     "logo": "bubble-bobble-logo",
     "circle": "major",
     "contains": [
         "puzzle-bobble-series",
-        "rainbow-islands"
-    ]
+        "rainbow-islands-series"
+    ],
+    "companies": [
+        "taito-company"
+    ],
+    "people": [
+        "fukio-mitsuji"
+    ],
+    "essentials": [
+        "bubble-bobble",
+        "rainbow-islands",
+        "parasol-stars",
+        "puzzle-bobble",
+        "puzzle-bobble-everybubble"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Platform Era",
+            "start_year": 1986,
+            "end_year": 1991,
+            "description": "Bubble Bobble, Rainbow Islands, and related arcade/platform sequels."
+        },
+        {
+            "title": "Puzzle Bobble Era",
+            "start_year": 1994,
+            "end_year": null,
+            "description": "Bubble-shooter branch that became the franchise's most persistent modern form."
+        }
+    ],
+    "notes": null
 }

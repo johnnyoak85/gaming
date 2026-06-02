@@ -1,0 +1,38 @@
+{
+    "id": "ninja-gaiden-series",
+    "name": "Ninja Gaiden",
+    "description": "Tecmo action series starring Ryu Hayabusa, known for fast combat, high difficulty, and cinematic presentation.",
+    "type": "series",
+    "logo": "ninja-gaiden-logo",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "tecmo-company"
+    ],
+    "people": [
+        "hideo-yoshizawa",
+        "keiji-yamagishi",
+        "masato-kato"
+    ],
+    "essentials": [
+        "ninja-gaiden",
+        "ninja-gaiden-ii-the-dark-sword-of-chaos",
+        "ninja-gaiden-black",
+        "ninja-gaiden-ii"
+    ],
+    "eras": [
+        {
+            "title": "Classic Era",
+            "start_year": 1988,
+            "end_year": 1995,
+            "description": "Arcade, NES, Game Boy, and early console Ninja Gaiden releases."
+        },
+        {
+            "title": "Modern Action Era",
+            "start_year": 2004,
+            "end_year": 2012,
+            "description": "Team Ninja revival focused on technical 3D action combat."
+        }
+    ],
+    "notes": null
+}

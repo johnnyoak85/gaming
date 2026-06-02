@@ -1,8 +1,38 @@
-{
-    "id": "tengen-company",
-    "founded": "1987-12-21",
-    "type": "company",
-    "name": "Tengen",
-    "logo": "tengen-logo",
-    "circle": "minor"
-}
+    {
+        "id": "tengen-company",
+        "name": "Tengen",
+        "description": "Atari Games' console label, known for NES releases including Pac-Man, Tetris, and other unlicensed cartridges.",
+        "type": "company",
+        "logo": "tengen-logo",
+        "circle": "minor",
+        "founded": "1987-12-01",
+        "defunct": {
+            "date": "1994-01-01",
+            "reason": "renamed",
+            "successor": "time-warner-interactive-company"
+        },
+        "contains": [],
+        "country": "US",
+        "people": [],
+        "essentials": [
+            "pac-man-nes",
+            "tetris-tengen",
+            "gauntlet-nes",
+            "rbi-baseball"
+        ],
+        "eras": [
+            {
+                "title": "NES Label Era",
+                "start_year": 1987,
+                "end_year": 1993,
+                "description": "Atari Games' console publishing label, including licensed and unlicensed NES releases."
+            },
+            {
+                "title": "Time Warner Transition",
+                "start_year": 1994,
+                "end_year": 1994,
+                "description": "Tengen branding ended as the division was renamed under Time Warner."
+            }
+        ],
+        "notes": "Could be modeled as `sub` if you create `atari-games-company` as a parent containing this company."
+    }

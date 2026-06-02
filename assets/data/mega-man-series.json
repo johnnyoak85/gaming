@@ -1,12 +1,48 @@
 {
     "id": "mega-man-series",
-    "type": "series",
     "name": "Mega Man",
+    "description": "Capcom's action-platforming franchise about robot heroes, weapon copying, stage selection, and precise boss-driven design.",
+    "type": "series",
     "logo": "mega-man-logo",
     "circle": "major",
     "contains": [
         "mega-man-x-series",
         "mega-man-zero-series",
         "mega-man-zx-series"
-    ]
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "people": [
+        "keiji-inafune",
+        "tokuro-fujiwara"
+    ],
+    "essentials": [
+        "mega-man-2",
+        "mega-man-3",
+        "mega-man-x",
+        "mega-man-zero",
+        "mega-man-11"
+    ],
+    "eras": [
+        {
+            "title": "Classic Era",
+            "start_year": 1987,
+            "end_year": 1998,
+            "description": "Original Robot Master formula across NES, SNES, Saturn, and PlayStation."
+        },
+        {
+            "title": "X and Spin-off Expansion Era",
+            "start_year": 1993,
+            "end_year": 2007,
+            "description": "Expansion into X, Zero, ZX, Legends, Battle Network, and Star Force branches."
+        },
+        {
+            "title": "Legacy Revival Era",
+            "start_year": 2008,
+            "end_year": null,
+            "description": "Retro sequels, collections, and selective new entries."
+        }
+    ],
+    "notes": null
 }
