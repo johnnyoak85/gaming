@@ -1,6 +1,43 @@
 {
-    "id": "capcom-play-system",
-    "type": "system",
+    "id": "capcom-play-system-system",
     "name": "Capcom Play System",
-    "logo": "capcom-play-system-logo"
+    "description": "Capcom's late-1980s arcade hardware platform for side-scrolling action, beat 'em ups, shooters, and early fighting games.",
+    "type": "system",
+    "logo": "capcom-play-system-logo",
+    "era": "16-bit",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "final-fight",
+        "ghouls-n-ghosts",
+        "strider",
+        "captain-commando",
+        "cadillacs-and-dinosaurs",
+        "the-punisher-arcade",
+        "street-fighter-ii-the-world-warrior",
+        "street-fighter-ii-champion-edition"
+    ],
+    "series": [
+        "street-fighter-series",
+        "ghosts-n-goblins-series",
+        "final-fight-series",
+        "strider-series"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Action Era",
+            "start_year": 1988,
+            "end_year": 1990,
+            "description": "Early CPS period focused on action games, shooters, and beat 'em ups before Street Fighter II reshaped the platform."
+        },
+        {
+            "title": "Street Fighter II Era",
+            "start_year": 1991,
+            "end_year": 1995,
+            "description": "Street Fighter II and its revisions turn CPS into one of Capcom's defining arcade platforms."
+        }
+    ],
+    "notes": null
 }

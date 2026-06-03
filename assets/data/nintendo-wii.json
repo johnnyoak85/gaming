@@ -1,54 +1,42 @@
 {
-  "id": "nintendo-wii",
-  "name": "Wii",
-  "cover": "wii",
-  "release": "2006-12-08",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii",
-    "subseries": null
-  },
-  "system": "nintendo-wii",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-wii",
+    "name": "Wii",
+    "description": "Nintendo's motion-control home console, known for broad accessibility, local multiplayer, and GameCube backward compatibility.",
+    "cover": "wii",
+    "release": "2006-11-19",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "home",
-    "primary_family": "nintendo-wii",
-    "compatible_families": [
-      "nintendo-gamecube"
-    ],
-    "generation": 7,
     "era": "720p",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "White",
-      "cover": "wii",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "White",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "nintendo-wii-system",
+    "compatible_with": [
+        "gamecube-system"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "White",
+            "cover": "wii",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

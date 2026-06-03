@@ -1,40 +1,73 @@
-{
-  "id": "nintendo-classic-mini-nintendo-entertainment-system",
-  "name": "Nintendo Classic Mini: Nintendo Entertainment System",
-  "cover": "nes-classic",
-  "release": "2016-11-11",
-  "type": "hardware",
-  "franchise": {
-    "series": "Classic Mini",
-    "subseries": "Nintendo Entertainment System"
-  },
-  "system": "nintendo-entertainment-system-system",
-  "companies": [
-    "nintendo-company"
-  ],
-  "hardware": {
-    "category": "console",
-    "form": "dedicated",
-    "primary_family": "nintendo-classic-mini-nintendo-entertainment-system",
-    "compatible_families": [],
-    "generation": 3,
-    "era": "8-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
     {
-      "variant": null,
-      "status": "owned",
-      "notes": null
+        "id": "nintendo-classic-mini-nintendo-entertainment-system",
+        "name": "Nintendo Classic Mini: Nintendo Entertainment System",
+        "description": "Mini replica of the Nintendo Entertainment System with 30 built-in NES games and HDMI output.",
+        "cover": "nes-classic",
+        "release": "2016-11-11",
+        "type": "hardware",
+        "category": "console",
+        "aliases": [
+            "NES Classic Edition"
+        ],
+        "form": "mini",
+        "era": "8-bit",
+        "system": "nintendo-entertainment-system-system",
+        "compatible_with": [],
+        "franchise": {
+            "series": "nintendo-classic-mini-series",
+            "subseries": null
+        },
+        "companies": [
+            "nintendo-company"
+        ],
+        "people": [],
+        "release_line": "nintendo-classic-mini-release-line",
+        "event": null,
+        "variants": [
+            {
+                "name": null,
+                "cover": null,
+                "status": "owned",
+                "event": null,
+                "notes": null
+            }
+        ],
+        "acquisition": {
+            "priority": null,
+            "reason": null,
+            "notes": null
+        },
+        "contains": [
+            "super-mario-bros",
+            "super-mario-bros-3",
+            "the-legend-of-zelda",
+            "donkey-kong",
+            "metroid",
+            "kirbys-adventure",
+            "super-mario-bros-2",
+            "dr-mario",
+            "punch-out",
+            "balloon-fight",
+            "donkey-kong-jr",
+            "zelda-ii-the-adventure-of-link",
+            "excitebike",
+            "ice-climber",
+            "kid-icarus",
+            "mario-bros",
+            "startropics",
+            "bubble-bobble",
+            "final-fantasy",
+            "gradius-nes",
+            "pac-man-nes",
+            "castlevania",
+            "galaga-nes",
+            "mega-man-2",
+            "super-c",
+            "castlevania-ii-simons-quest",
+            "ghosts-n-goblins-nes",
+            "ninja-gaiden",
+            "tecmo-bowl",
+            "double-dragon-ii-the-revenge-nes"
+        ],
+        "notes": null
     }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
-}

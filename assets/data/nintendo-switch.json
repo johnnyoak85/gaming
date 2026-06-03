@@ -1,45 +1,42 @@
 {
-  "id": "nintendo-switch",
-  "name": "Switch",
-  "cover": "switch",
-  "release": "2017-03-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch",
-    "subseries": null
-  },
-  "system": "nintendo-switch",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-switch",
+    "name": "Switch",
+    "description": "Nintendo's hybrid console for handheld and TV play, with detachable Joy-Con controllers and a unified portable/home library.",
+    "cover": "switch",
+    "release": "2017-03-03",
+    "type": "hardware",
     "category": "console",
+    "aliases": [
+        "Nintendo Switch"
+    ],
     "form": "hybrid",
-    "primary_family": "nintendo-switch",
-    "compatible_families": [],
-    "generation": 8,
     "era": "1080p",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "nintendo-switch-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "nintendo-switch-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

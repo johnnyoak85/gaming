@@ -1,0 +1,43 @@
+{
+    "id": "nintendo-wii-wheel",
+    "name": "Wii Wheel",
+    "description": "Steering-wheel shell accessory for the Wii Remote, bundled with Mario Kart Wii.",
+    "cover": "wii-wheel",
+    "release": "2008-04-10",
+    "type": "hardware",
+    "category": "accessory",
+    "aliases": [],
+    "form": "special",
+    "era": null,
+    "system": "nintendo-wii-system",
+    "compatible_with": [
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "White",
+            "cover": "wii-wheel",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

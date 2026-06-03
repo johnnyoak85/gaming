@@ -1,0 +1,44 @@
+{
+    "id": "taito-egret-ii-mini-control-pad",
+    "name": "Taito Egret II Mini Control Pad",
+    "description": "Official gamepad-style controller for the Egret II Mini.",
+    "cover": "egret-ii-mini-control-pad",
+    "release": "2022-03-02",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [
+        "Egret II Mini Control Pad"
+    ],
+    "form": "standard",
+    "era": null,
+    "system": "egret-ii-system",
+    "compatible_with": [
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 2,
+        "reason": "Completes the official Egret II Mini controller set.",
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

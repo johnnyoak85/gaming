@@ -1,44 +1,89 @@
 {
-  "id": "mvs-mini",
-  "name": "Unico MVS Mini",
-  "cover": "mvs-mini",
-  "release": "2018-07-24",
-  "type": "hardware",
-  "franchise": {
-    "series": "Neo Geo",
-    "subseries": "MVS"
-  },
-  "companies": {
-    "manufacturer": [
-      "SNK"
-    ],
-    "publisher": [
-      "SNK"
-    ]
-  },
-  "hardware": {
+    "id": "mvs-mini",
+    "name": "Unico MVS Mini",
+    "description": "Mini Neo Geo MVS-style arcade cabinet by Unico with 45 built-in SNK Neo Geo games.",
+    "cover": "mvs-mini",
+    "release": "2024-01-01",
+    "type": "hardware",
     "category": "console",
+    "aliases": [
+        "UNICO MVS Mini",
+        "SNK MVS Mini"
+    ],
     "form": "dedicated",
-    "primary_family": "mvs-mini",
-    "compatible_families": [],
-    "generation": null,
     "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Neo Geo arcade representation without cartridge costs",
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
+    "system": "neo-geo-mvs-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "neo-geo-series",
+        "subseries": "neo-geo-mvs-series"
+    },
+    "companies": [
+        "unico-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Neo Geo arcade representation without cartridge costs.",
+        "notes": null
+    },
+    "contains": [
+        "the-king-of-fighters-94",
+        "the-king-of-fighters-95",
+        "the-king-of-fighters-96",
+        "the-king-of-fighters-97",
+        "the-king-of-fighters-98",
+        "the-king-of-fighters-99",
+        "the-king-of-fighters-2000",
+        "the-king-of-fighters-2001",
+        "the-king-of-fighters-2002",
+        "the-king-of-fighters-2003",
+        "metal-slug",
+        "metal-slug-3",
+        "metal-slug-4",
+        "metal-slug-5",
+        "metal-slug-x",
+        "samurai-shodown",
+        "samurai-shodown-ii",
+        "samurai-shodown-iii",
+        "samurai-shodown-iv",
+        "samurai-shodown-v",
+        "samurai-shodown-v-special",
+        "fatal-fury-2",
+        "fatal-fury-3-road-to-the-final-victory",
+        "fatal-fury-special",
+        "real-bout-fatal-fury",
+        "real-bout-fatal-fury-special",
+        "real-bout-fatal-fury-2",
+        "garou-mark-of-the-wolves",
+        "world-heroes-perfect",
+        "art-of-fighting",
+        "art-of-fighting-3-the-path-of-the-warrior",
+        "sengoku",
+        "sengoku-2",
+        "sengoku-3",
+        "savage-reign",
+        "magician-lord",
+        "the-last-blade",
+        "the-last-blade-2",
+        "kizuna-encounter",
+        "shock-troopers",
+        "super-sidekicks",
+        "top-players-golf",
+        "3-count-bout",
+        "baseball-stars-professional",
+        "football-frenzy"
+    ],
+    "notes": "Officially licensed SNK product."
 }

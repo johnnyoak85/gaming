@@ -1,0 +1,49 @@
+{
+    "id": "pc-engine-system",
+    "name": "PC Engine",
+    "description": "NEC and Hudson Soft's compact home console platform, known as TurboGrafx-16 in North America. Known for shooters, arcade ports, HuCard games, and early CD-ROM console support.",
+    "type": "system",
+    "logo": "pc-engine-logo",
+    "era": "16-bit",
+    "companies": [
+        "nec-company",
+        "hudson-soft-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "r-type",
+        "bonks-adventure",
+        "ys-i-ii",
+        "soldier-blade",
+        "lords-of-thunder",
+        "dracula-x-rondo-of-blood",
+        "bomberman-94",
+        "ninja-spirit",
+        "dungeon-explorer",
+        "splatterhouse"
+    ],
+    "series": [
+        "bomberman-series",
+        "bonk-series",
+        "ys-series",
+        "gradius-series",
+        "castlevania-series",
+        "darius-series",
+        "star-soldier-series"
+    ],
+    "eras": [
+        {
+            "title": "HuCard Era",
+            "start_year": 1987,
+            "end_year": 1991,
+            "description": "Early card-based library focused on shooters, arcade ports, action games, and Hudson/NEC's compact console identity."
+        },
+        {
+            "title": "CD-ROM Era",
+            "start_year": 1988,
+            "end_year": 1995,
+            "description": "CD-ROM add-ons expand the platform with larger games, CD audio, RPGs, and ambitious late releases."
+        }
+    ],
+    "notes": null
+}

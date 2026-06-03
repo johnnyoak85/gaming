@@ -1,47 +1,42 @@
 {
-  "id": "sega-dreamcast-controller",
-  "name": "Dreamcast Controller",
-  "cover": "dreamcast-controller",
-  "release": "1999-10-14",
-  "type": "hardware",
-  "franchise": {
-    "series": "Dreamcast",
-    "subseries": null
-  },
-  "system": "sega-dreamcast",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "sega-dreamcast-controller",
+    "name": "Dreamcast Controller",
+    "description": "Standard Dreamcast controller with analog stick, triggers, face buttons, and slots for VMU or accessory units.",
+    "cover": "dreamcast-controller",
+    "release": "1998-11-27",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 6,
     "era": null,
+    "system": "sega-dreamcast-system",
     "compatible_with": [
-      "sega-dreamcast"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "sega-dreamcast"
+    ],
+    "franchise": {
+        "series": "dreamcast-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

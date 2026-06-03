@@ -1,0 +1,29 @@
+{
+    "id": "sega-cd-system",
+    "name": "Sega CD",
+    "description": "CD-ROM add-on platform for the Sega Mega Drive, known as Mega-CD outside North America. Expanded the system with CD audio, larger games, and full-motion video experiments.",
+    "type": "system",
+    "logo": "sega-cd-logo",
+    "era": "16-bit",
+    "companies": [
+        "sega-company"
+    ],
+    "parent": "sega-mega-drive-system",
+    "essentials": [
+        "sonic-the-hedgehog-cd",
+        "final-fight-cd",
+        "shining-force-cd",
+        "lunar-the-silver-star",
+        "lunar-eternal-blue",
+        "snatcher",
+        "robo-aleste",
+        "silpheed"
+    ],
+    "series": [
+        "sonic-the-hedgehog-series",
+        "shining-force-series",
+        "lunar-series"
+    ],
+    "eras": [],
+    "notes": null
+}

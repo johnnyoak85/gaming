@@ -6,10 +6,10 @@
   "type": "game",
   "franchise": {
     "universe": "Kunio-kun",
-    "series": "Kunio-kun Soccer",
-    "subseries": null
+    "series": "kunio-kun-series",
+    "subseries": "nekketsu-series"
   },
-  "system": "nintendo-entertainment-system",
+  "system": "nintendo-entertainment-system-system",
   "classification": {
     "genres": [
       "Sports",
@@ -74,5 +74,9 @@
     "notes": "Contained in Double Dragon & Kunio-kun: Retro Brawler Bundle."
   },
   "event": null,
-  "notes": null
+  "notes": null,
+  "description": "Kunio-kun soccer game where Nekketsu High competes internationally with rough tackles, super shots, and arcade sports chaos.",
+  "people": [
+    "yoshihisa-kishimoto"
+  ]
 }

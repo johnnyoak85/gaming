@@ -1,0 +1,50 @@
+{
+    "id": "sega-master-system-system",
+    "name": "Sega Master System",
+    "description": "Sega's 8-bit home console platform, known for arcade-style games, strong European and Brazilian presence, and early Sega franchise entries.",
+    "type": "system",
+    "logo": "sega-master-system-logo",
+    "era": "8-bit",
+    "companies": [
+        "sega-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "alex-kidd-in-miracle-world",
+        "phantasy-star",
+        "wonder-boy-iii-the-dragons-trap",
+        "castle-of-illusion-starring-mickey-mouse-master-system",
+        "shinobi-master-system",
+        "sonic-the-hedgehog-master-system",
+        "power-strike"
+    ],
+    "series": [
+        "alex-kidd-series",
+        "phantasy-star-series",
+        "wonder-boy-series",
+        "sonic-the-hedgehog-series",
+        "shinobi-series",
+        "aleste-series"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Conversion Era",
+            "start_year": 1985,
+            "end_year": 1987,
+            "description": "Early period focused on Sega arcade conversions and establishing an 8-bit home platform."
+        },
+        {
+            "title": "European Strength Era",
+            "start_year": 1988,
+            "end_year": 1991,
+            "description": "The Master System finds its strongest identity through Europe, Brazil, and platform/adventure games."
+        },
+        {
+            "title": "Late Regional Era",
+            "start_year": 1992,
+            "end_year": 1998,
+            "description": "Later regional support, especially in Europe and Brazil, alongside the Mega Drive."
+        }
+    ],
+    "notes": null
+}

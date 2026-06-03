@@ -1,47 +1,42 @@
 {
-  "id": "dualshock-2",
-  "name": "DualShock 2",
-  "cover": "dualshock2",
-  "release": "2000-11-24",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": "PlayStation 2"
-  },
-  "system": "playstation-2",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "dualshock-2",
+    "name": "DualShock 2",
+    "description": "Standard PlayStation 2 controller with pressure-sensitive buttons, dual analog sticks, and vibration feedback.",
+    "cover": "dualshock2",
+    "release": "2000-03-04",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 6,
     "era": null,
+    "system": "playstation-2-system",
     "compatible_with": [
-      "playstation-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 5,
-    "reason": "Strongest Sony platform; unlocks full PS2 library",
-    "notes": "Used to own; already have games"
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
+        "playstation-2"
+    ],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": "playstation-2-series"
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": "Used to own."
+        }
+    ],
+    "acquisition": {
+        "priority": 5,
+        "reason": "Needed for an authentic PlayStation 2 setup.",
+        "notes": "Used to own; already have PS2 games."
+    },
+    "contains": [],
+    "notes": null
 }

@@ -1,0 +1,44 @@
+    {
+        "id": "game-watch-system",
+        "name": "Game & Watch",
+        "description": "Nintendo's LCD handheld game platform before the Game Boy, built around dedicated single-game devices and simple score-chasing play.",
+        "type": "system",
+        "logo": "game-watch-logo",
+        "era": "classic",
+        "companies": [
+            "nintendo-company"
+        ],
+        "parent": null,
+        "essentials": [
+            "ball",
+            "fire-game-watch",
+            "octopus",
+            "parachute",
+            "donkey-kong-game-watch",
+            "zelda-game-watch"
+        ],
+        "series": [
+            "game-watch-series"
+        ],
+        "eras": [
+            {
+                "title": "Silver and Gold Era",
+                "start_year": 1980,
+                "end_year": 1981,
+                "description": "Earliest simple single-screen models that established the Game & Watch format."
+            },
+            {
+                "title": "Wide Screen Era",
+                "start_year": 1981,
+                "end_year": 1982,
+                "description": "Larger-screen handhelds that broadened Nintendo's LCD game design."
+            },
+            {
+                "title": "Multi Screen Era",
+                "start_year": 1982,
+                "end_year": 1989,
+                "description": "Dual-screen clamshell games, including Donkey Kong, that shaped Nintendo handheld design."
+            }
+        ],
+        "notes": null
+    }

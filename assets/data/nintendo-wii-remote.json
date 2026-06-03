@@ -1,55 +1,45 @@
 {
-  "id": "nintendo-wii-remote",
-  "name": "Wii Remote",
-  "cover": "wii-remote",
-  "release": "2006-12-08",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii",
-    "subseries": null
-  },
-  "system": "nintendo-wii",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-wii-remote",
+    "name": "Wii Remote",
+    "description": "Primary Wii motion controller with pointer controls, accelerometer input, speaker, rumble, and expansion port.",
+    "cover": "wii-remote",
+    "release": "2006-11-19",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Wiimote"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
     "era": null,
+    "system": "nintendo-wii-system",
     "compatible_with": [
-      "nintendo-wii",
-      "nintendo-wii-u"
-    ]
-  },
-  "variants": [
-    {
-      "name": "White",
-      "cover": "wii-remote",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "White",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-wii",
+        "nintendo-wii-u"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "White",
+            "cover": "wii-remote",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

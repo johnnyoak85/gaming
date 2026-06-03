@@ -1,6 +1,43 @@
 {
-    "id": "sega-saturn",
-    "type": "system",
+    "id": "sega-saturn-system",
     "name": "Sega Saturn",
-    "logo": "sega-saturn-logo"
+    "description": "Sega's 32-bit home console platform, known for arcade ports, 2D fighters, shooters, Sega first-party experiments, and a strong Japanese library.",
+    "type": "system",
+    "logo": "sega-saturn-logo",
+    "era": "32-bit",
+    "companies": [
+        "sega-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "nights-into-dreams",
+        "panzer-dragoon",
+        "panzer-dragoon-zwei",
+        "panzer-dragoon-saga",
+        "virtua-fighter-2",
+        "sega-rally-championship",
+        "guardian-heroes",
+        "radiant-silvergun"
+    ],
+    "series": [
+        "panzer-dragoon-series",
+        "virtua-fighter-series",
+        "sega-rally-series",
+        "nights-series"
+    ],
+    "eras": [
+        {
+            "title": "Arcade 3D Era",
+            "start_year": 1994,
+            "end_year": 1996,
+            "description": "Early period focused on Sega arcade conversions, Virtua Fighter, racing games, and the 32-bit transition."
+        },
+        {
+            "title": "Japanese Library Era",
+            "start_year": 1997,
+            "end_year": 2000,
+            "description": "Late period defined by Japanese exclusives, 2D fighters, shooters, RPGs, and cult releases."
+        }
+    ],
+    "notes": null
 }

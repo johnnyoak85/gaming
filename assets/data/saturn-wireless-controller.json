@@ -1,52 +1,47 @@
 {
-  "id": "saturn-wireless-controller",
-  "name": "Saturn Wireless Controller",
-  "cover": "saturn-wireless-controller",
-  "release": "2019-01-01",
-  "type": "hardware",
-  "franchise": {
-    "series": "Saturn",
-    "subseries": null
-  },
-  "system": "sega-saturn",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "retro-bit-saturn-wireless-controller",
+    "name": "Retro-Bit Saturn Wireless Controller",
+    "description": "Officially licensed SEGA Saturn-style wireless controller by Retro-Bit with Bluetooth connectivity.",
+    "cover": "saturn-wireless-controller",
+    "release": "2019-01-01",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "SEGA Saturn Wireless Arcade Pad"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 5,
     "era": null,
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": null,
-      "cover": "saturn-wireless-controller",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Bluetooth connection"
+    "system": "sega-saturn-system",
+    "compatible_with": [
+        "windows-pc",
+        "mac",
+        "raspberry-pi",
+        "steam"
+    ],
+    "franchise": {
+        "series": "sega-saturn-series",
+        "subseries": null
+    },
+    "companies": [
+        "retro-bit-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": "saturn-wireless-controller",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": "Bluetooth connection."
 }

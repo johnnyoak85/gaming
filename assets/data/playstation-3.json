@@ -1,48 +1,46 @@
 {
-  "id": "playstation-3",
-  "name": "PlayStation 3",
-  "cover": "ps3",
-  "release": "2007-03-23",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": "PlayStation 3"
-  },
-  "system": "playstation-3",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "playstation-3",
+    "name": "PlayStation 3",
+    "description": "Sony's HD home console with Blu-ray playback, PlayStation Network support, and a library spanning cinematic first-party games and major third-party releases.",
+    "cover": "ps3",
+    "release": "2006-11-11",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "home",
-    "primary_family": "playstation-3",
-    "compatible_families": [
-      "playstation",
-      "playstation-2"
-    ],
-    "generation": 7,
     "era": "720p",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "playstation-3-system",
+    "compatible_with": [
+        "playstation-system",
+        "playstation-2-system",
+        "playstation-network-system"
+    ],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": "playstation-3-series"
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [
+        "ken-kutaragi"
+    ],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": "Does not turn on."
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Does not turn on"
 }

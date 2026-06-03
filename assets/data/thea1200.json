@@ -1,0 +1,52 @@
+{
+    "id": "thea1200",
+    "name": "THEA1200",
+    "description": "Full-size Amiga 1200-style computer by Retro Games with working keyboard, HDMI output, Workbench, and A1200/A500 emulation.",
+    "cover": "thea1200",
+    "release": "2026-12-04",
+    "type": "hardware",
+    "category": "computer",
+    "aliases": [],
+    "form": "home",
+    "era": "32-bit",
+    "system": "amiga-1200-system",
+    "compatible_with": [
+        "amiga-500-system"
+    ],
+    "franchise": {
+        "series": "amiga-series",
+        "subseries": "amiga-1200-series"
+    },
+    "companies": [
+        "retro-games-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": "Includes THEMOUSE and THEGAMEPAD."
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [
+        "defender-of-the-crown",
+        "defender-of-the-crown-ii",
+        "the-settlers-ii",
+        "turrican",
+        "turrican-ii-the-final-fight",
+        "turrican-3-payment-day",
+        "beneath-a-steel-sky",
+        "lure-of-the-temptress",
+        "ruff-n-tumble"
+    ],
+    "notes": null
+}

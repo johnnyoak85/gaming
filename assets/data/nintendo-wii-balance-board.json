@@ -1,48 +1,43 @@
 {
-  "id": "nintendo-wii-balance-board",
-  "name": "Wii Balance Board",
-  "cover": "balance-board",
-  "release": "2008-04-26",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii",
-    "subseries": null
-  },
-  "system": "nintendo-wii",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
-    "category": "accessory",
-    "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
+    "id": "nintendo-wii-balance-board",
+    "name": "Wii Balance Board",
+    "description": "Pressure-sensitive Wii controller used for fitness, balance, and body-weight input.",
+    "cover": "balance-board",
+    "release": "2007-12-01",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [],
+    "form": "special",
     "era": null,
+    "system": "nintendo-wii-system",
     "compatible_with": [
-      "nintendo-wii",
-      "nintendo-wii-u"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-wii",
+        "nintendo-wii-u"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

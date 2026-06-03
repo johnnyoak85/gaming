@@ -1,48 +1,45 @@
 {
-  "id": "super-nintendo-entertainment-system-controller-switch",
-  "name": "Super Nintendo Entertainment System Controller",
-  "cover": "snes-controller",
-  "release": "2020-03-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch",
-    "subseries": "Super Nintendo Entertainment System"
-  },
-  "system": "super-nintendo-entertainment-system",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "super-nintendo-entertainment-system-controller-switch",
+    "name": "Super Nintendo Entertainment System Controller",
+    "description": "Wireless SNES-style controller for Nintendo Switch Online's Super Nintendo library.",
+    "cover": "snes-controller",
+    "release": "2019-09-05",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "SNES Controller for Nintendo Switch"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 4,
     "era": null,
+    "system": "nintendo-switch-system",
     "compatible_with": [
-      "nintendo-switch",
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-switch",
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-series",
+        "subseries": "super-nintendo-entertainment-system-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

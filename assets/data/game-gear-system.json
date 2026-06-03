@@ -1,6 +1,28 @@
 {
-    "id": "game-gear",
-    "type": "system",
+    "id": "game-gear-system",
     "name": "Game Gear",
-    "logo": "game-gear-logo"
+    "description": "Sega's color handheld platform, positioned against the Game Boy with Master System-like hardware and a stronger focus on arcade-style portable games.",
+    "type": "system",
+    "logo": "game-gear-logo",
+    "era": "8-bit",
+    "companies": [
+        "sega-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "sonic-the-hedgehog-game-gear",
+        "sonic-the-hedgehog-2-game-gear",
+        "shinobi-game-gear",
+        "columns-game-gear",
+        "gg-aleste",
+        "ristar-game-gear"
+    ],
+    "series": [
+        "sonic-the-hedgehog-series",
+        "shinobi-series",
+        "columns-series",
+        "aleste-series"
+    ],
+    "eras": [],
+    "notes": null
 }

@@ -1,0 +1,24 @@
+    {
+        "id": "yuka-tsujiyoko",
+        "name": "Yuka Tsujiyoko",
+        "description": "Composer strongly associated with Fire Emblem's musical identity.",
+        "type": "person",
+        "portrait": "yuka-tsujiyoko",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "intelligent-systems-company",
+            "nintendo-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "fire-emblem-shadow-dragon-and-the-blade-of-light",
+            "fire-emblem-mystery-of-the-emblem",
+            "fire-emblem-genealogy-of-the-holy-war",
+            "paper-mario",
+            "paper-mario-the-thousand-year-door"
+        ],
+        "notes": null
+    }

@@ -1,54 +1,46 @@
 {
-  "id": "new-nintendo-3ds-xl",
-  "name": "New Nintendo 3DS XL",
-  "cover": "new-3ds-xl",
-  "release": "2017-07-30",
-  "type": "hardware",
-  "franchise": {
-    "series": "Nintendo 3DS",
-    "subseries": "New 3DS"
-  },
-  "system": "nintendo-3ds",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "new-nintendo-3ds-xl",
+    "name": "New Nintendo 3DS XL",
+    "description": "Enhanced large-screen Nintendo 3DS model with improved 3D tracking, extra controls, better performance, and amiibo support.",
+    "cover": "new-3ds-xl",
+    "release": "2014-10-11",
+    "type": "hardware",
     "category": "console",
-    "form": "handheld",
-    "primary_family": "nintendo-3ds",
-    "compatible_families": [
-      "nintendo-ds"
+    "aliases": [
+        "New Nintendo 3DS LL"
     ],
-    "generation": 8,
+    "form": "handheld",
     "era": "720p",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Orange & Black",
-      "cover": "new-3ds-xl",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Orange & Black",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "nintendo-3ds-system",
+    "compatible_with": [
+        "nintendo-ds-system",
+        "dsiware-system",
+        "nintendo-3ds-eshop-system"
+    ],
+    "franchise": {
+        "series": "nintendo-3ds-series",
+        "subseries": "new-nintendo-3ds-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Orange & Black",
+            "cover": "new-3ds-xl",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

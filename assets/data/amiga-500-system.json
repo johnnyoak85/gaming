@@ -1,0 +1,47 @@
+{
+    "id": "amiga-500-system",
+    "name": "Amiga 500",
+    "description": "Commodore's 16-bit home computer platform, known for arcade-quality graphics, strong audio, demoscene culture, and European computer gaming.",
+    "type": "system",
+    "logo": "amiga-500-logo",
+    "era": "16-bit",
+    "companies": [
+        "commodore-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "the-secret-of-monkey-island",
+        "lemmings",
+        "sensible-soccer",
+        "speedball-2",
+        "turrican",
+        "turrican-ii-the-final-fight",
+        "defender-of-the-crown",
+        "shadow-of-the-beast",
+        "another-world",
+        "cannon-fodder"
+    ],
+    "series": [
+        "amiga-series",
+        "monkey-island-series",
+        "lemmings-series",
+        "sensible-soccer-series",
+        "turrican-series",
+        "speedball-series"
+    ],
+    "eras": [
+        {
+            "title": "Home Computer Breakthrough Era",
+            "start_year": 1987,
+            "end_year": 1990,
+            "description": "The Amiga 500 becomes a major European home computer for arcade-style games, music, graphics, and demoscene culture."
+        },
+        {
+            "title": "Late OCS/ECS Gaming Era",
+            "start_year": 1991,
+            "end_year": 1994,
+            "description": "Mature Amiga game design with stronger action games, strategy titles, adventures, and sports games."
+        }
+    ],
+    "notes": null
+}

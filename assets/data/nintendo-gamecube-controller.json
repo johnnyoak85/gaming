@@ -1,79 +1,71 @@
 {
-  "id": "nintendo-gamecube-controller",
-  "name": "GameCube Controller",
-  "cover": "gamecube-controller",
-  "release": "2001-09-14",
-  "type": "hardware",
-  "franchise": {
-    "series": "GameCube",
-    "subseries": null
-  },
-  "system": "nintendo-gamecube",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-gamecube-controller",
+    "name": "GameCube Controller",
+    "description": "Standard GameCube controller with dual analog sticks, analog triggers, and the distinctive large A button layout.",
+    "cover": "gamecube-controller",
+    "release": "2001-09-14",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 6,
     "era": null,
+    "system": "gamecube-system",
     "compatible_with": [
-      "nintendo-gamecube",
-      "nintendo-wii"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Platinum",
-      "cover": "gamecube-controller-platinum",
-      "event": null,
-      "notes": null
+        "nintendo-gamecube",
+        "nintendo-wii"
+    ],
+    "franchise": {
+        "series": "gamecube-series",
+        "subseries": null
     },
-    {
-      "name": "Indigo",
-      "cover": "gamecube-controller-indigo",
-      "event": null,
-      "notes": null
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Platinum",
+            "cover": "gamecube-controller-platinum",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "Indigo",
+            "cover": "gamecube-controller-indigo",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "Jet Black",
+            "cover": "gamecube-controller-jet-black",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "Spice Orange",
+            "cover": "gamecube-controller-spice-orange",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "Emerald Blue",
+            "cover": "gamecube-controller-emerald-blue",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
     },
-    {
-      "name": "Jet Black",
-      "cover": "gamecube-controller-jet-black",
-      "event": null,
-      "notes": null
-    },
-    {
-      "name": "Spice Orange",
-      "cover": "gamecube-controller-spice-orange",
-      "event": null,
-      "notes": null
-    },
-    {
-      "name": "Emerald Blue",
-      "cover": "gamecube-controller-emerald-blue",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

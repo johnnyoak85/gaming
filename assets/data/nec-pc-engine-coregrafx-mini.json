@@ -1,44 +1,98 @@
 {
-  "id": "nec-pc-engine-coregrafx-mini",
-  "name": "PC Engine CoreGrafx Mini",
-  "cover": "pc-engine-mini",
-  "release": "2020-03-19",
-  "type": "hardware",
-  "franchise": {
-    "series": "PC Engine",
-    "subseries": null
-  },
-  "companies": {
-    "manufacturer": [
-      "NEC / Konami"
-    ],
-    "publisher": [
-      "NEC / Konami"
-    ]
-  },
-  "hardware": {
+    "id": "nec-pc-engine-coregrafx-mini",
+    "name": "PC Engine CoreGrafx Mini",
+    "description": "Mini replica of the PC Engine CoreGrafx with built-in PC Engine and TurboGrafx-16 games.",
+    "cover": "pc-engine-mini",
+    "release": "2020-03-19",
+    "type": "hardware",
     "category": "console",
-    "form": "dedicated",
-    "primary_family": "nec-pc-engine-coregrafx-mini",
-    "compatible_families": [],
-    "generation": 4,
+    "aliases": [
+        "PC Engine Core Grafx Mini"
+    ],
+    "form": "mini",
     "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Unique NEC library; major gap otherwise",
+    "system": "pc-engine-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "pc-engine-series",
+        "subseries": null
+    },
+    "companies": [
+        "konami-company",
+        "nec-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Unique NEC library; major gap otherwise.",
+        "notes": null
+    },
+    "contains": [
+        "the-kung-fu",
+        "jaseiken-necromancer",
+        "galaga-88",
+        "fantasy-zone",
+        "dragon-spirit",
+        "appare-gateball",
+        "nectaris",
+        "dungeon-explorer",
+        "neutopia",
+        "pc-genjin",
+        "ys-i-ii",
+        "the-genji-and-the-heike-clans",
+        "super-darius",
+        "splatterhouse",
+        "super-star-soldier",
+        "daimakaimura",
+        "the-legend-of-valkyrie",
+        "aldynes",
+        "seirei-senshi-spriggan",
+        "neutopia-ii",
+        "gradius",
+        "super-momotaro-dentetsu-ii",
+        "ninja-ryukenden",
+        "tengai-makyo-ii",
+        "star-parodier",
+        "spriggan-mark-2",
+        "snatcher",
+        "gradius-ii-gofer-no-yabo",
+        "cho-aniki",
+        "akumajo-dracula-x-chi-no-rondo",
+        "bomberman-94",
+        "tokimeki-memorial",
+        "bomberman-panic-bomber",
+        "ginga-fukei-densetsu-sapphire",
+        "alien-crush",
+        "victory-run",
+        "blazing-lazers",
+        "r-type",
+        "moto-roader",
+        "power-golf",
+        "ninja-spirit",
+        "jj-and-jeff",
+        "space-harrier",
+        "military-madness",
+        "chew-man-fu",
+        "psychosis",
+        "bonks-revenge",
+        "parasol-stars",
+        "cadash",
+        "new-adventure-island",
+        "air-zonk",
+        "soldier-blade",
+        "lords-of-thunder",
+        "bomberman-93"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

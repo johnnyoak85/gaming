@@ -1,52 +1,43 @@
 {
-  "id": "game-boy-advance-sp",
-  "name": "Game Boy Advance SP",
-  "cover": "game-boy-advance-sp",
-  "release": "2003-03-23",
-  "type": "hardware",
-  "franchise": {
-    "series": "Game Boy",
-    "subseries": "Game Boy Advance"
-  },
-  "system": "game-boy-advance",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "game-boy-advance-sp",
+    "name": "Game Boy Advance SP",
+    "description": "Clamshell redesign of the Game Boy Advance with a frontlit screen and rechargeable battery.",
+    "cover": "game-boy-advance-sp",
+    "release": "2003-02-14",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "handheld",
-    "primary_family": "game-boy-advance",
-    "compatible_families": [],
-    "generation": 6,
     "era": "32-bit",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Platinum",
-      "cover": "game-boy-advance-sp",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Platinum",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "game-boy-advance-system",
+    "compatible_with": [
+        "game-boy-system",
+        "game-boy-color-system"
+    ],
+    "franchise": {
+        "series": "game-boy-series",
+        "subseries": "game-boy-advance-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Platinum",
+            "cover": "game-boy-advance-sp",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

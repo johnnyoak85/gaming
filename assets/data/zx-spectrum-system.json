@@ -1,0 +1,46 @@
+{
+    "id": "zx-spectrum-system",
+    "name": "ZX Spectrum",
+    "description": "Sinclair's 8-bit home computer platform, central to British computer gaming and known for inexpensive hardware, cassette software, and a huge bedroom-coder scene.",
+    "type": "system",
+    "logo": "zx-spectrum-logo",
+    "era": "8-bit",
+    "companies": [
+        "sinclair-research-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "manic-miner",
+        "jet-set-willy",
+        "the-lords-of-midnight",
+        "the-hobbit",
+        "knight-lore",
+        "head-over-heels",
+        "elite",
+        "skool-daze",
+        "ant-attack",
+        "the-great-escape"
+    ],
+    "series": [
+        "zx-spectrum-series",
+        "miner-willy-series",
+        "lords-of-midnight-series",
+        "monty-mole-series",
+        "dizzy-series"
+    ],
+    "eras": [
+        {
+            "title": "48K Era",
+            "start_year": 1982,
+            "end_year": 1985,
+            "description": "Early Spectrum period defined by inexpensive cassette games, bedroom programmers, and foundational British microcomputer releases."
+        },
+        {
+            "title": "128K Era",
+            "start_year": 1986,
+            "end_year": 1992,
+            "description": "Later period with expanded memory, improved sound, stronger arcade conversions, and more ambitious late Spectrum games."
+        }
+    ],
+    "notes": null
+}

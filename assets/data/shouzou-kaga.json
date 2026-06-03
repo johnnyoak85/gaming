@@ -1,0 +1,26 @@
+{
+    "id": "shouzou-kaga",
+    "name": "Shouzou Kaga",
+    "description": "Creator and original director of Fire Emblem.",
+    "type": "person",
+    "portrait": "shouzou-kaga",
+    "roles": [
+        "designer",
+        "director",
+        "writer"
+    ],
+    "companies": [
+        "intelligent-systems-company",
+        "nintendo-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "fire-emblem-shadow-dragon-and-the-blade-of-light",
+        "fire-emblem-gaiden",
+        "fire-emblem-mystery-of-the-emblem",
+        "fire-emblem-genealogy-of-the-holy-war",
+        "tear-ring-saga"
+    ],
+    "notes": null
+}

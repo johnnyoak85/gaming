@@ -1,41 +1,44 @@
 {
-  "id": "taito-egret-ii-mini-paddle",
-  "name": "Taito Egret II Mini Paddle and Trackball",
-  "cover": "egret-ii-mini-paddle",
-  "release": "2022-03-02",
-  "type": "hardware",
-  "franchise": {
-    "series": "Egret II",
-    "subseries": null
-  },
-  "companies": [
-    "taito-company"
-  ],
-  "hardware": {
+    "id": "taito-egret-ii-mini-paddle",
+    "name": "Taito Egret II Mini Paddle and Trackball",
+    "description": "Special paddle and trackball controller for the Egret II Mini, bundled with an expansion SD card for compatible games.",
+    "cover": "egret-ii-mini-paddle",
+    "release": "2022-03-02",
+    "type": "hardware",
     "category": "controller",
-    "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": null,
+    "aliases": [
+        "Egret II Mini Paddle and Trackball"
+    ],
+    "form": "special",
     "era": null,
+    "system": "egret-ii-system",
     "compatible_with": [
-      "taito-egret-ii-mini"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Most flexible arcade mini; rotating screen gimmick",
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Most flexible arcade mini; rotating screen gimmick.",
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

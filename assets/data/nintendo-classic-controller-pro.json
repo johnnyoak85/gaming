@@ -1,57 +1,45 @@
 {
-  "id": "nintendo-classic-controller-pro",
-  "name": "Classic Controller Pro",
-  "cover": "classic-controller-pro",
-  "release": "2009-11-20",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii",
-    "subseries": null
-  },
-  "system": "nintendo-wii",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-classic-controller-pro",
+    "name": "Classic Controller Pro",
+    "description": "Wii controller that connects to a Wii Remote, adding grips and a traditional dual-stick button layout.",
+    "cover": "classic-controller-pro",
+    "release": "2009-08-01",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
     "era": null,
+    "system": "nintendo-wii-system",
     "compatible_with": [
-      "nintendo-classic-mini-nintendo-entertainment-system",
-      "nintendo-classic-mini-super-nintendo-entertainment-system",
-      "nintendo-wii-remote",
-      "nintendo-wii-remote-plus"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Black",
-      "cover": "classic-controller-pro",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Black",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-classic-mini-nintendo-entertainment-system",
+        "nintendo-classic-mini-super-nintendo-entertainment-system",
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "classic-controller-pro",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

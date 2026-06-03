@@ -68,6 +68,7 @@
     },
     "event": null,
     "notes": null,
+    "release_line": "arcade-classic-series-release-line",
     "description": "NES version of Namco’s maze chase arcade classic about eating dots and avoiding ghosts.",
     "people": [
         "toru-iwatani"

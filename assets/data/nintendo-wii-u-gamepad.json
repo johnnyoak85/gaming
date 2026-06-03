@@ -1,54 +1,42 @@
 {
-  "id": "nintendo-wii-u-gamepad",
-  "name": "Wii U Gamepad",
-  "cover": "wii-u-gamepad",
-  "release": "2012-11-30",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii U",
-    "subseries": null
-  },
-  "system": "nintendo-wii-u",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-wii-u-gamepad",
+    "name": "Wii U GamePad",
+    "description": "Primary Wii U controller with touchscreen, buttons, sticks, motion controls, camera, speakers, and off-TV play support.",
+    "cover": "wii-u-gamepad",
+    "release": "2012-11-18",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 8,
     "era": null,
+    "system": "nintendo-wii-u-system",
     "compatible_with": [
-      "nintendo-wii-u"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Black",
-      "cover": "wii-u-gamepad",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Black",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-wii-u"
+    ],
+    "franchise": {
+        "series": "wii-u-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "wii-u-gamepad",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

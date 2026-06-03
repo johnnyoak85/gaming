@@ -1,52 +1,40 @@
 {
-  "id": "nintendo-gamecube",
-  "name": "GameCube",
-  "cover": "gamecube",
-  "release": "2003-05-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "GameCube",
-    "subseries": null
-  },
-  "system": "nintendo-gamecube",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-gamecube",
+    "name": "GameCube",
+    "description": "Nintendo's compact disc-based home console, known for local multiplayer, polished first-party games, and experimental franchise entries.",
+    "cover": "gamecube",
+    "release": "2001-09-14",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "home",
-    "primary_family": "nintendo-gamecube",
-    "compatible_families": [],
-    "generation": 6,
     "era": "128-bit",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Platinum",
-      "cover": "gamecube",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Platinum",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "gamecube-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "gamecube-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Platinum",
+            "cover": "gamecube",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

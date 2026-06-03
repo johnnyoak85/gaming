@@ -1,47 +1,42 @@
 {
-  "id": "xbox-360-controller",
-  "name": "Xbox 360 Controller",
-  "cover": "xbox-360-controller",
-  "release": "2005-12-02",
-  "type": "hardware",
-  "franchise": {
-    "series": "Xbox",
-    "subseries": "Xbox 360"
-  },
-  "system": "xbox-360",
-  "companies": {
-    "manufacturer": [
-      "MicroSoft"
-    ],
-    "publisher": [
-      "MicroSoft"
-    ]
-  },
-  "hardware": {
+    "id": "xbox-360-controller",
+    "name": "Xbox 360 Controller",
+    "description": "Wired Xbox 360 controller with USB-A connection, dual analog sticks, triggers, and Guide button.",
+    "cover": "xbox-360-controller",
+    "release": "2005-11-22",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
     "era": null,
+    "system": "xbox-360-system",
     "compatible_with": [
-      "xbox-360"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "USB A Plug"
+        "xbox-360"
+    ],
+    "franchise": {
+        "series": "xbox-series",
+        "subseries": "xbox-360-series"
+    },
+    "companies": [
+        "microsoft-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": "Uses a USB-A connector."
 }

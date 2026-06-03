@@ -1,6 +1,50 @@
 {
-    "id": "nintendo-gamecube",
+    "id": "gamecube-system",
+    "name": "GameCube",
+    "description": "Nintendo's compact disc-based home console platform, focused on polished first-party games, local multiplayer, and experimental franchise entries.",
     "type": "system",
-    "name": "Nintendo Gamecube",
-    "logo": "nintendo-gamecube-logo"
+    "logo": "gamecube-logo",
+    "era": "128-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-mario-sunshine",
+        "the-legend-of-zelda-the-wind-waker",
+        "metroid-prime",
+        "super-smash-bros-melee",
+        "mario-kart-double-dash",
+        "pikmin",
+        "resident-evil-4",
+        "f-zero-gx",
+        "paper-mario-the-thousand-year-door",
+        "luigis-mansion"
+    ],
+    "series": [
+        "super-mario-series",
+        "the-legend-of-zelda-series",
+        "metroid-series",
+        "super-smash-bros-series",
+        "mario-kart-series",
+        "pikmin-series",
+        "resident-evil-series",
+        "f-zero-series",
+        "paper-mario-series"
+    ],
+    "eras": [
+        {
+            "title": "Experimentation Era",
+            "start_year": 2001,
+            "end_year": 2004,
+            "description": "Nintendo franchises take unusual directions while new identities like Pikmin and Metroid Prime define the platform."
+        },
+        {
+            "title": "Late Cult Era",
+            "start_year": 2005,
+            "end_year": 2007,
+            "description": "Late releases and cult favorites appear as Nintendo prepares for the Wii transition."
+        }
+    ],
+    "notes": null
 }

@@ -1,6 +1,25 @@
 {
-    "id": "virtual-boy",
-    "type": "system",
+    "id": "virtual-boy-system",
     "name": "Virtual Boy",
-    "logo": "virtual-boy-logo"
+    "description": "Nintendo's stereoscopic tabletop console platform. Short-lived and experimental, with a small library built around red-and-black 3D display effects.",
+    "type": "system",
+    "logo": "virtual-boy-logo",
+    "era": "32-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "virtual-boy-wario-land",
+        "mario-clash",
+        "teleroboxer",
+        "galactic-pinball",
+        "red-alarm"
+    ],
+    "series": [
+        "wario-series",
+        "super-mario-series"
+    ],
+    "eras": [],
+    "notes": null
 }

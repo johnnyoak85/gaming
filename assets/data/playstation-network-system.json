@@ -1,0 +1,27 @@
+{
+    "id": "playstation-network-system",
+    "name": "PlayStation Network",
+    "description": "Sony's online PlayStation platform for digital games, online services, accounts, multiplayer, trophies, and PlayStation Store access.",
+    "type": "system",
+    "logo": "playstation-network-logo",
+    "era": null,
+    "companies": [
+        "sony-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "journey",
+        "flower",
+        "wipeout-hd",
+        "super-stardust-hd",
+        "resogun",
+        "dead-nation",
+        "pixeljunk-monsters",
+        "echochrome"
+    ],
+    "series": [
+        "playstation-series"
+    ],
+    "eras": [],
+    "notes": null
+}

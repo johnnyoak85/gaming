@@ -1,46 +1,44 @@
 {
-  "id": "mvs-mini-pad",
-  "name": "Unico MVS Mini GamePad",
-  "cover": "mvs-mini-pad",
-  "release": "2018-07-24",
-  "type": "hardware",
-  "franchise": {
-    "series": "Neo Geo",
-    "subseries": "MVS"
-  },
-  "companies": {
-    "manufacturer": [
-      "SNK"
-    ],
-    "publisher": [
-      "SNK"
-    ]
-  },
-  "hardware": {
+    "id": "mvs-mini-pad",
+    "name": "Unico MVS Mini GamePad",
+    "description": "External gamepad controller for the Unico MVS Mini.",
+    "cover": "mvs-mini-pad",
+    "release": "2024-01-01",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "UNICO MVS Mini GamePad"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": null,
     "era": null,
+    "system": "neo-geo-mvs-system",
     "compatible_with": [
-      "mvs-mini"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Neo Geo arcade representation without cartridge costs",
+        "mvs-mini"
+    ],
+    "franchise": {
+        "series": "neo-geo-series",
+        "subseries": "neo-geo-mvs-series"
+    },
+    "companies": [
+        "unico-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Neo Geo arcade representation without cartridge costs.",
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

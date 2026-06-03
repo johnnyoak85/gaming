@@ -1,47 +1,42 @@
 {
-  "id": "playstation-classic-controller",
-  "name": "PlayStation Classic Controller",
-  "cover": "playstation-controller",
-  "release": "2018-12-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": null
-  },
-  "system": "playstation",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "playstation-classic-controller",
+    "name": "PlayStation Classic Controller",
+    "description": "Original PlayStation-style USB controller included with the PlayStation Classic.",
+    "cover": "playstation-controller",
+    "release": "2018-12-03",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 5,
     "era": null,
+    "system": "playstation-system",
     "compatible_with": [
-      "playstation-classic"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "USB A Plug"
+        "playstation-classic"
+    ],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": null
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": "Uses a USB-A connector."
 }

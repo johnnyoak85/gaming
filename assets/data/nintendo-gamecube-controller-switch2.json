@@ -1,47 +1,44 @@
 {
-  "id": "nintendo-gamecube-controller-switch2",
-  "name": "GameCube Controller",
-  "cover": "gamecube-controller-switch2",
-  "release": "2025-06-05",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch 2",
-    "subseries": "GameCube"
-  },
-  "system": "nintendo-gamecube",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-gamecube-controller-switch2",
+    "name": "Nintendo GameCube Controller",
+    "description": "Wireless GameCube-style controller for Nintendo Switch 2, updated with Capture, GameChat, motion controls, and USB charging.",
+    "cover": "gamecube-controller-switch2",
+    "release": "2025-06-05",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Nintendo GameCube Controller for Nintendo Switch 2"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 6,
     "era": null,
+    "system": "nintendo-switch-2-system",
     "compatible_with": [
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-2-series",
+        "subseries": "gamecube-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Nintendo Switch 2 launch",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": "Nintendo Switch 2 launch",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

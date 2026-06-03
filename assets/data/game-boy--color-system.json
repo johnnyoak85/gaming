@@ -1,6 +1,44 @@
 {
-    "id": "game-boy-color",
-    "type": "system",
+    "id": "game-boy-color-system",
     "name": "Game Boy Color",
-    "logo": "game-boy-color-logo"
+    "description": "Nintendo's color handheld platform and successor to the Game Boy. Bridges the original Game Boy library with color-exclusive handheld games.",
+    "type": "system",
+    "logo": "game-boy-color-logo",
+    "era": "8-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "the-legend-of-zelda-links-awakening-dx",
+        "the-legend-of-zelda-oracle-of-ages",
+        "the-legend-of-zelda-oracle-of-seasons",
+        "pokemon-gold",
+        "pokemon-silver",
+        "pokemon-crystal",
+        "warioland-3",
+        "shantae"
+    ],
+    "series": [
+        "game-boy-series",
+        "the-legend-of-zelda-series",
+        "pokemon-series",
+        "wario-series",
+        "shantae-series"
+    ],
+    "eras": [
+        {
+            "title": "Color Transition Era",
+            "start_year": 1998,
+            "end_year": 1999,
+            "description": "Early period of colorized Game Boy releases, compatibility upgrades, and cross-generation handheld games."
+        },
+        {
+            "title": "Late Handheld Era",
+            "start_year": 2000,
+            "end_year": 2002,
+            "description": "Color-exclusive games and late 8-bit handheld refinement before the Game Boy Advance fully takes over."
+        }
+    ],
+    "notes": null
 }

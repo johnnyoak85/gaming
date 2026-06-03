@@ -1,0 +1,42 @@
+{
+    "id": "nintendo-game-boy-player",
+    "name": "Game Boy Player",
+    "description": "GameCube add-on that plays Game Boy, Game Boy Color, and Game Boy Advance cartridges on a television.",
+    "cover": "game-boy-player",
+    "release": "2003-03-21",
+    "type": "hardware",
+    "category": "peripheral",
+    "aliases": [],
+    "form": "add_on",
+    "era": "32-bit",
+    "system": "gamecube-system",
+    "compatible_with": [
+        "nintendo-gamecube"
+    ],
+    "franchise": {
+        "series": "game-boy-series",
+        "subseries": "game-boy-advance-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "game-boy-player-black",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

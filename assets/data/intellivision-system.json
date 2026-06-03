@@ -1,0 +1,43 @@
+{
+    "id": "intellivision-system",
+    "name": "Intellivision",
+    "description": "Mattel's classic home console platform and Atari 2600 rival, known for keypad overlays, sports games, and early voice/strategy experiments.",
+    "type": "system",
+    "logo": "intellivision-logo",
+    "era": "classic",
+    "companies": [
+        "mattel-company",
+        "atari-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "astrosmash",
+        "night-stalker",
+        "shark-shark",
+        "b-17-bomber",
+        "utopia",
+        "lock-n-chase",
+        "advanced-dungeons-and-dragons-cloudy-mountain",
+        "burgertime",
+        "tron-deadly-discs",
+        "beamrider"
+    ],
+    "series": [
+        "intellivision-series"
+    ],
+    "eras": [
+        {
+            "title": "Mattel Electronics Era",
+            "start_year": 1979,
+            "end_year": 1984,
+            "description": "Original Intellivision period under Mattel, defined by sports, strategy, overlays, and direct competition with Atari."
+        },
+        {
+            "title": "Legacy Revival Era",
+            "start_year": 2024,
+            "end_year": null,
+            "description": "Modern Atari-owned revival period after acquisition of the Intellivision brand and library."
+        }
+    ],
+    "notes": null
+}

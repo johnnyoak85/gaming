@@ -1,6 +1,55 @@
 {
-    "id": "playstation-4",
+    "id": "playstation-4-system",
+    "name": "PlayStation 4",
+    "description": "Sony's 1080p home console platform, known for strong third-party support, digital services, and major cinematic first-party games.",
     "type": "system",
-    "name": "Playstation 4",
-    "logo": "playstation-4-logo"
+    "logo": "playstation-4-logo",
+    "era": "1080p",
+    "companies": [
+        "sony-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "bloodborne",
+        "god-of-war-2018",
+        "marvels-spider-man",
+        "the-last-of-us-part-ii",
+        "uncharted-4-a-thiefs-end",
+        "ghost-of-tsushima",
+        "horizon-zero-dawn",
+        "persona-5-royal",
+        "resident-evil-2-remake",
+        "red-dead-redemption-2"
+    ],
+    "series": [
+        "god-of-war-series",
+        "spider-man-series",
+        "the-last-of-us-series",
+        "uncharted-series",
+        "ghost-of-tsushima-series",
+        "horizon-series",
+        "persona-series",
+        "resident-evil-series"
+    ],
+    "eras": [
+        {
+            "title": "Foundation Era",
+            "start_year": 2013,
+            "end_year": 2015,
+            "description": "Early generation focused on cross-generation releases, digital services, and establishing PS4 as the default third-party platform."
+        },
+        {
+            "title": "First-Party Peak Era",
+            "start_year": 2016,
+            "end_year": 2020,
+            "description": "Sony's cinematic first-party identity peaks alongside major third-party releases."
+        },
+        {
+            "title": "Cross-Generation Era",
+            "start_year": 2020,
+            "end_year": null,
+            "description": "PS4 continues receiving major releases alongside PlayStation 5."
+        }
+    ],
+    "notes": null
 }

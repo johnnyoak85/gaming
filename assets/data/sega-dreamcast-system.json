@@ -1,6 +1,46 @@
 {
-    "id": "sega-dreamcast",
+    "id": "sega-dreamcast-system",
+    "name": "Dreamcast",
+    "description": "Sega's 128-bit home console platform, known for arcade conversions, online features, VMU support, and Sega's final first-party console library.",
     "type": "system",
-    "name": "Sega Dreamcast",
-    "logo": "sega-dreamcast-logo"
+    "logo": "sega-dreamcast-logo",
+    "era": "128-bit",
+    "companies": [
+        "sega-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "sonic-adventure",
+        "sonic-adventure-2",
+        "shenmue",
+        "jet-set-radio",
+        "crazy-taxi",
+        "skies-of-arcadia",
+        "soulcalibur",
+        "rez",
+        "power-stone",
+        "phantasy-star-online"
+    ],
+    "series": [
+        "sonic-the-hedgehog-series",
+        "shenmue-series",
+        "jet-set-radio-series",
+        "crazy-taxi-series",
+        "phantasy-star-series"
+    ],
+    "eras": [
+        {
+            "title": "Launch and Arcade Conversion Era",
+            "start_year": 1998,
+            "end_year": 1999,
+            "description": "Early period built around Sega arcade conversions, online ambitions, and the system's Japanese and western launches."
+        },
+        {
+            "title": "Final Sega Console Era",
+            "start_year": 2000,
+            "end_year": 2002,
+            "description": "Late period where Sega's first-party creativity peaks before the company exits console hardware."
+        }
+    ],
+    "notes": null
 }

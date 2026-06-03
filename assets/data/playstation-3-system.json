@@ -1,6 +1,55 @@
 {
-    "id": "playstation-3",
+    "id": "playstation-3-system",
+    "name": "PlayStation 3",
+    "description": "Sony's HD home console platform, known for Blu-ray, PlayStation Network, cinematic first-party games, and late-generation technical showcases.",
     "type": "system",
-    "name": "Playstation 3",
-    "logo": "playstation-3-logo"
+    "logo": "playstation-3-logo",
+    "era": "720p",
+    "companies": [
+        "sony-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "uncharted-2-among-thieves",
+        "the-last-of-us",
+        "metal-gear-solid-4-guns-of-the-patriots",
+        "god-of-war-iii",
+        "demons-souls",
+        "littlebigplanet",
+        "journey",
+        "red-dead-redemption",
+        "grand-theft-auto-v",
+        "persona-5"
+    ],
+    "series": [
+        "uncharted-series",
+        "the-last-of-us-series",
+        "metal-gear-series",
+        "god-of-war-series",
+        "souls-series",
+        "littlebigplanet-series",
+        "grand-theft-auto-series",
+        "persona-series"
+    ],
+    "eras": [
+        {
+            "title": "Difficult Launch Era",
+            "start_year": 2006,
+            "end_year": 2008,
+            "description": "High price, complex hardware, Blu-ray positioning, and early first-party growing pains."
+        },
+        {
+            "title": "First-Party Recovery Era",
+            "start_year": 2009,
+            "end_year": 2013,
+            "description": "Sony's studios and major third-party releases define the PS3's strongest identity."
+        },
+        {
+            "title": "Cross-Generation Era",
+            "start_year": 2013,
+            "end_year": 2017,
+            "description": "Late releases overlap with PlayStation 4 while PS3 remains active for major cross-generation games."
+        }
+    ],
+    "notes": null
 }

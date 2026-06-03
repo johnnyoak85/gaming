@@ -1,6 +1,51 @@
 {
-    "id": "nintendo-ds",
-    "type": "system",
+    "id": "nintendo-ds-system",
     "name": "Nintendo DS",
-    "logo": "nintendo-ds-logo"
+    "description": "Nintendo's dual-screen handheld platform with touch controls, microphone input, and broad appeal across traditional and casual games.",
+    "type": "system",
+    "logo": "nintendo-ds-logo",
+    "era": "32-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "new-super-mario-bros",
+        "mario-kart-ds",
+        "animal-crossing-wild-world",
+        "the-legend-of-zelda-phantom-hourglass",
+        "pokemon-diamond",
+        "pokemon-pearl",
+        "advance-wars-dual-strike",
+        "castlevania-dawn-of-sorrow",
+        "phoenix-wright-ace-attorney",
+        "professor-layton-and-the-curious-village",
+        "the-world-ends-with-you"
+    ],
+    "series": [
+        "super-mario-series",
+        "mario-kart-series",
+        "animal-crossing-series",
+        "the-legend-of-zelda-series",
+        "pokemon-series",
+        "advance-wars-series",
+        "castlevania-series",
+        "ace-attorney-series",
+        "professor-layton-series"
+    ],
+    "eras": [
+        {
+            "title": "Touch Experiment Era",
+            "start_year": 2004,
+            "end_year": 2006,
+            "description": "Early period focused on touch-screen novelty, dual-screen experiments, and broad-audience software."
+        },
+        {
+            "title": "Portable Peak Era",
+            "start_year": 2007,
+            "end_year": 2011,
+            "description": "Mature period with major Nintendo entries, RPGs, adventure games, visual novels, and strong third-party support."
+        }
+    ],
+    "notes": null
 }

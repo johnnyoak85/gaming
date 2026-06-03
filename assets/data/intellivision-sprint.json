@@ -1,44 +1,86 @@
 {
-  "id": "intellivision-sprint",
-  "name": "Intellivision Sprint",
-  "cover": "intellivision-sprint",
-  "release": "2025-12-05",
-  "type": "hardware",
-  "franchise": {
-    "series": "Intellivision",
-    "subseries": null
-  },
-  "companies": {
-    "manufacturer": [
-      "Atari / PLAION"
-    ],
-    "publisher": [
-      "Atari / PLAION"
-    ]
-  },
-  "hardware": {
+    "id": "intellivision-sprint",
+    "name": "Intellivision Sprint",
+    "description": "Modern Intellivision replica by Atari with HDMI output, two wireless controllers, overlays, and 45 built-in games.",
+    "cover": "intellivision-sprint",
+    "release": "2025-12-05",
+    "type": "hardware",
     "category": "console",
-    "form": "dedicated",
-    "primary_family": "intellivision-sprint",
-    "compatible_families": [],
-    "generation": 2,
+    "aliases": [],
+    "form": "mini",
     "era": "classic",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 2,
-    "reason": "Secondary retro pillar; niche historical interest",
+    "system": "intellivision-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "intellivision-series",
+        "subseries": null
+    },
+    "companies": [
+        "atari-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Intellivision 45th Anniversary",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": "Intellivision 45th Anniversary",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Classic pre-crash console representation with modern HDMI and built-in library.",
+        "notes": null
+    },
+    "contains": [
+        "armour-battle",
+        "astrosmash",
+        "auto-racing",
+        "b-17-bomber",
+        "baseball",
+        "body-slam-super-pro-wrestling",
+        "bomb-squad",
+        "boulder-dash",
+        "bowling",
+        "buzz-bombers",
+        "chip-shot-super-pro-golf",
+        "deep-pockets-super-pro-pool-and-billiards",
+        "frog-bog",
+        "golf",
+        "hover-force",
+        "king-of-the-mountain",
+        "motocross",
+        "mountain-madness-super-pro-skiing",
+        "night-stalker",
+        "pinball",
+        "reversi",
+        "sea-battle",
+        "shark-shark",
+        "slam-dunk-super-pro-basketball",
+        "slap-shot-super-pro-hockey",
+        "snafu",
+        "soccer",
+        "space-armada",
+        "space-battle",
+        "space-spartans",
+        "spiker-super-pro-volleyball",
+        "stadium-mud-buggies",
+        "star-strike",
+        "sub-hunt",
+        "super-pro-decathlon",
+        "super-pro-football",
+        "takeover",
+        "tennis",
+        "thin-ice",
+        "thunder-castle",
+        "tower-of-doom",
+        "triple-action",
+        "triple-challenge",
+        "utopia",
+        "vectron"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Modern Intellivision-style mini console with HDMI, wireless controllers, and 45 built-in games."
 }

@@ -1,6 +1,56 @@
 {
-    "id": "playstation",
+    "id": "playstation-system",
+    "name": "PlayStation",
+    "description": "Sony's 32-bit home console platform that helped define the CD-ROM era and brought 3D gaming into the mainstream.",
     "type": "system",
-    "name": "Playstation",
-    "logo": "playstation-logo"
+    "logo": "playstation-logo",
+    "era": "32-bit",
+    "companies": [
+        "sony-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "final-fantasy-vii",
+        "metal-gear-solid",
+        "resident-evil-directors-cut",
+        "castlevania-symphony-of-the-night",
+        "tekken-3",
+        "ridge-racer-type-4",
+        "crash-bandicoot",
+        "spyro-the-dragon",
+        "gran-turismo",
+        "tomb-raider"
+    ],
+    "series": [
+        "final-fantasy-series",
+        "metal-gear-series",
+        "resident-evil-series",
+        "tekken-series",
+        "ridge-racer-series",
+        "crash-bandicoot-series",
+        "spyro-the-dragon-series",
+        "gran-turismo-series",
+        "tomb-raider-series"
+    ],
+    "eras": [
+        {
+            "title": "Early 3D Era",
+            "start_year": 1994,
+            "end_year": 1996,
+            "description": "Launch-window experimentation with CD-ROM presentation, arcade conversions, and early 3D design."
+        },
+        {
+            "title": "Mainstream Breakthrough Era",
+            "start_year": 1997,
+            "end_year": 1999,
+            "description": "PlayStation becomes the dominant console through RPGs, cinematic action games, racing, horror, and mascot platformers."
+        },
+        {
+            "title": "Late Library Era",
+            "start_year": 2000,
+            "end_year": 2004,
+            "description": "Late releases and cross-generation support after the PlayStation 2 launch."
+        }
+    ],
+    "notes": null
 }

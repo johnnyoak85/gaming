@@ -1,6 +1,47 @@
 {
-    "id": "xbox",
-    "type": "system",
+    "id": "xbox-system",
     "name": "Xbox",
-    "logo": "xbox-logo"
+    "description": "Microsoft's first home console platform, known for Xbox Live, Halo, PC-style architecture, and early western console online gaming.",
+    "type": "system",
+    "logo": "xbox-logo",
+    "era": "128-bit",
+    "companies": [
+        "microsoft-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "halo-combat-evolved",
+        "halo-2",
+        "fable",
+        "the-elder-scrolls-iii-morrowind",
+        "star-wars-knights-of-the-old-republic",
+        "ninja-gaiden-black",
+        "jet-set-radio-future",
+        "panzer-dragoon-orta",
+        "forza-motorsport",
+        "conker-live-and-reloaded"
+    ],
+    "series": [
+        "halo-series",
+        "fable-series",
+        "forza-series",
+        "ninja-gaiden-series",
+        "the-elder-scrolls-series",
+        "star-wars-series"
+    ],
+    "eras": [
+        {
+            "title": "Foundation Era",
+            "start_year": 2001,
+            "end_year": 2004,
+            "description": "Microsoft establishes Xbox through Halo, PC-style hardware, western RPGs, and early online console identity."
+        },
+        {
+            "title": "Live Era",
+            "start_year": 2002,
+            "end_year": 2006,
+            "description": "Xbox Live, Halo 2, and online multiplayer define the platform's strongest identity."
+        }
+    ],
+    "notes": null
 }

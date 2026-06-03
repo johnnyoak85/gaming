@@ -1,0 +1,42 @@
+{
+    "id": "amiga-1200-system",
+    "name": "Amiga 1200",
+    "description": "Commodore's AGA Amiga home computer platform, extending the Amiga line with stronger graphics and later-generation 2D computer games.",
+    "type": "system",
+    "logo": "amiga-1200-logo",
+    "era": "32-bit",
+    "companies": [
+        "commodore-company"
+    ],
+    "parent": "amiga-500-system",
+    "essentials": [
+        "alien-breed-3d",
+        "banshee",
+        "beneath-a-steel-sky",
+        "chaos-engine",
+        "frontier-elite-ii",
+        "pinball-illusions",
+        "super-stardust",
+        "turrican-3-payment-day",
+        "worms",
+        "zool"
+    ],
+    "series": [
+        "amiga-series",
+        "alien-breed-series",
+        "elite-series",
+        "pinball-dreams-series",
+        "turrican-series",
+        "worms-series",
+        "zool-series"
+    ],
+    "eras": [
+        {
+            "title": "AGA Era",
+            "start_year": 1992,
+            "end_year": 1996,
+            "description": "Late Amiga period built around AGA-enhanced graphics, larger games, and the platform's final commercial push."
+        }
+    ],
+    "notes": null
+}

@@ -1,0 +1,53 @@
+{
+    "id": "taito-egret-ii-mini-paddle-trackball-game-expansion-sd-card",
+    "name": "Taito Egret II Mini Paddle & Trackball Game Expansion SD Card",
+    "description": "Expansion SD card included with the Egret II Mini Paddle & Trackball set, adding 10 paddle and trackball-compatible arcade games.",
+    "cover": "egret-ii-mini-paddle-sd-card",
+    "release": "2022-03-02",
+    "type": "hardware",
+    "category": "storage",
+    "aliases": [],
+    "form": "special",
+    "era": null,
+    "system": "egret-ii-system",
+    "compatible_with": [
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Adds the paddle and trackball-specific games for the Egret II Mini.",
+        "notes": null
+    },
+    "contains": [
+        "marine-date",
+        "strike-bowling",
+        "birdie-king",
+        "arkanoid",
+        "arkanoid-revenge-of-doh",
+        "plump-pop",
+        "syvalion",
+        "cameltry",
+        "arkanoid-returns",
+        "puchi-carat"
+    ],
+    "notes": null
+}

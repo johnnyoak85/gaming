@@ -1,6 +1,51 @@
 {
-    "id": "game-boy-advance",
-    "type": "system",
+    "id": "game-boy-advance-system",
     "name": "Game Boy Advance",
-    "logo": "game-boy-advance-logo"
+    "description": "Nintendo's 32-bit handheld platform and successor to the Game Boy Color. Known for portable 2D games, SNES-style experiences, and strong Nintendo franchise entries.",
+    "type": "system",
+    "logo": "game-boy-advance-logo",
+    "era": "32-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "metroid-fusion",
+        "metroid-zero-mission",
+        "the-legend-of-zelda-the-minish-cap",
+        "fire-emblem-the-blazing-blade",
+        "advance-wars",
+        "castlevania-aria-of-sorrow",
+        "wario-ware-inc-mega-microgame",
+        "mario-and-luigi-superstar-saga",
+        "golden-sun",
+        "mother-3"
+    ],
+    "series": [
+        "game-boy-series",
+        "metroid-series",
+        "the-legend-of-zelda-series",
+        "fire-emblem-series",
+        "advance-wars-series",
+        "castlevania-series",
+        "wario-series",
+        "super-mario-series",
+        "golden-sun-series",
+        "earthbound-series"
+    ],
+    "eras": [
+        {
+            "title": "Launch and SNES-Portable Era",
+            "start_year": 2001,
+            "end_year": 2002,
+            "description": "Early period defined by portable 16-bit-style games, SNES ports, and handheld sequels."
+        },
+        {
+            "title": "Original Handheld Peak Era",
+            "start_year": 2003,
+            "end_year": 2006,
+            "description": "The platform's strongest period of original handheld entries, RPGs, action games, and Nintendo experiments."
+        }
+    ],
+    "notes": null
 }

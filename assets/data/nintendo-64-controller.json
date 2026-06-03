@@ -1,60 +1,49 @@
 {
-  "id": "nintendo-64-controller",
-  "name": "Nintendo 64 Controller",
-  "cover": "n64-controller-grey",
-  "release": "1997-03-01",
-  "type": "hardware",
-  "franchise": {
-    "series": "Nintendo 64",
-    "subseries": null
-  },
-  "system": "nintendo-64",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-64-controller",
+    "name": "Nintendo 64 Controller",
+    "description": "Standard Nintendo 64 controller with three-prong grip, analog stick, C-buttons, and accessory slot.",
+    "cover": "n64-controller-grey",
+    "release": "1996-06-23",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 5,
     "era": null,
+    "system": "nintendo-64-system",
     "compatible_with": [
-      "nintendo-64"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Solid Grey",
-      "cover": "n64-controller-grey",
-      "event": null,
-      "notes": null
+        "nintendo-64"
+    ],
+    "franchise": {
+        "series": "nintendo-64-series",
+        "subseries": null
     },
-    {
-      "name": "Mario Kart",
-      "cover": "n64-controller-black",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Solid Grey",
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 5,
-    "reason": "Major historical gap; you used to own it",
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Solid Grey",
+            "cover": "n64-controller-grey",
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "Mario Kart",
+            "cover": "n64-controller-black",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 5,
+        "reason": "Major historical gap; used to own it.",
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

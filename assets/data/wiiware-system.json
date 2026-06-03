@@ -1,0 +1,32 @@
+{
+    "id": "wiiware-system",
+    "name": "WiiWare",
+    "description": "Digital-only Wii software platform for downloadable original games and smaller releases.",
+    "type": "system",
+    "logo": "wiiware-logo",
+    "era": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": "nintendo-wii-system",
+    "essentials": [
+        "lostwinds",
+        "world-of-goo",
+        "mega-man-9",
+        "mega-man-10",
+        "contra-rebirth",
+        "castlevania-the-adventure-rebirth",
+        "gradius-rebirth",
+        "bonsai-barber",
+        "fluidity",
+        "cave-story-wii"
+    ],
+    "series": [
+        "mega-man-series",
+        "contra-series",
+        "castlevania-series",
+        "gradius-series"
+    ],
+    "eras": [],
+    "notes": null
+}

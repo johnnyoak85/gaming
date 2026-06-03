@@ -1,48 +1,45 @@
 {
-  "id": "nintendo-switch-pro-controller",
-  "name": "Switch Pro Controller",
-  "cover": "switch-pro-controller",
-  "release": "2017-03-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch",
-    "subseries": null
-  },
-  "system": "nintendo-switch",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-switch-pro-controller",
+    "name": "Switch Pro Controller",
+    "description": "Traditional wireless controller for Nintendo Switch with dual sticks, motion controls, HD rumble, and amiibo support.",
+    "cover": "switch-pro-controller",
+    "release": "2017-03-03",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Nintendo Switch Pro Controller"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 8,
     "era": null,
+    "system": "nintendo-switch-system",
     "compatible_with": [
-      "nintendo-switch",
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-switch",
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

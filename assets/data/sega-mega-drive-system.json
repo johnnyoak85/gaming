@@ -1,6 +1,53 @@
-{
-    "id": "sega-mega-drive",
-    "type": "system",
-    "name": "Sega Mega Drive",
-    "logo": "sega-mega-drive-logo"
-}
+    {
+        "id": "sega-mega-drive-system",
+        "name": "Sega Mega Drive",
+        "description": "Sega's 16-bit home console platform, known as the Sega Genesis in North America. Defined by fast arcade-style action, strong third-party support, and Sonic the Hedgehog.",
+        "type": "system",
+        "logo": "sega-mega-drive-logo",
+        "era": "16-bit",
+        "companies": [
+            "sega-company"
+        ],
+        "parent": null,
+        "essentials": [
+            "sonic-the-hedgehog",
+            "sonic-the-hedgehog-2",
+            "streets-of-rage-ii",
+            "gunstar-heroes",
+            "shining-force",
+            "phantasy-star-iv-the-end-of-the-millennium",
+            "castle-of-illusion-starring-mickey-mouse",
+            "comix-zone",
+            "contra-hard-corps",
+            "castlevania-bloodlines"
+        ],
+        "series": [
+            "sonic-the-hedgehog-series",
+            "streets-of-rage-series",
+            "shining-force-series",
+            "phantasy-star-series",
+            "golden-axe-series",
+            "shinobi-series"
+        ],
+        "eras": [
+            {
+                "title": "Launch and Arcade Identity Era",
+                "start_year": 1988,
+                "end_year": 1990,
+                "description": "Early period focused on arcade-style action, Sega conversions, and establishing the Mega Drive against 8-bit systems."
+            },
+            {
+                "title": "Sonic Boom Era",
+                "start_year": 1991,
+                "end_year": 1993,
+                "description": "Sonic, aggressive marketing, sports games, and strong third-party support define the system's global identity."
+            },
+            {
+                "title": "Late 16-bit Mastery Era",
+                "start_year": 1994,
+                "end_year": 1998,
+                "description": "Late-generation technical showcase period with polished action games, RPGs, licensed titles, and regional deep cuts."
+            }
+        ],
+        "notes": null
+    }

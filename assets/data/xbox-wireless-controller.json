@@ -1,44 +1,47 @@
 {
-  "id": "xbox-wireless-controller",
-  "name": "Xbox Wireless Controller",
-  "cover": "xbox-wireless-controller",
-  "release": "2020-10-10",
-  "type": "hardware",
-  "franchise": {
-    "series": "Xbox",
-    "subseries": "Xbox Series"
-  },
-  "companies": {
-    "manufacturer": [
-      "MicroSoft"
-    ],
-    "publisher": [
-      "MicroSoft"
-    ]
-  },
-  "hardware": {
+    "id": "xbox-wireless-controller",
+    "name": "Xbox Wireless Controller",
+    "description": "Xbox Series X|S wireless controller with refined ergonomics, Share button, hybrid D-pad, USB-C, and broad Xbox/PC compatibility.",
+    "cover": "xbox-wireless-controller",
+    "release": "2020-11-10",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Xbox Series X|S Controller"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 9,
     "era": null,
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "xbox-series-system",
+    "compatible_with": [
+        "xbox-series-x",
+        "xbox-series-s",
+        "xbox-one",
+        "windows-pc"
+    ],
+    "franchise": {
+        "series": "xbox-series",
+        "subseries": "xbox-series-x-s-series"
+    },
+    "companies": [
+        "microsoft-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

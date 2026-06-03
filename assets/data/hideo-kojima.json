@@ -1,0 +1,28 @@
+    {
+        "id": "hideo-kojima",
+        "name": "Hideo Kojima",
+        "description": "Creator of Metal Gear and one of gaming's most recognizable auteurs.",
+        "type": "person",
+        "portrait": "hideo-kojima",
+        "roles": [
+            "designer",
+            "director",
+            "writer",
+            "producer"
+        ],
+        "companies": [
+            "konami-company",
+            "kojima-productions-company"
+        ],
+        "circle": "major",
+        "country": "JP",
+        "essentials": [
+            "metal-gear",
+            "metal-gear-2-solid-snake",
+            "metal-gear-solid",
+            "metal-gear-solid-2-sons-of-liberty",
+            "metal-gear-solid-3-snake-eater",
+            "death-stranding"
+        ],
+        "notes": null
+    }

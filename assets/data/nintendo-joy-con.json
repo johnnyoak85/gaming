@@ -1,61 +1,50 @@
 {
-  "id": "nintendo-joy-con",
-  "name": "Joy-Con",
-  "cover": "joy-con-neon",
-  "release": "2017-03-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch",
-    "subseries": null
-  },
-  "system": "nintendo-switch",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-joy-con",
+    "name": "Joy-Con",
+    "description": "Pair of detachable Nintendo Switch controllers that can be used attached, wirelessly, separately, or together.",
+    "cover": "joy-con-neon",
+    "release": "2017-03-03",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 8,
     "era": null,
+    "system": "nintendo-switch-system",
     "compatible_with": [
-      "nintendo-switch",
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Neon Red & Neon Blue",
-      "cover": "joy-con-neon",
-      "event": null,
-      "notes": null
+        "nintendo-switch",
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-series",
+        "subseries": null
     },
-    {
-      "name": "The Legend of Zelda: Skyward Sword HD Edition",
-      "cover": "joy-con-zelda",
-      "event": "The Legend of Zelda: Skyward Sword 10th Anniversary",
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Neon Red & Neon Blue",
+            "cover": "joy-con-neon",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "The Legend of Zelda: Skyward Sword HD Edition",
+            "cover": "joy-con-zelda",
+            "status": "owned",
+            "event": "The Legend of Zelda: Skyward Sword 10th Anniversary",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": "Compatible with Nintendo Switch 2 wirelessly only."
 }

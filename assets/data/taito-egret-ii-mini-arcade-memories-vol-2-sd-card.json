@@ -1,0 +1,55 @@
+{
+    "id": "taito-egret-ii-mini-arcade-memories-vol-2-sd-card",
+    "name": "Taito Egret II Mini Arcade Memories Vol. 2 SD Card",
+    "description": "Official Egret II Mini expansion SD card adding 10 additional Taito arcade games.",
+    "cover": "egret-ii-mini-arcade-memories-vol-2",
+    "release": "2023-12-21",
+    "type": "hardware",
+    "category": "storage",
+    "aliases": [
+        "Arcade Memories Vol. 2"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "egret-ii-system",
+    "compatible_with": [
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Adds several important late Taito arcade games to the Egret II Mini.",
+        "notes": null
+    },
+    "contains": [
+        "return-of-the-invaders",
+        "wyvern-f-0",
+        "wardner-no-mori",
+        "operation-wolf",
+        "tokushu-butai-uag",
+        "chuka-taisen",
+        "night-striker",
+        "crime-city",
+        "yuuyu-no-quiz-de-go-go",
+        "kyukyoku-tiger-ii"
+    ],
+    "notes": null
+}

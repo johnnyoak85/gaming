@@ -1,6 +1,55 @@
 {
-    "id": "super-nintendo-entertainment-system",
-    "type": "system",
+    "id": "super-nintendo-entertainment-system-system",
     "name": "Super Nintendo Entertainment System",
-    "logo": "super-nintendo-entertainment-system-logo"
+    "description": "Nintendo's 16-bit home console platform, known as the Super Famicom in Japan. Home to major Nintendo sequels, RPGs, action games, and late 2D masterpieces.",
+    "type": "system",
+    "logo": "super-nintendo-entertainment-system-logo",
+    "era": "16-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-mario-world",
+        "the-legend-of-zelda-a-link-to-the-past",
+        "super-metroid",
+        "super-mario-world-2-yoshis-island",
+        "donkey-kong-country",
+        "chrono-trigger",
+        "final-fantasy-vi",
+        "super-castlevania-iv",
+        "super-punch-out",
+        "street-fighter-ii-turbo-hyper-fighting"
+    ],
+    "series": [
+        "super-mario-series",
+        "the-legend-of-zelda-series",
+        "metroid-series",
+        "donkey-kong-series",
+        "final-fantasy-series",
+        "castlevania-series",
+        "mega-man-series",
+        "street-fighter-series"
+    ],
+    "eras": [
+        {
+            "title": "16-bit Foundation Era",
+            "start_year": 1990,
+            "end_year": 1992,
+            "description": "Launch and early years led by Nintendo sequels, arcade ports, and the move beyond NES-era design."
+        },
+        {
+            "title": "RPG and Expansion Era",
+            "start_year": 1993,
+            "end_year": 1994,
+            "description": "The platform broadens through RPGs, fighting games, licensed titles, and stronger third-party output."
+        },
+        {
+            "title": "Late 2D Mastery Era",
+            "start_year": 1995,
+            "end_year": 1998,
+            "description": "Late-generation technical refinement, ambitious 2D games, and releases overlapping the 32/64-bit transition."
+        }
+    ],
+    "notes": null
 }

@@ -1,0 +1,55 @@
+{
+    "id": "taito-egret-ii-mini-arcade-memories-vol-3-sd-card",
+    "name": "Taito Egret II Mini Arcade Memories Vol. 3 SD Card",
+    "description": "Official Egret II Mini expansion SD card adding 10 additional Taito arcade games.",
+    "cover": "egret-ii-mini-arcade-memories-vol-3",
+    "release": "2024-12-19",
+    "type": "hardware",
+    "category": "storage",
+    "aliases": [
+        "Arcade Memories Vol. 3"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "egret-ii-system",
+    "compatible_with": [
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 2,
+        "reason": "Completes the Taito Arcade Memories expansion set for the Egret II Mini.",
+        "notes": null
+    },
+    "contains": [
+        "galactic-storm",
+        "wiz",
+        "rumba-lumber",
+        "metal-soldier-isaac-ii",
+        "akkanvader",
+        "extermination",
+        "dr-toppel-tankentai",
+        "aqua-jack",
+        "mr-do",
+        "top-landing"
+    ],
+    "notes": null
+}

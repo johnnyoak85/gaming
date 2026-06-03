@@ -1,47 +1,42 @@
 {
-  "id": "dualshock-3",
-  "name": "DualShock 3",
-  "cover": "dualshock3",
-  "release": "2007-03-23",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": "PlayStation 3"
-  },
-  "system": "playstation-3",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "dualshock-3",
+    "name": "DualShock 3",
+    "description": "Wireless PlayStation 3 controller combining Sixaxis motion controls with vibration feedback.",
+    "cover": "dualshock3",
+    "release": "2007-11-11",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
     "era": null,
+    "system": "playstation-3-system",
     "compatible_with": [
-      "playstation-3"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "playstation-3"
+    ],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": "playstation-3-series"
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

@@ -1,6 +1,49 @@
 {
-    "id": "nintendo-wii",
+    "id": "nintendo-wii-system",
+    "name": "Wii",
+    "description": "Nintendo's motion-control home console platform, built around broad accessibility, local play, and GameCube compatibility.",
     "type": "system",
-    "name": "Nintendo Wii",
-    "logo": "nintendo-wii-logo"
+    "logo": "nintendo-wii-logo",
+    "era": "720p",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "wii-sports",
+        "super-mario-galaxy",
+        "super-mario-galaxy-2",
+        "the-legend-of-zelda-twilight-princess",
+        "the-legend-of-zelda-skyward-sword",
+        "metroid-prime-3-corruption",
+        "mario-kart-wii",
+        "super-smash-bros-brawl",
+        "donkey-kong-country-returns",
+        "xenoblade-chronicles"
+    ],
+    "series": [
+        "wii-series",
+        "super-mario-series",
+        "the-legend-of-zelda-series",
+        "metroid-series",
+        "mario-kart-series",
+        "super-smash-bros-series",
+        "donkey-kong-series",
+        "xenoblade-chronicles-series"
+    ],
+    "eras": [
+        {
+            "title": "Blue Ocean Era",
+            "start_year": 2006,
+            "end_year": 2009,
+            "description": "Motion controls, Wii Sports, and broad-audience design define Nintendo's mass-market strategy."
+        },
+        {
+            "title": "Core Revival Era",
+            "start_year": 2010,
+            "end_year": 2012,
+            "description": "Later first-party and RPG releases strengthen the library beyond the initial casual-market identity."
+        }
+    ],
+    "notes": null
 }

@@ -92,7 +92,7 @@
         "reason": "Same situation, inferior to other versions you already cover",
         "notes": "Original game contained in NES Classic Mini and Game & Watch Super Mario Edition"
     },
-    "event": "Classic NES Series",
+    "event": null,
     "notes": "GBA port/re-release of the NES original as part of the Classic NES Series.",
     "description": "Game Boy Advance re-release of the NES Super Mario Bros.",
     "people": [

@@ -1,6 +1,57 @@
 {
-    "id": "playstation-2",
+    "id": "playstation-2-system",
+    "name": "PlayStation 2",
+    "description": "Sony's 128-bit home console platform, with one of the largest game libraries ever and strong support across action, RPG, racing, horror, and licensed games.",
     "type": "system",
-    "name": "Playstation 2",
-    "logo": "playstation-2-logo"
+    "logo": "playstation-2-logo",
+    "era": "128-bit",
+    "companies": [
+        "sony-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "grand-theft-auto-san-andreas",
+        "metal-gear-solid-3-snake-eater",
+        "shadow-of-the-colossus",
+        "ico",
+        "god-of-war",
+        "silent-hill-2",
+        "devil-may-cry",
+        "final-fantasy-x",
+        "kingdom-hearts",
+        "gran-turismo-4"
+    ],
+    "series": [
+        "grand-theft-auto-series",
+        "metal-gear-series",
+        "god-of-war-series",
+        "silent-hill-series",
+        "devil-may-cry-series",
+        "final-fantasy-series",
+        "kingdom-hearts-series",
+        "gran-turismo-series",
+        "ratchet-and-clank-series",
+        "jak-and-daxter-series"
+    ],
+    "eras": [
+        {
+            "title": "DVD Breakthrough Era",
+            "start_year": 2000,
+            "end_year": 2002,
+            "description": "Early period where DVD playback, major third-party games, and Sony's first-party studios establish PS2 dominance."
+        },
+        {
+            "title": "Peak Library Era",
+            "start_year": 2003,
+            "end_year": 2006,
+            "description": "The platform's strongest period, with major sequels, genre-defining action games, RPGs, horror, racing, and open-world releases."
+        },
+        {
+            "title": "Long Tail Era",
+            "start_year": 2007,
+            "end_year": 2013,
+            "description": "Late releases and budget support continue long after the PlayStation 3 launch."
+        }
+    ],
+    "notes": null
 }

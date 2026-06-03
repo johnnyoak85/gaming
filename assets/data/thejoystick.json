@@ -1,0 +1,44 @@
+{
+    "id": "thejoystick",
+    "name": "THEJOYSTICK",
+    "description": "USB microswitch joystick by Retro Games with dual fire buttons and six additional multi-function buttons.",
+    "cover": "thejoystick",
+    "release": "2019-12-05",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [],
+    "form": "standard",
+    "era": null,
+    "system": "commodore-64-system",
+    "compatible_with": [
+        "thec64",
+        "the-spectrum",
+        "thea1200"
+    ],
+    "franchise": {
+        "series": "commodore-64-series",
+        "subseries": null
+    },
+    "companies": [
+        "retro-games-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "thejoystick-black",
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

@@ -1,6 +1,31 @@
 {
-    "id": "xbox-live-arcade",
-    "type": "system",
+    "id": "xbox-live-arcade-system",
     "name": "Xbox Live Arcade",
-    "logo": "xbox-live-arcade-logo"
+    "description": "Xbox 360 digital game platform for smaller downloadable games, arcade rereleases, and early console indie hits.",
+    "type": "system",
+    "logo": "xbox-live-arcade-logo",
+    "era": null,
+    "companies": [
+        "microsoft-company"
+    ],
+    "parent": "xbox-360-system",
+    "essentials": [
+        "geometry-wars-retro-evolved",
+        "braid",
+        "castle-crashers",
+        "limbo",
+        "super-meat-boy",
+        "shadow-complex",
+        "pac-man-championship-edition",
+        "mega-man-9",
+        "trials-hd",
+        "rez-hd"
+    ],
+    "series": [
+        "pac-man-series",
+        "mega-man-series",
+        "trials-series"
+    ],
+    "eras": [],
+    "notes": null
 }

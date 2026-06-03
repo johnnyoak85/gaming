@@ -1,0 +1,44 @@
+{
+    "id": "nintendo-switch-2-pro-controller",
+    "name": "Switch 2 Pro Controller",
+    "description": "Traditional wireless controller for Nintendo Switch 2 with C Button, remappable GL/GR rear buttons, audio jack, motion controls, and amiibo support.",
+    "cover": "switch-2-pro-controller",
+    "release": "2025-06-05",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [
+        "Nintendo Switch 2 Pro Controller"
+    ],
+    "form": "standard",
+    "era": null,
+    "system": "nintendo-switch-2-system",
+    "compatible_with": [
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-2-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Nintendo Switch 2 launch",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": "Nintendo Switch 2 launch",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

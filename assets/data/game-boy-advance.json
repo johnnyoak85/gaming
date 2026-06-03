@@ -1,61 +1,52 @@
 {
-  "id": "game-boy-advance",
-  "name": "Game Boy Advance",
-  "cover": "game-boy-advance",
-  "release": "2001-06-22",
-  "type": "hardware",
-  "franchise": {
-    "series": "Game Boy",
-    "subseries": "Game Boy Advance"
-  },
-  "system": "game-boy-advance",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "game-boy-advance",
+    "name": "Game Boy Advance",
+    "description": "Nintendo's 32-bit handheld successor to the Game Boy Color, with backward compatibility and SNES-style portable games.",
+    "cover": "game-boy-advance",
+    "release": "2001-03-21",
+    "type": "hardware",
     "category": "console",
-    "form": "handheld",
-    "primary_family": "game-boy-advance",
-    "compatible_families": [
-      "game-boy",
-      "game-boy-color"
+    "aliases": [
+        "iQue Game Boy Advance"
     ],
-    "generation": 6,
+    "form": "handheld",
     "era": "32-bit",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Glacier",
-      "cover": "game-boy-advance",
-      "event": null,
-      "notes": null
+    "system": "game-boy-advance-system",
+    "compatible_with": [
+        "game-boy-system",
+        "game-boy-color-system"
+    ],
+    "franchise": {
+        "series": "game-boy-series",
+        "subseries": "game-boy-advance-series"
     },
-    {
-      "name": "White",
-      "cover": "gba-white",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Glacier",
+            "cover": "game-boy-advance",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "White",
+            "cover": "gba-white",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

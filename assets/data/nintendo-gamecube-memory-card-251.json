@@ -1,0 +1,43 @@
+{
+    "id": "nintendo-gamecube-memory-card-251",
+    "name": "Nintendo GameCube Memory Card 251",
+    "description": "Official GameCube memory card with 251 blocks of save storage.",
+    "cover": "gamecube-memory-card-251",
+    "release": "2002-06-25",
+    "type": "hardware",
+    "category": "storage",
+    "aliases": [],
+    "form": "standard",
+    "era": null,
+    "system": "gamecube-system",
+    "compatible_with": [
+        "nintendo-gamecube",
+        "nintendo-wii"
+    ],
+    "franchise": {
+        "series": "gamecube-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "gamecube-memory-card-251",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

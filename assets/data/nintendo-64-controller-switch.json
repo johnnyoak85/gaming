@@ -1,48 +1,45 @@
 {
-  "id": "nintendo-64-controller-switch",
-  "name": "Nintendo 64 Controller",
-  "cover": "n64-controller",
-  "release": "2021-10-26",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch",
-    "subseries": "Nintendo 64"
-  },
-  "system": "nintendo-64",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-64-controller-switch",
+    "name": "Nintendo 64 Controller",
+    "description": "Wireless Nintendo 64-style controller for Nintendo Switch Online + Expansion Pack's Nintendo 64 library.",
+    "cover": "n64-controller",
+    "release": "2021-10-26",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Nintendo 64 Controller for Nintendo Switch"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 5,
     "era": null,
+    "system": "nintendo-switch-system",
     "compatible_with": [
-      "nintendo-switch",
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-switch",
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-series",
+        "subseries": "nintendo-64-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

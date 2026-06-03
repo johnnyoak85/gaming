@@ -1,6 +1,25 @@
 {
-    "id": "nintendo-switch-2",
-    "type": "system",
+    "id": "nintendo-switch-2-system",
     "name": "Nintendo Switch 2",
-    "logo": "nintendo-switch-2-logo"
+    "description": "Nintendo's 4K-capable hybrid console platform and successor to the Switch, with upgraded performance, Joy-Con 2 controllers, and backward compatibility with most Switch games.",
+    "type": "system",
+    "logo": "nintendo-switch-2-logo",
+    "era": "4k",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "mario-kart-world",
+        "donkey-kong-bananza",
+        "nintendo-switch-2-welcome-tour"
+    ],
+    "series": [
+        "mario-kart-series",
+        "donkey-kong-series",
+        "super-mario-series",
+        "the-legend-of-zelda-series"
+    ],
+    "eras": [],
+    "notes": null
 }

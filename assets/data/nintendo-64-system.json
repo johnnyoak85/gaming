@@ -1,6 +1,49 @@
 {
-    "id": "nintendo-64",
-    "type": "system",
+    "id": "nintendo-64-system",
     "name": "Nintendo 64",
-    "logo": "nintendo-64-logo"
+    "description": "Nintendo's 64-bit home console platform, built around cartridge-based 3D games, four-player local multiplayer, and analog control.",
+    "type": "system",
+    "logo": "nintendo-64-logo",
+    "era": "32-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-mario-64",
+        "the-legend-of-zelda-ocarina-of-time",
+        "the-legend-of-zelda-majoras-mask",
+        "mario-kart-64",
+        "star-fox-64",
+        "f-zero-x",
+        "goldeneye-007",
+        "banjo-kazooie",
+        "paper-mario",
+        "sin-and-punishment"
+    ],
+    "series": [
+        "super-mario-series",
+        "the-legend-of-zelda-series",
+        "mario-kart-series",
+        "star-fox-series",
+        "f-zero-series",
+        "paper-mario-series",
+        "super-smash-bros-series",
+        "banjo-kazooie-series"
+    ],
+    "eras": [
+        {
+            "title": "3D Foundation Era",
+            "start_year": 1996,
+            "end_year": 1998,
+            "description": "Launch and early period defining analog 3D movement, local multiplayer, and Nintendo's transition from 2D to 3D."
+        },
+        {
+            "title": "Late Cartridge Era",
+            "start_year": 1999,
+            "end_year": 2001,
+            "description": "Late period of refined first-party games, Rare output, and ambitious cartridge releases."
+        }
+    ],
+    "notes": null
 }

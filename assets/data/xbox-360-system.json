@@ -1,6 +1,53 @@
 {
-    "id": "xbox-360",
-    "type": "system",
+    "id": "xbox-360-system",
     "name": "Xbox 360",
-    "logo": "xbox-360-logo"
+    "description": "Microsoft's HD console platform that defined Xbox Live, achievements, Xbox Live Arcade, and the 2000s western console ecosystem.",
+    "type": "system",
+    "logo": "xbox-360-logo",
+    "era": "720p",
+    "companies": [
+        "microsoft-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "halo-3",
+        "gears-of-war",
+        "gears-of-war-2",
+        "mass-effect",
+        "fable-ii",
+        "forza-motorsport-3",
+        "alan-wake",
+        "lost-odyssey",
+        "braid",
+        "castle-crashers"
+    ],
+    "series": [
+        "halo-series",
+        "gears-of-war-series",
+        "mass-effect-series",
+        "fable-series",
+        "forza-series",
+        "alan-wake-series"
+    ],
+    "eras": [
+        {
+            "title": "HD Launch Era",
+            "start_year": 2005,
+            "end_year": 2007,
+            "description": "Early HD console period establishing Xbox Live, achievements, and Microsoft’s lead over PS3."
+        },
+        {
+            "title": "Xbox Live Arcade Era",
+            "start_year": 2008,
+            "end_year": 2010,
+            "description": "Digital games, indie breakthroughs, and online-first console culture become core to the platform."
+        },
+        {
+            "title": "Kinect and Long Tail Era",
+            "start_year": 2010,
+            "end_year": 2016,
+            "description": "Kinect broadens the audience while the platform continues receiving major late-generation releases."
+        }
+    ],
+    "notes": null
 }

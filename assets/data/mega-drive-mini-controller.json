@@ -1,48 +1,45 @@
 {
-  "id": "mega-drive-mini-controller",
-  "name": "Mega Drive Mini Controller",
-  "cover": "mega-drive-mini-controller",
-  "release": "2019-09-19",
-  "type": "hardware",
-  "franchise": {
-    "series": "Mega Drive",
-    "subseries": null
-  },
-  "system": "sega-mega-drive",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "mega-drive-mini-controller",
+    "name": "Mega Drive Mini Controller",
+    "description": "Three-button USB controller included with the Mega Drive Mini.",
+    "cover": "mega-drive-mini-controller",
+    "release": "2019-09-19",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Sega Genesis Mini Controller"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 4,
     "era": null,
+    "system": "sega-mega-drive-system",
     "compatible_with": [
-      "mega-drive-mini",
-      "mega-drive-mini-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "USB A Plug"
+        "mega-drive-mini",
+        "mega-drive-mini-2"
+    ],
+    "franchise": {
+        "series": "mega-drive-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": "sega-mini-release-line",
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": "Uses a USB-A connector."
 }

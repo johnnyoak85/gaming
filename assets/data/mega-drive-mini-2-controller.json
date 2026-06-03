@@ -1,48 +1,45 @@
 {
-  "id": "mega-drive-mini-2-controller",
-  "name": "Mega Drive Mini 2",
-  "cover": "mega-drive-mini-2-controller",
-  "release": "2022-10-27",
-  "type": "hardware",
-  "franchise": {
-    "series": "Mega Drive",
-    "subseries": null
-  },
-  "system": "sega-mega-drive",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "mega-drive-mini-2-controller",
+    "name": "Mega Drive Mini 2 Controller",
+    "description": "Six-button USB controller included with the Mega Drive Mini 2.",
+    "cover": "mega-drive-mini-2-controller",
+    "release": "2022-10-27",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "Genesis Mini 2 Controller"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 4,
     "era": null,
+    "system": "sega-mega-drive-system",
     "compatible_with": [
-      "mega-drive-mini",
-      "mega-drive-mini-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Expands MD coverage significantly beyond first mini",
-    "notes": "Own Mega Drive Mini"
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
+        "mega-drive-mini",
+        "mega-drive-mini-2"
+    ],
+    "franchise": {
+        "series": "mega-drive-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": "sega-mini-release-line",
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Expands Mega Drive coverage significantly beyond the first Mini.",
+        "notes": "Own Mega Drive Mini."
+    },
+    "contains": [],
+    "notes": null
 }

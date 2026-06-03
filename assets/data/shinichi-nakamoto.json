@@ -1,0 +1,24 @@
+    {
+        "id": "shinichi-nakamoto",
+        "name": "Shinichi Nakamoto",
+        "description": "Hudson Soft programmer and producer associated with Bomberman and early Hudson console games.",
+        "type": "person",
+        "portrait": "shinichi-nakamoto",
+        "roles": [
+            "programmer",
+            "producer"
+        ],
+        "companies": [
+            "hudson-soft-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "bomberman",
+            "star-soldier",
+            "adventure-island",
+            "bomberman-94",
+            "super-bomberman"
+        ],
+        "notes": null
+    }

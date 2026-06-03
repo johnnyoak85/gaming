@@ -1,0 +1,52 @@
+{
+    "id": "commodore-64-system",
+    "name": "Commodore 64",
+    "description": "Commodore's 8-bit home computer platform, famous for the SID sound chip, strong sprite hardware, and one of the largest classic computer game libraries.",
+    "type": "system",
+    "logo": "commodore-64-logo",
+    "era": "8-bit",
+    "companies": [
+        "commodore-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "boulder-dash",
+        "impossible-mission",
+        "paradroid",
+        "uridium",
+        "the-last-ninja",
+        "california-games",
+        "jumpman",
+        "winter-games",
+        "elite",
+        "wizball"
+    ],
+    "series": [
+        "commodore-64-series",
+        "boulder-dash-series",
+        "impossible-mission-series",
+        "last-ninja-series",
+        "eagle-soft-sports-series"
+    ],
+    "eras": [
+        {
+            "title": "Early Home Computer Era",
+            "start_year": 1982,
+            "end_year": 1985,
+            "description": "The C64 establishes itself through strong arcade-style games, home-computer conversions, and early original hits."
+        },
+        {
+            "title": "SID and Action Peak Era",
+            "start_year": 1986,
+            "end_year": 1990,
+            "description": "Mature period of technically impressive games, iconic music, European development, and major action releases."
+        },
+        {
+            "title": "Late Budget Era",
+            "start_year": 1991,
+            "end_year": 1994,
+            "description": "Late commercial support through budget releases, compilations, and the platform's long tail."
+        }
+    ],
+    "notes": null
+}

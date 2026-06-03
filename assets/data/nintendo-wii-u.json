@@ -1,54 +1,43 @@
 {
-  "id": "nintendo-wii-u",
-  "name": "Wii U",
-  "cover": "wii-u",
-  "release": "2012-11-30",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii U",
-    "subseries": null
-  },
-  "system": "nintendo-wii-u",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-wii-u",
+    "name": "Wii U",
+    "description": "Nintendo's HD home console with a touchscreen GamePad, Wii backward compatibility, and asymmetric play.",
+    "cover": "wii-u",
+    "release": "2012-11-18",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "home",
-    "primary_family": "nintendo-wii-u",
-    "compatible_families": [
-      "nintendo-wii"
+    "era": "720p",
+    "system": "nintendo-wii-u-system",
+    "compatible_with": [
+        "nintendo-wii-system",
+        "wiiware-system"
     ],
-    "generation": 8,
-    "era": "1080p",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Premium",
-      "cover": "wii-u",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Premium",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "franchise": {
+        "series": "wii-u-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Premium",
+            "cover": "wii-u",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

@@ -1,0 +1,44 @@
+{
+    "id": "thegamepad",
+    "name": "THEGAMEPAD",
+    "description": "USB gamepad by Retro Games with D-pad, six face buttons, shoulder buttons, and compatibility with The Spectrum, THE400, THEC64/VIC20, THEA500, PC, Mac, and Linux.",
+    "cover": "thegamepad",
+    "release": "2024-11-22",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [],
+    "form": "standard",
+    "era": null,
+    "system": "zx-spectrum-system",
+    "compatible_with": [
+        "the-spectrum",
+        "thea1200",
+        "thec64"
+    ],
+    "franchise": {
+        "series": "zx-spectrum-series",
+        "subseries": null
+    },
+    "companies": [
+        "retro-games-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "thegamepad-black",
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

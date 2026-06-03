@@ -1,45 +1,61 @@
 {
-  "id": "playstation-classic",
-  "name": "PlayStation Classic",
-  "cover": "playstation-classic",
-  "release": "2018-12-03",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": null
-  },
-  "system": "playstation",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "playstation-classic",
+    "name": "PlayStation Classic",
+    "description": "Mini replica of the original PlayStation with 20 built-in PlayStation games and HDMI output.",
+    "cover": "playstation-classic",
+    "release": "2018-12-03",
+    "type": "hardware",
     "category": "console",
-    "form": "dedicated",
-    "primary_family": "playstation-classic",
-    "compatible_families": [],
-    "generation": 5,
+    "aliases": [],
+    "form": "mini",
     "era": "32-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "playstation-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": null
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [
+        "battle-arena-toshinden",
+        "cool-boarders-2",
+        "destruction-derby",
+        "final-fantasy-vii",
+        "grand-theft-auto",
+        "intelligent-qube",
+        "jumping-flash",
+        "metal-gear-solid",
+        "mr-driller",
+        "oddworld-abes-oddysee",
+        "rayman",
+        "resident-evil-directors-cut",
+        "revelations-persona",
+        "ridge-racer-type-4",
+        "super-puzzle-fighter-ii-turbo",
+        "syphon-filter",
+        "tekken-3",
+        "tom-clancys-rainbow-six",
+        "twisted-metal",
+        "wild-arms"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

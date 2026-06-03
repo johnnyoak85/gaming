@@ -77,7 +77,7 @@
         "reason": "Best portable version + series continuity",
         "notes": "Super Mario World 2: Yoshi's Island contained in SNES Classic Mini"
     },
-    "event": "Super Mario Advance",
+    "event": null,
     "notes": null,
     "contains": [
         "yoshis-island-advance",

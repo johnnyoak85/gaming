@@ -1,0 +1,31 @@
+{
+    "id": "nintendo-wii-u-eshop-system",
+    "name": "Nintendo Wii U eShop",
+    "description": "Digital storefront platform for Wii U downloadable games, Virtual Console releases, demos, updates, and indie games.",
+    "type": "system",
+    "logo": "nintendo-wii-u-eshop-logo",
+    "era": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": "nintendo-wii-u-system",
+    "essentials": [
+        "nes-remix",
+        "nes-remix-2",
+        "affordable-space-adventures",
+        "dr-luigi",
+        "pushmo-world",
+        "fast-racing-neo",
+        "mini-mario-and-friends-amiibo-challenge",
+        "the-legend-of-zelda-the-wind-waker-hd",
+        "the-legend-of-zelda-twilight-princess-hd"
+    ],
+    "series": [
+        "super-mario-series",
+        "the-legend-of-zelda-series",
+        "pushmo-series",
+        "fast-racing-series"
+    ],
+    "eras": [],
+    "notes": null
+}

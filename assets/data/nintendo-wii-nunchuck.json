@@ -1,55 +1,43 @@
 {
-  "id": "nintendo-wii-nunchuck",
-  "name": "Nunchuck",
-  "cover": "nunchuck",
-  "release": "2006-12-08",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii",
-    "subseries": null
-  },
-  "system": "nintendo-wii",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
-    "category": "accessory",
+    "id": "nintendo-wii-nunchuk",
+    "name": "Nunchuk",
+    "description": "Wii Remote expansion controller with analog stick and extra buttons for two-handed Wii control.",
+    "cover": "nunchuck",
+    "release": "2006-11-19",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
     "era": null,
+    "system": "nintendo-wii-system",
     "compatible_with": [
-      "nintendo-wii-remote",
-      "nintendo-wii-remote-plus"
-    ]
-  },
-  "variants": [
-    {
-      "name": "White",
-      "cover": "nunchuck",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "White",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "White",
+            "cover": "nunchuck",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

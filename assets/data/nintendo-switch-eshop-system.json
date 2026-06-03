@@ -1,0 +1,32 @@
+{
+    "id": "nintendo-switch-eshop-system",
+    "name": "Nintendo Switch eShop",
+    "description": "Digital storefront platform for Nintendo Switch downloadable games, DLC, demos, updates, and indie releases.",
+    "type": "system",
+    "logo": "nintendo-switch-eshop-logo",
+    "era": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": "nintendo-switch-system",
+    "essentials": [
+        "hollow-knight",
+        "celeste",
+        "stardew-valley",
+        "hades",
+        "the-messenger",
+        "cadence-of-hyrule",
+        "tetris-99",
+        "monster-boy-and-the-cursed-kingdom",
+        "blaster-master-zero",
+        "shovel-knight-treasure-trove"
+    ],
+    "series": [
+        "the-legend-of-zelda-series",
+        "tetris-series",
+        "blaster-master-series",
+        "shovel-knight-series"
+    ],
+    "eras": [],
+    "notes": null
+}

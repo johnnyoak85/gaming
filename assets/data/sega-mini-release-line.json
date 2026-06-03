@@ -1,0 +1,14 @@
+{
+    "id": "sega-mini-release-line",
+    "name": "Sega Mini",
+    "description": "Sega's mini-console line of dedicated replica systems with built-in classic games.",
+    "type": "release_line",
+    "logo": "sega-mini-logo",
+    "date": "2019-09-19",
+    "category": "compilation",
+    "system": null,
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

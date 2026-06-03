@@ -1,21 +1,29 @@
 {
     "id": "luigi-bros",
     "name": "Luigi Bros.",
-    "cover": null,
+    "description": "Reprogrammed Luigi-themed version of Mario Bros. included as a bonus game.",
+    "cover": "luigi-bros",
     "release": "2013-11-21",
     "type": "game",
+    "category": "single_entry",
+    "aliases": [],
     "franchise": {
-        "universe": "Mario",
-        "series": "Mario Bros.",
-        "subseries": null
+        "series": "super-mario-series",
+        "subseries": "mario-bros-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-wii-u-system",
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "The Year of Luigi",
     "classification": {
         "genres": [
             "Platform"
         ],
         "subgenres": [
-            "Arcade"
+            "Arcade Platformer"
         ],
         "themes": [
             "Comedy"
@@ -24,59 +32,54 @@
             "Bonus Game",
             "Arcade Style",
             "Luigi",
-            "Remake"
+            "Remix"
         ]
     },
     "player_age": 5,
-    "access": [
-        {
-            "platform": "nintendo-wii-u",
-            "via": "super-mario-3d-world",
-            "format": "contained",
-            "status": "owned",
-            "notes": null
-        },
-        {
-            "platform": "nintendo-switch",
-            "via": "super-mario-3d-world-plus-bowsers-fury",
-            "format": "contained",
-            "status": "owned",
-            "notes": null
-        }
-    ],
-    "versions": [
-        {
-            "source": "mario-bros",
-            "format": "base"
-        }
-    ],
-    "relationships": [],
     "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 2
-        },
+        "min_players": 1,
+        "max_players": 2,
         "modes": [
             "solo",
             "co_op"
         ]
     },
-    "companies": [
-        "Nintendo"
-    ],
     "progress": "planned",
     "backlog": {
-        "priority": null,
-        "reason": "Bonus Luigi-themed version of Mario Bros. included in Super Mario 3D World.",
+        "priority": 1,
+        "reason": "Small Luigi-themed bonus version of Mario Bros. included as a novelty extra.",
         "rating": 2,
         "difficulty": 2,
         "estimated_hours": 1
     },
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": "nintendo-eshop",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in Super Mario 3D World."
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "nintendo-eshop",
+            "format": "contained",
+            "status": "owned",
+            "notes": "Contained in Super Mario 3D World + Bowser's Fury."
+        }
+    ],
+    "versions": [
+        {
+            "source": "mario-bros",
+            "type": "remix"
+        }
+    ],
+    "contains": [],
+    "relationships": [],
     "acquisition": {
         "priority": null,
         "reason": null,
         "notes": null
     },
-    "event": "The Year of Luigi",
-    "notes": null
+    "notes": "Reprogrammed Luigi-themed version of Mario Bros. included as a bonus game."
 }

@@ -1,45 +1,42 @@
 {
-  "id": "dualshock-4",
-  "name": "DualShock 4",
-  "cover": "dualshock4",
-  "release": "2013-11-15",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": "PlayStation 4"
-  },
-  "system": "playstation-4",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "dualshock-4",
+    "name": "DualShock 4",
+    "description": "Wireless PlayStation 4 controller with touch pad, light bar, speaker, motion controls, and Share button.",
+    "cover": "dualshock4",
+    "release": "2013-11-15",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 8,
     "era": null,
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "playstation-4-system",
+    "compatible_with": [
+        "playstation-4"
+    ],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": "playstation-4-series"
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

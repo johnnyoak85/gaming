@@ -1,45 +1,105 @@
 {
-  "id": "mega-drive-mini-2",
-  "name": "Mega Drive Mini 2",
-  "cover": "mega-drive-mini-2",
-  "release": "2022-10-27",
-  "type": "hardware",
-  "franchise": {
-    "series": "Mega Drive",
-    "subseries": null
-  },
-  "system": "sega-mega-drive",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "mega-drive-mini-2",
+    "name": "Mega Drive Mini 2",
+    "description": "Mini replica of the Mega Drive 2 with 60 built-in Mega Drive, Mega-CD, and bonus games.",
+    "cover": "mega-drive-mini-2",
+    "release": "2022-10-27",
+    "type": "hardware",
     "category": "console",
-    "form": "dedicated",
-    "primary_family": "mega-drive-mini-2",
-    "compatible_families": [],
-    "generation": 4,
+    "aliases": [
+        "Genesis Mini 2"
+    ],
+    "form": "mini",
     "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Expands MD coverage significantly beyond first mini",
-    "notes": "Own Mega Drive Mini"
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
+    "system": "sega-mega-drive-system",
+    "compatible_with": [
+        "sega-cd-system"
+    ],
+    "franchise": {
+        "series": "mega-drive-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": "sega-mini-release-line",
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Expands Mega Drive coverage significantly beyond the first Mini.",
+        "notes": "Own Mega Drive Mini."
+    },
+    "contains": [
+        "ecco-the-dolphin",
+        "ecco-the-tides-of-time",
+        "final-fight-cd",
+        "night-striker",
+        "night-trap",
+        "robo-aleste",
+        "sewer-shark",
+        "shining-force-cd",
+        "silpheed",
+        "sonic-the-hedgehog-cd",
+        "the-ninjawarriors",
+        "yumemi-mystery-mansion",
+        "after-burner-ii",
+        "alien-soldier",
+        "atomic-runner",
+        "bonanza-bros",
+        "clayfighter",
+        "desert-strike-return-to-the-gulf",
+        "earthworm-jim-2",
+        "elemental-master",
+        "fatal-fury-2",
+        "gain-ground",
+        "golden-axe-ii",
+        "granada",
+        "hellfire",
+        "herzog-zwei",
+        "midnight-resistance",
+        "outrun",
+        "outrunners",
+        "phantasy-star-ii",
+        "populous",
+        "rainbow-islands-extra",
+        "ranger-x",
+        "ristar",
+        "rolling-thunder-2",
+        "shadow-dancer-the-secret-of-shinobi",
+        "shining-force-ii",
+        "shining-in-the-darkness",
+        "soleil",
+        "sonic-3d-flickies-island",
+        "splatterhouse-2",
+        "streets-of-rage-3",
+        "super-hang-on",
+        "super-street-fighter-ii-the-new-challengers",
+        "the-ooze",
+        "the-revenge-of-shinobi",
+        "thunder-force-iv",
+        "toejam-and-earl-in-panic-on-funkotron",
+        "truxton",
+        "vectorman-2",
+        "viewpoint",
+        "virtua-racing",
+        "warsong",
+        "fantasy-zone",
+        "star-mobile",
+        "spatter",
+        "super-locomotive",
+        "devi-and-pii",
+        "vs-puyo-puyo-sun",
+        "space-harrier-ii"
+    ],
+    "notes": null
 }

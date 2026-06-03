@@ -1,52 +1,44 @@
 {
-  "id": "nintendo-dsi-xl",
-  "name": "Nintendo DSi XL",
-  "cover": "ds-i-xl",
-  "release": "2010-03-05",
-  "type": "hardware",
-  "franchise": {
-    "series": "Nintendo DS",
-    "subseries": "DSi"
-  },
-  "system": "nintendo-ds",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-dsi-xl",
+    "name": "Nintendo DSi XL",
+    "description": "Large-screen revision of the Nintendo DSi, with bigger displays, improved comfort, and DSiWare support.",
+    "cover": "ds-i-xl",
+    "release": "2009-11-21",
+    "type": "hardware",
     "category": "console",
+    "aliases": [
+        "Nintendo DSi LL"
+    ],
     "form": "handheld",
-    "primary_family": "nintendo-dsi",
-    "compatible_families": [],
-    "generation": 7,
-    "era": "128-bit",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Burgundy",
-      "cover": "ds-i-xl",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Burgundy",
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 2,
-    "reason": "Best DS form factor; comfortable upgrade path",
-    "notes": "Used to own"
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Used to own"
+    "era": "32-bit",
+    "system": "nintendo-ds-system",
+    "compatible_with": [
+        "dsiware-system"
+    ],
+    "franchise": {
+        "series": "nintendo-ds-series",
+        "subseries": "nintendo-dsi-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Burgundy",
+            "cover": "ds-i-xl",
+            "status": "wishlist",
+            "event": null,
+            "notes": "Used to own."
+        }
+    ],
+    "acquisition": {
+        "priority": 2,
+        "reason": "Best DS form factor; comfortable upgrade path.",
+        "notes": "Used to own."
+    },
+    "contains": [],
+    "notes": null
 }

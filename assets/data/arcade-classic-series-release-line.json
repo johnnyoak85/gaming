@@ -1,0 +1,16 @@
+{
+    "id": "arcade-classic-series-release-line",
+    "name": "Arcade Classic Series",
+    "description": "NES retail branding for home versions of classic arcade games.",
+    "type": "release_line",
+    "logo": "arcade-classic-series-logo",
+    "date": "1986-06-01",
+    "category": "rerelease",
+    "system": "nintendo-entertainment-system-system",
+    "companies": [
+        "nintendo-company",
+        "namco-company",
+        "konami-company"
+    ],
+    "notes": null
+}

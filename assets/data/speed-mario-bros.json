@@ -1,15 +1,23 @@
 {
     "id": "speed-mario-bros",
     "name": "Speed Mario Bros.",
-    "cover": null,
-    "release": "2014-06-19",
+    "description": "Speed-focused remix of Super Mario Bros. where the full game runs much faster.",
+    "cover": "speed-mario-bros",
+    "release": "2014-11-06",
     "type": "game",
+    "category": "single_entry",
+    "aliases": [],
     "franchise": {
-        "universe": "Mario",
-        "series": "Super Mario",
-        "subseries": null
+        "series": "super-mario-series",
+        "subseries": "super-mario-bros-series"
     },
-    "system": "nintendo-entertainment-system",
+    "system": "nintendo-3ds-system",
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": "NES Remix",
+    "event": null,
     "classification": {
         "genres": [
             "Platform"
@@ -28,47 +36,42 @@
         ]
     },
     "player_age": 6,
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Fast novelty variant of Super Mario Bros. included in Ultimate NES Remix.",
+        "rating": 2,
+        "difficulty": 3,
+        "estimated_hours": 1
+    },
     "access": [
         {
             "platform": "nintendo-3ds",
-            "via": "ultimate-nes-remix",
+            "via": "nintendo-eshop",
             "format": "contained",
             "status": "owned",
-            "notes": null
+            "notes": "Contained in Ultimate NES Remix."
         }
     ],
     "versions": [
         {
             "source": "super-mario-bros",
-            "format": "base"
+            "type": "remix"
         }
     ],
+    "contains": [],
     "relationships": [],
-    "playstyle": {
-        "players": {
-            "min": 1,
-            "max": 1
-        },
-        "modes": [
-            "solo"
-        ]
-    },
-    "companies": [
-        "Nintendo"
-    ],
-    "progress": "planned",
-    "backlog": {
-        "priority": null,
-        "reason": "Fast remix variant of Super Mario Bros.",
-        "rating": 2,
-        "difficulty": 3,
-        "estimated_hours": 1
-    },
     "acquisition": {
         "priority": null,
         "reason": null,
         "notes": null
     },
-    "event": null,
-    "notes": null
+    "notes": "Full Super Mario Bros. variant with the game speed increased."
 }

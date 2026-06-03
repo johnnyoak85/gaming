@@ -1,0 +1,42 @@
+{
+    "id": "intellivision-sprint-controller",
+    "name": "Intellivision Sprint Controller",
+    "description": "Wireless Intellivision-style controller for the Intellivision Sprint with disc control, keypad, side buttons, and rechargeable docking.",
+    "cover": "intellivision-sprint-controller",
+    "release": "2025-12-05",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [],
+    "form": "special",
+    "era": null,
+    "system": "intellivision-system",
+    "compatible_with": [
+        "intellivision-sprint"
+    ],
+    "franchise": {
+        "series": "intellivision-series",
+        "subseries": null
+    },
+    "companies": [
+        "atari-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Intellivision 45th Anniversary",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": "Intellivision 45th Anniversary",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Required for the authentic Intellivision Sprint control scheme.",
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

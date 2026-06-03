@@ -1,44 +1,77 @@
 {
-  "id": "sega-astro-city-mini",
-  "name": "Astro City Mini",
-  "cover": "astro-city-mini",
-  "release": "2020-12-17",
-  "type": "hardware",
-  "franchise": {
-    "series": "Astro City",
-    "subseries": null
-  },
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "sega-astro-city-mini",
+    "name": "Astro City Mini",
+    "description": "Mini arcade cabinet by Sega based on the Astro City cabinet, with 36 built-in Sega arcade games.",
+    "cover": "astro-city-mini",
+    "release": "2020-12-17",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "dedicated",
-    "primary_family": "sega-astro-city-mini",
-    "compatible_families": [],
-    "generation": null,
     "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Strong Sega arcade coverage",
+    "system": "astro-city-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "astro-city-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Go Sega 60th Anniversary",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": "Go Sega 60th Anniversary",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Strong Sega arcade coverage.",
+        "notes": null
+    },
+    "contains": [
+        "alex-kidd-the-lost-stars",
+        "alien-storm",
+        "alien-syndrome",
+        "altered-beast",
+        "arabian-fight",
+        "bonanza-bros",
+        "columns",
+        "columns-ii",
+        "cotton",
+        "crack-down",
+        "dark-edge",
+        "eswat",
+        "fantasy-zone",
+        "flicky",
+        "gain-ground",
+        "golden-axe",
+        "golden-axe-the-revenge-of-death-adder",
+        "ichidant-r",
+        "ninja-princess",
+        "puyo-puyo",
+        "puyo-puyo-tsu",
+        "puzzle-and-action-tant-r",
+        "quartet-2",
+        "rad-mobile",
+        "scramble-spirits",
+        "seishun-scandal",
+        "shadow-dancer",
+        "shinobi",
+        "sonic-boom",
+        "space-harrier",
+        "stack-columns",
+        "thunder-force-ac",
+        "toryumon",
+        "virtua-fighter",
+        "wonder-boy",
+        "wonder-boy-in-monster-land"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": "Go Sega 60th Anniversary",
-  "notes": null
 }

@@ -1,6 +1,53 @@
 {
     "id": "nintendo-entertainment-system-system",
-    "type": "system",
     "name": "Nintendo Entertainment System",
-    "logo": "nintendo-entertainment-system-logo"
+    "description": "Nintendo's 8-bit home console platform that revived the console market and defined modern console game design.",
+    "type": "system",
+    "logo": "nintendo-entertainment-system-logo",
+    "era": "8-bit",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-mario-bros",
+        "the-legend-of-zelda",
+        "metroid",
+        "mega-man-2",
+        "castlevania-iii-draculas-curse",
+        "contra",
+        "super-mario-bros-3"
+    ],
+    "series": [
+        "super-mario-series",
+        "the-legend-of-zelda-series",
+        "metroid-series",
+        "mega-man-series",
+        "castlevania-series",
+        "contra-series",
+        "fire-emblem-series",
+        "earthbound-series",
+        "kunio-kun-series"
+    ],
+    "eras": [
+        {
+            "title": "Black Box / Arcade Roots Era",
+            "start_year": 1985,
+            "end_year": 1986,
+            "description": "Early arcade-like releases, simple score-driven games, and Nintendo's foundational home-console lineup."
+        },
+        {
+            "title": "Console Identity Era",
+            "start_year": 1987,
+            "end_year": 1989,
+            "description": "Deeper console-native games, major third-party franchises, and the rise of the NES as a long-form game platform."
+        },
+        {
+            "title": "Late Mastery Era",
+            "start_year": 1990,
+            "end_year": 1994,
+            "description": "Late-generation technical refinement, ambitious sequels, and polished games released alongside the 16-bit transition."
+        }
+    ],
+    "notes": null
 }

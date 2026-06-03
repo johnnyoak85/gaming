@@ -1,45 +1,35 @@
 {
   "id": "xbox-360",
   "name": "Xbox 360",
+  "description": "Microsoft's HD home console known for Xbox Live, achievements, downloadable games, and strong western third-party support.",
   "cover": "xbox-360",
-  "release": "2005-12-02",
+  "release": "2005-11-22",
   "type": "hardware",
+  "category": "console",
+  "aliases": [],
+  "form": "home",
+  "era": "720p",
+  "system": "xbox-360-system",
+  "compatible_with": [
+    "xbox-system",
+    "xbox-live-arcade-system"
+  ],
   "franchise": {
-    "series": "Xbox",
-    "subseries": "Xbox 360"
+    "series": "xbox-series",
+    "subseries": "xbox-360-series"
   },
-  "system": "xbox-360",
-  "companies": {
-    "manufacturer": [
-      "MicroSoft"
-    ],
-    "publisher": [
-      "MicroSoft"
-    ]
-  },
-  "hardware": {
-    "category": "console",
-    "form": "home",
-    "primary_family": "xbox-360",
-    "compatible_families": [
-      "xbox"
-    ],
-    "generation": 7,
-    "era": "720p",
-    "compatible_with": []
-  },
+  "companies": [
+    "microsoft-company"
+  ],
+  "people": [],
+  "release_line": null,
+  "event": null,
   "variants": [
     {
       "name": null,
       "cover": "xbox-360",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": null,
       "status": "owned",
+      "event": null,
       "notes": null
     }
   ],
@@ -49,6 +39,5 @@
     "notes": null
   },
   "contains": [],
-  "event": null,
   "notes": null
 }

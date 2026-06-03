@@ -1,45 +1,47 @@
 {
-  "id": "nintendo-classic-mini-nintendo-entertainment-system-controller",
-  "name": "Nintendo Classic Mini: Nintendo Entertainment System Controller",
-  "cover": "nes-classic-controller",
-  "release": "2016-11-11",
-  "type": "hardware",
-  "franchise": {
-    "series": "Classic Mini",
-    "subseries": "Nintendo Entertainment System"
-  },
-  "system": "nintendo-entertainment-system-system",
-  "companies": [
-    "nintendo-company"
-  ],
-  "hardware": {
+    "id": "nintendo-classic-mini-nintendo-entertainment-system-controller",
+    "name": "Nintendo Classic Mini: Nintendo Entertainment System Controller",
+    "description": "NES-style controller for the Nintendo Classic Mini, using the Wii Remote accessory connector.",
+    "cover": "nes-classic-controller",
+    "release": "2016-11-11",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "NES Classic Controller"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 3,
     "era": null,
+    "system": "nintendo-entertainment-system-system",
     "compatible_with": [
-      "nintendo-classic-mini-nintendo-entertainment-system",
-      "nintendo-classic-mini-super-nintendo-entertainment-system",
-      "nintendo-wii-remote",
-      "nintendo-wii-remote-plus"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-classic-mini-nintendo-entertainment-system",
+        "nintendo-classic-mini-super-nintendo-entertainment-system",
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus"
+    ],
+    "franchise": {
+        "series": "nintendo-classic-mini-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": "nintendo-classic-mini-release-line",
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

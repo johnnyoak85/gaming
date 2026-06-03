@@ -1,45 +1,44 @@
 {
-  "id": "game-watch-super-mario-bros",
-  "name": "Game & Watch: Super Mario Bros.",
-  "cover": "game-watch-mario",
-  "release": "2020-11-13",
-  "type": "hardware",
-  "franchise": {
-    "series": "Game & Watch",
-    "subseries": null
-  },
-  "system": "game-watch",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "game-watch-super-mario-bros",
+    "name": "Game & Watch: Super Mario Bros.",
+    "description": "Modern Game & Watch commemorative handheld with Super Mario Bros., The Lost Levels, and a Mario version of Ball.",
+    "cover": "game-watch-mario",
+    "release": "2020-11-13",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "dedicated",
-    "primary_family": "game-watch-super-mario-bros",
-    "compatible_families": [],
-    "generation": null,
     "era": "classic",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "game-watch-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "game-watch-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Super Mario Bros. 35th Anniversary",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": "Super Mario Bros. 35th Anniversary",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [
+        "super-mario-bros",
+        "super-mario-bros-the-lost-levels",
+        "ball-mario-version"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": "Super Mario Bros. 35th Anniversary",
-  "notes": null
 }

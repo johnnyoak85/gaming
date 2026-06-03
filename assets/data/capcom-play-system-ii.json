@@ -1,6 +1,45 @@
 {
-    "id": "capcom-play-system-ii",
-    "type": "system",
+    "id": "capcom-play-system-ii-system",
     "name": "Capcom Play System II",
-    "logo": "capcom-play-system-ii-logo"
+    "description": "Capcom's 1990s arcade hardware platform for fighting games, beat 'em ups, shooters, and licensed arcade releases.",
+    "type": "system",
+    "logo": "capcom-play-system-ii-logo",
+    "era": "32-bit",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-street-fighter-ii-turbo",
+        "darkstalkers-the-night-warriors",
+        "vampire-savior-the-lord-of-vampire",
+        "x-men-children-of-the-atom",
+        "marvel-super-heroes",
+        "x-men-vs-street-fighter",
+        "marvel-vs-capcom-clash-of-super-heroes",
+        "alien-vs-predator-arcade",
+        "dungeons-and-dragons-shadow-over-mystara",
+        "progear"
+    ],
+    "series": [
+        "street-fighter-series",
+        "darkstalkers-series",
+        "marvel-vs-capcom-series",
+        "dungeons-and-dragons-series"
+    ],
+    "eras": [
+        {
+            "title": "Fighting Game Era",
+            "start_year": 1993,
+            "end_year": 1998,
+            "description": "CPS II becomes Capcom's main fighting-game board, spanning Street Fighter, Darkstalkers, Marvel, and crossover fighters."
+        },
+        {
+            "title": "Late Arcade Era",
+            "start_year": 1999,
+            "end_year": 2003,
+            "description": "Late CPS II releases and genre variety continue alongside newer arcade hardware."
+        }
+    ],
+    "notes": null
 }

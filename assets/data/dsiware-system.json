@@ -1,0 +1,30 @@
+{
+    "id": "dsiware-system",
+    "name": "DSiWare",
+    "description": "Digital-only Nintendo DSi software platform for small downloadable games, tools, and experiments.",
+    "type": "system",
+    "logo": "dsiware-logo",
+    "era": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": "nintendo-ds-system",
+    "essentials": [
+        "shantae-riskys-revenge",
+        "mighty-flip-champs",
+        "mighty-milky-way",
+        "zelda-four-swords-anniversary-edition",
+        "mario-vs-donkey-kong-minis-march-again",
+        "x-scape",
+        "cave-story-dsi",
+        "photo-dojo"
+    ],
+    "series": [
+        "shantae-series",
+        "mighty-series",
+        "the-legend-of-zelda-series",
+        "mario-vs-donkey-kong-series"
+    ],
+    "eras": [],
+    "notes": null
+}

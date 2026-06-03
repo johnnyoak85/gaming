@@ -1,6 +1,50 @@
 {
-    "id": "nintendo-3ds",
-    "type": "system",
+    "id": "nintendo-3ds-system",
     "name": "Nintendo 3DS",
-    "logo": "nintendo-3ds-logo"
+    "description": "Nintendo's stereoscopic 3D handheld platform and successor to the DS. Known for strong Nintendo franchise entries, digital support, and backward compatibility with DS games.",
+    "type": "system",
+    "logo": "nintendo-3ds-logo",
+    "era": "720p",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-mario-3d-land",
+        "mario-kart-7",
+        "the-legend-of-zelda-a-link-between-worlds",
+        "fire-emblem-awakening",
+        "animal-crossing-new-leaf",
+        "kid-icarus-uprising",
+        "metroid-samus-returns",
+        "pokemon-x",
+        "pokemon-y",
+        "luigis-mansion-dark-moon"
+    ],
+    "series": [
+        "super-mario-series",
+        "mario-kart-series",
+        "the-legend-of-zelda-series",
+        "fire-emblem-series",
+        "animal-crossing-series",
+        "kid-icarus-series",
+        "metroid-series",
+        "pokemon-series",
+        "luigis-mansion-series"
+    ],
+    "eras": [
+        {
+            "title": "3D Recovery Era",
+            "start_year": 2011,
+            "end_year": 2013,
+            "description": "Launch and early recovery period where major Nintendo releases establish the platform after a slow start."
+        },
+        {
+            "title": "Mature Handheld Era",
+            "start_year": 2014,
+            "end_year": 2019,
+            "description": "Strong late handheld period with RPGs, remakes, franchise sequels, and continued digital support."
+        }
+    ],
+    "notes": null
 }

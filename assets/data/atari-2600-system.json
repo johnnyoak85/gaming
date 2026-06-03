@@ -1,0 +1,49 @@
+{
+    "id": "atari-2600-system",
+    "name": "Atari 2600",
+    "description": "Atari's classic cartridge-based home console platform, central to the early home video game market and pre-crash console era.",
+    "type": "system",
+    "logo": "atari-2600-logo",
+    "era": "classic",
+    "companies": [
+        "atari-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "adventure",
+        "asteroids-atari-2600",
+        "combat",
+        "missile-command-atari-2600",
+        "pitfall",
+        "river-raid",
+        "space-invaders-atari-2600",
+        "yars-revenge",
+        "breakout-atari-2600",
+        "warlords"
+    ],
+    "series": [
+        "atari-2600-series",
+        "pitfall-series"
+    ],
+    "eras": [
+        {
+            "title": "Foundation Era",
+            "start_year": 1977,
+            "end_year": 1979,
+            "description": "Early VCS period establishing cartridge-based home console gaming."
+        },
+        {
+            "title": "Mainstream Boom Era",
+            "start_year": 1980,
+            "end_year": 1982,
+            "description": "Space Invaders, arcade conversions, Activision, and rapid market expansion make the 2600 the dominant home console."
+        },
+        {
+            "title": "Crash and Long Tail Era",
+            "start_year": 1983,
+            "end_year": 1992,
+            "description": "Post-crash decline followed by budget-era support and long-tail releases."
+        }
+    ],
+    "notes": null
+}

@@ -1,46 +1,45 @@
 {
-  "id": "nec-pc-engine-coregrafx-mini-controller",
-  "name": "PC Engine CoreGrafx Mini Controller",
-  "cover": "pc-engine-mini-controller",
-  "release": "2020-03-19",
-  "type": "hardware",
-  "franchise": {
-    "series": "PC Engine",
-    "subseries": null
-  },
-  "companies": {
-    "manufacturer": [
-      "NEC / Konami"
-    ],
-    "publisher": [
-      "NEC / Konami"
-    ]
-  },
-  "hardware": {
+    "id": "nec-pc-engine-coregrafx-mini-controller",
+    "name": "PC Engine CoreGrafx Mini Controller",
+    "description": "USB controller for the PC Engine CoreGrafx Mini, styled after the original PC Engine control pad.",
+    "cover": "pc-engine-mini-controller",
+    "release": "2020-03-19",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [
+        "PC Engine Core Grafx Mini Controller"
+    ],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 4,
     "era": null,
+    "system": "pc-engine-system",
     "compatible_with": [
-      "nec-pc-engine-coregrafx-mini"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Unique NEC library; major gap otherwise",
+        "nec-pc-engine-coregrafx-mini"
+    ],
+    "franchise": {
+        "series": "pc-engine-series",
+        "subseries": null
+    },
+    "companies": [
+        "konami-company",
+        "nec-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Unique NEC library; major gap otherwise.",
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

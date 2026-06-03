@@ -1,6 +1,49 @@
 {
-    "id": "nintendo-wii-u",
+    "id": "nintendo-wii-u-system",
+    "name": "Wii U",
+    "description": "Nintendo's HD home console platform built around the GamePad, asymmetric play, and early HD entries for major Nintendo franchises.",
     "type": "system",
-    "name": "Nintendo Wii U",
-    "logo": "nintendo-wii-u-logo"
+    "logo": "nintendo-wii-u-logo",
+    "era": "720p",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "super-mario-3d-world",
+        "mario-kart-8",
+        "super-smash-bros-for-wii-u",
+        "splatoon",
+        "bayonetta-2",
+        "pikmin-3",
+        "donkey-kong-country-tropical-freeze",
+        "the-legend-of-zelda-the-wind-waker-hd",
+        "the-legend-of-zelda-breath-of-the-wild",
+        "super-mario-maker"
+    ],
+    "series": [
+        "super-mario-series",
+        "mario-kart-series",
+        "super-smash-bros-series",
+        "splatoon-series",
+        "bayonetta-series",
+        "pikmin-series",
+        "donkey-kong-series",
+        "the-legend-of-zelda-series"
+    ],
+    "eras": [
+        {
+            "title": "GamePad Experiment Era",
+            "start_year": 2012,
+            "end_year": 2014,
+            "description": "Early period focused on asymmetric play, dual-screen ideas, and HD transitions for Nintendo franchises."
+        },
+        {
+            "title": "Switch Blueprint Era",
+            "start_year": 2015,
+            "end_year": 2017,
+            "description": "Late period where Splatoon, Mario Maker, Mario Kart 8, and Breath of the Wild preview Nintendo's Switch-era direction."
+        }
+    ],
+    "notes": null
 }

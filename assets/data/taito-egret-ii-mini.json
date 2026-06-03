@@ -1,39 +1,83 @@
 {
-  "id": "taito-egret-ii-mini",
-  "name": "Taito Egret II Mini",
-  "cover": "egret-ii-mini",
-  "release": "2022-03-02",
-  "type": "hardware",
-  "franchise": {
-    "series": "Egret II",
-    "subseries": null
-  },
-  "companies": [
-    "taito-company"
-  ],
-  "hardware": {
+    "id": "taito-egret-ii-mini",
+    "name": "Taito Egret II Mini",
+    "description": "Mini arcade cabinet by Taito based on the Egret II, with 40 built-in arcade games and a rotating screen.",
+    "cover": "egret-ii-mini",
+    "release": "2022-03-02",
+    "type": "hardware",
     "category": "console",
+    "aliases": [
+        "Egret II Mini"
+    ],
     "form": "dedicated",
-    "primary_family": "taito-egret-ii-mini",
-    "compatible_families": [],
-    "generation": null,
     "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 3,
-    "reason": "Most flexible arcade mini; rotating screen gimmick",
+    "system": "egret-ii-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Most flexible arcade mini; rotating screen gimmick.",
+        "notes": null
+    },
+    "contains": [
+        "space-invaders",
+        "lunar-rescue",
+        "steel-worker",
+        "lupin-the-third",
+        "qix",
+        "pirate-pete",
+        "adventure-canoe",
+        "elevator-action",
+        "chackn-pop",
+        "outer-zone",
+        "the-fairyland-story",
+        "the-legend-of-kage",
+        "halleys-comet",
+        "bubble-bobble",
+        "kiki-kaikai",
+        "scramble-formation",
+        "rastan-saga",
+        "kyukyoku-tiger",
+        "rainbow-islands-extra",
+        "ramais",
+        "the-newzealand-story",
+        "tatsujin",
+        "don-doko-don",
+        "volfied",
+        "violence-fight",
+        "cadash",
+        "mizubaku-adventure",
+        "gun-frontier",
+        "runark",
+        "hat-trick-hero",
+        "the-ninja-kids",
+        "metal-black",
+        "rayforce",
+        "kaiser-knuckle",
+        "darius-gaiden",
+        "bubble-symphony",
+        "elevator-action-returns",
+        "puzzle-bobble-2x",
+        "bubble-memories",
+        "dan-ku-ga"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

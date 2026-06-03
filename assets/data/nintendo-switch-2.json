@@ -1,47 +1,45 @@
 {
-  "id": "nintendo-switch-2",
-  "name": "Switch 2",
-  "cover": "switch-2",
-  "release": "2025-06-05",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch 2",
-    "subseries": null
-  },
-  "system": "nintendo-switch-2",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-switch-2",
+    "name": "Switch 2",
+    "description": "Nintendo's 4K-capable hybrid console and successor to the Switch, with upgraded performance, Joy-Con 2 controllers, and backward compatibility with most Switch games.",
+    "cover": "switch-2",
+    "release": "2025-06-05",
+    "type": "hardware",
     "category": "console",
-    "form": "hybrid",
-    "primary_family": "nintendo-switch-2",
-    "compatible_families": [
-      "nintendo-switch"
+    "aliases": [
+        "Nintendo Switch 2"
     ],
-    "generation": 9,
+    "form": "hybrid",
     "era": "4k",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "nintendo-switch-2-system",
+    "compatible_with": [
+        "nintendo-switch-system",
+        "nintendo-switch-eshop-system"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-2-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Nintendo Switch 2 launch",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": "Nintendo Switch 2 launch",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

@@ -1,0 +1,27 @@
+{
+    "id": "egret-ii-system",
+    "name": "Egret II",
+    "description": "Taito arcade cabinet family represented by the Egret II Mini, used as the hardware grouping for the mini cabinet rather than as a single arcade board.",
+    "type": "system",
+    "logo": "egret-ii-logo",
+    "era": null,
+    "companies": [
+        "taito-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "space-invaders",
+        "bubble-bobble",
+        "elevator-action",
+        "darius-gaiden",
+        "rayforce"
+    ],
+    "series": [
+        "bubble-bobble-series",
+        "darius-series",
+        "elevator-action-series",
+        "puzzle-bobble-series"
+    ],
+    "eras": [],
+    "notes": null
+}

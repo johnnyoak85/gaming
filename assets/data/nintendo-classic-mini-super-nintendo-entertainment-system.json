@@ -1,47 +1,64 @@
-{
-  "id": "nintendo-classic-mini-super-nintendo-entertainment-system",
-  "name": "Nintendo Classic Mini: Super Nintendo Entertainment System",
-  "cover": "snes-classic",
-  "release": "2017-09-29",
-  "type": "hardware",
-  "franchise": {
-    "series": "Classic Mini",
-    "subseries": "Super Nintendo Entertainment System"
-  },
-  "system": "super-nintendo-entertainment-system",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
-    "category": "console",
-    "form": "dedicated",
-    "primary_family": "nintendo-classic-mini-super-nintendo-entertainment-system",
-    "compatible_families": [],
-    "generation": 4,
-    "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
     {
-      "variant": null,
-      "status": "owned",
-      "notes": null
+        "id": "nintendo-classic-mini-super-nintendo-entertainment-system",
+        "name": "Nintendo Classic Mini: Super Nintendo Entertainment System",
+        "description": "Mini replica of the Super Nintendo Entertainment System with 21 built-in SNES games and HDMI output.",
+        "cover": "snes-classic",
+        "release": "2017-09-29",
+        "type": "hardware",
+        "category": "console",
+        "aliases": [
+            "SNES Classic Edition"
+        ],
+        "form": "mini",
+        "era": "16-bit",
+        "system": "super-nintendo-entertainment-system-system",
+        "compatible_with": [],
+        "franchise": {
+            "series": "nintendo-classic-mini-series",
+            "subseries": null
+        },
+        "companies": [
+            "nintendo-company"
+        ],
+        "people": [],
+        "release_line": "nintendo-classic-mini-release-line",
+        "event": null,
+        "variants": [
+            {
+                "name": null,
+                "cover": null,
+                "status": "owned",
+                "event": null,
+                "notes": null
+            }
+        ],
+        "acquisition": {
+            "priority": null,
+            "reason": null,
+            "notes": null
+        },
+        "contains": [
+            "super-mario-world",
+            "super-mario-kart",
+            "the-legend-of-zelda-a-link-to-the-past",
+            "f-zero",
+            "super-metroid",
+            "street-fighter-ii-turbo-hyper-fighting",
+            "super-punch-out",
+            "super-castlevania-iv",
+            "donkey-kong-country",
+            "mega-man-x",
+            "kirby-super-star",
+            "final-fantasy-vi",
+            "kirbys-dream-course",
+            "star-fox",
+            "super-mario-world-2-yoshis-island",
+            "super-mario-rpg-legend-of-the-seven-stars",
+            "contra-iii-the-alien-wars",
+            "secret-of-mana",
+            "earthbound",
+            "super-ghouls-n-ghosts",
+            "star-fox-2"
+        ],
+        "notes": null
     }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [
-    "the-legend-of-zelda-a-link-to-the-past"
-  ],
-  "event": null,
-  "notes": null
-}

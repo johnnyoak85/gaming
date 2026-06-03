@@ -1,0 +1,21 @@
+    {
+        "id": "manami-matsumae",
+        "name": "Manami Matsumae",
+        "description": "Capcom composer best known for the original Mega Man soundtrack.",
+        "type": "person",
+        "portrait": "manami-matsumae",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "capcom-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "mega-man",
+            "shovel-knight",
+            "mighty-no-9"
+        ],
+        "notes": null
+    }

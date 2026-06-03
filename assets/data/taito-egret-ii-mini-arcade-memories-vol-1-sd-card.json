@@ -1,0 +1,55 @@
+{
+    "id": "taito-egret-ii-mini-arcade-memories-vol-1-sd-card",
+    "name": "Taito Egret II Mini Arcade Memories Vol. 1 SD Card",
+    "description": "Official Egret II Mini expansion SD card adding 10 additional Taito arcade games.",
+    "cover": "egret-ii-mini-arcade-memories-vol-1",
+    "release": "2022-12-22",
+    "type": "hardware",
+    "category": "storage",
+    "aliases": [
+        "Arcade Memories Vol. 1"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "egret-ii-system",
+    "compatible_with": [
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 3,
+        "reason": "Strong official Taito expansion for the Egret II Mini.",
+        "notes": null
+    },
+    "contains": [
+        "great-swordsman",
+        "ougon-no-shiro",
+        "slap-fight",
+        "daisenpuu",
+        "pulirula",
+        "grid-seeker-project-storm-hammer",
+        "riding-fight",
+        "light-bringer",
+        "gekirindan",
+        "cleopatra-fortune"
+    ],
+    "notes": null
+}

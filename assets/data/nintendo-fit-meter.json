@@ -1,0 +1,45 @@
+{
+    "id": "nintendo-fit-meter",
+    "name": "Fit Meter",
+    "description": "Portable activity meter for Wii Fit U that tracks steps, elevation, and activity data for transfer to the Wii U GamePad.",
+    "cover": "fit-meter",
+    "release": "2013-10-31",
+    "type": "hardware",
+    "category": "accessory",
+    "aliases": [
+        "Wii Fit U Fit Meter"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "nintendo-wii-u-system",
+    "compatible_with": [
+        "nintendo-wii-u",
+        "nintendo-wii-u-gamepad"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": "wii-fit-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": "Came with Wii Fit U."
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

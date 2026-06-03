@@ -1,6 +1,23 @@
 {
-    "id": "capcom-play-system-iii",
-    "type": "system",
+    "id": "capcom-play-system-iii-system",
     "name": "Capcom Play System III",
-    "logo": "capcom-play-system-iii-logo"
+    "description": "Capcom's late-1990s arcade hardware platform best known for Street Fighter III and Red Earth.",
+    "type": "system",
+    "logo": "capcom-play-system-iii-logo",
+    "era": "32-bit",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "red-earth",
+        "street-fighter-iii-new-generation",
+        "street-fighter-iii-2nd-impact-giant-attack",
+        "street-fighter-iii-3rd-strike-fight-for-the-future"
+    ],
+    "series": [
+        "street-fighter-series"
+    ],
+    "eras": [],
+    "notes": null
 }

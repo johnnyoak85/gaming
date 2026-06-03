@@ -1,0 +1,44 @@
+{
+    "id": "nintendo-wii-zapper",
+    "name": "Wii Zapper",
+    "description": "Gun-shaped shell accessory that holds a Wii Remote and Nunchuk for pointer-based shooting games.",
+    "cover": "wii-zapper",
+    "release": "2007-10-25",
+    "type": "hardware",
+    "category": "accessory",
+    "aliases": [],
+    "form": "special",
+    "era": null,
+    "system": "nintendo-wii-system",
+    "compatible_with": [
+        "nintendo-wii-remote",
+        "nintendo-wii-remote-plus",
+        "nintendo-wii-nunchuk"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "White",
+            "cover": "wii-zapper",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

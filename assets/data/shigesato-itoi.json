@@ -1,0 +1,24 @@
+    {
+        "id": "shigesato-itoi",
+        "name": "Shigesato Itoi",
+        "description": "Writer and creator of the Mother / EarthBound series.",
+        "type": "person",
+        "portrait": "shigesato-itoi",
+        "roles": [
+            "writer",
+            "designer",
+            "producer"
+        ],
+        "companies": [
+            "ape-company",
+            "nintendo-company"
+        ],
+        "circle": "major",
+        "country": "JP",
+        "essentials": [
+            "earthbound-beginnings",
+            "earthbound",
+            "mother-3"
+        ],
+        "notes": null
+    }

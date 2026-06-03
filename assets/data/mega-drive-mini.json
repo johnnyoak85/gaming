@@ -1,45 +1,85 @@
 {
-  "id": "mega-drive-mini",
-  "name": "Mega Drive Mini",
-  "cover": "mega-drive-mini",
-  "release": "2019-09-19",
-  "type": "hardware",
-  "franchise": {
-    "series": "Mega Drive",
-    "subseries": null
-  },
-  "system": "sega-mega-drive",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "mega-drive-mini",
+    "name": "Mega Drive Mini",
+    "description": "Mini replica of the Sega Mega Drive with 42 built-in games and HDMI output.",
+    "cover": "mega-drive-mini",
+    "release": "2019-09-19",
+    "type": "hardware",
     "category": "console",
-    "form": "dedicated",
-    "primary_family": "mega-drive-mini",
-    "compatible_families": [],
-    "generation": 4,
+    "aliases": [
+        "Sega Genesis Mini"
+    ],
+    "form": "mini",
     "era": "16-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "sega-mega-drive-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "mega-drive-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": "sega-mini-release-line",
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [
+        "ecco-the-dolphin",
+        "castlevania-the-new-generation",
+        "space-harrier-ii",
+        "shining-force",
+        "dr-robotniks-mean-bean-machine",
+        "toejam-and-earl",
+        "comix-zone",
+        "sonic-the-hedgehog",
+        "altered-beast",
+        "gunstar-heroes",
+        "castle-of-illusion-starring-mickey-mouse",
+        "world-of-illusion-starring-mickey-mouse-and-donald-duck",
+        "thunder-force-iii",
+        "super-fantasy-zone",
+        "shinobi-iii-return-of-the-ninja-master",
+        "streets-of-rage-ii",
+        "earthworm-jim",
+        "sonic-the-hedgehog-2",
+        "probotector",
+        "landstalker",
+        "the-story-of-thor",
+        "ghouls-n-ghosts",
+        "alex-kidd-in-the-enchanted-castle",
+        "golden-axe",
+        "phantasy-star-iv-the-end-of-the-millennium",
+        "street-fighter-ii-special-champion-edition",
+        "mega-man-the-wily-wars",
+        "sonic-spinball",
+        "vectorman",
+        "wonder-boy-in-monster-world",
+        "virtua-fighter-2",
+        "alisia-dragoon",
+        "columns",
+        "dynamite-headdy",
+        "strider",
+        "kid-chameleon",
+        "light-crusader",
+        "monster-world-iv",
+        "eternal-champions",
+        "road-rash-ii",
+        "tetris",
+        "darius"
+    ],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

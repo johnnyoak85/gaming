@@ -1,0 +1,23 @@
+    {
+        "id": "naoki-kodaka",
+        "name": "Naoki Kodaka",
+        "description": "Sunsoft composer known for the distinctive sound of Blaster Master and other NES-era Sunsoft games.",
+        "type": "person",
+        "portrait": "naoki-kodaka",
+        "roles": [
+            "composer"
+        ],
+        "companies": [
+            "sunsoft-company"
+        ],
+        "circle": "minor",
+        "country": "JP",
+        "essentials": [
+            "blaster-master",
+            "batman-the-video-game",
+            "journey-to-silius",
+            "gremlins-2-the-new-batch",
+            "gimmick"
+        ],
+        "notes": null
+    }

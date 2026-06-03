@@ -1,6 +1,56 @@
 {
-    "id": "nintendo-switch",
-    "type": "system",
+    "id": "nintendo-switch-system",
     "name": "Nintendo Switch",
-    "logo": "nintendo-switch-logo"
+    "description": "Nintendo's hybrid console platform, combining handheld and TV play with detachable controllers and a unified portable/home library.",
+    "type": "system",
+    "logo": "nintendo-switch-logo",
+    "era": "1080p",
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "the-legend-of-zelda-breath-of-the-wild",
+        "super-mario-odyssey",
+        "mario-kart-8-deluxe",
+        "super-smash-bros-ultimate",
+        "animal-crossing-new-horizons",
+        "metroid-dread",
+        "splatoon-3",
+        "xenoblade-chronicles-3",
+        "the-legend-of-zelda-tears-of-the-kingdom",
+        "super-mario-bros-wonder"
+    ],
+    "series": [
+        "the-legend-of-zelda-series",
+        "super-mario-series",
+        "mario-kart-series",
+        "super-smash-bros-series",
+        "animal-crossing-series",
+        "metroid-series",
+        "splatoon-series",
+        "xenoblade-chronicles-series",
+        "fire-emblem-series"
+    ],
+    "eras": [
+        {
+            "title": "Hybrid Breakthrough Era",
+            "start_year": 2017,
+            "end_year": 2019,
+            "description": "Launch and early period establishing the hybrid model through Zelda, Mario, Mario Kart, Smash, and strong indie support."
+        },
+        {
+            "title": "Library Consolidation Era",
+            "start_year": 2020,
+            "end_year": 2023,
+            "description": "The platform becomes Nintendo's dominant software home, with major franchise releases and long-tail third-party support."
+        },
+        {
+            "title": "Late Switch Era",
+            "start_year": 2024,
+            "end_year": 2025,
+            "description": "Late releases, cross-generation positioning, and transition toward Switch 2."
+        }
+    ],
+    "notes": null
 }

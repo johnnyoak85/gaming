@@ -1,61 +1,50 @@
 {
-  "id": "nintendo-wii-remote-plus",
-  "name": "Wii Remote Plus",
-  "cover": "wii-remote-plus-black",
-  "release": "2010-11-05",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii",
-    "subseries": null
-  },
-  "system": "nintendo-wii",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-wii-remote-plus",
+    "name": "Wii Remote Plus",
+    "description": "Wii Remote revision with Wii MotionPlus built in for improved motion tracking.",
+    "cover": "wii-remote-plus-black",
+    "release": "2010-10-28",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 7,
     "era": null,
+    "system": "nintendo-wii-system",
     "compatible_with": [
-      "nintendo-wii",
-      "nintendo-wii-u"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Black",
-      "cover": "wii-remote-plus-black",
-      "event": null,
-      "notes": null
+        "nintendo-wii",
+        "nintendo-wii-u"
+    ],
+    "franchise": {
+        "series": "wii-series",
+        "subseries": null
     },
-    {
-      "name": "The Legend of Zelda: Skyward Sword Edition",
-      "cover": "wii-remote-zelda",
-      "event": "The Legend of Zelda 25th Anniversary",
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "wii-remote-plus-black",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        },
+        {
+            "name": "The Legend of Zelda: Skyward Sword Edition",
+            "cover": "wii-remote-zelda",
+            "status": "owned",
+            "event": "The Legend of Zelda 25th Anniversary",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

@@ -1,45 +1,40 @@
 {
-  "id": "sega-dreamcast",
-  "name": "Dreamcast",
-  "cover": "dreamcast",
-  "release": "1999-10-14",
-  "type": "hardware",
-  "franchise": {
-    "series": "Dreamcast",
-    "subseries": null
-  },
-  "system": "sega-dreamcast",
-  "companies": {
-    "manufacturer": [
-      "Sega"
-    ],
-    "publisher": [
-      "Sega"
-    ]
-  },
-  "hardware": {
+    "id": "sega-dreamcast",
+    "name": "Dreamcast",
+    "description": "Sega's final home console, known for arcade-perfect conversions, online features, VMU memory cards, and an influential library of late-1990s Sega games.",
+    "cover": "dreamcast",
+    "release": "1998-11-27",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "home",
-    "primary_family": "sega-dreamcast",
-    "compatible_families": [],
-    "generation": 6,
     "era": "128-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "sega-dreamcast-system",
+    "compatible_with": [],
+    "franchise": {
+        "series": "dreamcast-series",
+        "subseries": null
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": "Turns on, no output."
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Turns on, no output"
 }

@@ -1,0 +1,14 @@
+    {
+        "id": "nintendo-classic-mini-release-line",
+        "name": "Nintendo Classic Mini",
+        "description": "Nintendo's mini-console line of dedicated replica systems with built-in classic games.",
+        "type": "release_line",
+        "logo": "nintendo-classic-mini-logo",
+        "date": "2016-11-10",
+        "category": "compilation",
+        "system": null,
+        "companies": [
+            "nintendo-company"
+        ],
+        "notes": null
+    }

@@ -1,54 +1,44 @@
 {
-  "id": "game-boy-color",
-  "name": "Game Boy Color",
-  "cover": "gbc",
-  "release": "1998-11-23",
-  "type": "hardware",
-  "franchise": {
-    "series": "Game Boy",
-    "subseries": null
-  },
-  "system": "game-boy-color",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "game-boy-color",
+    "name": "Game Boy Color",
+    "description": "Color successor to the Game Boy with backward compatibility and a library bridging original Game Boy and Game Boy Advance.",
+    "cover": "gbc",
+    "release": "1998-10-21",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "handheld",
-    "primary_family": "game-boy-color",
-    "compatible_families": [
-      "game-boy"
-    ],
-    "generation": 5,
     "era": "8-bit",
-    "compatible_with": []
-  },
-  "variants": [
-    {
-      "name": "Atomic Purple",
-      "cover": "gbc",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Atomic Purple",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+    "system": "game-boy-color-system",
+    "compatible_with": [
+        "game-boy-system"
+    ],
+    "franchise": {
+        "series": "game-boy-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "satoru-okada"
+    ],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Atomic Purple",
+            "cover": "gbc",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

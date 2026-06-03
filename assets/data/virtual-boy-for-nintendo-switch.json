@@ -1,48 +1,46 @@
 {
-  "id": "virtual-boy-for-nintendo-switch",
-  "name": "Virtual Boy for Nintendo Switch",
-  "cover": "vboy",
-  "release": "2026-02-17",
-  "type": "hardware",
-  "franchise": {
-    "series": "Nintendo Switch",
-    "subseries": "Virtual Boy"
-  },
-  "system": "virtual-boy",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "virtual-boy-for-nintendo-switch",
+    "name": "Virtual Boy for Nintendo Switch 2/Nintendo Switch",
+    "description": "Dedicated accessory that holds a Switch or Switch 2 to play Virtual Boy – Nintendo Classics games in stereoscopic 3D.",
+    "cover": "vboy",
+    "release": "2026-02-17",
+    "type": "hardware",
     "category": "accessory",
-    "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 5,
-    "era": "32-bit",
+    "aliases": [
+        "Virtual Boy for Nintendo Switch",
+        "Virtual Boy for Nintendo Switch 2"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "nintendo-switch-2-system",
     "compatible_with": [
-      "nintendo-switch",
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
-    "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Required accessory for Virtual Boy - Nintendo Classics."
+        "nintendo-switch",
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-2-series",
+        "subseries": "virtual-boy-series"
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": "Requires Nintendo Switch Online + Expansion Pack for the Virtual Boy – Nintendo Classics library."
 }

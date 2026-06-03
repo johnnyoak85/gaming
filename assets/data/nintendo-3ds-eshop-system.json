@@ -1,0 +1,32 @@
+{
+    "id": "nintendo-3ds-eshop-system",
+    "name": "Nintendo 3DS eShop",
+    "description": "Digital storefront platform for Nintendo 3DS downloadable games, Virtual Console releases, demos, and updates.",
+    "type": "system",
+    "logo": "nintendo-3ds-eshop-logo",
+    "era": null,
+    "companies": [
+        "nintendo-company"
+    ],
+    "parent": "nintendo-3ds-system",
+    "essentials": [
+        "pushmo",
+        "crashmo",
+        "boxboy",
+        "boxboxboy",
+        "bye-bye-boxboy",
+        "steamworld-dig",
+        "crimson-shroud",
+        "attack-of-the-friday-monsters-a-tokyo-tale",
+        "pullblox-world",
+        "phoenix-wright-ace-attorney-dual-destinies"
+    ],
+    "series": [
+        "pushmo-series",
+        "boxboy-series",
+        "steamworld-series",
+        "ace-attorney-series"
+    ],
+    "eras": [],
+    "notes": null
+}

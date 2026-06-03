@@ -1,0 +1,57 @@
+{
+    "id": "taito-egret-ii-mini-arcade-collection-part-1-sd-card",
+    "name": "Taito Egret II Mini Arcade Collection Part 1 SD Card",
+    "description": "Official Egret II Mini expansion SD card adding 10 Technōs Japan and Data East arcade games.",
+    "cover": "egret-ii-mini-arcade-collection-part-1",
+    "release": "2025-12-18",
+    "type": "hardware",
+    "category": "storage",
+    "aliases": [
+        "Arcade Collection Part 1"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "egret-ii-system",
+    "compatible_with": [
+        "taito-egret-ii-mini"
+    ],
+    "franchise": {
+        "series": "egret-ii-series",
+        "subseries": null
+    },
+    "companies": [
+        "taito-company",
+        "technos-japan-company",
+        "data-east-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": 2,
+        "reason": "Expands the Egret II Mini beyond Taito with Technōs Japan and Data East arcade games.",
+        "notes": null
+    },
+    "contains": [
+        "mysterious-stone-dr-kicks-adventure",
+        "bogey-manor",
+        "renegade",
+        "xaind-sleena",
+        "double-dragon",
+        "chelnov",
+        "gate-of-doom",
+        "the-cliffhanger-edward-randy",
+        "wolf-fang-kuhga-2001",
+        "boogie-wings"
+    ],
+    "notes": null
+}

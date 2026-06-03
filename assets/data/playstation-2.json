@@ -1,47 +1,44 @@
 {
-  "id": "playstation-2",
-  "name": "PlayStation 2",
-  "cover": "ps2",
-  "release": "2000-11-24",
-  "type": "hardware",
-  "franchise": {
-    "series": "PlayStation",
-    "subseries": "PlayStation 2"
-  },
-  "system": "playstation-2",
-  "companies": {
-    "manufacturer": [
-      "Sony"
-    ],
-    "publisher": [
-      "Sony"
-    ]
-  },
-  "hardware": {
+    "id": "playstation-2",
+    "name": "PlayStation 2",
+    "description": "Sony's second home console, known for its massive library, DVD playback, and backward compatibility with original PlayStation games.",
+    "cover": "ps2",
+    "release": "2000-03-04",
+    "type": "hardware",
     "category": "console",
+    "aliases": [],
     "form": "home",
-    "primary_family": "playstation-2",
-    "compatible_families": [
-      "playstation"
-    ],
-    "generation": 6,
     "era": "128-bit",
-    "compatible_with": []
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "wishlist",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": 5,
-    "reason": "Strongest Sony platform; unlocks full PS2 library",
-    "notes": "Used to own; already have games"
-  },
-  "contains": [],
-  "event": null,
-  "notes": "Used to own"
+    "system": "playstation-2-system",
+    "compatible_with": [
+        "playstation-system"
+    ],
+    "franchise": {
+        "series": "playstation-series",
+        "subseries": "playstation-2-series"
+    },
+    "companies": [
+        "sony-company"
+    ],
+    "people": [
+        "ken-kutaragi"
+    ],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "wishlist",
+            "event": null,
+            "notes": "Used to own."
+        }
+    ],
+    "acquisition": {
+        "priority": 5,
+        "reason": "Strongest Sony platform; unlocks full PS2 library.",
+        "notes": "Used to own; already have games."
+    },
+    "contains": [],
+    "notes": null
 }

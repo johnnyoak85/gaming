@@ -1,0 +1,45 @@
+{
+    "id": "hori-game-boy-player-controller",
+    "name": "HORI Game Boy Player Controller",
+    "description": "Digital GameCube controller by HORI designed for Game Boy Player use, with a D-pad-focused layout suited to Game Boy, Game Boy Color, and Game Boy Advance games.",
+    "cover": "hori-game-boy-player-controller",
+    "release": "2003-03-21",
+    "type": "hardware",
+    "category": "controller",
+    "aliases": [
+        "HORI Digital Controller"
+    ],
+    "form": "special",
+    "era": null,
+    "system": "gamecube-system",
+    "compatible_with": [
+        "nintendo-gamecube",
+        "nintendo-wii"
+    ],
+    "franchise": {
+        "series": "game-boy-series",
+        "subseries": "game-boy-advance-series"
+    },
+    "companies": [
+        "hori-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Indigo",
+            "cover": "hori-game-boy-player-controller-indigo",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
+    "notes": null
+}

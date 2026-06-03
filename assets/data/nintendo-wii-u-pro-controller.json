@@ -1,54 +1,42 @@
 {
-  "id": "nintendo-wii-u-pro-controller",
-  "name": "Wii U Pro Controller",
-  "cover": "wii-u-pro-controller",
-  "release": "2012-11-30",
-  "type": "hardware",
-  "franchise": {
-    "series": "Wii U",
-    "subseries": null
-  },
-  "system": "nintendo-wii-u",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-wii-u-pro-controller",
+    "name": "Wii U Pro Controller",
+    "description": "Traditional wireless controller for Wii U with dual analog sticks, face buttons, shoulder buttons, and long battery life.",
+    "cover": "wii-u-pro-controller",
+    "release": "2012-11-18",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 8,
     "era": null,
+    "system": "nintendo-wii-u-system",
     "compatible_with": [
-      "nintendo-wii-u"
-    ]
-  },
-  "variants": [
-    {
-      "name": "Black",
-      "cover": "wii-u-pro-controller",
-      "event": null,
-      "notes": null
-    }
-  ],
-  "ownership": [
-    {
-      "variant": "Black",
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-wii-u"
+    ],
+    "franchise": {
+        "series": "wii-u-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": null,
+    "variants": [
+        {
+            "name": "Black",
+            "cover": "wii-u-pro-controller",
+            "status": "owned",
+            "event": null,
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }

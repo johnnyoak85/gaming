@@ -1,47 +1,42 @@
 {
-  "id": "nintendo-joy-con-2",
-  "name": "Joy-Con 2",
-  "cover": "joy-con-2",
-  "release": "2025-06-05",
-  "type": "hardware",
-  "franchise": {
-    "series": "Switch 2",
-    "subseries": null
-  },
-  "system": "nintendo-switch-2",
-  "companies": {
-    "manufacturer": [
-      "Nintendo"
-    ],
-    "publisher": [
-      "Nintendo"
-    ]
-  },
-  "hardware": {
+    "id": "nintendo-joy-con-2",
+    "name": "Joy-Con 2",
+    "description": "Pair of detachable Nintendo Switch 2 controllers with magnetic attachment, motion controls, and mouse-style input support.",
+    "cover": "joy-con-2",
+    "release": "2025-06-05",
+    "type": "hardware",
     "category": "controller",
+    "aliases": [],
     "form": "standard",
-    "primary_family": null,
-    "compatible_families": [],
-    "generation": 9,
     "era": null,
+    "system": "nintendo-switch-2-system",
     "compatible_with": [
-      "nintendo-switch-2"
-    ]
-  },
-  "variants": [],
-  "ownership": [
-    {
-      "variant": null,
-      "status": "owned",
-      "notes": null
-    }
-  ],
-  "acquisition": {
-    "priority": null,
-    "reason": null,
+        "nintendo-switch-2"
+    ],
+    "franchise": {
+        "series": "nintendo-switch-2-series",
+        "subseries": null
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": null,
+    "event": "Nintendo Switch 2 launch",
+    "variants": [
+        {
+            "name": null,
+            "cover": null,
+            "status": "owned",
+            "event": "Nintendo Switch 2 launch",
+            "notes": null
+        }
+    ],
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "contains": [],
     "notes": null
-  },
-  "contains": [],
-  "event": null,
-  "notes": null
 }
