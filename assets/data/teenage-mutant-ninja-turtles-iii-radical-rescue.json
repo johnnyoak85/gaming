@@ -1,0 +1,80 @@
+{
+    "id": "teenage-mutant-ninja-turtles-iii-radical-rescue",
+    "name": "Teenage Mutant Ninja Turtles III: Radical Rescue",
+    "aliases": [
+        "Teenage Mutant Hero Turtles III: Radical Rescue",
+        "Teenage Mutant Ninja Turtles 3: Turtles Crisis"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2doz.webp",
+    "release": "1993-11-25",
+    "type": "game",
+    "franchise": {
+        "series": "teenage-mutant-ninja-turtles-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure",
+            "Platform"
+        ],
+        "subgenres": [
+            "Exploration Platformer"
+        ],
+        "themes": [
+            "Superhero",
+            "Martial Arts",
+            "Comedy"
+        ],
+        "tags": [
+            "Game Boy",
+            "Retro",
+            "Exploration"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Most ambitious Game Boy TMNT entry, shifting the handheld trilogy toward exploration structure.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy TMNT exploration-platformer where Michelangelo rescues the other turtles and unlocks their abilities.",
+    "people": []
+}

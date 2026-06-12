@@ -1,1 +1,71 @@
-{"id":"marios-picross","name":"Mario's Picross","cover":"marios-picross","release":"1995-03-14","type":"game","franchise":{"universe":"Mario","series":"Picross","subseries":null},"system":"game-boy","classification":{"genres":["Puzzle"],"subgenres":["Logic Puzzle"],"themes":["Puzzle"],"tags":["Handheld","Brain Training","Replayable"]},"player_age":7,"access":[{"platform":"nintendo-3ds","via":null,"format":"digital","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Jupiter"],"progress":"planned","backlog":{"priority":2,"reason":"Solid puzzle game for short sessions and mental challenge.","rating":3,"difficulty":3,"estimated_hours":null},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "marios-picross",
+    "name": "Mario's Picross",
+    "aliases": [],
+    "cover": "marios-picross",
+    "release": "1995-03-14",
+    "type": "game",
+    "franchise": {
+        "series": "super-mario-series",
+        "subseries": "picross-series"
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Nonogram"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Game Boy"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "marios-super-picross",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "jupiter-company",
+        "ape-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "First major Nintendo Picross title and a strong Game Boy puzzle entry.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Useful Game Boy puzzle representative and origin point for Nintendo's Picross line.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy nonogram puzzle game where Mario uncovers hidden pictures by chiseling numbered grids.",
+    "people": []
+}

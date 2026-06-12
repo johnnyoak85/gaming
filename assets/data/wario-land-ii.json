@@ -1,1 +1,85 @@
-{"id":"wario-land-ii","name":"Wario Land II","cover":"wario-land-ii","release":"1998-03-02","type":"game","franchise":{"universe":"Mario","series":"Wario Land","subseries":null},"system":"game-boy","classification":{"genres":["Platform"],"subgenres":["Action Platformer"],"themes":["Fantasy"],"tags":["Game Boy","Retro","Wario"]},"player_age":6,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"wishlist","notes":null}],"versions":[{"source":"wario-land-ii-game-boy-color","format":"enhanced_port"}],"relationships":[{"source":"wario-land-super-mario-land-3","type":"prequel"},{"source":"wario-land-3","type":"sequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Nintendo R&D1"],"progress":"planned","backlog":{"priority":null,"reason":null,"rating":4,"difficulty":2,"estimated_hours":6},"acquisition":{"priority":1,"reason":"Strong series entry, but GB version inferior to GBC","notes":"Own Game Boy Color digital"},"event":null,"notes":"Original Game Boy version."}
+{
+    "id": "wario-land-ii",
+    "name": "Wario Land II",
+    "aliases": [
+        "Wario Land 2: The Stolen Treasure"
+    ],
+    "cover": "wario-land-ii",
+    "release": "1998-03-02",
+    "type": "game",
+    "franchise": {
+        "series": "super-mario-series",
+        "subseries": "wario-land-series"
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Game Boy",
+            "Retro",
+            "Wario"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "wario-land-ii-game-boy-color",
+            "format": "enhanced_port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "wario-land-super-mario-land-3",
+            "type": "prequel"
+        },
+        {
+            "source": "wario-land-3",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": null,
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 6
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Strong series entry, but GB version inferior to GBC",
+        "notes": "Own Game Boy Color digital"
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Wario platformer where Wario recovers his stolen treasure from Captain Syrup's pirates.",
+    "people": []
+}

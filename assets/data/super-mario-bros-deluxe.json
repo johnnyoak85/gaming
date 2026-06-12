@@ -1,1 +1,77 @@
-{"id":"super-mario-bros-deluxe","name":"Super Mario Bros. Deluxe","cover":"super-mario-bros-deluxe","release":"1999-07-01","type":"game","franchise":{"universe":"Mario","series":"Super Mario","subseries":"Super Mario Bros."},"system":"game-boy-color","classification":{"genres":["Platform"],"subgenres":["Action Platformer"],"themes":["Fantasy"],"tags":["Retro","GBC","Enhanced Port","Portable"]},"player_age":6,"access":[{"platform":"game-boy-color","via":null,"format":"physical","status":"owned","notes":null}],"versions":[{"source":"super-mario-bros","format":"base"},{"source":"super-mario-bros-the-lost-levels","format":"base"}],"relationships":[],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","versus"]},"companies":["Nintendo R&D2"],"progress":"planned","backlog":{"priority":null,"reason":"Enhanced portable version of Super Mario Bros. with extra modes and The Lost Levels content.","rating":4,"difficulty":3,"estimated_hours":5},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":"Best represented as an enhanced port of Super Mario Bros. It also includes The Lost Levels content, but not as a separate bundle entry in this schema unless you decide to split it later."}
+{
+    "id": "super-mario-bros-deluxe",
+    "name": "Super Mario Bros. Deluxe",
+    "aliases": [],
+    "cover": "super-mario-bros-deluxe",
+    "release": "1999-05-10",
+    "type": "game",
+    "franchise": {
+        "series": "super-mario-series",
+        "subseries": "super-mario-bros-series"
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Game Boy Color",
+            "Enhanced Port"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-color",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-bros",
+            "format": "base"
+        },
+        {
+            "source": "super-mario-bros-the-lost-levels",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "Enhanced portable version of Super Mario Bros. with extra modes and The Lost Levels content.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color enhanced port of Super Mario Bros. with challenge modes, versus play, and unlockable Lost Levels content.",
+    "people": []
+}

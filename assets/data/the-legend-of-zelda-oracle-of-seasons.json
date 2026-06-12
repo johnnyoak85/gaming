@@ -1,1 +1,76 @@
-{"id":"the-legend-of-zelda-oracle-of-seasons","name":"The Legend of Zelda: Oracle of Seasons","cover":"the-legend-of-zelda-oracle-of-seasons","release":"2001-02-27","type":"game","franchise":{"universe":"The Legend of Zelda","series":"The Legend of Zelda","subseries":"Oracle"},"system":"game-boy-color","classification":{"genres":["Action","Adventure"],"subgenres":["Action Adventure"],"themes":["Fantasy"],"tags":["Combat Focused"]},"player_age":10,"access":[{"platform":"game-boy-color","via":null,"format":"physical","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"the-legend-of-zelda-oracle-of-ages","type":"twin_game"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Capcom"],"progress":"planned","backlog":{"priority":4,"reason":"Combat-focused Oracle counterpart.","rating":4,"difficulty":3,"estimated_hours":12},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "the-legend-of-zelda-oracle-of-seasons",
+    "name": "The Legend of Zelda: Oracle of Seasons",
+    "aliases": [
+        "The Legend of Zelda: Fruit of the Mysterious Tree - Chapter of Earth"
+    ],
+    "cover": "the-legend-of-zelda-oracle-of-seasons",
+    "release": "2001-02-27",
+    "type": "game",
+    "franchise": {
+        "series": "the-legend-of-zelda-series",
+        "subseries": null
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Game Boy Color",
+            "Combat Focused"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy-color",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-oracle-of-ages",
+            "type": "twin_game"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "capcom-company",
+        "flagship-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Combat-focused Oracle counterpart.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color Zelda adventure where Link controls the seasons to rescue Din in Holodrum.",
+    "people": []
+}

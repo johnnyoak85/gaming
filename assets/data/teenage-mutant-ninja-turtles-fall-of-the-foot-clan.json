@@ -1,0 +1,78 @@
+{
+    "id": "teenage-mutant-ninja-turtles-fall-of-the-foot-clan",
+    "name": "Teenage Mutant Ninja Turtles: Fall of the Foot Clan",
+    "aliases": [
+        "Teenage Mutant Hero Turtles: Fall of the Foot Clan",
+        "Teenage Mutant Ninja Turtles"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dox.webp",
+    "release": "1990-08-03",
+    "type": "game",
+    "franchise": {
+        "series": "teenage-mutant-ninja-turtles-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Superhero",
+            "Martial Arts",
+            "Comedy"
+        ],
+        "tags": [
+            "Game Boy",
+            "Retro"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "First Game Boy TMNT game and a compact portable Konami licensed action entry.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy TMNT action-platformer where the turtles fight the Foot Clan to rescue April.",
+    "people": []
+}

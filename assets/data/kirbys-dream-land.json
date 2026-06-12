@@ -1,1 +1,91 @@
-{"id":"kirbys-dream-land","name":"Kirby's Dream Land","cover":"kirbys-dream-land","release":"1992-04-27","type":"game","franchise":{"series":"kirby-series","subseries":"kirbys-dream-land-series"},"system":"game-boy","classification":{"genres":["Platform"],"subgenres":["2D Platformer"],"themes":["Fantasy"],"tags":["Retro","Short","Beginner Friendly"]},"player_age":6,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"kirbys-adventure","type":"sequel"},{"source":"kirbys-dream-land-2","type":"sequel"},{"source":"kirby-spring-breeze","type":"reimagining"},{"source":"kirby-spring-breeze-ds","type":"reimagining"},{"source":"kirbys-blowout-blast","type":"reimagining"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["hal-laboratory-company"],"progress":"planned","backlog":{"priority":4,"reason":"Origin of Kirby and foundation of all later gameplay.","rating":4,"difficulty":1,"estimated_hours":2},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "kirbys-dream-land",
+    "name": "Kirby's Dream Land",
+    "aliases": [
+        "Kirby of the Stars"
+    ],
+    "cover": "kirbys-dream-land",
+    "release": "1992-04-27",
+    "type": "game",
+    "franchise": {
+        "series": "kirby-series",
+        "subseries": "kirby-dream-land-series"
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Short",
+            "Beginner Friendly"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kirbys-adventure",
+            "type": "sequel"
+        },
+        {
+            "source": "kirbys-dream-land-2",
+            "type": "sequel"
+        },
+        {
+            "source": "kirby-spring-breeze",
+            "type": "reimagining"
+        },
+        {
+            "source": "kirbys-blowout-blast",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "hal-laboratory-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Origin of Kirby and foundation of all later gameplay.",
+        "rating": 4,
+        "difficulty": 1,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy platformer where Kirby travels through Dream Land to recover food stolen by King Dedede.",
+    "people": [
+        "masahiro-sakurai"
+    ]
+}

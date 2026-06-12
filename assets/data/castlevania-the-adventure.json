@@ -1,1 +1,89 @@
-{"id":"castlevania-the-adventure","name":"Castlevania: The Adventure","cover":"castlevania-the-adventure","release":"1989-10-27","type":"game","franchise":{"universe":"Castlevania","series":"Dracula Legend","subseries":null},"system":"game-boy","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":["Gothic","Horror"],"tags":["Handheld"]},"player_age":12,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"wishlist","notes":null},{"platform":"castlevania-anniversary-collection","via":null,"format":"contained","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"castlevania-ii-belmonts-revenge","type":"sequel"},{"source":"castlevania-the-adventure-rebirth","type":"reimagining"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Konami"],"progress":"completed","backlog":{"priority":2,"reason":"Early portable Castlevania entry.","rating":2,"difficulty":4,"estimated_hours":3},"acquisition":{"priority":1,"reason":"Historical curiosity; weak gameplay vs later entries","notes":"In Castlevania Anniversary Collection"},"event":null,"notes":null}
+{
+    "id": "castlevania-the-adventure",
+    "name": "Castlevania: The Adventure",
+    "aliases": [
+        "The Castlevania Adventure",
+        "The Legend of Dracula"
+    ],
+    "cover": "castlevania-the-adventure",
+    "release": "1989-10-27",
+    "type": "game",
+    "franchise": {
+        "series": "castlevania-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic Horror",
+            "Vampires"
+        ],
+        "tags": [
+            "Retro",
+            "Game Boy",
+            "Castlevania"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "castlevania-anniversary-collection",
+            "via": null,
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania-ii-belmonts-revenge",
+            "type": "sequel"
+        },
+        {
+            "source": "castlevania-the-adventure-rebirth",
+            "type": "reimagining"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "First portable Castlevania and the beginning of Christopher Belmont's Game Boy branch.",
+        "rating": 2,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Historical curiosity; weak gameplay vs later entries",
+        "notes": "In Castlevania Anniversary Collection"
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Castlevania entry where Christopher Belmont climbs Dracula's castle in the series' first handheld game.",
+    "people": []
+}

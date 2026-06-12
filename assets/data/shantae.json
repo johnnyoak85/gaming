@@ -1,1 +1,82 @@
-{"id":"shantae","name":"Shantae","cover":"shantae","release":"2002-06-02","type":"game","franchise":{"universe":"Shantae","series":"Shantae","subseries":null},"system":"game-boy-color","classification":{"genres":["Action","Adventure"],"subgenres":["Metroidvania"],"themes":["Fantasy"],"tags":["Handheld","Exploration"]},"player_age":10,"access":[{"platform":"nintendo-3ds","via":null,"format":"digital","status":"owned","notes":null},{"platform":"nintendo-switch","via":null,"format":"digital","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"shantae-riskys-revenge","type":"sequel"},{"source":"shantae-riskys-revenge-directors-cut","type":"sequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["WayForward"],"progress":"planned","backlog":{"priority":4,"reason":"Start of the Shantae series.","rating":4,"difficulty":3,"estimated_hours":8},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "shantae",
+    "name": "Shantae",
+    "aliases": [],
+    "cover": "shantae",
+    "release": "2002-06-02",
+    "type": "game",
+    "franchise": {
+        "series": "shantae-series",
+        "subseries": null
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Metroidvania"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Game Boy Color",
+            "Exploration"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-3ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "shantae-riskys-revenge",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "wayforward-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Start of the Shantae series.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color action-adventure where Shantae explores Sequin Land using dances, transformations, and hair-whip attacks.",
+    "people": [
+        "matt-bozon"
+    ]
+}

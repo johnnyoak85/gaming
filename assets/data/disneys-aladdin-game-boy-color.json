@@ -1,0 +1,77 @@
+{
+    "id": "disneys-aladdin-game-boy-color",
+    "name": "Disney's Aladdin",
+    "aliases": [
+        "Aladdin"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaf2t.webp",
+    "release": "2000-11-17",
+    "type": "game",
+    "franchise": {
+        "series": null,
+        "subseries": null
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Disney",
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Game Boy Color",
+            "Retro"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "disney-classic-games-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "disneys-aladdin-game-boy",
+            "type": "base"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "crawfish-interactive-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Colorized Game Boy Color version of the portable Disney Aladdin platformer.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color platformer adapting Disney's Aladdin with color presentation and stages based on the film.",
+    "people": []
+}

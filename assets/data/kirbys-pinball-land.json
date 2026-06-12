@@ -1,1 +1,69 @@
-{"id":"kirbys-pinball-land","name":"Kirby's Pinball Land","cover":"kirbys-pinball-land","release":"1993-11-27","type":"game","franchise":{"universe":"Kirby","series":"Kirby","subseries":null},"system":"game-boy","classification":{"genres":["Pinball"],"subgenres":["Arcade Pinball"],"themes":["Fantasy"],"tags":["Retro","Portable","Arcade Style"]},"player_age":6,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"wishlist","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["hal-laboratory-company"],"progress":"planned","backlog":{"priority":1,"reason":"Early Kirby spin-off with simple arcade-style gameplay and short sessions.","rating":3,"difficulty":2,"estimated_hours":3},"acquisition":{"priority":1,"reason":"Minor but charming Kirby spin-off representing Nintendo's early portable experimental era.","notes":"Cartridge-only acceptable."},"event":null,"notes":null}
+{
+    "id": "kirbys-pinball-land",
+    "name": "Kirby's Pinball Land",
+    "aliases": [
+        "Kirby's Pinball"
+    ],
+    "cover": "kirbys-pinball-land",
+    "release": "1993-11-27",
+    "type": "game",
+    "franchise": {
+        "series": "kirby-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Pinball"
+        ],
+        "subgenres": [
+            "Arcade Pinball"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Arcade Style"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "hal-laboratory-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Early Kirby spin-off with simple arcade-style gameplay and short sessions.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Minor but charming Kirby spin-off representing Nintendo's early portable experimental era.",
+        "notes": "Cartridge-only acceptable."
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Kirby pinball game where Kirby bounces through boss-themed tables and bonus rooms.",
+    "people": []
+}

@@ -1,1 +1,88 @@
-{"id":"final-fantasy-adventure","name":"Final Fantasy Adventure","cover":"final-fantasy-adventure","release":"1991-06-28","type":"game","franchise":{"universe":"Mana","series":"Mana","subseries":null},"system":"game-boy","classification":{"genres":["RPG","Action"],"subgenres":["Action RPG"],"themes":["Fantasy","Adventure"],"tags":["Game Boy","Retro","Square","Mana"]},"player_age":8,"access":[{"platform":"nintendo-switch","via":"collection-of-mana","format":"contained","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"sword-of-mana","type":"reimagining"},{"source":"secret-of-mana","type":"sequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Square"],"progress":"planned","backlog":{"priority":4,"reason":"Foundational portable action RPG and origin point of the Mana franchise.","rating":4,"difficulty":3,"estimated_hours":12},"acquisition":{"priority":5,"reason":"Historically essential first entry in the Mana series.","notes":"Contained in Collection of Mana."},"event":null,"notes":null}
+{
+    "id": "final-fantasy-adventure",
+    "name": "Final Fantasy Adventure",
+    "aliases": [
+        "Mystic Quest",
+        "Legend of Mana: Final Fantasy Gaiden"
+    ],
+    "cover": "final-fantasy-adventure",
+    "release": "1991-06-28",
+    "type": "game",
+    "franchise": {
+        "series": "mana-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Action RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Game Boy",
+            "Retro",
+            "Mana"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "collection-of-mana",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "secret-of-mana",
+            "type": "sequel"
+        },
+        {
+            "source": "sword-of-mana",
+            "format": "reimagining"
+        },
+        {
+            "source": "adventures-of-mana",
+            "format": "enhanced_remake"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "square-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Foundational portable action RPG and origin point of the Mana franchise.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Historically essential first entry in the Mana series.",
+        "notes": "Contained in Collection of Mana."
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy action RPG that began the Mana series under the Final Fantasy name.",
+    "people": [
+        "koichi-ishii"
+    ]
+}

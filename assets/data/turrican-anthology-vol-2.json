@@ -1,1 +1,81 @@
-{"id":"turrican-anthology-vol-2","name":"Turrican Anthology Vol. II","aliases":[],"cover":"turrican-anthology-vol-2","release":"2022-07-29","type":"game","category":"collection","franchise":{"series":"turrican-series","subseries":null},"system":"nintendo-switch-system","classification":{"genres":["Compilation","Action","Shooter","Platform"],"subgenres":["Retro Collection","Run and Gun"],"themes":["Sci-Fi"],"tags":["Digital","Collection","Turrican","Amiga","Mega Drive","SNES"]},"player_age":10,"access":[{"platform":"nintendo-switch","via":null,"format":"digital","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":[],"people":[],"progress":"planned","backlog":{"priority":3,"reason":"Second Turrican preservation package focused on later Amiga, Mega Drive, and SNES entries.","rating":4,"difficulty":4,"estimated_hours":12},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"contains":["turrican-3-amiga","mega-turrican","mega-turrican-directors-cut","super-turrican-2","super-turrican-score-attack"],"notes":null}
+{
+    "id": "turrican-anthology-vol-2",
+    "name": "Turrican Anthology Vol. II",
+    "aliases": [],
+    "cover": "turrican-anthology-vol-2",
+    "release": "2022-07-29",
+    "type": "game",
+    "category": "collection",
+    "franchise": {
+        "series": "turrican-series",
+        "subseries": null
+    },
+    "system": "nintendo-switch-system",
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Action",
+            "Shooter",
+            "Platform"
+        ],
+        "subgenres": [
+            "Retro Collection",
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Digital",
+            "Collection",
+            "Turrican",
+            "Amiga",
+            "Mega Drive",
+            "SNES"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [],
+    "people": [],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Second Turrican preservation package focused on later Amiga, Mega Drive, and SNES entries.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 12
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "contains": [
+        "turrican-3",
+        "mega-turrican",
+        "mega-turrican-directors-cut",
+        "super-turrican-2"
+    ],
+    "notes": null
+}

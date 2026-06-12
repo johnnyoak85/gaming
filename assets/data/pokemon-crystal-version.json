@@ -1,1 +1,88 @@
-{"id":"pokemon-crystal-version","name":"Pokémon Crystal Version","cover":"pokemon-crystal-version","release":"2000-12-14","type":"game","franchise":{"universe":"Pokémon","series":"Pokémon","subseries":null},"system":"game-boy-color","classification":{"genres":["RPG"],"subgenres":["JRPG","Monster Collecting"],"themes":["Fantasy"],"tags":["Turn-Based","Exploration"]},"player_age":6,"access":[{"platform":"game-boy-color","via":null,"format":"physical","status":"wishlist","notes":null}],"versions":[],"relationships":[{"source":"pokemon-yellow","type":"prequel"},{"source":"pokemon-emerald-version","type":"sequel"},{"source":"pokemon-soulsilver-version","type":"reimagining"}],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","turn_based"]},"companies":["Game Freak"],"progress":"planned","backlog":{"priority":5,"reason":"Definitive Gen 2 Pokémon version with added features.","rating":5,"difficulty":2,"estimated_hours":30},"acquisition":{"priority":5,"reason":"Definitive Gen 2, massive historical weight","notes":null},"event":null,"notes":null}
+{
+    "id": "pokemon-crystal-version",
+    "name": "Pokémon Crystal Version",
+    "aliases": [
+        "Pocket Monsters: Crystal Version"
+    ],
+    "cover": "pokemon-crystal-version",
+    "release": "2000-12-14",
+    "type": "game",
+    "franchise": {
+        "series": "pokemon-series",
+        "subseries": null
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "RPG"
+        ],
+        "subgenres": [
+            "JRPG",
+            "Monster Collecting"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Turn-Based",
+            "Exploration"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy-color",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "pokemon-yellow",
+            "type": "prequel"
+        },
+        {
+            "source": "pokemon-emerald-version",
+            "type": "sequel"
+        },
+        {
+            "source": "pokemon-soulsilver-version",
+            "format": "enhanced_remake"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "game-freak-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Definitive Gen 2 Pokémon version with added features.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 30
+    },
+    "acquisition": {
+        "priority": 5,
+        "reason": "Definitive Gen 2, massive historical weight",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color Pokémon RPG expanding Gold and Silver with Suicune focus, animated sprites, and a female player character.",
+    "people": [
+        "satoshi-tajiri",
+        "ken-sugimori",
+        "junichi-masuda"
+    ]
+}

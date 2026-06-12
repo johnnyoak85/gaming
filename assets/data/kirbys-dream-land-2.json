@@ -1,1 +1,86 @@
-{"id":"kirbys-dream-land-2","name":"Kirby's Dream Land 2","cover":"kirbys-dream-land-2","release":"1995-03-21","type":"game","franchise":{"series":"kirby-series","subseries":"kirbys-dream-land-series"},"system":"game-boy","classification":{"genres":["Platform"],"subgenres":["2D Platformer"],"themes":["Fantasy"],"tags":["Retro","Collectathon"]},"player_age":6,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"owned","notes":null},{"platform":"nintendo-3ds","via":null,"format":"digital","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"kirbys-dream-land","type":"prequel"},{"source":"kirbys-dream-land-3","type":"sequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["hal-laboratory-company"],"progress":"planned","backlog":{"priority":4,"reason":"Start of the Dark Matter storyline branch.","rating":4,"difficulty":2,"estimated_hours":6},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "kirbys-dream-land-2",
+    "name": "Kirby's Dream Land 2",
+    "aliases": [
+        "Kirby of the Stars 2"
+    ],
+    "cover": "kirbys-dream-land-2",
+    "release": "1995-03-21",
+    "type": "game",
+    "franchise": {
+        "series": "kirby-series",
+        "subseries": "kirby-dream-land-series"
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "2D Platformer"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Retro",
+            "Game Boy",
+            "Animal Friends"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "new-nintendo-3ds-xl",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "kirbys-dream-land",
+            "type": "prequel"
+        },
+        {
+            "source": "kirbys-dream-land-3",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "hal-laboratory-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Important Kirby sequel introducing animal friends and the Dark Matter storyline.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Kirby platformer where Kirby teams with animal friends to stop Dark Matter across the Rainbow Islands.",
+    "people": []
+}

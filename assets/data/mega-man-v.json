@@ -1,1 +1,70 @@
-{"id":"mega-man-v","name":"Mega Man V","cover":"mega-man-v","release":"1994-09-22","type":"game","franchise":{"universe":"Mega Man","series":"Mega Man World","subseries":null},"system":"game-boy","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":["Sci-Fi"],"tags":["Handheld","Boss Battles"]},"player_age":8,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"wishlist","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Minakuchi Engineering"],"progress":"planned","backlog":{"priority":4,"reason":"Unique Mega Man entry with original bosses and mechanics.","rating":4,"difficulty":4,"estimated_hours":5},"acquisition":{"priority":3,"reason":"Unique (not NES port); important within Mega Man handheld lineage","notes":null},"event":null,"notes":null}
+{
+    "id": "mega-man-v",
+    "name": "Mega Man V",
+    "aliases": [
+        "Mega Man World 5"
+    ],
+    "cover": "mega-man-v",
+    "release": "1994-07-22",
+    "type": "game",
+    "franchise": {
+        "series": "mega-man-series",
+        "subseries": "mega-man-world-series"
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Handheld",
+            "Boss Battles"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "minakuchi-engineering-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique Mega Man entry with original bosses and mechanics.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Unique, not an NES port; important within Mega Man handheld lineage.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Mega Man entry where Mega Man fights the original Stardroids instead of reused Robot Masters.",
+    "people": []
+}

@@ -1,1 +1,78 @@
-{"id":"the-legend-of-zelda-links-awakening-dx","name":"The Legend of Zelda: Link's Awakening DX","cover":"the-legend-of-zelda-links-awakening-dx","release":"1998-12-01","type":"game","franchise":{"universe":"The Legend of Zelda","series":"The Legend of Zelda","subseries":null},"system":"game-boy-color","classification":{"genres":["Action","Adventure"],"subgenres":["Action Adventure"],"themes":["Fantasy"],"tags":["Enhanced","Color"]},"player_age":10,"access":[{"platform":"game-boy-color","via":null,"format":"physical","status":"owned","notes":null}],"versions":[{"source":"the-legend-of-zelda-links-awakening","format":"base"}],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Nintendo"],"progress":"planned","backlog":{"priority":4,"reason":"Definitive original version before remake.","rating":4,"difficulty":3,"estimated_hours":10},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "the-legend-of-zelda-links-awakening-dx",
+    "name": "The Legend of Zelda: Link's Awakening DX",
+    "aliases": [
+        "The Legend of Zelda: The Island of Dreams DX"
+    ],
+    "cover": "the-legend-of-zelda-links-awakening-dx",
+    "release": "1998-12-12",
+    "type": "game",
+    "franchise": {
+        "series": "the-legend-of-zelda-series",
+        "subseries": null
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Game Boy Color",
+            "Enhanced Port"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy-color",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-links-awakening",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Definitive original version before remake.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color enhanced version of Link's Awakening with color support and an added Color Dungeon.",
+    "people": [
+        "takashi-tezuka",
+        "koji-kondo"
+    ]
+}

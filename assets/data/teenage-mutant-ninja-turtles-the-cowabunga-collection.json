@@ -1,1 +1,92 @@
-{"id":"teenage-mutant-ninja-turtles-the-cowabunga-collection","name":"Teenage Mutant Ninja Turtles: The Cowabunga Collection","aliases":[],"cover":"teenage-mutant-ninja-turtles-the-cowabunga-collection","release":"2022-08-30","type":"game","category":"collection","franchise":{"series":"teenage-mutant-ninja-turtles-series","subseries":null},"system":"nintendo-switch-system","classification":{"genres":["Compilation","Action","Fighting","Platform"],"subgenres":["Retro Collection"],"themes":["Superhero","Martial Arts","Comedy"],"tags":["Digital","Collection","Konami","Retro","Museum"]},"player_age":8,"access":[{"platform":"nintendo-switch","via":null,"format":"digital","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":4},"modes":["solo","co_op","versus"]},"companies":[],"people":[],"progress":"planned","backlog":{"priority":4,"reason":"Strong retro TMNT preservation package collecting Konami's classic arcade, console, handheld, and fighting game entries.","rating":4,"difficulty":3,"estimated_hours":20},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"contains":["teenage-mutant-ninja-turtles-arcade","teenage-mutant-ninja-turtles-turtles-in-time-arcade","teenage-mutant-ninja-turtles-nes","teenage-mutant-ninja-turtles-ii-the-arcade-game-nes","teenage-mutant-ninja-turtles-iii-the-manhattan-project","teenage-mutant-ninja-turtles-tournament-fighters-nes","teenage-mutant-ninja-turtles-iv-turtles-in-time","teenage-mutant-ninja-turtles-tournament-fighters-snes","teenage-mutant-ninja-turtles-the-hyperstone-heist","teenage-mutant-ninja-turtles-tournament-fighters-genesis","teenage-mutant-ninja-turtles-fall-of-the-foot-clan","teenage-mutant-ninja-turtles-ii-back-from-the-sewers","teenage-mutant-ninja-turtles-iii-radical-rescue"],"notes":null}
+{
+    "id": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+    "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "aliases": [],
+    "cover": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+    "release": "2022-08-30",
+    "type": "game",
+    "category": "collection",
+    "franchise": {
+        "series": "teenage-mutant-ninja-turtles-series",
+        "subseries": null
+    },
+    "system": "nintendo-switch-system",
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Action",
+            "Fighting",
+            "Platform"
+        ],
+        "subgenres": [
+            "Retro Collection"
+        ],
+        "themes": [
+            "Superhero",
+            "Martial Arts",
+            "Comedy"
+        ],
+        "tags": [
+            "Digital",
+            "Collection",
+            "Konami",
+            "Retro",
+            "Museum"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": [],
+    "people": [],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Strong retro TMNT preservation package collecting Konami's classic arcade, console, handheld, and fighting game entries.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "contains": [
+        "teenage-mutant-ninja-turtles-arcade",
+        "teenage-mutant-ninja-turtles-turtles-in-time-arcade",
+        "teenage-mutant-ninja-turtles-nes",
+        "teenage-mutant-ninja-turtles-ii-the-arcade-game-nes",
+        "teenage-mutant-ninja-turtles-iii-the-manhattan-project",
+        "teenage-mutant-ninja-turtles-tournament-fighters-nes",
+        "teenage-mutant-ninja-turtles-iv-turtles-in-time",
+        "teenage-mutant-ninja-turtles-tournament-fighters-snes",
+        "teenage-mutant-ninja-turtles-the-hyperstone-heist",
+        "teenage-mutant-ninja-turtles-tournament-fighters-genesis",
+        "teenage-mutant-ninja-turtles-fall-of-the-foot-clan",
+        "teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+        "teenage-mutant-ninja-turtles-iii-radical-rescue"
+    ],
+    "notes": null
+}

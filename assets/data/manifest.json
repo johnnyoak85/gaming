@@ -4950,5 +4950,41 @@
     {
         "id": "yuji-horii",
         "type": "person"
+    },
+    {
+        "id": "disneys-aladdin-game-boy-color",
+        "type": "game"
+    },
+    {
+        "id": "disneys-aladdin-game-boy",
+        "type": "game"
+    },
+    {
+        "id": "disneys-the-jungle-book-game-boy",
+        "type": "game"
+    },
+    {
+        "id": "super-double-dragon",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-fall-of-the-foot-clan",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-iii-radical-rescue",
+        "type": "game"
+    },
+    {
+        "id": "the-lion-king-game-boy-color",
+        "type": "game"
+    },
+    {
+        "id": "the-lion-king-game-boy",
+        "type": "game"
     }
 ]

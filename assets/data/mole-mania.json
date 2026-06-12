@@ -1,1 +1,77 @@
-{"id":"mole-mania","name":"Mole Mania","cover":"mole-mania","release":"1996-02-21","type":"game","franchise":{"universe":null,"series":"Mole Mania","subseries":null},"system":"game-boy","classification":{"genres":["Puzzle"],"subgenres":["Action Puzzle"],"themes":[],"tags":["Retro","Top Down","Brain Teaser"]},"player_age":6,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"wishlist","notes":null},{"platform":"nintendo-3ds","via":"new-nintendo-3ds-xl","format":"digital","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Nintendo EAD"],"progress":"planned","backlog":{"priority":3,"reason":"Underrated puzzle game from Nintendo with unique mechanics.","rating":4,"difficulty":3,"estimated_hours":8},"acquisition":{"priority":2,"reason":"Nintendo oddity; historically interesting puzzle design (Miyamoto)","notes":"Own digital on 3DS"},"event":null,"notes":null}
+{
+    "id": "mole-mania",
+    "name": "Mole Mania",
+    "aliases": [
+        "Mole-nya!"
+    ],
+    "cover": "mole-mania",
+    "release": "1996-07-21",
+    "type": "game",
+    "franchise": {
+        "series": null,
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Action Puzzle"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Top Down"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-3ds",
+            "via": "new-nintendo-3ds-xl",
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "nintendo-company",
+        "pax-softnica-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Underrated puzzle game from Nintendo with unique mechanics.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 2,
+        "reason": "Nintendo oddity; historically interesting puzzle design.",
+        "notes": "Own digital on 3DS"
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy puzzle game where Muddy Mole digs underground paths to rescue his family.",
+    "people": [
+        "shigeru-miyamoto"
+    ]
+}

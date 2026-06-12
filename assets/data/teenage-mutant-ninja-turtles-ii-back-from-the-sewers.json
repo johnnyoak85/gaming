@@ -1,0 +1,82 @@
+{
+    "id": "teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+    "name": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
+    "aliases": [
+        "Teenage Mutant Hero Turtles II: Back from the Sewers",
+        "Teenage Mutant Ninja Turtles 2"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5gu8.webp",
+    "release": "1991-11-15",
+    "type": "game",
+    "franchise": {
+        "series": "teenage-mutant-ninja-turtles-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Superhero",
+            "Martial Arts",
+            "Comedy"
+        ],
+        "tags": [
+            "Game Boy",
+            "Retro"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "teenage-mutant-ninja-turtles-fall-of-the-foot-clan",
+            "type": "prequel"
+        },
+        {
+            "source": "teenage-mutant-ninja-turtles-iii-radical-rescue",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Second Game Boy TMNT action game and part of Konami's handheld trilogy.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy TMNT sequel where the turtles fight through another Foot Clan rescue mission.",
+    "people": []
+}

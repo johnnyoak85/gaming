@@ -1,1 +1,96 @@
-{"id":"the-legend-of-zelda-links-awakening","name":"The Legend of Zelda: Link's Awakening","cover":"the-legend-of-zelda-links-awakening","release":"1993-06-06","type":"game","franchise":{"universe":"The Legend of Zelda","series":"The Legend of Zelda","subseries":null},"system":"game-boy-system","classification":{"genres":["Action","Adventure"],"subgenres":["Action Adventure"],"themes":["Fantasy"],"tags":["Handheld","Classic"]},"player_age":10,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"owned","notes":null},{"platform":"game-watch-the-legend-of-zelda","via":null,"format":"built_in","status":"owned","notes":null}],"versions":[{"source":"the-legend-of-zelda-links-awakening-dx","format":"enhanced_port"},{"source":"the-legend-of-zelda-links-awakening-switch","format":"enhanced_remake"}],"relationships":[{"source":"the-legend-of-zelda-a-link-to-the-past","type":"prequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Nintendo"],"progress":"planned","backlog":{"priority":5,"reason":"One of the most unique Zelda entries narratively.","rating":5,"difficulty":3,"estimated_hours":10},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "the-legend-of-zelda-links-awakening",
+    "name": "The Legend of Zelda: Link's Awakening",
+    "aliases": [
+        "The Legend of Zelda: The Island of Dreams"
+    ],
+    "cover": "the-legend-of-zelda-links-awakening",
+    "release": "1993-06-06",
+    "type": "game",
+    "franchise": {
+        "series": "the-legend-of-zelda-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "subgenres": [
+            "Action Adventure"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Handheld",
+            "Classic"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "game-watch-the-legend-of-zelda",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "the-legend-of-zelda-links-awakening-dx",
+            "format": "enhanced_port"
+        },
+        {
+            "source": "the-legend-of-zelda-links-awakening-switch",
+            "format": "enhanced_remake"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "the-legend-of-zelda-a-link-to-the-past",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "One of the most unique Zelda entries narratively.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Zelda adventure where Link explores Koholint Island after being shipwrecked far from Hyrule.",
+    "people": [
+        "takashi-tezuka",
+        "koji-kondo"
+    ]
+}

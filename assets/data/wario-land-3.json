@@ -1,1 +1,80 @@
-{"id":"wario-land-3","name":"Wario Land 3","cover":"wario-land-3","release":"2000-03-21","type":"game","franchise":{"universe":"Mario","series":"Wario Land","subseries":null},"system":"game-boy-color","classification":{"genres":["Platform"],"subgenres":["Metroidvania"],"themes":["Fantasy"],"tags":["Game Boy Color","Retro","Wario","Backtracking"]},"player_age":7,"access":[{"platform":"game-boy-color","via":null,"format":"physical","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"wario-land-ii","type":"prequel"},{"source":"wario-land-4","type":"sequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Nintendo R&D1"],"progress":"planned","backlog":{"priority":null,"reason":"More exploratory design.","rating":5,"difficulty":3,"estimated_hours":10},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "wario-land-3",
+    "name": "Wario Land 3",
+    "aliases": [
+        "Wario Land 3: The Mysterious Music Box"
+    ],
+    "cover": "wario-land-3",
+    "release": "2000-03-21",
+    "type": "game",
+    "franchise": {
+        "series": "super-mario-series",
+        "subseries": "wario-land-series"
+    },
+    "system": "game-boy-color-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Metroidvania"
+        ],
+        "themes": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "tags": [
+            "Game Boy Color",
+            "Wario",
+            "Backtracking"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "game-boy-color",
+            "via": null,
+            "format": "physical",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "wario-land-ii-game-boy-color",
+            "type": "prequel"
+        },
+        {
+            "source": "wario-land-4",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "nintendo-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": null,
+        "reason": "More exploratory design.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 10
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Color Wario platformer where Wario explores a music box world to recover treasures and unlock new abilities.",
+    "people": []
+}

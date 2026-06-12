@@ -1,1 +1,79 @@
-{"id":"castlevania-legends","name":"Castlevania Legends","cover":"castlevania-legends","release":"1997-11-27","type":"game","franchise":{"universe":"Castlevania","series":"Castlevania","subseries":"Dracula Legend"},"system":"game-boy","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":["Gothic","Horror"],"tags":["Handheld","Retro"]},"player_age":12,"access":[{"platform":"game-boy","via":null,"format":"physical","status":"wishlist","notes":null},{"platform":"game-boy","via":null,"format":"reproduction","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Konami"],"progress":"planned","backlog":{"priority":2,"reason":"Historically interesting handheld Castlevania despite weaker reputation.","rating":2,"difficulty":3,"estimated_hours":4},"acquisition":{"priority":1,"reason":"Non-canon + weaker design; more archival than essential","notes":"Own reproduction cart"},"event":null,"notes":null}
+{
+    "id": "castlevania-legends",
+    "name": "Castlevania Legends",
+    "aliases": [
+        "Demon Castle Dracula: Dark Night Prelude"
+    ],
+    "cover": "castlevania-legends",
+    "release": "1997-11-27",
+    "type": "game",
+    "franchise": {
+        "series": "castlevania-series",
+        "subseries": null
+    },
+    "system": "game-boy-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic Horror",
+            "Vampires"
+        ],
+        "tags": [
+            "Retro",
+            "Game Boy",
+            "Castlevania"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "physical",
+            "status": "wishlist",
+            "notes": null
+        },
+        {
+            "platform": "game-boy",
+            "via": null,
+            "format": "reproduction",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Curious Game Boy Castlevania entry starring Sonia Belmont, despite its later removal from the main canon.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": 1,
+        "reason": "Non-canon + weaker design; more archival than essential",
+        "notes": "Own reproduction cart"
+    },
+    "event": null,
+    "notes": null,
+    "description": "Game Boy Castlevania entry where Sonia Belmont battles Dracula in an early Belmont family story.",
+    "people": []
+}
