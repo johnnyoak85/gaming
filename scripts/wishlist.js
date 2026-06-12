@@ -3,7 +3,8 @@ import { loadCatalog } from "./catalog.js";
 function getImageSubfolder(type) {
   switch (type) {
     case "game":
-    case "game_collection": return "game";
+    case "collection":
+    case "bundle": return "game";
     case "hardware": return "hardware";
     case "amiibo": return "amiibo";
     default: return "game";
@@ -19,10 +20,14 @@ const WISHLIST_LEVEL = {
 };
 
 const DETAIL_PAGE = {
-  game: "detail.html",
-  game_collection: "detail.html",
-  hardware: "hardware-detail.html",
-  amiibo: "amiibo-detail.html",
+  game: "pages/game-detail.html",
+  collection: "pages/game-detail.html",
+  bundle: "pages/game-detail.html",
+  hardware: "pages/hardware-detail.html",
+  amiibo: "pages/amiibo-detail.html",
+  event: "pages/event-detail.html",
+  person: "pages/person-detail.html",
+  release_line: "pages/release-line-detail.html",
 };
 
 function el(tag, attrs = {}, children = []) {
@@ -39,7 +44,7 @@ function el(tag, attrs = {}, children = []) {
 }
 
 function coverUrl(item) {
-  const cover = item.cover;
+  const cover = item.cover ?? item.logo ?? item.portrait;
   if (!cover) return null;
   if (cover.startsWith("http")) return cover;
   const folder = getImageSubfolder(item.type);
@@ -47,8 +52,15 @@ function coverUrl(item) {
 }
 
 function detailUrl(item) {
-  const page = DETAIL_PAGE[item.type] ?? "detail.html";
+  const page = DETAIL_PAGE[item.type] ?? "pages/game-detail.html";
   return `${page}?id=${encodeURIComponent(item.id)}`;
+}
+
+function ownershipRecords(entry) {
+  if (Array.isArray(entry.ownership)) return entry.ownership;
+  if (Array.isArray(entry.variants)) return entry.variants;
+  if (typeof entry.ownership === "string") return [{ status: entry.ownership }];
+  return [];
 }
 
 function renderGroup(priority, items, container) {
@@ -76,7 +88,7 @@ function buildHeader() {
 
   const backBtn = el("button", {}, "← Back");
   backBtn.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
   header.appendChild(backBtn);
 
@@ -102,8 +114,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           items.push({ id: entry.id, name: entry.name, cover: entry.cover, type: t, priority, reason: acq.reason });
         }
       } else if (t === "hardware") {
-        const ownership = entry.ownership || [];
-        if (ownership.some((o) => o.status === "wishlist")) {
+        if (ownershipRecords(entry).some((o) => o.status === "wishlist")) {
           items.push({ id: entry.id, name: entry.name, cover: entry.cover, type: t, priority, reason: acq.reason });
         }
       } else if (t === "amiibo") {

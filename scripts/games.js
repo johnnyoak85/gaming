@@ -67,7 +67,7 @@ function renderGrid() {
     } else {
       items.forEach((item) => {
         const cover = coverUrl(item);
-        const card = el("a", { href: `detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
+        const card = el("a", { href: `pages/game-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
           cover ? el("img", { src: cover, alt: item.name, class: "card-cover" }) : null,
           el("span", { class: "card-name" }, item.name),
         ]);
@@ -86,7 +86,7 @@ function buildHeader() {
 
   const backBtn = el("button", {}, "← Back");
   backBtn.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
   header.appendChild(backBtn);
 

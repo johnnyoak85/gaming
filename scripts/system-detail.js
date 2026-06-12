@@ -1,53 +1,9 @@
 import { loadCatalog } from "./catalog.js";
-
-function el(tag, attrs = {}, children = []) {
-  const node = document.createElement(tag);
-  for (const [k, v] of Object.entries(attrs)) {
-    if (v == null) continue;
-    node.setAttribute(k, v);
-  }
-  for (const child of [].concat(children)) {
-    if (child == null) continue;
-    node.append(typeof child === "string" ? document.createTextNode(child) : child);
-  }
-  return node;
-}
-
-function logoUrl(logo) {
-  if (!logo) return null;
-  if (logo.startsWith("http")) return logo;
-  return `./assets/images/system/${logo}.png`;
-}
-
-function coverUrl(entry) {
-  const cover = entry.cover;
-  if (!cover) return null;
-  if (cover.startsWith("http")) return cover;
-  return `./assets/images/game/${cover}.png`;
-}
-
-function sortByRelease(items) {
-  return [...items].sort((a, b) => {
-    const dA = a.release ?? "";
-    const dB = b.release ?? "";
-    if (dA && dB) {
-      const cmp = dA.localeCompare(dB);
-      if (cmp !== 0) return cmp;
-    }
-    return (a.name ?? "").localeCompare(b.name ?? "");
-  });
-}
-
-function getDetailHref(entry) {
-  if (entry.type === "hardware") return `hardware-detail.html?id=${encodeURIComponent(entry.id)}`;
-  if (entry.type === "amiibo") return `amiibo-detail.html?id=${encodeURIComponent(entry.id)}`;
-  return `detail.html?id=${encodeURIComponent(entry.id)}`;
-}
+import { buildHeader, buildHero, cardGrid, erasSection, essentialsSection, section } from "./worlds-common.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
   const main = document.getElementById("list-page");
-  const params = new URLSearchParams(window.location.search);
-  const systemId = params.get("id");
+  const systemId = new URLSearchParams(window.location.search).get("id");
 
   if (!systemId) {
     main.innerHTML = `<p class="empty-state">No system specified.</p>`;
@@ -56,55 +12,28 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
     const catalog = await loadCatalog();
-
-    const system = catalog.find((e) => e.id === systemId && e.type === "system");
+    const system = catalog.find((entry) => entry.id === systemId && entry.type === "system");
     if (!system) {
       main.innerHTML = `<p class="empty-state">System not found.</p>`;
       return;
     }
 
-    const entries = catalog.filter((e) => e.system === systemId);
+    const systemRefs = new Set([system.id, system.name, system.id.replace(/-system$/, "")].filter(Boolean));
+    const entries = catalog.filter((entry) => systemRefs.has(entry.system));
+    const relatedSeries = (system.series ?? [])
+      .map((id) => catalog.find((entry) => entry.id === id && entry.type === "series"))
+      .filter(Boolean);
 
     document.title = system.name;
     main.innerHTML = "";
-
-    const header = el("div", { class: "list-header" });
-
-    const backBtn = el("button", {}, "← Back");
-    backBtn.addEventListener("click", () => {
-      window.location.href = "./systems.html";
-    });
-    header.appendChild(backBtn);
-
-    main.appendChild(header);
-
-    const logo = logoUrl(system.logo);
-    if (logo) {
-      const heroImg = el("img", { src: logo, alt: system.name, class: "system-hero-logo" });
-      main.appendChild(heroImg);
-    }
-
-    const grid = el("div", { id: "card-grid", class: "card-grid" });
-    main.appendChild(grid);
-
-    setTimeout(() => {
-      const sorted = sortByRelease(entries);
-
-      if (!sorted.length) {
-        grid.appendChild(el("p", { class: "empty-state" }, "No entries found for this system."));
-      } else {
-        sorted.forEach((entry) => {
-          const cover = coverUrl(entry);
-          const card = el("a", { href: getDetailHref(entry), class: "card" }, [
-            cover ? el("img", { src: cover, alt: entry.name, class: "card-cover" }) : null,
-            el("span", { class: "card-name" }, entry.name),
-          ]);
-          grid.appendChild(card);
-        });
-      }
-
-      requestAnimationFrame(() => grid.classList.add("visible"));
-    }, 200);
+    main.append(...[
+      buildHeader("systems.html"),
+      buildHero(system, [system.era, system.parent ? `Parent: ${system.parent}` : null]),
+      essentialsSection(catalog, system.essentials),
+      relatedSeries.length ? section("Related Series", cardGrid(relatedSeries, { by: "name" })) : null,
+      entries.length ? section("Entries", cardGrid(entries)) : null,
+      erasSection(system.eras)
+    ].filter(Boolean));
   } catch (err) {
     main.innerHTML = `<p class="empty-state">Failed to load data: ${err.message}</p>`;
   }

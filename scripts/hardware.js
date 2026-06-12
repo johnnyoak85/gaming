@@ -18,9 +18,19 @@ function el(tag, attrs = {}, children = []) {
   return node;
 }
 
-function isOwned(item) {
-  const ownership = item.ownership ?? [];
-  return !ownership.some((o) => o.status === 'wishlist');
+function ownershipRecords(item) {
+  const records = Array.isArray(item.ownership)
+    ? item.ownership
+    : Array.isArray(item.variants)
+      ? item.variants
+      : typeof item.ownership === "string"
+        ? [{ status: item.ownership }]
+        : [];
+  return records;
+}
+
+function hasStatus(item, status) {
+  return ownershipRecords(item).some((record) => record.status === status);
 }
 
 function coverUrl(item) {
@@ -32,8 +42,8 @@ function coverUrl(item) {
 
 function getFilteredItems() {
   return state.items
-    .filter((item) => item.hardware?.category === "console" || item.hardware?.category === "computer")
-    .filter((item) => (state.showOwned ? isOwned(item) : !isOwned(item)));
+    .filter((item) => ["console", "computer"].includes(item.hardware?.category ?? item.category))
+    .filter((item) => hasStatus(item, state.showOwned ? "owned" : "wishlist"));
 }
 
 function sortItems(items) {
@@ -63,7 +73,7 @@ function renderGrid() {
     } else {
       items.forEach((item) => {
         const cover = coverUrl(item);
-        const card = el("a", { href: `hardware-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
+        const card = el("a", { href: `pages/hardware-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
           cover ? el("img", { src: cover, alt: item.name, class: "card-cover" }) : null,
           el("span", { class: "card-name" }, item.name),
         ]);
@@ -80,7 +90,7 @@ function buildHeader() {
 
   const backBtn = el("button", {}, "← Back");
   backBtn.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
   header.appendChild(backBtn);
 

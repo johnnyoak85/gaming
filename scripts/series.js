@@ -29,11 +29,18 @@ function buildHeader() {
 
   const backBtn = el("button", {}, "← Back");
   backBtn.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
   header.appendChild(backBtn);
 
   return header;
+}
+
+function buildHero() {
+  return el("section", { class: "world-hero" }, [
+    el("h1", {}, "Series"),
+    el("p", {}, "Franchises, subseries, and creative lineages that organize the collection."),
+  ]);
 }
 
 function renderCircleSection(circle, allSeries) {
@@ -41,7 +48,9 @@ function renderCircleSection(circle, allSeries) {
 
   const logo = logoUrl(circle);
   const heading = el("div", { class: "circle-heading" }, [
-    logo ? el("img", { src: logo, alt: circle.name, class: "circle-logo" }) : el("h2", {}, circle.name),
+    el("a", { href: `pages/series-detail.html?id=${encodeURIComponent(circle.id)}`, class: "circle-sub-link" }, [
+      logo ? el("img", { src: logo, alt: circle.name, class: "circle-logo" }) : el("h2", {}, circle.name),
+    ]),
   ]);
   section.appendChild(heading);
 
@@ -52,7 +61,7 @@ function renderCircleSection(circle, allSeries) {
       const sub = allSeries.find((s) => s.id === subId);
       const name = sub ? sub.name : subId;
       const subLogo = sub ? logoUrl(sub) : null;
-      const link = el("a", { href: `series-detail.html?id=${encodeURIComponent(subId)}`, class: "circle-sub-link" }, [
+      const link = el("a", { href: `pages/series-detail.html?id=${encodeURIComponent(subId)}`, class: "circle-sub-link" }, [
         subLogo ? el("img", { src: subLogo, alt: name, class: "circle-sub-logo" }) : el("span", {}, name),
       ]);
       subList.appendChild(link);
@@ -77,6 +86,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     const header = buildHeader();
     main.appendChild(header);
+    main.appendChild(buildHero());
 
     const container = el("div", { class: "circles-container" });
 

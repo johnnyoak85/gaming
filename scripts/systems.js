@@ -39,7 +39,7 @@ function renderGrid(items) {
     } else {
       sorted.forEach((item) => {
         const logo = logoUrl(item);
-        const card = el("a", { href: `system-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
+        const card = el("a", { href: `pages/system-detail.html?id=${encodeURIComponent(item.id)}`, class: "card" }, [
           logo ? el("img", { src: logo, alt: item.name, class: "card-cover" }) : el("span", { class: "card-name" }, item.name),
         ]);
         container.appendChild(card);
@@ -55,11 +55,18 @@ function buildHeader() {
 
   const backBtn = el("button", {}, "← Back");
   backBtn.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
   header.appendChild(backBtn);
 
   return header;
+}
+
+function buildHero() {
+  return el("section", { class: "world-hero" }, [
+    el("h1", {}, "Systems"),
+    el("p", {}, "Platform families, hardware ecosystems, and the shelves of games connected to them."),
+  ]);
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
@@ -75,6 +82,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const grid = el("div", { id: "card-grid", class: "card-grid" });
 
     main.appendChild(header);
+    main.appendChild(buildHero());
     main.appendChild(grid);
 
     renderGrid(systems);
