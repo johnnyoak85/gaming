@@ -12,8 +12,10 @@
     "form": "special",
     "era": null,
     "system": "gamecube-system",
+    "primary_for": [
+        "nintendo-gamecube"
+    ],
     "compatible_with": [
-        "nintendo-gamecube",
         "nintendo-wii"
     ],
     "franchise": {
@@ -28,7 +30,7 @@
     "event": null,
     "variants": [
         {
-            "name": "Indigo",
+            "name": "Game Boy Player Controller Indigo",
             "cover": "hori-game-boy-player-controller-indigo",
             "status": "owned",
             "event": null,

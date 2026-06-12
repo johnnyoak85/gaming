@@ -10,10 +10,11 @@
     "form": "standard",
     "era": null,
     "system": "amiga-1200-system",
-    "compatible_with": [
+    "primary_for": [
         "thea1200",
         "thec64"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "amiga-series",
         "subseries": null

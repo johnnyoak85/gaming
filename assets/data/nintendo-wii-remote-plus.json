@@ -10,8 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-wii-system",
+    "primary_for": [
+        "nintendo-wii"
+    ],
     "compatible_with": [
-        "nintendo-wii",
         "nintendo-wii-u"
     ],
     "franchise": {
@@ -26,14 +28,14 @@
     "event": null,
     "variants": [
         {
-            "name": "Black",
+            "name": "Wii Remote Plus Black",
             "cover": "wii-remote-plus-black",
             "status": "owned",
             "event": null,
             "notes": null
         },
         {
-            "name": "The Legend of Zelda: Skyward Sword Edition",
+            "name": "Wii Remote Plus The Legend of Zelda: Skyward Sword Edition",
             "cover": "wii-remote-zelda",
             "status": "owned",
             "event": "the-legend-of-zelda-25th-anniversary-event",

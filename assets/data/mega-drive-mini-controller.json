@@ -12,8 +12,10 @@
     "form": "standard",
     "era": null,
     "system": "sega-mega-drive-system",
+    "primary_for": [
+        "mega-drive-mini"
+    ],
     "compatible_with": [
-        "mega-drive-mini",
         "mega-drive-mini-2"
     ],
     "franchise": {

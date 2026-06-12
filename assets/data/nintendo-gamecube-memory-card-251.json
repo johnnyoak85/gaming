@@ -10,8 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "gamecube-system",
+    "primary_for": [
+        "nintendo-gamecube"
+    ],
     "compatible_with": [
-        "nintendo-gamecube",
         "nintendo-wii"
     ],
     "franchise": {

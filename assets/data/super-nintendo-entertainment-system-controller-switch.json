@@ -12,10 +12,11 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-switch-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-switch",
         "nintendo-switch-2"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "nintendo-switch-series",
         "subseries": "super-nintendo-entertainment-system-series"

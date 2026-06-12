@@ -12,10 +12,11 @@
     "form": "special",
     "era": null,
     "system": "nintendo-wii-u-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-wii-u",
         "nintendo-wii-u-gamepad"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "wii-series",
         "subseries": "wii-fit-series"

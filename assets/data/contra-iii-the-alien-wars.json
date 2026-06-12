@@ -1,1 +1,93 @@
-{"id":"contra-iii-the-alien-wars","name":"Contra III: The Alien Wars","aliases":["Contra Spirits"],"cover":"contra-iii-the-alien-wars","release":"1992-02-28","type":"game","franchise":{"series":"contra-series","subseries":null},"system":"super-nintendo-entertainment-system-system","classification":{"genres":["Action","Shooter"],"subgenres":["Run and Gun"],"themes":["Sci-Fi"],"tags":["Retro","Hard","Co-op"]},"player_age":12,"access":[{"platform":"nintendo-classic-mini-super-nintendo-entertainment-system","via":null,"format":"built_in","status":"owned","notes":null},{"platform":"nintendo-switch","via":"contra-anniversary-collection","format":"contained","status":"owned","notes":null}],"versions":[{"source":"super-probotector-alien-rebels","type":"regional_variant"}],"relationships":[{"source":"super-contra","type":"prequel"},{"source":"contra-4","type":"sequel"}],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","co_op"]},"companies":["konami-company"],"progress":"planned","backlog":{"priority":5,"reason":"Peak classic Contra gameplay.","rating":5,"difficulty":5,"estimated_hours":2},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "contra-iii-the-alien-wars",
+    "name": "Contra III: The Alien Wars",
+    "aliases": [
+        "Contra Spirits"
+    ],
+    "cover": "contra-iii-the-alien-wars",
+    "release": "1992-02-28",
+    "type": "game",
+    "franchise": {
+        "series": "contra-series",
+        "subseries": null
+    },
+    "system": "super-nintendo-entertainment-system-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "Hard",
+            "Co-op"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "contra-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-probotector-alien-rebels",
+            "type": "regional_variant"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "super-contra",
+            "type": "prequel"
+        },
+        {
+            "source": "contra-4",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Peak classic Contra gameplay.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

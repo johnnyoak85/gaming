@@ -10,9 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-wii-u-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-wii-u"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "wii-u-series",
         "subseries": null
@@ -25,7 +26,7 @@
     "event": null,
     "variants": [
         {
-            "name": "Black",
+            "name": "Wii U GamePad Black",
             "cover": "wii-u-gamepad",
             "status": "owned",
             "event": null,

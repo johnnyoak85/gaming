@@ -10,8 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "gamecube-system",
+    "primary_for": [
+        "nintendo-gamecube"
+    ],
     "compatible_with": [
-        "nintendo-gamecube",
         "nintendo-wii"
     ],
     "franchise": {
@@ -26,35 +28,35 @@
     "event": null,
     "variants": [
         {
-            "name": "Platinum",
+            "name": "GameCube Controller Platinum",
             "cover": "gamecube-controller-platinum",
             "status": "owned",
             "event": null,
             "notes": null
         },
         {
-            "name": "Indigo",
+            "name": "GameCube Controller Indigo",
             "cover": "gamecube-controller-indigo",
             "status": "owned",
             "event": null,
             "notes": null
         },
         {
-            "name": "Jet Black",
+            "name": "GameCube Controller Jet Black",
             "cover": "gamecube-controller-jet-black",
             "status": "owned",
             "event": null,
             "notes": null
         },
         {
-            "name": "Spice Orange",
+            "name": "GameCube Controller Spice Orange",
             "cover": "gamecube-controller-spice-orange",
             "status": "owned",
             "event": null,
             "notes": null
         },
         {
-            "name": "Emerald Blue",
+            "name": "GameCube Controller Emerald Blue",
             "cover": "gamecube-controller-emerald-blue",
             "status": "owned",
             "event": null,

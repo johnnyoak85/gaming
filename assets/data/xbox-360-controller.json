@@ -10,9 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "xbox-360-system",
-    "compatible_with": [
+    "primary_for": [
         "xbox-360"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "xbox-series",
         "subseries": "xbox-360-series"

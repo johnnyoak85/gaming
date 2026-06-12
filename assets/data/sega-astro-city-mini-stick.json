@@ -10,9 +10,10 @@
     "form": "special",
     "era": null,
     "system": "astro-city-system",
-    "compatible_with": [
+    "primary_for": [
         "sega-astro-city-mini"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "astro-city-series",
         "subseries": null

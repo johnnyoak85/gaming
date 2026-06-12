@@ -10,9 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "playstation-system",
-    "compatible_with": [
+    "primary_for": [
         "playstation-classic"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "playstation-series",
         "subseries": null

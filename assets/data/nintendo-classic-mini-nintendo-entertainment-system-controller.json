@@ -12,8 +12,10 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-entertainment-system-system",
+    "primary_for": [
+        "nintendo-classic-mini-nintendo-entertainment-system"
+    ],
     "compatible_with": [
-        "nintendo-classic-mini-nintendo-entertainment-system",
         "nintendo-classic-mini-super-nintendo-entertainment-system",
         "nintendo-wii-remote",
         "nintendo-wii-remote-plus"

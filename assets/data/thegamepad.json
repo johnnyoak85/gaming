@@ -10,11 +10,12 @@
     "form": "standard",
     "era": null,
     "system": "zx-spectrum-system",
-    "compatible_with": [
+    "primary_for": [
         "the-spectrum",
         "thea1200",
         "thec64"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "zx-spectrum-series",
         "subseries": null

@@ -13,10 +13,11 @@
     "form": "special",
     "era": null,
     "system": "nintendo-switch-2-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-switch",
         "nintendo-switch-2"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "nintendo-switch-2-series",
         "subseries": "virtual-boy-series"

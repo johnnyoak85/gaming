@@ -10,9 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-switch-2-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-switch-2"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "nintendo-switch-2-series",
         "subseries": null

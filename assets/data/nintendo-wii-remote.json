@@ -12,8 +12,10 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-wii-system",
+    "primary_for": [
+        "nintendo-wii"
+    ],
     "compatible_with": [
-        "nintendo-wii",
         "nintendo-wii-u"
     ],
     "franchise": {
@@ -28,7 +30,7 @@
     "event": null,
     "variants": [
         {
-            "name": "White",
+            "name": "Wii Remote White",
             "cover": "wii-remote",
             "status": "owned",
             "event": null,

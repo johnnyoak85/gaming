@@ -12,6 +12,7 @@
     "form": "standard",
     "era": null,
     "system": "sega-saturn-system",
+    "primary_for": [],
     "compatible_with": [
         "windows-pc",
         "mac",

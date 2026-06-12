@@ -10,11 +10,13 @@
     "form": "standard",
     "era": null,
     "system": "nintendo-wii-system",
-    "compatible_with": [
-        "nintendo-classic-mini-nintendo-entertainment-system",
-        "nintendo-classic-mini-super-nintendo-entertainment-system",
+    "primary_for": [
         "nintendo-wii-remote",
         "nintendo-wii-remote-plus"
+    ],
+    "compatible_with": [
+        "nintendo-classic-mini-nintendo-entertainment-system",
+        "nintendo-classic-mini-super-nintendo-entertainment-system"
     ],
     "franchise": {
         "series": "wii-series",
@@ -28,7 +30,7 @@
     "event": null,
     "variants": [
         {
-            "name": "Black",
+            "name": "Classic Controller Pro Black",
             "cover": "classic-controller-pro",
             "status": "owned",
             "event": null,

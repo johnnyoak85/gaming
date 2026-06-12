@@ -12,9 +12,11 @@
     "form": "standard",
     "era": null,
     "system": "xbox-series-system",
-    "compatible_with": [
+    "primary_for": [
         "xbox-series-x",
-        "xbox-series-s",
+        "xbox-series-s"
+    ],
+    "compatible_with": [
         "xbox-one",
         "windows-pc"
     ],

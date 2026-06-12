@@ -10,11 +10,12 @@
     "form": "standard",
     "era": null,
     "system": "commodore-64-system",
-    "compatible_with": [
+    "primary_for": [
         "thec64",
         "the-spectrum",
         "thea1200"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "commodore-64-series",
         "subseries": null

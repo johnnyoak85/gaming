@@ -10,9 +10,10 @@
     "form": "special",
     "era": null,
     "system": "intellivision-system",
-    "compatible_with": [
+    "primary_for": [
         "intellivision-sprint"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "intellivision-series",
         "subseries": null

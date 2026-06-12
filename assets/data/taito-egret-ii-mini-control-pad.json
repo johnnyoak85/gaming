@@ -12,9 +12,10 @@
     "form": "standard",
     "era": null,
     "system": "egret-ii-system",
-    "compatible_with": [
+    "primary_for": [
         "taito-egret-ii-mini"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "egret-ii-series",
         "subseries": null

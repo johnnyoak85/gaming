@@ -10,11 +10,12 @@
     "form": "special",
     "era": null,
     "system": "nintendo-wii-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-wii-remote",
         "nintendo-wii-remote-plus",
         "nintendo-wii-nunchuk"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "wii-series",
         "subseries": null

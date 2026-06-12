@@ -12,9 +12,10 @@
     "form": "standard",
     "era": null,
     "system": "pc-engine-system",
-    "compatible_with": [
+    "primary_for": [
         "nec-pc-engine-coregrafx-mini"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "pc-engine-series",
         "subseries": null

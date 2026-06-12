@@ -10,9 +10,10 @@
     "form": "standard",
     "era": null,
     "system": "sega-dreamcast-system",
-    "compatible_with": [
+    "primary_for": [
         "sega-dreamcast"
     ],
+    "compatible_with": [],
     "franchise": {
         "series": "dreamcast-series",
         "subseries": null

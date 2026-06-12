@@ -10,8 +10,13 @@
     "form": "add_on",
     "era": "32-bit",
     "system": "gamecube-system",
-    "compatible_with": [
+    "primary_for": [
         "nintendo-gamecube"
+    ],
+    "compatible_with": [
+        "game-boy-system",
+        "game-boy-color-system",
+        "game-boy-advance-system"
     ],
     "franchise": {
         "series": "game-boy-series",

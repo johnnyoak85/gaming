@@ -1,7 +1,7 @@
 {
   "id": "cat-mario-amiibo",
   "name": "Cat Mario",
-  "cover": "https://amiibo.life/assets/figures/amiibo/super-mario/cat-mario-1ee1d04b2d5e55c0bb31dea0bde8f508b7fc492740cc4c5ac2d8c109780cec5c.png",
+  "cover": "cat-mario-amiibo",
   "release": "2021-02-12",
   "type": "amiibo",
   "franchise": {
