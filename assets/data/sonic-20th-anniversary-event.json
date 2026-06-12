@@ -1,0 +1,17 @@
+{
+    "id": "sonic-20th-anniversary-event",
+    "name": "Sonic 20th Anniversary",
+    "description": "Sega's celebration of 20 years of Sonic the Hedgehog, centered on Sonic Generations and anniversary promotions.",
+    "type": "event",
+    "logo": "sonic-20th-anniversary-event",
+    "date": "2011-06-23",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "sonic-the-hedgehog-series"
+    ],
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

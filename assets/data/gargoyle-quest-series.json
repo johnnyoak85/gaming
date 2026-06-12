@@ -1,0 +1,22 @@
+{
+    "id": "gargoyle-quest-series",
+    "name": "Gargoyle's Quest",
+    "description": "Ghosts 'n Goblins subseries starring Firebrand, mixing platforming, action, and light RPG structure.",
+    "type": "series",
+    "logo": "gargoyle-quest-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "capcom-company"
+    ],
+    "people": [
+        "tokuro-fujiwara"
+    ],
+    "essentials": [
+        "gargoyles-quest",
+        "gargoyles-quest-ii",
+        "demons-crest"
+    ],
+    "eras": [],
+    "notes": null
+}

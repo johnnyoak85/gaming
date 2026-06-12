@@ -1,0 +1,42 @@
+{
+    "id": "mega-man-x-series",
+    "name": "Mega Man X",
+    "description": "Capcom's futuristic Mega Man subseries starring X and Zero, adding faster movement, wall-climbing, dashing, and a darker sci-fi tone.",
+    "type": "series",
+    "logo": "mega-man-x-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "capcom-company"
+    ],
+    "people": [
+        "keiji-inafune"
+    ],
+    "essentials": [
+        "mega-man-x",
+        "mega-man-x2",
+        "mega-man-x4",
+        "mega-man-x-legacy-collection"
+    ],
+    "eras": [
+        {
+            "title": "SNES Era",
+            "start_year": 1993,
+            "end_year": 1995,
+            "description": "The original trilogy establishes the X formula on Super Nintendo."
+        },
+        {
+            "title": "32-bit Era",
+            "start_year": 1997,
+            "end_year": 2000,
+            "description": "PlayStation and Saturn entries expand the series with anime presentation, Zero-focused play, and larger stories."
+        },
+        {
+            "title": "Late X Era",
+            "start_year": 2001,
+            "end_year": 2004,
+            "description": "Later entries continue the X timeline with mixed experimentation before the series becomes dormant."
+        }
+    ],
+    "notes": null
+}

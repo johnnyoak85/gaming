@@ -1,0 +1,23 @@
+{
+    "id": "capcom-commando-system",
+    "name": "Capcom Commando Hardware",
+    "description": "Mid-1980s Capcom arcade hardware family used for Commando, Gun.Smoke, Side Arms, Black Tiger, and related action games.",
+    "type": "system",
+    "logo": "capcom-commando-logo",
+    "era": "classic",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "commando",
+        "gunsmoke",
+        "side-arms",
+        "black-tiger"
+    ],
+    "series": [
+        "commando-series"
+    ],
+    "eras": [],
+    "notes": null
+}

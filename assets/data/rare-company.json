@@ -1,0 +1,50 @@
+{
+    "id": "rare-company",
+    "name": "Rare",
+    "description": "British game developer founded by Tim and Chris Stamper, known for Donkey Kong Country, GoldenEye 007, Banjo-Kazooie, Perfect Dark, and Sea of Thieves.",
+    "type": "company",
+    "logo": "rare-company",
+    "circle": "major",
+    "founded": "1985-01-01",
+    "defunct": {
+        "date": "2002-09-24",
+        "reason": "acquired",
+        "successor": "microsoft-company"
+    },
+    "contains": [],
+    "country": "GB",
+    "people": [
+        "tim-stamper",
+        "chris-stamper",
+        "gregg-mayles"
+    ],
+    "essentials": [
+        "donkey-kong-country",
+        "goldeneye-007",
+        "banjo-kazooie",
+        "perfect-dark",
+        "conkers-bad-fur-day",
+        "sea-of-thieves"
+    ],
+    "eras": [
+        {
+            "title": "Ultimate Era",
+            "start_year": 1983,
+            "end_year": 1988,
+            "description": "Tim and Chris Stamper build their reputation through Ultimate Play the Game and British microcomputer titles."
+        },
+        {
+            "title": "Nintendo Era",
+            "start_year": 1989,
+            "end_year": 2002,
+            "description": "Rare becomes one of Nintendo's most important partners, producing NES, SNES, and Nintendo 64 classics."
+        },
+        {
+            "title": "Microsoft Era",
+            "start_year": 2002,
+            "end_year": null,
+            "description": "Rare continues under Microsoft, eventually finding a major modern identity with Sea of Thieves."
+        }
+    ],
+    "notes": null
+}

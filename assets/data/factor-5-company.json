@@ -1,0 +1,41 @@
+{
+    "id": "factor-5-company",
+    "name": "Factor 5",
+    "description": "German-American developer known for Turrican, Super Turrican, Mega Turrican, and the Star Wars: Rogue Squadron games.",
+    "type": "company",
+    "logo": "factor-5-company",
+    "circle": "major",
+    "founded": "1987-01-01",
+    "defunct": {
+        "date": "2009-05-01",
+        "reason": "closed",
+        "successor": null
+    },
+    "contains": [],
+    "country": "DE",
+    "people": [],
+    "essentials": [
+        "turrican",
+        "turrican-ii-the-final-fight",
+        "super-turrican",
+        "mega-turrican",
+        "super-turrican-2",
+        "star-wars-rogue-squadron",
+        "star-wars-rogue-leader-rogue-squadron-ii"
+    ],
+    "eras": [
+        {
+            "title": "Turrican Era",
+            "start_year": 1987,
+            "end_year": 1995,
+            "description": "Factor 5 becomes known for technically polished Amiga and console action games, especially Turrican."
+        },
+        {
+            "title": "Star Wars Era",
+            "start_year": 1998,
+            "end_year": 2003,
+            "description": "The studio becomes closely associated with LucasArts through the Rogue Squadron games."
+        }
+    ],
+    "notes": null
+}

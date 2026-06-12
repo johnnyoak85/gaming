@@ -1,0 +1,22 @@
+{
+    "id": "hiroki-kikuta",
+    "name": "Hiroki Kikuta",
+    "description": "Japanese composer best known for the soundtracks to Secret of Mana, Trials of Mana, and other 1990s Square RPGs.",
+    "type": "person",
+    "portrait": "hiroki-kikuta",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "square-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "secret-of-mana",
+        "trials-of-mana",
+        "soukaigi",
+        "koudelka"
+    ],
+    "notes": null
+}

@@ -9,7 +9,7 @@
         "series": "Game & Watch",
         "subseries": "Ball"
     },
-    "system": "game-watch",
+    "system": "game-watch-system",
     "classification": {
         "genres": [
             "Action"

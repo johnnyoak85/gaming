@@ -1,19 +1,18 @@
 {
     "id": "illusion-of-gaia",
-    "name": "Illusion of Gaia",
+    "name": "Illusion of Time",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wxz.webp",
     "aliases": [
-        "Gaia Gensōki",
-        "Illusion of Time"
+        "Records of the Illusion of Gaia",
+        "Illusion of Gaia"
     ],
     "release": "1993-11-27",
     "type": "game",
     "franchise": {
-        "universe": "Soul Blazer Trilogy",
-        "series": "Illusion of Gaia",
+        "series": "soul-blazer-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG",
@@ -64,7 +63,7 @@
         ]
     },
     "companies": [
-        "Quintet"
+        "quintet-company"
     ],
     "progress": "planned",
     "backlog": {

@@ -3,7 +3,7 @@
     "name": "ZX Spectrum",
     "description": "Sinclair's 8-bit home computer platform, central to British computer gaming and known for inexpensive hardware, cassette software, and a huge bedroom-coder scene.",
     "type": "system",
-    "logo": "zx-spectrum-logo",
+    "logo": "zx-spectrum-system",
     "era": "8-bit",
     "companies": [
         "sinclair-research-company"

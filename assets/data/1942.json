@@ -4,6 +4,7 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtro.webp",
     "release": "1984-12-01",
     "type": "game",
+    "system": "capcom-z80-based-system",
     "franchise": {
         "universe": "194X",
         "series": "194X",

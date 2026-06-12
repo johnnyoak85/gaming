@@ -2,13 +2,13 @@
     "id": "super-probotector-alien-rebels",
     "name": "Super Probotector: Alien Rebels",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bet.webp",
-    "release": "1992-01-01",
+    "release": "1992-09-12",
     "type": "game",
     "franchise": {
-        "universe": "Contra",
-        "series": "Probotector",
+        "series": "contra-series",
         "subseries": null
     },
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -53,7 +53,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {

@@ -1,0 +1,24 @@
+{
+    "id": "capcom-68000-based-system",
+    "name": "Capcom 68000 Based Hardware",
+    "description": "Late-1980s Capcom arcade hardware family built around Motorola 68000 CPUs, used for Street Fighter, Bionic Commando, Tiger Road, and related releases.",
+    "type": "system",
+    "logo": "capcom-68000-based-logo",
+    "era": "16-bit",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "street-fighter",
+        "bionic-commando",
+        "tiger-road",
+        "last-duel"
+    ],
+    "series": [
+        "street-fighter-series",
+        "bionic-commando-series"
+    ],
+    "eras": [],
+    "notes": null
+}

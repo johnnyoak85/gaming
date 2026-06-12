@@ -9,8 +9,20 @@
     "aliases": [],
     "form": "dedicated",
     "era": "16-bit",
-    "system": "astro-city-system",
-    "compatible_with": [],
+    "system": null,
+    "compatible_with": [
+        "sega-system-1-system",
+        "sega-system-2-system",
+        "sega-space-harrier-system",
+        "sega-system-16a-system",
+        "sega-system-16b-system",
+        "sega-system-18-system",
+        "sega-system-24-system",
+        "sega-system-c-system",
+        "sega-system-c2-system",
+        "sega-system-32-system",
+        "sega-model-1-system"
+    ],
     "franchise": {
         "series": "astro-city-series",
         "subseries": null
@@ -20,7 +32,7 @@
     ],
     "people": [],
     "release_line": null,
-    "event": "Go Sega 60th Anniversary",
+    "event": "go-sega-60th-anniversary-event",
     "variants": [
         {
             "name": null,

@@ -1,0 +1,28 @@
+{
+    "id": "koichi-ishii",
+    "name": "Koichi Ishii",
+    "description": "Japanese designer and director best known as the creator of the Mana series and a key early Square RPG designer.",
+    "type": "person",
+    "portrait": "koichi-ishii",
+    "roles": [
+        "designer",
+        "director",
+        "producer"
+    ],
+    "companies": [
+        "square-company",
+        "square-enix-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy",
+        "final-fantasy-ii",
+        "final-fantasy-iii",
+        "final-fantasy-adventure",
+        "secret-of-mana",
+        "trials-of-mana",
+        "legend-of-mana"
+    ],
+    "notes": null
+}

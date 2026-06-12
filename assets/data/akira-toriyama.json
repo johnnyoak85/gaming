@@ -1,0 +1,25 @@
+{
+    "id": "akira-toriyama",
+    "name": "Akira Toriyama",
+    "description": "Japanese manga artist and character designer best known for Dragon Ball, Dragon Quest character design, and Chrono Trigger.",
+    "type": "person",
+    "portrait": "akira-toriyama",
+    "roles": [
+        "artist",
+        "designer",
+        "writer"
+    ],
+    "companies": [
+        "bird-studio-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "dragon-ball",
+        "dragon-quest",
+        "dragon-quest-iii-the-seeds-of-salvation",
+        "chrono-trigger",
+        "blue-dragon"
+    ],
+    "notes": null
+}

@@ -1,0 +1,17 @@
+{
+    "id": "intellivision-45th-anniversary-event",
+    "name": "Intellivision 45th Anniversary",
+    "description": "Atari's 45th anniversary revival of Intellivision, marked by the Intellivision Sprint mini console.",
+    "type": "event",
+    "logo": "intellivision-45th-anniversary-logo",
+    "date": "2025-10-17",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "intellivision-series"
+    ],
+    "companies": [
+        "atari-company"
+    ],
+    "notes": null
+}

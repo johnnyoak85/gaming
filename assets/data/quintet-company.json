@@ -1,0 +1,32 @@
+{
+    "id": "quintet-company",
+    "name": "Quintet",
+    "description": "Japanese developer best known for ActRaiser, Soul Blazer, Illusion of Time, and Terranigma.",
+    "type": "company",
+    "logo": "quintet-company",
+    "circle": "minor",
+    "founded": "1989-04-01",
+    "defunct": {
+        "date": "2008-01-01",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "actraiser",
+        "soul-blazer",
+        "illusion-of-gaia",
+        "terranigma"
+    ],
+    "eras": [
+        {
+            "title": "SNES Action RPG Era",
+            "start_year": 1990,
+            "end_year": 1996,
+            "description": "Quintet builds its reputation through ActRaiser and its SNES action RPG lineage."
+        }
+    ],
+    "notes": null
+}

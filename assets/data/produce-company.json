@@ -1,0 +1,40 @@
+{
+    "id": "produce-company",
+    "name": "Produce!",
+    "description": "Japanese developer formed by former Irem staff, known for Super Bomberman, The 7th Saga, Brain Lord, Mystic Ark, and Neo Bomberman.",
+    "type": "company",
+    "logo": "produce-company",
+    "circle": "minor",
+    "founded": "1990-04-06",
+    "defunct": {
+        "date": "2015-01-01",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "super-bomberman",
+        "super-bomberman-2",
+        "the-7th-saga",
+        "brain-lord",
+        "mystic-ark",
+        "neo-bomberman"
+    ],
+    "eras": [
+        {
+            "title": "SNES and Hudson / Enix Era",
+            "start_year": 1990,
+            "end_year": 1997,
+            "description": "Produce! develops SNES RPGs and Bomberman entries for publishers such as Hudson Soft and Enix."
+        },
+        {
+            "title": "Late Arcade and PlayStation Era",
+            "start_year": 1997,
+            "end_year": 2015,
+            "description": "Later period covering arcade, PlayStation, and smaller projects before the company disappears."
+        }
+    ],
+    "notes": null
+}

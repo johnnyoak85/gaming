@@ -1,0 +1,24 @@
+{
+    "id": "konami-nemesis-system",
+    "name": "Konami Nemesis Hardware",
+    "description": "Konami arcade hardware family used for Nemesis/Gradius regional releases and Salamander/Life Force.",
+    "type": "system",
+    "logo": "konami-1981",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "nemesis",
+        "salamander",
+        "life-force",
+        "twinbee"
+    ],
+    "series": [
+        "gradius-series",
+        "twinbee-series"
+    ],
+    "eras": [],
+    "notes": null
+}

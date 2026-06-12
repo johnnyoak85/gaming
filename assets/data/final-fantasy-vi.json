@@ -1,15 +1,17 @@
 {
     "id": "final-fantasy-vi",
-    "name": "Final Fantasy III",
+    "name": "Final Fantasy VI",
+    "aliases": [
+        "Final Fantasy III"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq5k.webp",
-    "release": "1992-12-06",
+    "release": "1994-04-02",
     "type": "game",
     "franchise": {
-        "universe": "Final Fantasy",
-        "series": "Final Fantasy",
+        "series": "final-fantasy-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG"
@@ -20,9 +22,7 @@
         "themes": [
             "Fantasy"
         ],
-        "tags": [
-            "SNES"
-        ]
+        "tags": []
     },
     "player_age": 10,
     "access": [
@@ -56,12 +56,19 @@
         ]
     },
     "companies": [
-        "Square"
+        "square-company"
+    ],
+    "people": [
+        "hironobu-sakaguchi",
+        "yoshinori-kitase",
+        "hiroyuki-ito",
+        "nobuo-uematsu",
+        "yoshitaka-amano"
     ],
     "progress": "planned",
     "backlog": {
         "priority": 4,
-        "reason": "Beloved job-system Final Fantasy.",
+        "reason": "Landmark SNES JRPG with ensemble storytelling, strong production values, and one of the series' most celebrated soundtracks.",
         "rating": 5,
         "difficulty": 3,
         "estimated_hours": 30

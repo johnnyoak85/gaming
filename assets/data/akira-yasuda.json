@@ -1,0 +1,25 @@
+{
+    "id": "akira-yasuda",
+    "name": "Akira Yasuda",
+    "description": "Japanese artist and game designer known as Akiman. Key Capcom designer behind Final Fight and Street Fighter II's character identity.",
+    "type": "person",
+    "portrait": "akira-yasuda",
+    "roles": [
+        "artist",
+        "designer"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "final-fight",
+        "street-fighter-ii-the-world-warrior",
+        "street-fighter-ii-turbo-hyper-fighting",
+        "super-street-fighter-ii-turbo",
+        "darkstalkers-the-night-warriors",
+        "red-dead-revolver"
+    ],
+    "notes": "Also known as Akiman."
+}

@@ -1,0 +1,20 @@
+{
+    "id": "capcom-z80-based-system",
+    "name": "Capcom Z80 Based Hardware",
+    "description": "Early Capcom arcade hardware family built around Z80 CPUs, used for pre-CPS arcade games such as Vulgus, Pirate Ship Higemaru, and Savage Bees.",
+    "type": "system",
+    "logo": "capcom-z80-based-logo",
+    "era": "classic",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "vulgus",
+        "pirate-ship-higemaru",
+        "savage-bees"
+    ],
+    "series": [],
+    "eras": [],
+    "notes": null
+}

@@ -9,6 +9,7 @@
         "series": "Scramble",
         "subseries": null
     },
+    "system": "konami-scramble-system",
     "classification": {
         "genres": [
             "Shooter"

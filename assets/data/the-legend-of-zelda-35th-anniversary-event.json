@@ -1,0 +1,17 @@
+{
+    "id": "the-legend-of-zelda-35th-anniversary-event",
+    "name": "The Legend of Zelda 35th Anniversary",
+    "description": "Nintendo's 35th anniversary period for The Legend of Zelda, tied to Skyward Sword HD, themed Joy-Con, and the Zelda Game & Watch.",
+    "type": "event",
+    "logo": "the-legend-of-zelda-35th-anniversary-event",
+    "date": "2021-02-21",
+    "end_date": "2021-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "the-legend-of-zelda-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

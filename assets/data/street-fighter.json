@@ -7,6 +7,7 @@
     ],
     "release": "1987-08-30",
     "type": "game",
+    "system": "capcom-68000-based-system",
     "franchise": {
         "universe": "Street Fighter",
         "series": "Street Fighter",

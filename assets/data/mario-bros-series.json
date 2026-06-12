@@ -3,7 +3,7 @@
     "name": "Mario Bros.",
     "description": "Early Mario arcade branch centered on single-screen platform action with Mario and Luigi.",
     "type": "series",
-    "logo": "mario-bros-logo",
+    "logo": "mario-bros-series",
     "circle": "sub",
     "contains": [],
     "companies": [

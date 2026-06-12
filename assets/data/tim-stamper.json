@@ -1,0 +1,25 @@
+{
+    "id": "tim-stamper",
+    "name": "Tim Stamper",
+    "description": "Co-founder of Ultimate Play the Game and Rare. Key figure behind Rare's rise from British microcomputer games to Nintendo-era console development.",
+    "type": "person",
+    "portrait": "tim-stamper",
+    "roles": [
+        "programmer",
+        "designer",
+        "executive"
+    ],
+    "companies": [
+        "rare-company"
+    ],
+    "circle": "minor",
+    "country": "GB",
+    "essentials": [
+        "jetpac",
+        "sabre-wulf",
+        "battletoads",
+        "donkey-kong-country",
+        "goldeneye-007"
+    ],
+    "notes": null
+}

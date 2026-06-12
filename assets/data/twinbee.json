@@ -9,6 +9,7 @@
         "series": "TwinBee",
         "subseries": null
     },
+    "system": "konami-bubble-system",
     "classification": {
         "genres": [
             "Shooter"

@@ -8,11 +8,10 @@
     "release": "1992-01-31",
     "type": "game",
     "franchise": {
-        "universe": "Soul Blazer Trilogy",
-        "series": "Soul Blazer",
+        "series": "soul-blazer-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG",
@@ -59,7 +58,7 @@
         ]
     },
     "companies": [
-        "Quintet"
+        "quintet-company"
     ],
     "progress": "planned",
     "backlog": {

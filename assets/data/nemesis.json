@@ -9,6 +9,7 @@
         "series": "Gradius",
         "subseries": null
     },
+    "system": "konami-nemesis-system",
     "classification": {
         "genres": [
             "Shooter"

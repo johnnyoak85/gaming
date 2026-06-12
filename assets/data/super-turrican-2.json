@@ -1,0 +1,79 @@
+{
+    "id": "super-turrican-2",
+    "name": "Super Turrican 2",
+    "aliases": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l0q.webp",
+    "release": "1995-02-28",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "turrican-series",
+        "subseries": null
+    },
+    "system": "super-nintendo-entertainment-system-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter",
+            "Platform"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "SNES",
+            "Turrican",
+            "Factor 5",
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "turrican-anthology-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": "SNES version included in Turrican Anthology Vol. II."
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "super-turrican",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "factor-5-company"
+    ],
+    "people": [],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Late SNES Turrican sequel with heavier set-piece design, vehicles, and Factor 5 technical polish.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "contains": [],
+    "notes": null
+}

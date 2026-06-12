@@ -1,0 +1,17 @@
+{
+    "id": "street-fighter-15th-anniversary-event",
+    "name": "Street Fighter 15th Anniversary",
+    "description": "Capcom's 15th anniversary celebration for Street Fighter, marked by Hyper Street Fighter II: The Anniversary Edition.",
+    "type": "event",
+    "logo": "street-fighter-15th-anniversary-logo",
+    "date": "2003-12-18",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "street-fighter-series"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "notes": null
+}

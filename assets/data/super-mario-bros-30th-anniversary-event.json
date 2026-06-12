@@ -1,0 +1,17 @@
+{
+    "id": "super-mario-bros-30th-anniversary-event",
+    "name": "Super Mario Bros. 30th Anniversary",
+    "description": "Nintendo's celebration of 30 years of Super Mario Bros., centered on anniversary promotions and Super Mario Maker.",
+    "type": "event",
+    "logo": "super-mario-bros-30th-anniversary-event",
+    "date": "2015-09-13",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "super-mario-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

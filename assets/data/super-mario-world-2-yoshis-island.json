@@ -1,15 +1,18 @@
 {
     "id": "super-mario-world-2-yoshis-island",
     "name": "Super Mario World 2: Yoshi's Island",
+    "aliases": [
+        "Super Mario: Yoshi's Island",
+        "Yoshi's Island"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kn9.webp",
     "release": "1995-08-05",
     "type": "game",
     "franchise": {
-        "universe": "Mario",
-        "series": "Yoshi",
-        "subseries": "Yoshi's Island"
+        "series": "super-mario-series",
+        "subseries": "yoshis-island-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform"
@@ -63,7 +66,12 @@
         ]
     },
     "companies": [
-        "Nintendo EAD"
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka",
+        "koji-kondo"
     ],
     "progress": "planned",
     "backlog": {

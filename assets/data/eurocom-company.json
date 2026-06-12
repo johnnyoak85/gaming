@@ -1,0 +1,39 @@
+{
+    "id": "eurocom-company",
+    "name": "Eurocom",
+    "description": "British developer known for licensed console games, including Disney's The Jungle Book, James Bond titles, Mortal Kombat ports, and other 1990s/2000s console work.",
+    "type": "company",
+    "logo": "eurocom-company",
+    "circle": "minor",
+    "founded": "1988-10-01",
+    "defunct": {
+        "date": "2012-12-06",
+        "reason": "closed",
+        "successor": null
+    },
+    "contains": [],
+    "country": "GB",
+    "people": [],
+    "essentials": [
+        "disneys-the-jungle-book-snes",
+        "mortal-kombat-4",
+        "the-world-is-not-enough-nintendo-64",
+        "nightfire",
+        "goldeneye-007-reloaded"
+    ],
+    "eras": [
+        {
+            "title": "Licensed Console Era",
+            "start_year": 1988,
+            "end_year": 2002,
+            "description": "Eurocom becomes a regular licensed-game and console-port developer across 8-bit, 16-bit, and early 3D systems."
+        },
+        {
+            "title": "Bond and HD Era",
+            "start_year": 2002,
+            "end_year": 2012,
+            "description": "The studio works on higher-profile licensed console games, especially James Bond titles, before closure."
+        }
+    ],
+    "notes": null
+}

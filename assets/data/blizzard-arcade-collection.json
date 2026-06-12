@@ -1,0 +1,90 @@
+{
+    "id": "blizzard-arcade-collection",
+    "name": "Blizzard Arcade Collection",
+    "aliases": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2trb.webp",
+    "release": "2021-02-19",
+    "type": "game",
+    "category": "collection",
+    "franchise": {
+        "series": null,
+        "subseries": null
+    },
+    "system": "nintendo-switch-system",
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Action",
+            "Platform",
+            "Racing"
+        ],
+        "subgenres": [
+            "Retro Collection"
+        ],
+        "themes": [
+            "Fantasy",
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "tags": [
+            "Digital",
+            "Collection",
+            "Blizzard",
+            "Retro",
+            "Museum"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "modes": [
+            "solo",
+            "co_op",
+            "versus"
+        ]
+    },
+    "companies": [],
+    "people": [],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Useful preservation package for early Silicon & Synapse / Blizzard console games.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 20
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "contains": [
+        "rpm-racing",
+        "the-lost-vikings-snes",
+        "the-lost-vikings-genesis",
+        "the-lost-vikings-definitive-edition",
+        "rock-n-roll-racing-snes",
+        "rock-n-roll-racing-genesis",
+        "rock-n-roll-racing-definitive-edition",
+        "blackthorne-snes",
+        "blackthorne-32x",
+        "blackthorne-definitive-edition",
+        "the-lost-vikings-2-snes"
+    ],
+    "notes": null
+}

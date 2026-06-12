@@ -5,9 +5,8 @@
     "release": "1995-03-21",
     "type": "game",
     "franchise": {
-        "universe": "Kirby",
-        "series": "Kirby",
-        "subseries": "Kirby's Dream Land"
+        "series": "kirby-series",
+        "subseries": "kirbys-dream-land-series"
     },
     "system": "game-boy",
     "classification": {

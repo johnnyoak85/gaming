@@ -1,0 +1,22 @@
+{
+    "id": "yoshis-island-series",
+    "name": "Yoshi's Island",
+    "description": "Yoshi platforming subseries built around carrying Baby Mario, throwing eggs, flutter jumping, and collectible-heavy stages.",
+    "type": "series",
+    "logo": "yoshis-island-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka"
+    ],
+    "essentials": [
+        "super-mario-world-2-yoshis-island",
+        "yoshis-island-ds"
+    ],
+    "eras": [],
+    "notes": null
+}

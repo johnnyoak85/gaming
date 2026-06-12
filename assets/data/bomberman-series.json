@@ -3,7 +3,7 @@
         "name": "Bomberman",
         "description": "Hudson Soft's maze-action franchise built around bombs, destructible blocks, power-ups, and multiplayer chaos.",
         "type": "series",
-        "logo": "bomberman-logo",
+        "logo": "bomberman-series",
         "circle": "major",
         "contains": [],
         "companies": [

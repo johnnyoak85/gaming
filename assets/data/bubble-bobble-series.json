@@ -3,7 +3,7 @@
     "name": "Bubble Bobble",
     "description": "Taito's arcade action-puzzle franchise starring Bub and Bob, with major puzzle and platforming branches.",
     "type": "series",
-    "logo": "bubble-bobble-logo",
+    "logo": "bubble-bobble-series",
     "circle": "major",
     "contains": [
         "puzzle-bobble-series",

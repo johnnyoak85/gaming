@@ -3,7 +3,7 @@
         "name": "Tecmo",
         "description": "Japanese developer and publisher known for Ninja Gaiden, Tecmo Bowl, Dead or Alive, and Monster Rancher.",
         "type": "company",
-        "logo": "tecmo-logo",
+        "logo": "tecmo-company",
         "circle": "minor",
         "founded": "1967-07-31",
         "defunct": {

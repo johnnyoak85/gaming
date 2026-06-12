@@ -1,0 +1,20 @@
+{
+    "id": "soul-blazer-series",
+    "name": "Soul Blazer",
+    "description": "Quintet action RPG lineage including Soul Blazer, Illusion of Time, and Terranigma, linked by developer, structure, and spiritual themes rather than a single shared world.",
+    "type": "series",
+    "logo": "soul-blazer-series",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "quintet-company"
+    ],
+    "people": [],
+    "essentials": [
+        "soul-blazer",
+        "illusion-of-gaia",
+        "terranigma"
+    ],
+    "eras": [],
+    "notes": null
+}

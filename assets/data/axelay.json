@@ -1,15 +1,18 @@
 {
     "id": "axelay",
     "name": "Axelay",
+    "aliases": [
+        "Two Arc Threshold"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25my.webp",
     "release": "1992-09-11",
     "type": "game",
     "franchise": {
-        "universe": "Axelay",
-        "series": "Axelay",
+        "universe": null,
+        "series": null,
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Shooter"
@@ -50,7 +53,7 @@
         ]
     },
     "companies": [
-        "Konami"
+        "konami-company"
     ],
     "progress": "planned",
     "backlog": {

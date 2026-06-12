@@ -1,0 +1,28 @@
+{
+    "id": "shinji-mikami",
+    "name": "Shinji Mikami",
+    "description": "Japanese game designer, director, and producer best known as the creator of Resident Evil and director of Resident Evil 4.",
+    "type": "person",
+    "portrait": "shinji-mikami",
+    "roles": [
+        "director",
+        "designer",
+        "producer"
+    ],
+    "companies": [
+        "capcom-company",
+        "platinumgames-company",
+        "tango-gameworks-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "resident-evil",
+        "resident-evil-2",
+        "dino-crisis",
+        "resident-evil-4",
+        "god-hand",
+        "the-evil-within"
+    ],
+    "notes": null
+}

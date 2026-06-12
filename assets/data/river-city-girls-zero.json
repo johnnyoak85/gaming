@@ -1,35 +1,32 @@
 {
   "id": "river-city-girls-zero",
   "name": "River City Girls Zero",
+  "aliases": [],
   "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob20q.webp",
   "release": "2022-02-14",
   "type": "game",
+  "category": "single_entry",
   "franchise": {
-    "universe": "Kunio-kun",
     "series": "kunio-kun-series",
     "subseries": "river-city-girls-series"
   },
+  "system": "nintendo-switch-system",
   "classification": {
     "genres": [
-      "Action",
-      "Beat 'em Up"
+      "Action"
     ],
     "subgenres": [
-      "Side-Scrolling Beat 'em Up"
+      "Beat 'em Up"
     ],
     "themes": [
-      "Comedy",
+      "Delinquents",
       "School",
-      "Street Fighting"
+      "Crime",
+      "Comedy"
     ],
-    "tags": [
-      "Retro",
-      "Co-Op",
-      "Brawler",
-      "SNES Era"
-    ]
+    "tags": []
   },
-  "player_age": 12,
+  "player_age": 10,
   "access": [
     {
       "platform": "nintendo-switch",
@@ -61,21 +58,23 @@
     ]
   },
   "companies": [
-    "technos-japan-company"
+    "almanic-company"
   ],
+  "people": [],
   "progress": "planned",
   "backlog": {
-    "priority": 3,
-    "reason": "Localized late-era Kunio-kun beat-'em-up finally officially released in English.",
+    "priority": 4,
+    "reason": "Historically important Kunio-kun entry and the origin of Kyoko and Misako before River City Girls.",
     "rating": 4,
     "difficulty": 3,
     "estimated_hours": 6
   },
   "acquisition": {
-    "priority": 4,
-    "reason": "Historically important preservation release bridging classic Kunio-kun and River City Girls.",
-    "notes": "Owned digitally on Switch."
+    "priority": null,
+    "reason": null,
+    "notes": null
   },
   "event": null,
-  "notes": "Localized version of Shin Nekketsu Kōha: Kunio-tachi no Banka."
+  "contains": [],
+  "notes": null
 }

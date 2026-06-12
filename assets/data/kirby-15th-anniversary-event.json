@@ -1,0 +1,18 @@
+{
+    "id": "kirby-15th-anniversary-event",
+    "name": "Kirby's 15th Anniversary",
+    "description": "Anniversary milestone for Kirby, marking 15 years since Kirby's Dream Land introduced the character.",
+    "type": "event",
+    "logo": "kirby-15th-anniversary-logo",
+    "date": "2007-04-27",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "kirby-series"
+    ],
+    "companies": [
+        "nintendo-company",
+        "hal-laboratory-company"
+    ],
+    "notes": null
+}

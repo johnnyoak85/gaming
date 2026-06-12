@@ -7,6 +7,7 @@
     ],
     "release": "1987-06-01",
     "type": "game",
+    "system": "capcom-commando-system",
     "franchise": {
         "universe": "194X",
         "series": "194X",

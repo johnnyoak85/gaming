@@ -1,0 +1,31 @@
+{
+    "id": "silicon-and-synapse-company",
+    "name": "Silicon & Synapse",
+    "description": "Original name of Blizzard Entertainment, used during the studio's early console period with games such as RPM Racing, The Lost Vikings, and Rock n' Roll Racing.",
+    "type": "company",
+    "logo": "silicon-and-synapse-company",
+    "circle": "minor",
+    "founded": "1991-02-08",
+    "defunct": {
+        "date": "1994-01-01",
+        "reason": "renamed",
+        "successor": "blizzard-entertainment-company"
+    },
+    "contains": [],
+    "country": "US",
+    "people": [],
+    "essentials": [
+        "rpm-racing",
+        "the-lost-vikings-snes",
+        "rock-n-roll-racing-snes"
+    ],
+    "eras": [
+        {
+            "title": "Early Console Era",
+            "start_year": 1991,
+            "end_year": 1994,
+            "description": "The studio's pre-Blizzard period, focused on SNES and Genesis development before the Warcraft era."
+        }
+    ],
+    "notes": null
+}

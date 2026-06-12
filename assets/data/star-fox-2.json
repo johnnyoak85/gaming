@@ -5,11 +5,10 @@
     "release": "2017-09-29",
     "type": "game",
     "franchise": {
-        "universe": "Star Fox",
-        "series": "Star Fox",
+        "series": "star-fox-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Shooter"
@@ -56,8 +55,12 @@
         ]
     },
     "companies": [
-        "Nintendo EAD",
-        "Argonaut Software"
+        "nintendo-company",
+        "argonaut-software-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "dylan-cuthbert"
     ],
     "progress": "planned",
     "backlog": {

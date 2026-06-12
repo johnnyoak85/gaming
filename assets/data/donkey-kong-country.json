@@ -5,11 +5,10 @@
     "release": "1994-11-18",
     "type": "game",
     "franchise": {
-        "universe": "Mario",
-        "series": "Donkey Kong",
-        "subseries": "Donkey Kong Country"
+        "series": "super-mario-series",
+        "subseries": "donkey-kong-country-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform"
@@ -50,7 +49,12 @@
         ]
     },
     "companies": [
-        "Rare"
+        "rare-company"
+    ],
+    "people": [
+        "tim-stamper",
+        "chris-stamper",
+        "gregg-mayles"
     ],
     "progress": "planned",
     "backlog": {

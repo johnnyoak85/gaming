@@ -1,0 +1,15 @@
+{
+    "id": "go-sega-60th-anniversary-event",
+    "name": "Go Sega 60th Anniversary",
+    "description": "Sega's 60th anniversary campaign celebrating the company's history and future through special products, promotions, and releases.",
+    "type": "event",
+    "logo": "go-sega-60th-anniversary-logo",
+    "date": "2020-06-03",
+    "end_date": "2021-06-03",
+    "category": "anniversary",
+    "franchise": [],
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

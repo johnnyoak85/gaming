@@ -1,0 +1,44 @@
+{
+    "id": "amiga-aga-system",
+    "name": "Amiga AGA",
+    "description": "Advanced Graphics Architecture Amiga platform used by the Amiga 1200, Amiga 4000, and CD32. Represents the late Amiga generation with expanded colour and graphical capabilities.",
+    "type": "system",
+    "logo": "amiga-aga-system",
+    "era": "32-bit",
+    "companies": [
+        "commodore-company"
+    ],
+    "parent": "amiga-ecs-system",
+    "essentials": [
+        "alien-breed-3d",
+        "banshee",
+        "beneath-a-steel-sky",
+        "frontier-elite-ii",
+        "pinball-illusions",
+        "super-stardust",
+        "turrican-3-payment-day",
+        "worms",
+        "zool-2",
+        "simon-the-sorcerer"
+    ],
+    "series": [
+        "amiga-series",
+        "alien-breed-series",
+        "elite-series",
+        "pinball-dreams-series",
+        "stardust-series",
+        "turrican-series",
+        "worms-series",
+        "zool-series",
+        "simon-the-sorcerer-series"
+    ],
+    "eras": [
+        {
+            "title": "AGA Era",
+            "start_year": 1992,
+            "end_year": 1996,
+            "description": "Late Amiga period built around AGA-enhanced graphics, larger games, and the platform's final commercial push."
+        }
+    ],
+    "notes": null
+}

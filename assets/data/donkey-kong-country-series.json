@@ -1,0 +1,39 @@
+{
+    "id": "donkey-kong-country-series",
+    "name": "Donkey Kong Country",
+    "description": "Donkey Kong platforming subseries focused on side-scrolling stages, animal buddies, collectibles, and jungle adventure.",
+    "type": "series",
+    "logo": "donkey-kong-country-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "rare-company",
+        "nintendo-company"
+    ],
+    "people": [
+        "tim-stamper",
+        "chris-stamper",
+        "gregg-mayles"
+    ],
+    "essentials": [
+        "donkey-kong-country",
+        "donkey-kong-country-2-diddys-kong-quest",
+        "donkey-kong-country-returns",
+        "donkey-kong-country-tropical-freeze"
+    ],
+    "eras": [
+        {
+            "title": "Rare Era",
+            "start_year": 1994,
+            "end_year": 1996,
+            "description": "The original SNES trilogy defines Donkey Kong's modern platforming identity."
+        },
+        {
+            "title": "Retro Studios Era",
+            "start_year": 2010,
+            "end_year": 2018,
+            "description": "Retro Studios revives the Country formula with harder, more kinetic modern platformers."
+        }
+    ],
+    "notes": null
+}

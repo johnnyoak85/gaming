@@ -1,0 +1,17 @@
+{
+    "id": "super-mario-bros-40th-anniversary-event",
+    "name": "Super Mario Bros. 40th Anniversary",
+    "description": "Nintendo's celebration of 40 years of Super Mario Bros., kicked off with September 2025 Nintendo Direct announcements.",
+    "type": "event",
+    "logo": "super-mario-bros-40th-anniversary-event",
+    "date": "2025-09-12",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "super-mario-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

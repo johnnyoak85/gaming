@@ -3,7 +3,7 @@
     "name": "Punch-Out!!",
     "description": "Nintendo boxing series built around pattern recognition, timing, and exaggerated opponents.",
     "type": "series",
-    "logo": "punch-out-logo",
+    "logo": "punch-out-series",
     "circle": "minor",
     "contains": [],
     "companies": [

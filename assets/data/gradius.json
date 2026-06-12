@@ -9,6 +9,7 @@
         "series": "gradius-series",
         "subseries": null
     },
+    "system": "konami-bubble-system",
     "classification": {
         "genres": [
             "Shooter"

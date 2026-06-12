@@ -1,0 +1,17 @@
+{
+    "id": "super-mario-bros-35th-anniversary-event",
+    "name": "Super Mario Bros. 35th Anniversary",
+    "description": "Nintendo's celebration of 35 years of Super Mario Bros. with limited-time releases, collaborations, and special hardware.",
+    "type": "event",
+    "logo": "super-mario-bros-35th-anniversary-event",
+    "date": "2020-09-03",
+    "end_date": "2021-03-31",
+    "category": "anniversary",
+    "franchise": [
+        "super-mario-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

@@ -1,0 +1,17 @@
+{
+    "id": "sonic-25th-anniversary-event",
+    "name": "Sonic 25th Anniversary",
+    "description": "Sega's celebration of 25 years of Sonic the Hedgehog, including the 25th Anniversary Party and anniversary-era game announcements.",
+    "type": "event",
+    "logo": "sonic-25th-anniversary-event",
+    "date": "2016-06-23",
+    "end_date": "2017-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "sonic-the-hedgehog-series"
+    ],
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

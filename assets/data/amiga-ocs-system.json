@@ -1,0 +1,42 @@
+{
+    "id": "amiga-ocs-system",
+    "name": "Amiga OCS",
+    "description": "Original Amiga chipset platform used by early Amiga models, especially the Amiga 1000 and Amiga 500. Defines the classic Amiga baseline for most early games.",
+    "type": "system",
+    "logo": "amiga-ocs-system",
+    "era": "16-bit",
+    "companies": [
+        "commodore-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "defender-of-the-crown",
+        "shadow-of-the-beast",
+        "turrican",
+        "lemmings",
+        "the-secret-of-monkey-island",
+        "speedball-2",
+        "another-world",
+        "cannon-fodder",
+        "sensible-soccer",
+        "lotus-esprit-turbo-challenge"
+    ],
+    "series": [
+        "amiga-series",
+        "turrican-series",
+        "lemmings-series",
+        "monkey-island-series",
+        "speedball-series",
+        "sensible-soccer-series",
+        "lotus-series"
+    ],
+    "eras": [
+        {
+            "title": "Original Chip Set Era",
+            "start_year": 1985,
+            "end_year": 1990,
+            "description": "Early Amiga period defined by OCS graphics, Paula audio, and the Amiga 500 becoming the main games machine."
+        }
+    ],
+    "notes": null
+}

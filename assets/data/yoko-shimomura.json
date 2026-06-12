@@ -1,0 +1,26 @@
+{
+    "id": "yoko-shimomura",
+    "name": "Yoko Shimomura",
+    "description": "Japanese composer known for Street Fighter II, Super Mario RPG, Kingdom Hearts, and Final Fantasy XV.",
+    "type": "person",
+    "portrait": "yoko-shimomura",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "capcom-company",
+        "square-company",
+        "square-enix-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "street-fighter-ii-the-world-warrior",
+        "street-fighter-ii-turbo-hyper-fighting",
+        "super-mario-rpg-legend-of-the-seven-stars",
+        "kingdom-hearts",
+        "kingdom-hearts-ii",
+        "final-fantasy-xv"
+    ],
+    "notes": null
+}

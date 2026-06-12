@@ -7,6 +7,7 @@
     ],
     "release": "1987-08-01",
     "type": "game",
+    "system": "capcom-commando-system",
     "franchise": {
         "universe": "Black Tiger",
         "series": "Black Tiger",

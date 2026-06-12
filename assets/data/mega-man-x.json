@@ -5,11 +5,13 @@
     "release": "1993-12-17",
     "type": "game",
     "franchise": {
-        "universe": "Mega Man",
-        "series": "Mega Man X",
-        "subseries": null
+        "series": "mega-man-series",
+        "subseries": "mega-man-x-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "aliases": [
+        "Rockman X"
+    ],
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -31,13 +33,13 @@
         {
             "platform": "nintendo-classic-mini-super-nintendo-entertainment-system",
             "via": null,
-            "format": "digital",
+            "format": "built_in",
             "status": "owned",
             "notes": null
         },
         {
-            "platform": "mega-man-x-legacy-collection",
-            "via": null,
+            "platform": "nintendo-switch",
+            "via": "mega-man-x-legacy-collection",
             "format": "contained",
             "status": "owned",
             "notes": null
@@ -60,7 +62,10 @@
         ]
     },
     "companies": [
-        "Capcom"
+        "capcom-company"
+    ],
+    "people": [
+        "keiji-inafune"
     ],
     "progress": "planned",
     "backlog": {

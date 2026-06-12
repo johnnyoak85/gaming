@@ -5,11 +5,12 @@
     "release": "1992-08-27",
     "type": "game",
     "franchise": {
-        "universe": "Mario",
-        "series": "Mario Kart",
-        "subseries": null
+        "series": "super-mario-series",
+        "subseries": "mario-kart-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "category": "single_entry",
+    "aliases": [],
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Racing"
@@ -55,7 +56,11 @@
         ]
     },
     "companies": [
-        "Nintendo EAD"
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "hideki-konno"
     ],
     "progress": "planned",
     "backlog": {
@@ -63,7 +68,7 @@
         "reason": "Origin of Mario Kart and historically important multiplayer racer.",
         "rating": 4,
         "difficulty": 3,
-        "estimated_hours": null
+        "estimated_hours": 10
     },
     "acquisition": {
         "priority": null,

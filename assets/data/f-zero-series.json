@@ -1,0 +1,35 @@
+{
+    "id": "f-zero-series",
+    "name": "F-Zero",
+    "description": "Nintendo's futuristic racing series focused on high-speed hovercraft racing, technical tracks, and Captain Falcon's sci-fi setting.",
+    "type": "series",
+    "logo": "f-zero-series",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto"
+    ],
+    "essentials": [
+        "f-zero",
+        "f-zero-x",
+        "f-zero-gx"
+    ],
+    "eras": [
+        {
+            "title": "Mode 7 Origin Era",
+            "start_year": 1990,
+            "end_year": 1990,
+            "description": "The SNES original establishes the high-speed futuristic racing identity."
+        },
+        {
+            "title": "3D Speed Era",
+            "start_year": 1998,
+            "end_year": 2004,
+            "description": "Nintendo 64, GameCube, arcade, and GBA entries expand the series into faster, more technical racing."
+        }
+    ],
+    "notes": null
+}

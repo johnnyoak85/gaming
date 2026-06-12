@@ -5,11 +5,12 @@
     "release": "1994-03-19",
     "type": "game",
     "franchise": {
-        "universe": "Metroid",
-        "series": "Metroid",
+        "series": "metroid-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "category": "single_entry",
+    "aliases": [],
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -59,6 +60,11 @@
     "companies": [
         "nintendo-company",
         "intelligent-systems-company"
+    ],
+    "people": [
+        "yoshio-sakamoto",
+        "gunpei-yokoi",
+        "kenji-yamamoto"
     ],
     "progress": "planned",
     "backlog": {

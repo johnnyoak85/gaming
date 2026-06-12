@@ -3,7 +3,7 @@
     "name": "Teenage Mutant Ninja Turtles",
     "description": "Licensed action franchise starring the four Turtles across arcade beat 'em ups, console action games, and fighting games.",
     "type": "series",
-    "logo": "teenage-mutant-ninja-turtles-logo",
+    "logo": "teenage-mutant-ninja-turtles-series",
     "circle": "major",
     "contains": [
         "teenage-mutant-ninja-turtles-tournament-fighters-series"

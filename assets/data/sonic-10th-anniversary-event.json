@@ -1,0 +1,17 @@
+{
+    "id": "sonic-10th-anniversary-event",
+    "name": "Sonic 10th Anniversary",
+    "description": "Sega's celebration of 10 years of Sonic the Hedgehog, tied to Sonic Adventure 2 and anniversary branding.",
+    "type": "event",
+    "logo": "sonic-10th-anniversary-event",
+    "date": "2001-06-23",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "sonic-the-hedgehog-series"
+    ],
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

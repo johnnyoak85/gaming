@@ -1,0 +1,28 @@
+{
+    "id": "dylan-cuthbert",
+    "name": "Dylan Cuthbert",
+    "description": "British game programmer and designer associated with Star Fox, Argonaut Software, Q-Games, PixelJunk, and The Tomorrow Children.",
+    "type": "person",
+    "portrait": "dylan-cuthbert",
+    "roles": [
+        "programmer",
+        "designer",
+        "director",
+        "executive"
+    ],
+    "companies": [
+        "q-games-company",
+        "argonaut-software-company"
+    ],
+    "circle": "minor",
+    "country": "GB",
+    "essentials": [
+        "star-fox",
+        "star-fox-2",
+        "star-fox-command",
+        "star-fox-64-3d",
+        "pixeljunk-monsters",
+        "the-tomorrow-children"
+    ],
+    "notes": null
+}

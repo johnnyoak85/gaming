@@ -7,6 +7,7 @@
     ],
     "release": "1985-09-01",
     "type": "game",
+    "system": "capcom-z80-based-system",
     "franchise": {
         "universe": "Exed Exes",
         "series": "Exed Exes",

@@ -67,6 +67,6 @@
       "effect": "Receive specific crafting materials or a weapon for the character"
     }
   ],
-  "event": null,
+  "event": "the-legend-of-zelda-30th-anniversary-event",
   "notes": null
 }

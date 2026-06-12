@@ -1,0 +1,17 @@
+{
+    "id": "mega-man-30th-anniversary-event",
+    "name": "Mega Man 30th Anniversary",
+    "description": "Capcom's celebration of 30 years of Mega Man, tied to Mega Man 11 and anniversary-era collections.",
+    "type": "event",
+    "logo": "mega-man-30th-anniversary-logo",
+    "date": "2017-12-17",
+    "end_date": "2018-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "mega-man-series"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "notes": null
+}

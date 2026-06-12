@@ -5,9 +5,8 @@
     "release": "2000-03-24",
     "type": "game",
     "franchise": {
-        "universe": "Kirby",
-        "series": "Kirby",
-        "subseries": "Kirby's Dream Land"
+        "series": "kirby-series",
+        "subseries": "kirbys-dream-land-series"
     },
     "system": "nintendo-64",
     "classification": {

@@ -1,0 +1,22 @@
+{
+    "id": "konami-bubble-system",
+    "name": "Konami Bubble System",
+    "description": "Konami arcade hardware using bubble memory cartridges, best known for early versions of TwinBee and Gradius.",
+    "type": "system",
+    "logo": "konami-bubble-system",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "twinbee",
+        "gradius"
+    ],
+    "series": [
+        "twinbee-series",
+        "gradius-series"
+    ],
+    "eras": [],
+    "notes": null
+}

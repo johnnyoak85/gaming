@@ -1,0 +1,17 @@
+{
+    "id": "year-of-luigi-event",
+    "name": "The Year of Luigi",
+    "description": "Nintendo's Luigi-focused campaign celebrating 30 years of the character with games, promotions, and special releases.",
+    "type": "event",
+    "logo": "year-of-luigi-event",
+    "date": "2013-02-14",
+    "end_date": "2014-03-18",
+    "category": "campaign",
+    "franchise": [
+        "super-mario-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

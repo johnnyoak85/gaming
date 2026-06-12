@@ -1,0 +1,23 @@
+{
+    "id": "kirby-dream-land-series",
+    "name": "Kirby's Dream Land",
+    "description": "Kirby platforming branch covering the original Dream Land trilogy across Game Boy and Super Nintendo.",
+    "type": "series",
+    "logo": "kirby-dream-land-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "hal-laboratory-company"
+    ],
+    "people": [
+        "masahiro-sakurai",
+        "satoru-iwata"
+    ],
+    "essentials": [
+        "kirbys-dream-land",
+        "kirbys-dream-land-2",
+        "kirbys-dream-land-3"
+    ],
+    "eras": [],
+    "notes": null
+}

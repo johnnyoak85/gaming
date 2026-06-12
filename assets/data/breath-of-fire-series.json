@@ -1,0 +1,37 @@
+{
+    "id": "breath-of-fire-series",
+    "name": "Breath of Fire",
+    "description": "Capcom's fantasy JRPG series centered on recurring heroes named Ryu, dragon transformations, party-based exploration, and clan-based worlds.",
+    "type": "series",
+    "logo": "breath-of-fire-series",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "capcom-company"
+    ],
+    "people": [
+        "keiji-inafune"
+    ],
+    "essentials": [
+        "breath-of-fire",
+        "breath-of-fire-ii",
+        "breath-of-fire-iii",
+        "breath-of-fire-iv",
+        "breath-of-fire-dragon-quarter"
+    ],
+    "eras": [
+        {
+            "title": "Classic JRPG Era",
+            "start_year": 1993,
+            "end_year": 2000,
+            "description": "The first four games define the series through traditional party-based JRPG structure, dragon transformations, and recurring mythos."
+        },
+        {
+            "title": "Experimental Era",
+            "start_year": 2002,
+            "end_year": 2016,
+            "description": "Dragon Quarter and later revival attempts move the series away from its traditional format."
+        }
+    ],
+    "notes": null
+}

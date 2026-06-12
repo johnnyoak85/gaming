@@ -34,7 +34,7 @@
         {
             "platform": "nintendo-switch",
             "via": "rhapsody-marl-kingdom-chronicles",
-            "format": "physical",
+            "format": "contained",
             "status": "owned",
             "notes": null
         }

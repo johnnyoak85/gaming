@@ -1,0 +1,30 @@
+{
+    "id": "sega-32x-system",
+    "name": "32X",
+    "description": "Sega's 32-bit add-on platform for the Mega Drive / Genesis, created as a short-lived bridge between the 16-bit era and Sega Saturn.",
+    "type": "system",
+    "logo": "sega-32x-system",
+    "era": "32-bit",
+    "companies": [
+        "sega-company"
+    ],
+    "parent": "sega-mega-drive-system",
+    "essentials": [
+        "virtua-racing-deluxe",
+        "star-wars-arcade",
+        "doom-32x",
+        "knuckles-chaotix",
+        "space-harrier-32x",
+        "after-burner-complete"
+    ],
+    "series": [
+        "sonic-the-hedgehog-series",
+        "virtua-racing-series",
+        "star-wars-series",
+        "doom-series",
+        "space-harrier-series",
+        "after-burner-series"
+    ],
+    "eras": [],
+    "notes": null
+}

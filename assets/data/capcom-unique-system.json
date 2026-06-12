@@ -1,0 +1,25 @@
+{
+    "id": "capcom-unique-system",
+    "name": "Capcom Unique Hardware",
+    "description": "Grouping for Capcom pre-CPS arcade games that used one-off or otherwise unique hardware rather than a larger shared board family.",
+    "type": "system",
+    "logo": "capcom-unique-logo",
+    "era": null,
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "1942",
+        "1943-the-battle-of-midway",
+        "1943-kai-midway-kaisen",
+        "ghosts-n-goblins",
+        "sonson"
+    ],
+    "series": [
+        "1942-series",
+        "ghosts-n-goblins-series"
+    ],
+    "eras": [],
+    "notes": null
+}

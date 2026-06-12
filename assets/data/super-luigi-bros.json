@@ -1,78 +1,78 @@
-    {
-        "id": "super-luigi-bros",
-        "name": "Super Luigi Bros.",
-        "description": "Reverse-layout remix of Super Mario Bros. played from right to left as Luigi.",
-        "cover": "super-luigi-bros",
-        "release": "2014-04-24",
-        "type": "game",
-        "category": "single_entry",
-        "aliases": [],
-        "franchise": {
-            "series": "super-mario-series",
-            "subseries": "super-mario-bros-series"
-        },
-        "system": "nintendo-wii-u-system",
-        "companies": [
-            "nintendo-company"
+{
+    "id": "super-luigi-bros",
+    "name": "Super Luigi Bros.",
+    "description": "Reverse-layout remix of Super Mario Bros. played from right to left as Luigi.",
+    "cover": "super-luigi-bros",
+    "release": "2014-04-24",
+    "type": "game",
+    "category": "single_entry",
+    "aliases": [],
+    "franchise": {
+        "series": "super-mario-series",
+        "subseries": "super-mario-bros-series"
+    },
+    "system": "nintendo-wii-u-system",
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "release_line": "NES Remix",
+    "event": "year-of-luigi-event",
+    "classification": {
+        "genres": [
+            "Platform"
         ],
-        "people": [],
-        "release_line": "NES Remix",
-        "event": "The Year of Luigi",
-        "classification": {
-            "genres": [
-                "Platform"
-            ],
-            "subgenres": [
-                "Action Platformer"
-            ],
-            "themes": [
-                "Fantasy"
-            ],
-            "tags": [
-                "Bonus Game",
-                "Luigi",
-                "NES Remix",
-                "Remix"
-            ]
-        },
-        "player_age": 6,
-        "playstyle": {
-            "min_players": 1,
-            "max_players": 2,
-            "modes": [
-                "solo",
-                "turn_based"
-            ]
-        },
-        "progress": "planned",
-        "backlog": {
-            "priority": 1,
-            "reason": "Novel Luigi-themed reverse remix of Super Mario Bros.",
-            "rating": 2,
-            "difficulty": 3,
-            "estimated_hours": 2
-        },
-        "access": [
-            {
-                "platform": "nintendo-wii-u",
-                "via": "nintendo-eshop",
-                "format": "contained",
-                "status": "wishlist",
-                "notes": "Contained in NES Remix 2."
-            }
+        "subgenres": [
+            "Action Platformer"
         ],
-        "versions": [
-            {
-                "source": "super-mario-bros",
-                "type": "remix"
-            }
+        "themes": [
+            "Fantasy"
         ],
-        "contains": [],
-        "relationships": [],
-        "acquisition": {
-            "priority": 1,
-            "reason": "Only relevant as part of NES Remix 2.",
-            "notes": null
-        },
-        "notes": "Full Super Mario Bros. remix with reversed level direction and Luigi as the playable character."
-    }
+        "tags": [
+            "Bonus Game",
+            "Luigi",
+            "NES Remix",
+            "Remix"
+        ]
+    },
+    "player_age": 6,
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 1,
+        "reason": "Novel Luigi-themed reverse remix of Super Mario Bros.",
+        "rating": 2,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "access": [
+        {
+            "platform": "nintendo-wii-u",
+            "via": "nintendo-eshop",
+            "format": "contained",
+            "status": "wishlist",
+            "notes": "Contained in NES Remix 2."
+        }
+    ],
+    "versions": [
+        {
+            "source": "super-mario-bros",
+            "type": "remix"
+        }
+    ],
+    "contains": [],
+    "relationships": [],
+    "acquisition": {
+        "priority": 1,
+        "reason": "Only relevant as part of NES Remix 2.",
+        "notes": null
+    },
+    "notes": "Full Super Mario Bros. remix with reversed level direction and Luigi as the playable character."
+}

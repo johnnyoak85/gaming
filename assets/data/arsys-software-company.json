@@ -1,0 +1,31 @@
+{
+    "id": "arsys-software-company",
+    "name": "Arsys Software",
+    "description": "Japanese developer known for computer and console ports, including the expanded Super Famicom / SNES version of Prince of Persia.",
+    "type": "company",
+    "logo": "arsys-software-logo",
+    "circle": "minor",
+    "founded": "1985-01-01",
+    "defunct": {
+        "date": "2001-01-01",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "prince-of-persia-snes",
+        "star-cruiser",
+        "wibarm"
+    ],
+    "eras": [
+        {
+            "title": "Japanese Computer and Port Era",
+            "start_year": 1985,
+            "end_year": 1995,
+            "description": "Arsys works on Japanese computer games and technically ambitious ports, including Prince of Persia on Super Famicom."
+        }
+    ],
+    "notes": null
+}

@@ -1,15 +1,17 @@
 {
     "id": "kirby-gourmet-race",
     "name": "Gourmet Race",
+    "aliases": [
+        "Crash! Gourmet Race"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7t24.webp",
     "release": "1996-03-21",
     "type": "game",
     "franchise": {
-        "universe": "Kirby",
-        "series": "Kirby",
-        "subseries": "Super Star"
+        "series": "kirby-series",
+        "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform",
@@ -55,7 +57,11 @@
         ]
     },
     "companies": [
-        "HAL Laboratory"
+        "hal-laboratory-company"
+    ],
+    "people": [
+        "masahiro-sakurai",
+        "satoru-iwata"
     ],
     "progress": "planned",
     "backlog": {
@@ -63,7 +69,7 @@
         "reason": "Arcade-style Kirby racing mode with high replay value.",
         "rating": 3,
         "difficulty": 2,
-        "estimated_hours": null
+        "estimated_hours": 1
     },
     "acquisition": {
         "priority": null,
@@ -71,5 +77,6 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "category": "single_entry"
 }

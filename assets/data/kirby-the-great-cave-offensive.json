@@ -1,15 +1,17 @@
 {
     "id": "kirby-the-great-cave-offensive",
     "name": "The Great Cave Offensive",
+    "aliases": [
+        "The Great Cave Mission"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7t1w.webp",
     "release": "1996-03-21",
     "type": "game",
     "franchise": {
-        "universe": "Kirby",
-        "series": "Kirby",
-        "subseries": "Super Star"
+        "series": "kirby-series",
+        "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform",
@@ -54,7 +56,11 @@
         ]
     },
     "companies": [
-        "HAL Laboratory"
+        "hal-laboratory-company"
+    ],
+    "people": [
+        "masahiro-sakurai",
+        "satoru-iwata"
     ],
     "progress": "planned",
     "backlog": {
@@ -70,5 +76,6 @@
         "notes": null
     },
     "event": null,
-    "notes": null
+    "notes": null,
+    "category": "single_entry"
 }

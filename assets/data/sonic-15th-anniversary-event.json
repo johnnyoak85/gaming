@@ -1,0 +1,17 @@
+{
+    "id": "sonic-15th-anniversary-event",
+    "name": "Sonic 15th Anniversary",
+    "description": "Sega's celebration of 15 years of Sonic the Hedgehog, tied to the 2006 Sonic releases and anniversary branding.",
+    "type": "event",
+    "logo": "sonic-15th-anniversary-event",
+    "date": "2006-06-23",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "sonic-the-hedgehog-series"
+    ],
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

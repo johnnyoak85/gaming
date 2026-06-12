@@ -1,0 +1,23 @@
+{
+    "id": "kenji-yamamoto-nintendo",
+    "name": "Kenji Yamamoto",
+    "description": "Nintendo composer and sound director best known for shaping the sound of Super Metroid and the Metroid Prime series.",
+    "type": "person",
+    "portrait": "kenji-yamamoto-nintendo",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "super-metroid",
+        "metroid-prime",
+        "metroid-prime-2-echoes",
+        "metroid-prime-3-corruption",
+        "metroid-dread"
+    ],
+    "notes": "Disambiguated from Kenji Yamamoto, the Dragon Ball composer."
+}

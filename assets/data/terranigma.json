@@ -3,16 +3,15 @@
     "name": "Terranigma",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26g4.webp",
     "aliases": [
-        "Tenchi Souzou"
+        "The Creation of Heaven and Earth"
     ],
     "release": "1995-10-20",
     "type": "game",
     "franchise": {
-        "universe": "Soul Blazer Trilogy",
-        "series": "Terranigma",
+        "series": "soul-blazer-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG",
@@ -60,7 +59,7 @@
         ]
     },
     "companies": [
-        "Quintet"
+        "quintet-company"
     ],
     "progress": "planned",
     "backlog": {

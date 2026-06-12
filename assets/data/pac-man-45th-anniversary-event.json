@@ -1,0 +1,17 @@
+{
+    "id": "pac-man-45th-anniversary-event",
+    "name": "Pac-Man 45th Anniversary",
+    "description": "Bandai Namco's 45th anniversary celebration for Pac-Man, using the Make imPACt campaign and 45 Years of Impact branding.",
+    "type": "event",
+    "logo": "pac-man-45th-anniversary-event",
+    "date": "2025-03-04",
+    "end_date": "2026-03-31",
+    "category": "anniversary",
+    "franchise": [
+        "pac-man-series"
+    ],
+    "companies": [
+        "bandai-namco-company"
+    ],
+    "notes": null
+}

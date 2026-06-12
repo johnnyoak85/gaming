@@ -1,0 +1,25 @@
+{
+    "id": "yoshiki-okamoto",
+    "name": "Yoshiki Okamoto",
+    "description": "Japanese game designer and producer best known for major Capcom arcade hits including Final Fight and Street Fighter II.",
+    "type": "person",
+    "portrait": "yoshiki-okamoto",
+    "roles": [
+        "producer",
+        "designer"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "time-pilot",
+        "gyruss",
+        "final-fight",
+        "street-fighter-ii-the-world-warrior",
+        "street-fighter-ii-turbo-hyper-fighting",
+        "resident-evil"
+    ],
+    "notes": null
+}

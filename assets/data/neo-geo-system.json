@@ -1,0 +1,53 @@
+{
+    "id": "neo-geo-system",
+    "name": "Neo Geo",
+    "description": "SNK's cartridge-based arcade and home platform family, shared across MVS arcade hardware and AES home consoles with largely identical games.",
+    "type": "system",
+    "logo": "neo-geo-system",
+    "era": "16-bit",
+    "companies": [
+        "snk-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "the-king-of-fighters-98",
+        "metal-slug",
+        "metal-slug-x",
+        "samurai-shodown-ii",
+        "garou-mark-of-the-wolves",
+        "the-last-blade-2",
+        "fatal-fury-special",
+        "shock-troopers",
+        "blazing-star",
+        "neo-turf-masters"
+    ],
+    "series": [
+        "the-king-of-fighters-series",
+        "metal-slug-series",
+        "samurai-shodown-series",
+        "fatal-fury-series",
+        "art-of-fighting-series",
+        "the-last-blade-series"
+    ],
+    "eras": [
+        {
+            "title": "Premium Arcade Era",
+            "start_year": 1990,
+            "end_year": 1993,
+            "description": "Early Neo Geo period establishing SNK's premium cartridge arcade and home identity."
+        },
+        {
+            "title": "Fighting Game Peak Era",
+            "start_year": 1994,
+            "end_year": 1999,
+            "description": "The King of Fighters, Fatal Fury, Samurai Shodown, and Metal Slug define the platform's strongest identity."
+        },
+        {
+            "title": "Late Neo Geo Era",
+            "start_year": 2000,
+            "end_year": 2004,
+            "description": "Late releases continue the MVS/AES library before SNK fully moves beyond the platform."
+        }
+    ],
+    "notes": null
+}

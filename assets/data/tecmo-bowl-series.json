@@ -3,7 +3,7 @@
   "name": "Tecmo Bowl",
   "description": "Tecmo's arcade-style American football series known for fast play and accessible sports action.",
   "type": "series",
-  "logo": "tecmo-bowl-logo",
+  "logo": "tecmo-bowl-series",
   "circle": "minor",
   "contains": [],
   "companies": [

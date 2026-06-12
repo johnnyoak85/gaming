@@ -1,0 +1,27 @@
+{
+    "id": "yoshinori-kitase",
+    "name": "Yoshinori Kitase",
+    "description": "Square Enix director and producer associated with Final Fantasy VI, Final Fantasy VII, Final Fantasy VIII, Final Fantasy X, and the Final Fantasy VII Remake project.",
+    "type": "person",
+    "portrait": "yoshinori-kitase",
+    "roles": [
+        "director",
+        "producer",
+        "writer"
+    ],
+    "companies": [
+        "square-enix-company",
+        "square-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy-vi",
+        "chrono-trigger",
+        "final-fantasy-vii",
+        "final-fantasy-viii",
+        "final-fantasy-x",
+        "final-fantasy-vii-remake"
+    ],
+    "notes": null
+}

@@ -77,8 +77,8 @@
     },
     "acquisition": {
         "priority": 5,
-        "reason": "Historically essential fighting game and major SNES showcase title.",
-        "notes": "Built into SNES Classic Mini."
+        "reason": null,
+        "notes": null
     },
     "event": null,
     "notes": null

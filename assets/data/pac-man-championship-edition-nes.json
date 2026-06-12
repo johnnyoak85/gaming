@@ -67,6 +67,6 @@
         "reason": "Unique preservation-era Namco demake and valuable curiosity within Pac-Man history.",
         "notes": "Contained in NAMCO MUSEUM ARCHIVES Vol 1."
     },
-    "event": null,
+    "event": "pac-man-40th-anniversary-event",
     "notes": "NES-style demake created for NAMCO MUSEUM ARCHIVES."
 }

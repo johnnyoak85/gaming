@@ -1,0 +1,26 @@
+{
+    "id": "akira-nishitani",
+    "name": "Akira Nishitani",
+    "description": "Japanese game designer known for Final Fight and Street Fighter II. Later founded Arika, developer of Street Fighter EX and Tetris: The Grand Master.",
+    "type": "person",
+    "portrait": "akira-nishitani",
+    "roles": [
+        "designer",
+        "director"
+    ],
+    "companies": [
+        "capcom-company",
+        "arika-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "final-fight",
+        "street-fighter-ii-the-world-warrior",
+        "street-fighter-ii-turbo-hyper-fighting",
+        "street-fighter-ex",
+        "tetris-the-grand-master",
+        "fighting-ex-layer"
+    ],
+    "notes": null
+}

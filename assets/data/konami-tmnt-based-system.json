@@ -1,0 +1,25 @@
+{
+    "id": "konami-tmnt-based-system",
+    "name": "Konami TMNT Based Hardware",
+    "description": "Konami late-1980s arcade hardware family used for Teenage Mutant Ninja Turtles and related releases including Thunder Cross.",
+    "type": "system",
+    "logo": "konami-1986",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "teenage-mutant-ninja-turtles-arcade",
+        "thunder-cross",
+        "crime-fighters",
+        "aliens",
+        "gradius-iii"
+    ],
+    "series": [
+        "teenage-mutant-ninja-turtles-series",
+        "gradius-series"
+    ],
+    "eras": [],
+    "notes": null
+}

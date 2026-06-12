@@ -1,0 +1,15 @@
+{
+    "id": "konami-50th-anniversary-event",
+    "name": "Konami's 50th Anniversary",
+    "description": "Konami's 50th anniversary celebration, marked by the Anniversary Collection releases covering arcade, Castlevania, and Contra classics.",
+    "type": "event",
+    "logo": "konami-50th-anniversary-event",
+    "date": "2019-03-21",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [],
+    "companies": [
+        "konami-company"
+    ],
+    "notes": null
+}

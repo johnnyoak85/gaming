@@ -1,0 +1,17 @@
+{
+    "id": "castlevania-40th-anniversary-event",
+    "name": "Castlevania 40th Anniversary",
+    "description": "Konami's 40th anniversary celebration for Castlevania, tied to new products and the reveal of Castlevania: Belmont's Curse.",
+    "type": "event",
+    "logo": "castlevania-40th-anniversary-logo",
+    "date": "2026-02-12",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "castlevania-series"
+    ],
+    "companies": [
+        "konami-company"
+    ],
+    "notes": null
+}

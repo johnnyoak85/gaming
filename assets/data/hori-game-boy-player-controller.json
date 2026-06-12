@@ -2,7 +2,7 @@
     "id": "hori-game-boy-player-controller",
     "name": "HORI Game Boy Player Controller",
     "description": "Digital GameCube controller by HORI designed for Game Boy Player use, with a D-pad-focused layout suited to Game Boy, Game Boy Color, and Game Boy Advance games.",
-    "cover": "hori-game-boy-player-controller",
+    "cover": "game-boy-controller",
     "release": "2003-03-21",
     "type": "hardware",
     "category": "controller",

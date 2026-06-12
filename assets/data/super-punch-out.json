@@ -5,11 +5,10 @@
     "release": "1994-09-14",
     "type": "game",
     "franchise": {
-        "universe": "Punch-Out!!",
-        "series": "Punch-Out!!",
+        "series": "punch-out-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Sports",
@@ -58,7 +57,12 @@
         ]
     },
     "companies": [
-        "Nintendo R&D3"
+        "nintendo-company",
+        "locomotive-corporation-company"
+    ],
+    "people": [
+        "genyo-takeda",
+        "makoto-wada"
     ],
     "progress": "planned",
     "backlog": {

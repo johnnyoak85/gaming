@@ -5,11 +5,10 @@
     "release": "1993-04-28",
     "type": "game",
     "franchise": {
-        "universe": "Bomberman",
-        "series": "Bomberman",
-        "subseries": "Super Bomberman"
+        "series": "bomberman-series",
+        "subseries": "super-bomberman-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -59,8 +58,7 @@
         ]
     },
     "companies": [
-        "Produce!",
-        "Hudson Soft"
+        "produce-company"
     ],
     "progress": "planned",
     "backlog": {

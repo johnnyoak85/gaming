@@ -1,0 +1,40 @@
+{
+    "id": "westwood-studios-company",
+    "name": "Westwood Studios",
+    "description": "American developer known for The Lion King, the Kyrandia adventure games, Dune II, Command & Conquer, and major real-time strategy work.",
+    "type": "company",
+    "logo": "westwood-studios-company",
+    "circle": "major",
+    "founded": "1985-01-01",
+    "defunct": {
+        "date": "2003-03-31",
+        "reason": "closed",
+        "successor": "electronic-arts-company"
+    },
+    "contains": [],
+    "country": "US",
+    "people": [],
+    "essentials": [
+        "the-lion-king-snes",
+        "the-legend-of-kyrandia",
+        "dune-ii",
+        "command-and-conquer",
+        "command-and-conquer-red-alert",
+        "blade-runner"
+    ],
+    "eras": [
+        {
+            "title": "Adventure and Licensed Era",
+            "start_year": 1985,
+            "end_year": 1994,
+            "description": "Westwood builds its early identity through adventure games, RPGs, licensed work, and Dune II."
+        },
+        {
+            "title": "Real-Time Strategy Era",
+            "start_year": 1995,
+            "end_year": 2003,
+            "description": "Command & Conquer and Red Alert define Westwood as one of the key RTS studios before EA closes the studio."
+        }
+    ],
+    "notes": null
+}

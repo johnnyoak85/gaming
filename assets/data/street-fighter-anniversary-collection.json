@@ -41,7 +41,7 @@
     ],
     "versions": [],
     "contains": [
-        "street-fighter-iii-3rd-strike",
+        "street-fighter-iii-3rd-strike-2004",
         "hyper-street-fighter-ii-the-anniversary-edition"
     ],
     "relationships": [],
@@ -76,7 +76,7 @@
         "reason": "Historically important Street Fighter compilation and major sixth-generation fighting game release.",
         "notes": "Owned physically on Xbox."
     },
-    "event": "Street Fighter 15th Anniversary",
+    "event": "street-fighter-15th-anniversary-event",
     "notes": null,
     "category": "collection"
 }

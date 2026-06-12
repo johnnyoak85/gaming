@@ -1,0 +1,17 @@
+{
+    "id": "the-legend-of-zelda-25th-anniversary-event",
+    "name": "The Legend of Zelda 25th Anniversary",
+    "description": "Nintendo's celebration of 25 years of The Legend of Zelda, tied to anniversary releases, concerts, and Skyward Sword.",
+    "type": "event",
+    "logo": "the-legend-of-zelda-25th-anniversary-event",
+    "date": "2011-02-21",
+    "end_date": "2011-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "the-legend-of-zelda-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

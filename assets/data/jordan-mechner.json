@@ -1,0 +1,28 @@
+{
+    "id": "jordan-mechner",
+    "name": "Jordan Mechner",
+    "description": "American game designer, writer, and filmmaker best known as the creator of Karateka and Prince of Persia.",
+    "type": "person",
+    "portrait": "jordan-mechner",
+    "roles": [
+        "designer",
+        "programmer",
+        "writer",
+        "director"
+    ],
+    "companies": [
+        "broderbund-software-company",
+        "ubisoft-company"
+    ],
+    "circle": "major",
+    "country": "US",
+    "essentials": [
+        "karateka",
+        "prince-of-persia",
+        "prince-of-persia-snes",
+        "prince-of-persia-2-the-shadow-and-the-flame",
+        "the-last-express",
+        "prince-of-persia-the-sands-of-time"
+    ],
+    "notes": null
+}

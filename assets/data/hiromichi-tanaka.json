@@ -1,0 +1,27 @@
+{
+    "id": "hiromichi-tanaka",
+    "name": "Hiromichi Tanaka",
+    "description": "Japanese game designer and producer associated with early Final Fantasy, Secret of Mana, Xenogears, Chrono Cross, and Final Fantasy XI.",
+    "type": "person",
+    "portrait": "hiromichi-tanaka",
+    "roles": [
+        "designer",
+        "producer"
+    ],
+    "companies": [
+        "square-company",
+        "square-enix-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy",
+        "final-fantasy-ii",
+        "final-fantasy-iii",
+        "secret-of-mana",
+        "xenogears",
+        "chrono-cross",
+        "final-fantasy-xi"
+    ],
+    "notes": null
+}

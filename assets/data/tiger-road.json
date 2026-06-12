@@ -4,6 +4,7 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ttt.webp",
     "release": "1987-04-01",
     "type": "game",
+    "system": "capcom-68000-based-system",
     "franchise": {
         "universe": "Tiger Road",
         "series": "Tiger Road",

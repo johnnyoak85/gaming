@@ -2,9 +2,7 @@
     "id": "fire-emblem-shadow-dragon-and-the-blade-of-light",
     "name": "Fire Emblem: Shadow Dragon and the Blade of Light",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9fn.webp",
-    "aliases": [
-        "Double Dragon III: The Rosetta Stone"
-    ],
+    "aliases": [],
     "release": "1990-04-20",
     "type": "game",
     "franchise": {
@@ -72,7 +70,7 @@
         "reason": "Historically essential Nintendo strategy RPG and landmark official localization release.",
         "notes": "2020 official English localization injected into NES Classic Mini."
     },
-    "event": "Fire Emblem 30th Anniversary",
+    "event": "fire-emblem-30th-anniversary-event",
     "notes": null,
     "description": "Tactical RPG where Marth leads an army across grid-based battles.",
     "people": [

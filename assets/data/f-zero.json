@@ -5,11 +5,12 @@
     "release": "1990-11-21",
     "type": "game",
     "franchise": {
-        "universe": "F-Zero",
-        "series": "F-Zero",
+        "series": "f-zero-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "category": "single_entry",
+    "aliases": [],
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Racing"
@@ -54,7 +55,10 @@
         ]
     },
     "companies": [
-        "Nintendo EAD"
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto"
     ],
     "progress": "planned",
     "backlog": {

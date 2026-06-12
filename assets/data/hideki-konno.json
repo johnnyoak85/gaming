@@ -1,0 +1,25 @@
+{
+    "id": "hideki-konno",
+    "name": "Hideki Konno",
+    "description": "Nintendo designer, director, and producer closely associated with Mario Kart and Nintendo hardware/software development.",
+    "type": "person",
+    "portrait": "hideki-konno",
+    "roles": [
+        "director",
+        "designer",
+        "producer"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "super-mario-kart",
+        "mario-kart-64",
+        "luigis-mansion",
+        "nintendogs",
+        "mario-kart-7"
+    ],
+    "notes": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yasunori-mitsuda",
+    "name": "Yasunori Mitsuda",
+    "description": "Japanese composer best known for Chrono Trigger, Xenogears, Chrono Cross, and major RPG soundtracks.",
+    "type": "person",
+    "portrait": "yasunori-mitsuda",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "square-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "chrono-trigger",
+        "xenogears",
+        "chrono-cross",
+        "xenosaga-episode-i",
+        "xenoblade-chronicles-2"
+    ],
+    "notes": null
+}

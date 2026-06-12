@@ -1,0 +1,45 @@
+{
+    "id": "prince-of-persia-series",
+    "name": "Prince of Persia",
+    "description": "Cinematic platforming and action-adventure series created by Jordan Mechner, known for rotoscoped animation, palace traversal, traps, swordplay, and later time-manipulation mechanics.",
+    "type": "series",
+    "logo": "prince-of-persia-series",
+    "circle": "major",
+    "contains": [
+        "prince-of-persia-the-sands-of-time-series"
+    ],
+    "companies": [
+        "broderbund-software-company",
+        "ubisoft-company"
+    ],
+    "people": [
+        "jordan-mechner"
+    ],
+    "essentials": [
+        "prince-of-persia",
+        "prince-of-persia-snes",
+        "prince-of-persia-the-sands-of-time",
+        "prince-of-persia-the-lost-crown"
+    ],
+    "eras": [
+        {
+            "title": "Cinematic Platformer Era",
+            "start_year": 1989,
+            "end_year": 1999,
+            "description": "The original games define Prince of Persia through rotoscoped animation, lethal platforming, swordplay, and timed palace escape."
+        },
+        {
+            "title": "Sands of Time Era",
+            "start_year": 2003,
+            "end_year": 2010,
+            "description": "Ubisoft revives the series as a 3D action-adventure franchise centered on acrobatics, combat, and time manipulation."
+        },
+        {
+            "title": "Modern Revival Era",
+            "start_year": 2024,
+            "end_year": null,
+            "description": "The series returns through modern action-platforming and reinterpretations of the Prince of Persia identity."
+        }
+    ],
+    "notes": null
+}

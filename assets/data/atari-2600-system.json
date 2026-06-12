@@ -3,7 +3,7 @@
     "name": "Atari 2600",
     "description": "Atari's classic cartridge-based home console platform, central to the early home video game market and pre-crash console era.",
     "type": "system",
-    "logo": "atari-2600-logo",
+    "logo": "atari-2600-system",
     "era": "classic",
     "companies": [
         "atari-company"

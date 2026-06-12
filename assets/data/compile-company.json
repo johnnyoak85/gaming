@@ -1,0 +1,33 @@
+{
+    "id": "compile-company",
+    "name": "Compile",
+    "description": "Japanese developer known for Puyo Puyo, Aleste, Zanac, and other shooters and puzzle games.",
+    "type": "company",
+    "logo": "compile-company",
+    "circle": "minor",
+    "founded": "1982-04-07",
+    "defunct": {
+        "date": "2003-11-06",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "puyo-puyo",
+        "kirbys-avalanche",
+        "zanac",
+        "aleste",
+        "muso-aleste"
+    ],
+    "eras": [
+        {
+            "title": "Shooter and Puzzle Era",
+            "start_year": 1982,
+            "end_year": 1998,
+            "description": "Compile becomes known for shooters and Puyo Puyo before financial decline."
+        }
+    ],
+    "notes": null
+}

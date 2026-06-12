@@ -1,0 +1,25 @@
+{
+    "id": "chris-stamper",
+    "name": "Chris Stamper",
+    "description": "Co-founder of Ultimate Play the Game and Rare. Central figure in Rare's technical and creative development through its 1980s and 1990s peak.",
+    "type": "person",
+    "portrait": "chris-stamper",
+    "roles": [
+        "programmer",
+        "designer",
+        "executive"
+    ],
+    "companies": [
+        "rare-company"
+    ],
+    "circle": "minor",
+    "country": "GB",
+    "essentials": [
+        "jetpac",
+        "sabre-wulf",
+        "battletoads",
+        "donkey-kong-country",
+        "goldeneye-007"
+    ],
+    "notes": null
+}

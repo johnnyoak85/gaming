@@ -1,0 +1,17 @@
+{
+    "id": "super-mario-bros-25th-anniversary-event",
+    "name": "Super Mario Bros. 25th Anniversary",
+    "description": "Nintendo's celebration of 25 years of Super Mario Bros., marked by anniversary websites, merchandise, special hardware, and Super Mario All-Stars Limited Edition.",
+    "type": "event",
+    "logo": "super-mario-bros-25th-anniversary-event",
+    "date": "2010-09-13",
+    "end_date": "2011-01-31",
+    "category": "anniversary",
+    "franchise": [
+        "super-mario-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

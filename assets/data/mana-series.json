@@ -1,0 +1,46 @@
+{
+    "id": "mana-series",
+    "name": "Mana",
+    "description": "Square Enix action RPG series known in Japan as Seiken Densetsu, centered on fantasy worlds, the Mana Tree, real-time combat, and standalone adventures.",
+    "type": "series",
+    "logo": "mana-logo",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "square-company",
+        "square-enix-company"
+    ],
+    "people": [
+        "koichi-ishii",
+        "hiromichi-tanaka",
+        "hiroki-kikuta"
+    ],
+    "essentials": [
+        "final-fantasy-adventure",
+        "secret-of-mana",
+        "trials-of-mana",
+        "legend-of-mana",
+        "visions-of-mana"
+    ],
+    "eras": [
+        {
+            "title": "Seiken Densetsu Era",
+            "start_year": 1991,
+            "end_year": 1995,
+            "description": "The original Square era establishes Mana through Final Fantasy Adventure, Secret of Mana, and Trials of Mana."
+        },
+        {
+            "title": "Experimental Era",
+            "start_year": 1999,
+            "end_year": 2007,
+            "description": "Legend of Mana and the World of Mana projects expand the series through experimental structure, spin-offs, and mixed reception."
+        },
+        {
+            "title": "Revival Era",
+            "start_year": 2016,
+            "end_year": null,
+            "description": "Modern remakes, collections, and new releases revive the Mana series for current platforms."
+        }
+    ],
+    "notes": null
+}

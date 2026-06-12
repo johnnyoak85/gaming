@@ -1,0 +1,21 @@
+{
+    "id": "gunforce-series",
+    "name": "GunForce",
+    "description": "Irem run-and-gun series consisting of GunForce and its arcade sequel GunForce II, also known as GeoStorm.",
+    "type": "series",
+    "logo": "gunforce-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "irem-company"
+    ],
+    "people": [],
+    "essentials": [
+        "gunforce-arcade",
+        "gunforce-snes",
+        "gunforce-ii",
+        "geostorm"
+    ],
+    "eras": [],
+    "notes": null
+}

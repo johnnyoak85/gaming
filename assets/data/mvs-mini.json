@@ -12,7 +12,7 @@
     ],
     "form": "dedicated",
     "era": "16-bit",
-    "system": "neo-geo-mvs-system",
+    "system": "neo-geo-system",
     "compatible_with": [],
     "franchise": {
         "series": "neo-geo-series",

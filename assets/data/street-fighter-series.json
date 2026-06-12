@@ -1,0 +1,57 @@
+{
+    "id": "street-fighter-series",
+    "name": "Street Fighter",
+    "description": "Capcom's flagship fighting game series, centered on martial artists from around the world and one-on-one competitive play.",
+    "type": "series",
+    "logo": "street-fighter-series",
+    "circle": "major",
+    "contains": [
+        "street-fighter-ii-series",
+        "street-fighter-alpha-series",
+        "street-fighter-iii-series"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "people": [
+        "yoshiki-okamoto",
+        "akira-nishitani",
+        "akira-yasuda"
+    ],
+    "essentials": [
+        "street-fighter-ii-the-world-warrior",
+        "street-fighter-ii-turbo-hyper-fighting",
+        "super-street-fighter-ii-turbo",
+        "street-fighter-alpha-3",
+        "street-fighter-iii-3rd-strike-fight-for-the-future",
+        "street-fighter-iv",
+        "street-fighter-6"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Foundation Era",
+            "start_year": 1987,
+            "end_year": 1990,
+            "description": "The original Street Fighter establishes the martial-arts tournament premise before the sequel defines the genre."
+        },
+        {
+            "title": "Street Fighter II Era",
+            "start_year": 1991,
+            "end_year": 1995,
+            "description": "Street Fighter II and its revisions turn the series into the defining competitive fighting game franchise."
+        },
+        {
+            "title": "Alpha and III Era",
+            "start_year": 1995,
+            "end_year": 1999,
+            "description": "Alpha expands the series' style and roster while Street Fighter III pushes technical play and animation."
+        },
+        {
+            "title": "Modern Revival Era",
+            "start_year": 2008,
+            "end_year": null,
+            "description": "Street Fighter IV revives mainstream fighting games, followed by modern competitive entries and esports support."
+        }
+    ],
+    "notes": null
+}

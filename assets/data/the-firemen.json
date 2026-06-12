@@ -5,11 +5,10 @@
     "release": "1994-09-09",
     "type": "game",
     "franchise": {
-        "universe": "The Firemen",
-        "series": "The Firemen",
+        "series": null,
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action"
@@ -51,7 +50,7 @@
         ]
     },
     "companies": [
-        "Human Entertainment"
+        "human-entertainment-company"
     ],
     "progress": "planned",
     "backlog": {

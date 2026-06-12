@@ -1,0 +1,91 @@
+{
+    "id": "disney-classic-games-collection",
+    "name": "Disney Classic Games Collection",
+    "aliases": [
+        "Disney Classic Games Collection: The Jungle Book, Aladdin and the Lion King"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7x1m.webp",
+    "release": "2021-11-23",
+    "type": "game",
+    "category": "collection",
+    "franchise": {
+        "series": null,
+        "subseries": null
+    },
+    "system": "nintendo-switch-system",
+    "classification": {
+        "genres": [
+            "Compilation",
+            "Platform"
+        ],
+        "subgenres": [
+            "Retro Collection"
+        ],
+        "themes": [
+            "Disney",
+            "Animation",
+            "Adventure"
+        ],
+        "tags": [
+            "Digital",
+            "Collection",
+            "Disney",
+            "Retro"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [],
+    "people": [],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Useful preservation package for the major 16-bit Disney licensed platformers across Aladdin, The Lion King, and The Jungle Book.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 18
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "contains": [
+        "disneys-aladdin-snes",
+        "disneys-aladdin-genesis",
+        "disneys-aladdin-genesis-jp",
+        "disneys-aladdin-final-cut",
+        "disneys-aladdin-trade-show-demo",
+        "disneys-aladdin-game-boy",
+        "disneys-aladdin-game-boy-color",
+        "the-lion-king-snes",
+        "the-lion-king-genesis",
+        "the-lion-king-genesis-jp",
+        "the-lion-king-game-boy",
+        "the-lion-king-game-boy-color",
+        "disneys-the-jungle-book-snes",
+        "disneys-the-jungle-book-genesis",
+        "disneys-the-jungle-book-game-boy"
+    ],
+    "notes": null
+}

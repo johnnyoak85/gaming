@@ -3,7 +3,7 @@
     "name": "Intellivision",
     "description": "Mattel's classic home console platform and Atari 2600 rival, known for keypad overlays, sports games, and early voice/strategy experiments.",
     "type": "system",
-    "logo": "intellivision-logo",
+    "logo": "intellivision-system",
     "era": "classic",
     "companies": [
         "mattel-company",

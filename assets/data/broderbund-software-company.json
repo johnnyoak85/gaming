@@ -1,0 +1,43 @@
+{
+    "id": "broderbund-software-company",
+    "name": "Brøderbund Software",
+    "description": "American software and game company known for Prince of Persia, Karateka, Lode Runner, Myst, The Print Shop, and Where in the World Is Carmen Sandiego?",
+    "type": "company",
+    "logo": "broderbund-software-company",
+    "circle": "major",
+    "founded": "1980-01-01",
+    "defunct": {
+        "date": "1998-06-22",
+        "reason": "acquired",
+        "successor": "the-learning-company-company"
+    },
+    "contains": [],
+    "country": "US",
+    "people": [
+        "jordan-mechner"
+    ],
+    "essentials": [
+        "choplifter",
+        "lode-runner",
+        "karateka",
+        "prince-of-persia",
+        "prince-of-persia-2-the-shadow-and-the-flame",
+        "where-in-the-world-is-carmen-sandiego",
+        "myst"
+    ],
+    "eras": [
+        {
+            "title": "Apple II and Educational Software Era",
+            "start_year": 1980,
+            "end_year": 1988,
+            "description": "Brøderbund becomes a major home computer publisher through Apple II games, creative tools, and educational software."
+        },
+        {
+            "title": "Prince of Persia and Multimedia Era",
+            "start_year": 1989,
+            "end_year": 1998,
+            "description": "The company publishes Prince of Persia and major multimedia/edutainment software before being acquired by The Learning Company."
+        }
+    ],
+    "notes": null
+}

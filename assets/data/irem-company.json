@@ -1,0 +1,36 @@
+{
+    "id": "irem-company",
+    "name": "Irem",
+    "description": "Japanese developer known for R-Type, Moon Patrol, Kung-Fu Master, GunForce, In the Hunt, and other arcade and console games.",
+    "type": "company",
+    "logo": "irem-company",
+    "circle": "major",
+    "founded": "1974-07-10",
+    "defunct": null,
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "r-type",
+        "moon-patrol",
+        "kung-fu-master",
+        "gunforce-arcade",
+        "gunforce-ii",
+        "in-the-hunt"
+    ],
+    "eras": [
+        {
+            "title": "Arcade Action Era",
+            "start_year": 1980,
+            "end_year": 1994,
+            "description": "Irem establishes itself through arcade action, shooters, and run-and-gun games."
+        },
+        {
+            "title": "Legacy and Reissue Era",
+            "start_year": 1995,
+            "end_year": null,
+            "description": "The company continues mainly through later releases, licensing, and preservation of its arcade catalog."
+        }
+    ],
+    "notes": null
+}

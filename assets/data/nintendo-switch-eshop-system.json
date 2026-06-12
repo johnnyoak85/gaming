@@ -3,7 +3,7 @@
     "name": "Nintendo Switch eShop",
     "description": "Digital storefront platform for Nintendo Switch downloadable games, DLC, demos, updates, and indie releases.",
     "type": "system",
-    "logo": "nintendo-switch-eshop-logo",
+    "logo": "nintendo-eshop-system",
     "era": null,
     "companies": [
         "nintendo-company"

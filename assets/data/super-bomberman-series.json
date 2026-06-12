@@ -1,0 +1,37 @@
+{
+    "id": "super-bomberman-series",
+    "name": "Super Bomberman",
+    "description": "Bomberman subseries beginning on Super Nintendo, focused on 16-bit maze action and local multiplayer party play.",
+    "type": "series",
+    "logo": "super-bomberman-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "produce-company",
+        "hudson-soft-company"
+    ],
+    "people": [],
+    "essentials": [
+        "super-bomberman",
+        "super-bomberman-2",
+        "super-bomberman-3",
+        "super-bomberman-5",
+        "super-bomberman-r",
+        "super-bomberman-r-2"
+    ],
+    "eras": [
+        {
+            "title": "SNES Multiplayer Era",
+            "start_year": 1993,
+            "end_year": 1997,
+            "description": "The Super Nintendo entries define the branch through four-player local multiplayer and expanded Bomberman party play."
+        },
+        {
+            "title": "Modern Revival Era",
+            "start_year": 2017,
+            "end_year": null,
+            "description": "Super Bomberman returns as Konami's modern Bomberman branch."
+        }
+    ],
+    "notes": null
+}

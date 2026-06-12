@@ -1,15 +1,17 @@
 {
     "id": "mega-man-x4",
     "name": "Mega Man X4",
+    "aliases": [
+        "Rockman X4"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar91.webp",
     "release": "1997-08-01",
     "type": "game",
     "franchise": {
-        "universe": "Mega Man",
-        "series": "Mega Man X",
-        "subseries": null
+        "series": "mega-man-series",
+        "subseries": "mega-man-x-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "playstation-system",
     "classification": {
         "genres": [
             "Action",
@@ -27,7 +29,15 @@
         ]
     },
     "player_age": 8,
-    "access": [],
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "mega-man-x-legacy-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
     "versions": [],
     "relationships": [
         {
@@ -49,7 +59,10 @@
         ]
     },
     "companies": [
-        "Capcom"
+        "capcom-company"
+    ],
+    "people": [
+        "keiji-inafune"
     ],
     "progress": "planned",
     "backlog": {
@@ -64,6 +77,6 @@
         "reason": null,
         "notes": null
     },
-    "event": null,
+    "event": "mega-man-10th-anniversary-event",
     "notes": null
 }

@@ -1,0 +1,23 @@
+{
+    "id": "konami-contra-based-system",
+    "name": "Konami Contra Based Hardware",
+    "description": "Konami arcade hardware family used for Contra/Gryzor and related late-1980s action games including Haunted Castle.",
+    "type": "system",
+    "logo": "konami-1986",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "contra-arcade",
+        "gryzor",
+        "haunted-castle"
+    ],
+    "series": [
+        "contra-series",
+        "castlevania-series"
+    ],
+    "eras": [],
+    "notes": null
+}

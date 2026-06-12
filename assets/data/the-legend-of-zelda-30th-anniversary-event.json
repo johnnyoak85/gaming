@@ -1,0 +1,17 @@
+{
+    "id": "the-legend-of-zelda-30th-anniversary-event",
+    "name": "The Legend of Zelda 30th Anniversary",
+    "description": "Nintendo's celebration of 30 years of The Legend of Zelda, including anniversary releases and commemorative products.",
+    "type": "event",
+    "logo": "the-legend-of-zelda-30th-anniversary-event",
+    "date": "2016-02-21",
+    "end_date": "2016-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "the-legend-of-zelda-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

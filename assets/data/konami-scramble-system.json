@@ -1,0 +1,22 @@
+{
+    "id": "konami-scramble-system",
+    "name": "Konami Scramble Hardware",
+    "description": "Early Konami arcade hardware family used for Scramble and closely related early-1980s arcade games.",
+    "type": "system",
+    "logo": "konami-1981",
+    "era": "classic",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "scramble",
+        "super-cobra",
+        "amidar"
+    ],
+    "series": [
+        "scramble-series"
+    ],
+    "eras": [],
+    "notes": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": "star-fox-series",
+    "name": "Star Fox",
+    "description": "Nintendo sci-fi rail-shooter and space-combat series starring Fox McCloud and the Star Fox team.",
+    "type": "series",
+    "logo": "star-fox-series",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "nintendo-company",
+        "argonaut-software-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "dylan-cuthbert"
+    ],
+    "essentials": [
+        "star-fox",
+        "star-fox-64",
+        "star-fox-2",
+        "star-fox-64-3d",
+        "star-fox-zero"
+    ],
+    "eras": [
+        {
+            "title": "Super FX Era",
+            "start_year": 1993,
+            "end_year": 1995,
+            "description": "The original SNES games establish Star Fox through polygonal 3D tech and Nintendo-Argonaut collaboration."
+        },
+        {
+            "title": "Lylat Wars Era",
+            "start_year": 1997,
+            "end_year": 2006,
+            "description": "Star Fox 64 defines the series' main identity, followed by GameCube and DS experiments."
+        },
+        {
+            "title": "Revival Era",
+            "start_year": 2011,
+            "end_year": null,
+            "description": "Remakes, the official release of Star Fox 2, and later reimaginings preserve the series as a Nintendo legacy franchise."
+        }
+    ],
+    "notes": null
+}

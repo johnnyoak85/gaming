@@ -1,0 +1,47 @@
+{
+    "id": "chrono-series",
+    "name": "Chrono",
+    "description": "Square's time-travel RPG series beginning with Chrono Trigger and continuing through Radical Dreamers and Chrono Cross.",
+    "type": "series",
+    "logo": "chrono-logo",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "square-company",
+        "square-enix-company"
+    ],
+    "people": [
+        "hironobu-sakaguchi",
+        "yuji-horii",
+        "akira-toriyama",
+        "yasunori-mitsuda",
+        "yoshinori-kitase"
+    ],
+    "essentials": [
+        "chrono-trigger",
+        "radical-dreamers",
+        "chrono-cross",
+        "chrono-cross-the-radical-dreamers-edition"
+    ],
+    "eras": [
+        {
+            "title": "Dream Team Era",
+            "start_year": 1995,
+            "end_year": 1996,
+            "description": "Chrono Trigger and Radical Dreamers establish the series' time-travel identity and connection between worlds."
+        },
+        {
+            "title": "Chrono Cross Era",
+            "start_year": 1999,
+            "end_year": 2000,
+            "description": "Chrono Cross expands the setting with parallel worlds, a larger cast, and a different structure from Chrono Trigger."
+        },
+        {
+            "title": "Legacy Revival Era",
+            "start_year": 2008,
+            "end_year": null,
+            "description": "Ports, remasters, and re-releases preserve the series without a major new entry."
+        }
+    ],
+    "notes": null
+}

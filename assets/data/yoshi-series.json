@@ -1,0 +1,39 @@
+{
+    "id": "yoshi-series",
+    "name": "Yoshi",
+    "description": "Nintendo's Mario-adjacent series starring Yoshi, covering puzzle games, platformers, and craft-style adventures.",
+    "type": "series",
+    "logo": "yoshi-series",
+    "circle": "sub",
+    "contains": [
+        "yoshis-island-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka"
+    ],
+    "essentials": [
+        "super-mario-world-2-yoshis-island",
+        "yoshis-story",
+        "yoshis-woolly-world",
+        "yoshis-crafted-world"
+    ],
+    "eras": [
+        {
+            "title": "Puzzle and Island Era",
+            "start_year": 1991,
+            "end_year": 1998,
+            "description": "Yoshi moves from Mario supporting character into puzzle games and the Yoshi's Island platforming identity."
+        },
+        {
+            "title": "Craft Platformer Era",
+            "start_year": 2015,
+            "end_year": null,
+            "description": "Modern Yoshi games emphasize soft craft aesthetics, collectibles, and accessible platforming."
+        }
+    ],
+    "notes": null
+}

@@ -1,0 +1,17 @@
+{
+    "id": "pac-man-40th-anniversary-event",
+    "name": "Pac-Man 40th Anniversary",
+    "description": "Bandai Namco's 40th anniversary celebration for Pac-Man, including music, collaborations, games, and brand campaigns.",
+    "type": "event",
+    "logo": "pac-man-40th-anniversary-event",
+    "date": "2019-11-04",
+    "end_date": "2020-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "pac-man-series"
+    ],
+    "companies": [
+        "bandai-namco-company"
+    ],
+    "notes": null
+}

@@ -1,15 +1,17 @@
 {
     "id": "star-fox",
     "name": "Star Fox",
+    "aliases": [
+        "Starwing"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71tr.webp",
     "release": "1993-02-21",
     "type": "game",
     "franchise": {
-        "universe": "Star Fox",
-        "series": "Star Fox",
+        "series": "star-fox-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Shooter"
@@ -55,8 +57,12 @@
         ]
     },
     "companies": [
-        "Nintendo EAD",
-        "Argonaut Software"
+        "nintendo-company",
+        "argonaut-software-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "dylan-cuthbert"
     ],
     "progress": "planned",
     "backlog": {

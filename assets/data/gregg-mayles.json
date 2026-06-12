@@ -1,0 +1,24 @@
+{
+    "id": "gregg-mayles",
+    "name": "Gregg Mayles",
+    "description": "Rare designer and creative lead associated with Donkey Kong Country, Banjo-Kazooie, Viva Piñata, and Sea of Thieves.",
+    "type": "person",
+    "portrait": "gregg-mayles",
+    "roles": [
+        "designer",
+        "director"
+    ],
+    "companies": [
+        "rare-company"
+    ],
+    "circle": "minor",
+    "country": "GB",
+    "essentials": [
+        "donkey-kong-country",
+        "banjo-kazooie",
+        "banjo-tooie",
+        "viva-pinata",
+        "sea-of-thieves"
+    ],
+    "notes": null
+}

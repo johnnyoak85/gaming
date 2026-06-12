@@ -5,11 +5,12 @@
     "release": "1990-11-21",
     "type": "game",
     "franchise": {
-        "universe": "Mario",
-        "series": "Super Mario",
-        "subseries": "Super Mario World"
+        "series": "super-mario-series",
+        "subseries": "super-mario-bros-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "category": "single_entry",
+    "aliases": [],
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform"
@@ -59,7 +60,12 @@
         ]
     },
     "companies": [
-        "Nintendo EAD"
+        "nintendo-company"
+    ],
+    "people": [
+        "shigeru-miyamoto",
+        "takashi-tezuka",
+        "koji-kondo"
     ],
     "progress": "planned",
     "backlog": {

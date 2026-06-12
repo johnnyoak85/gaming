@@ -1,0 +1,45 @@
+{
+    "id": "blizzard-entertainment-company",
+    "name": "Blizzard Entertainment",
+    "description": "American developer known for Warcraft, Diablo, StarCraft, Overwatch, and its earlier console games including Blackthorne and The Lost Vikings 2.",
+    "type": "company",
+    "logo": "blizzard-entertainment-company",
+    "circle": "major",
+    "founded": "1991-02-08",
+    "defunct": null,
+    "contains": [],
+    "country": "US",
+    "people": [],
+    "essentials": [
+        "warcraft-orcs-and-humans",
+        "diablo",
+        "starcraft",
+        "warcraft-iii-reign-of-chaos",
+        "world-of-warcraft",
+        "diablo-ii",
+        "overwatch",
+        "blackthorne-snes",
+        "the-lost-vikings-2-snes"
+    ],
+    "eras": [
+        {
+            "title": "Console Origins Era",
+            "start_year": 1991,
+            "end_year": 1994,
+            "description": "The studio begins as Silicon & Synapse and develops console games before adopting the Blizzard name."
+        },
+        {
+            "title": "PC Strategy and Action RPG Era",
+            "start_year": 1994,
+            "end_year": 2004,
+            "description": "Warcraft, Diablo, StarCraft, and Warcraft III establish Blizzard as a major PC developer."
+        },
+        {
+            "title": "Online Service Era",
+            "start_year": 2004,
+            "end_year": null,
+            "description": "World of Warcraft and later online-focused games define Blizzard's modern identity."
+        }
+    ],
+    "notes": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "capcom-section-z-system",
+    "name": "Capcom Section Z Hardware",
+    "description": "Capcom arcade hardware family used for Section Z, Trojan, and Legendary Wings.",
+    "type": "system",
+    "logo": "capcom-section-z-logo",
+    "era": "classic",
+    "companies": [
+        "capcom-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "section-z",
+        "tatakai-no-banka",
+        "legendary-wings"
+    ],
+    "series": [
+        "section-z-series",
+        "legendary-wings-series"
+    ],
+    "eras": [],
+    "notes": null
+}

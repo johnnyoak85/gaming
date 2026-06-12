@@ -1,0 +1,38 @@
+{
+    "id": "human-entertainment-company",
+    "name": "Human Entertainment",
+    "description": "Japanese developer known for Fire Pro Wrestling, Clock Tower, SOS, and The Firemen.",
+    "type": "company",
+    "logo": "human-entertainment-company",
+    "circle": "minor",
+    "founded": "1983-05-01",
+    "defunct": {
+        "date": "2000-01-01",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "fire-pro-wrestling-combination-tag",
+        "clock-tower",
+        "the-firemen",
+        "sos"
+    ],
+    "eras": [
+        {
+            "title": "Super Famicom Era",
+            "start_year": 1991,
+            "end_year": 1995,
+            "description": "Human Entertainment builds its identity through Fire Pro Wrestling, Clock Tower, The Firemen, and distinctive Super Famicom action/adventure games."
+        },
+        {
+            "title": "Late Console Era",
+            "start_year": 1996,
+            "end_year": 1999,
+            "description": "The company continues with PlayStation and Saturn releases before closing at the end of the decade."
+        }
+    ],
+    "notes": null
+}

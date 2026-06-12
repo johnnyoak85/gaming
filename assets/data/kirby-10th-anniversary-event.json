@@ -1,0 +1,18 @@
+{
+    "id": "kirby-10th-anniversary-event",
+    "name": "Kirby's 10th Anniversary",
+    "description": "Nintendo and HAL Laboratory's 10th anniversary milestone for Kirby, associated with Kirby: Nightmare in Dream Land.",
+    "type": "event",
+    "logo": "kirby-10th-anniversary-logo",
+    "date": "2002-04-27",
+    "end_date": "2002-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "kirby-series"
+    ],
+    "companies": [
+        "nintendo-company",
+        "hal-laboratory-company"
+    ],
+    "notes": null
+}

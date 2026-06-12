@@ -1,0 +1,31 @@
+{
+    "id": "almanic-company",
+    "name": "Almanic",
+    "description": "Japanese developer known for E.V.O.: Search for Eden, Wonder Project J, and Shin Nekketsu Kōha: Kunio-tachi no Banka.",
+    "type": "company",
+    "logo": "almanic-logo",
+    "circle": "minor",
+    "founded": "1988-01-01",
+    "defunct": {
+        "date": "1997-01-01",
+        "reason": "renamed",
+        "successor": "givro-company"
+    },
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "evo-search-for-eden",
+        "wonder-project-j",
+        "shin-nekketsu-koha-kunio-tachi-no-banka"
+    ],
+    "eras": [
+        {
+            "title": "Almanic Era",
+            "start_year": 1988,
+            "end_year": 1997,
+            "description": "Period covering Almanic's Super Famicom work before the studio continued under the Givro name."
+        }
+    ],
+    "notes": null
+}

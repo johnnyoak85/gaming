@@ -3,7 +3,7 @@
     "name": "Ninja Gaiden",
     "description": "Tecmo action series starring Ryu Hayabusa, known for fast combat, high difficulty, and cinematic presentation.",
     "type": "series",
-    "logo": "ninja-gaiden-logo",
+    "logo": "ninja-gaiden-series",
     "circle": "major",
     "contains": [],
     "companies": [

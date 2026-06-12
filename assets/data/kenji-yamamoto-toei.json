@@ -1,0 +1,22 @@
+{
+    "id": "kenji-yamamoto-toei",
+    "name": "Kenji Yamamoto",
+    "description": "Japanese composer associated with Dragon Ball game and anime music, especially Dragon Ball Z game soundtracks and Dragon Ball Kai.",
+    "type": "person",
+    "portrait": "kenji-yamamoto-toei",
+    "roles": [
+        "composer"
+    ],
+    "companies": [
+        "toei-animation-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "dragon-ball-z-super-butoden",
+        "dragon-ball-z-budokai",
+        "dragon-ball-z-budokai-3",
+        "dragon-ball-z-budokai-tenkaichi-3"
+    ],
+    "notes": "Disambiguated from Kenji Yamamoto, the Nintendo / Metroid composer."
+}

@@ -1,0 +1,27 @@
+{
+    "id": "konami-tmnt2-based-system",
+    "name": "Konami TMNT2 Based Hardware",
+    "description": "Konami early-1990s arcade hardware family used for games including Teenage Mutant Ninja Turtles: Turtles in Time, Sunset Riders, Parodius, and Detana!! TwinBee.",
+    "type": "system",
+    "logo": "konami-1986",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "teenage-mutant-ninja-turtles-turtles-in-time-arcade",
+        "sunset-riders",
+        "parodius-da",
+        "detana-twinbee",
+        "lightning-fighters"
+    ],
+    "series": [
+        "teenage-mutant-ninja-turtles-series",
+        "twinbee-series",
+        "gradius-series",
+        "parodius-series"
+    ],
+    "eras": [],
+    "notes": null
+}

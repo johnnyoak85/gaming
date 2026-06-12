@@ -1,15 +1,18 @@
 {
     "id": "trials-of-mana",
     "name": "Trials of Mana",
+    "aliases": [
+        "Legend of the Sacred Sword 3",
+        "Secret of Mana 2"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71wc.webp",
-    "release": "1995-08-06",
+    "release": "1995-09-30",
     "type": "game",
     "franchise": {
-        "universe": "Mana",
-        "series": "Mana",
+        "series": "mana-series",
         "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "RPG",
@@ -61,7 +64,7 @@
     "playstyle": {
         "players": {
             "min": 1,
-            "max": 3
+            "max": 2
         },
         "modes": [
             "solo",
@@ -69,7 +72,12 @@
         ]
     },
     "companies": [
-        "Square"
+        "square-company"
+    ],
+    "people": [
+        "koichi-ishii",
+        "hiromichi-tanaka",
+        "hiroki-kikuta"
     ],
     "progress": "planned",
     "backlog": {

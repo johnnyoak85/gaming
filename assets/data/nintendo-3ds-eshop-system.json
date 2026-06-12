@@ -3,7 +3,7 @@
     "name": "Nintendo 3DS eShop",
     "description": "Digital storefront platform for Nintendo 3DS downloadable games, Virtual Console releases, demos, and updates.",
     "type": "system",
-    "logo": "nintendo-3ds-eshop-logo",
+    "logo": "nintendo-eshop-system",
     "era": null,
     "companies": [
         "nintendo-company"

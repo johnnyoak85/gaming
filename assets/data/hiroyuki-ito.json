@@ -1,0 +1,27 @@
+{
+    "id": "hiroyuki-ito",
+    "name": "Hiroyuki Ito",
+    "description": "Square Enix designer and director known for the Active Time Battle system and major Final Fantasy entries including Final Fantasy VI, Final Fantasy IX, and Final Fantasy XII.",
+    "type": "person",
+    "portrait": "hiroyuki-ito",
+    "roles": [
+        "designer",
+        "director",
+        "producer"
+    ],
+    "companies": [
+        "square-enix-company",
+        "square-company"
+    ],
+    "circle": "minor",
+    "country": "JP",
+    "essentials": [
+        "final-fantasy-iv",
+        "final-fantasy-v",
+        "final-fantasy-vi",
+        "final-fantasy-ix",
+        "final-fantasy-xii",
+        "final-fantasy-tactics"
+    ],
+    "notes": null
+}

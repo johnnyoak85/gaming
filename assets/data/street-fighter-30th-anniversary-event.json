@@ -1,0 +1,17 @@
+{
+    "id": "street-fighter-30th-anniversary-event",
+    "name": "Street Fighter 30th Anniversary",
+    "description": "Capcom's 30th anniversary celebration for Street Fighter, marked by Street Fighter 30th Anniversary Collection.",
+    "type": "event",
+    "logo": "street-fighter-30th-anniversary-logo",
+    "date": "2018-05-29",
+    "end_date": null,
+    "category": "anniversary",
+    "franchise": [
+        "street-fighter-series"
+    ],
+    "companies": [
+        "capcom-company"
+    ],
+    "notes": null
+}

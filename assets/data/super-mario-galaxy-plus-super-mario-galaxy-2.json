@@ -2,7 +2,7 @@
     "id": "super-mario-galaxy-plus-super-mario-galaxy-2",
     "name": "Super Mario Galaxy + Super Mario Galaxy 2",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coag5e.webp",
-    "release": null,
+    "release": "2025-10-02",
     "type": "game",
     "franchise": {
         "universe": "Mario",
@@ -69,7 +69,7 @@
         "reason": null,
         "notes": null
     },
-    "event": "Super Mario Bros. 40th Anniversary",
+    "event": "super-mario-bros-40th-anniversary-event",
     "notes": "Bundle entry. The contained games are the Wii versions, not separate remasters/remakes.",
     "contains": [
         "super-mario-galaxy-switch",

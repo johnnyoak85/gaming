@@ -3,7 +3,7 @@
     "name": "GameCube",
     "description": "Nintendo's compact disc-based home console platform, focused on polished first-party games, local multiplayer, and experimental franchise entries.",
     "type": "system",
-    "logo": "gamecube-logo",
+    "logo": "nintendo-gamecube-system",
     "era": "128-bit",
     "companies": [
         "nintendo-company"

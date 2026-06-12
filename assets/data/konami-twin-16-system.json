@@ -1,0 +1,23 @@
+{
+    "id": "konami-twin-16-system",
+    "name": "Konami Twin 16",
+    "description": "Konami 16-bit arcade hardware platform powered by dual 68000 CPUs, used for Gradius II/Vulcan Venture and other late-1980s releases.",
+    "type": "system",
+    "logo": "konami-1986",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "vulcan-venture",
+        "gradius-ii-gofer-no-yabo",
+        "dark-adventure",
+        "hard-puncher"
+    ],
+    "series": [
+        "gradius-series"
+    ],
+    "eras": [],
+    "notes": null
+}

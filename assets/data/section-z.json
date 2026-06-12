@@ -4,6 +4,7 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49c4.webp",
     "release": "1985-12-01",
     "type": "game",
+    "system": "capcom-section-z-system",
     "franchise": {
         "universe": "Section Z",
         "series": "Section Z",

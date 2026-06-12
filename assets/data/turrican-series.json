@@ -1,0 +1,36 @@
+{
+    "id": "turrican-series",
+    "name": "Turrican",
+    "description": "European run-and-gun action-platform series known for large exploratory stages, sci-fi themes, technical polish, and Chris Huelsbeck's music.",
+    "type": "series",
+    "logo": "turrican-series",
+    "circle": "major",
+    "contains": [],
+    "companies": [
+        "factor-5-company",
+        "rainbow-arts-company"
+    ],
+    "people": [],
+    "essentials": [
+        "turrican",
+        "turrican-ii-the-final-fight",
+        "super-turrican",
+        "mega-turrican",
+        "super-turrican-2"
+    ],
+    "eras": [
+        {
+            "title": "Amiga and 16-bit Era",
+            "start_year": 1990,
+            "end_year": 1995,
+            "description": "The core Turrican identity is established across Amiga, Mega Drive, and Super Nintendo."
+        },
+        {
+            "title": "Reissue Era",
+            "start_year": 2021,
+            "end_year": null,
+            "description": "The series returns through modern anthologies and re-releases."
+        }
+    ],
+    "notes": null
+}

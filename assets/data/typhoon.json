@@ -9,6 +9,7 @@
         "series": "A-Jax",
         "subseries": null
     },
+    "system": "konami-chequered-flag-based-system",
     "classification": {
         "genres": [
             "Shooter"

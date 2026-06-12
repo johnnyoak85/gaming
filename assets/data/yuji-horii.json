@@ -1,0 +1,26 @@
+{
+    "id": "yuji-horii",
+    "name": "Yuji Horii",
+    "description": "Japanese game designer and writer best known as the creator of Dragon Quest and one of the key creators behind Chrono Trigger.",
+    "type": "person",
+    "portrait": "yuji-horii",
+    "roles": [
+        "designer",
+        "writer",
+        "director"
+    ],
+    "companies": [
+        "enix-company",
+        "square-enix-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "dragon-quest",
+        "dragon-quest-iii-the-seeds-of-salvation",
+        "dragon-quest-v-hand-of-the-heavenly-bride",
+        "chrono-trigger",
+        "dragon-quest-xi-echoes-of-an-elusive-age"
+    ],
+    "notes": null
+}

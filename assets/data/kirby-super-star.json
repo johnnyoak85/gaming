@@ -2,14 +2,17 @@
     "id": "kirby-super-star",
     "name": "Kirby Super Star",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qyi.webp",
+    "aliases": [
+        "Kirby's Fun Pak",
+        "Kirby of the Stars: Super Deluxe"
+    ],
     "release": "1996-03-21",
     "type": "game",
     "franchise": {
-        "universe": "Kirby",
-        "series": "Kirby",
-        "subseries": "Super Star"
+        "series": "kirby-series",
+        "subseries": null
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Platform"
@@ -18,9 +21,7 @@
         "themes": [
             "Fantasy"
         ],
-        "tags": [
-            "Bundle"
-        ]
+        "tags": []
     },
     "player_age": 6,
     "access": [
@@ -61,6 +62,10 @@
     "companies": [
         "hal-laboratory-company"
     ],
+    "people": [
+        "masahiro-sakurai",
+        "satoru-iwata"
+    ],
     "progress": "planned",
     "backlog": {
         "priority": 5,
@@ -84,5 +89,5 @@
         "kirby-revenge-of-meta-knight",
         "kirby-milky-way-wishes"
     ],
-    "category": "bundle"
+    "category": "single_entry"
 }

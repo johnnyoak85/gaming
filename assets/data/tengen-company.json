@@ -3,7 +3,7 @@
         "name": "Tengen",
         "description": "Atari Games' console label, known for NES releases including Pac-Man, Tetris, and other unlicensed cartridges.",
         "type": "company",
-        "logo": "tengen-logo",
+        "logo": "tengen-company",
         "circle": "minor",
         "founded": "1987-12-01",
         "defunct": {

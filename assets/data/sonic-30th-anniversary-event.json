@@ -1,0 +1,17 @@
+{
+    "id": "sonic-30th-anniversary-event",
+    "name": "Sonic 30th Anniversary",
+    "description": "Sega's celebration of 30 years of Sonic the Hedgehog, kicked off through Sonic Central and anniversary releases.",
+    "type": "event",
+    "logo": "sonic-30th-anniversary-event",
+    "date": "2021-05-27",
+    "end_date": "2021-12-31",
+    "category": "anniversary",
+    "franchise": [
+        "sonic-the-hedgehog-series"
+    ],
+    "companies": [
+        "sega-company"
+    ],
+    "notes": null
+}

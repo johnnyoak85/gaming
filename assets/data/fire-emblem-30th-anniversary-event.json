@@ -1,0 +1,17 @@
+{
+    "id": "fire-emblem-30th-anniversary-event",
+    "name": "Fire Emblem 30th Anniversary",
+    "description": "Nintendo's celebration of 30 years of Fire Emblem, marked by the first official English release of Shadow Dragon and the Blade of Light.",
+    "type": "event",
+    "logo": "fire-emblem-30th-anniversary-logo",
+    "date": "2020-04-20",
+    "end_date": "2021-03-31",
+    "category": "anniversary",
+    "franchise": [
+        "fire-emblem-series"
+    ],
+    "companies": [
+        "nintendo-company"
+    ],
+    "notes": null
+}

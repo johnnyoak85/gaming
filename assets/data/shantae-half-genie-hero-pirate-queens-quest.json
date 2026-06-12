@@ -29,8 +29,8 @@
     "access": [
         {
             "platform": "nintendo-switch",
-            "via": null,
-            "format": "digital",
+            "via": "shantae-half-genie-hero",
+            "format": "contained",
             "status": "owned",
             "notes": null
         }

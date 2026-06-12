@@ -3,7 +3,7 @@
     "name": "PC Engine",
     "description": "NEC and Hudson Soft's compact home console platform, known as TurboGrafx-16 in North America. Known for shooters, arcade ports, HuCard games, and early CD-ROM console support.",
     "type": "system",
-    "logo": "pc-engine-logo",
+    "logo": "pc-engine-system",
     "era": "16-bit",
     "companies": [
         "nec-company",

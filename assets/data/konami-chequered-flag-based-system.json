@@ -1,0 +1,23 @@
+{
+    "id": "konami-chequered-flag-based-system",
+    "name": "Konami Chequered Flag Based Hardware",
+    "description": "Konami arcade hardware family used for late-1980s titles including A-JAX/Typhoon and Chequered Flag.",
+    "type": "system",
+    "logo": "konami-1986",
+    "era": "16-bit",
+    "companies": [
+        "konami-company"
+    ],
+    "parent": null,
+    "essentials": [
+        "typhoon",
+        "ajax",
+        "chequered-flag",
+        "88-games"
+    ],
+    "series": [
+        "ajax-series"
+    ],
+    "eras": [],
+    "notes": null
+}

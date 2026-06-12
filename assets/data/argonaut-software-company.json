@@ -1,0 +1,40 @@
+{
+    "id": "argonaut-software-company",
+    "name": "Argonaut Software",
+    "description": "British game developer known for 3D technology work with Nintendo on Star Fox and the Super FX chip.",
+    "type": "company",
+    "logo": "argonaut-software-company",
+    "circle": "minor",
+    "founded": "1982-01-01",
+    "defunct": {
+        "date": "2004-10-01",
+        "reason": "dissolved",
+        "successor": null
+    },
+    "contains": [],
+    "country": "GB",
+    "people": [
+        "dylan-cuthbert"
+    ],
+    "essentials": [
+        "star-fox",
+        "star-fox-2",
+        "starglider",
+        "croc-legend-of-the-gobbos"
+    ],
+    "eras": [
+        {
+            "title": "3D Technology Era",
+            "start_year": 1986,
+            "end_year": 1995,
+            "description": "Argonaut builds its reputation through 3D engines, Nintendo collaboration, Star Fox, and Super FX technology."
+        },
+        {
+            "title": "Croc and Late Era",
+            "start_year": 1997,
+            "end_year": 2004,
+            "description": "Later period focused on original console games and licensed projects before the company closed."
+        }
+    ],
+    "notes": null
+}

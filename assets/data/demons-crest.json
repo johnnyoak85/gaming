@@ -1,15 +1,17 @@
 {
     "id": "demons-crest",
     "name": "Demon's Crest",
+    "aliases": [
+        "Demon's Blazon: Demon World Village - Crest Chapter"
+    ],
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69t5.webp",
     "release": "1994-10-21",
     "type": "game",
     "franchise": {
-        "universe": "Ghosts 'n Goblins",
-        "series": "Gargoyle's Quest",
-        "subseries": null
+        "series": "ghosts-n-goblins-series",
+        "subseries": "gargoyle-quest-series"
     },
-    "system": "super-nintendo-entertainment-system",
+    "system": "super-nintendo-entertainment-system-system",
     "classification": {
         "genres": [
             "Action",
@@ -52,7 +54,10 @@
         ]
     },
     "companies": [
-        "Capcom"
+        "capcom-company"
+    ],
+    "people": [
+        "tokuro-fujiwara"
     ],
     "progress": "planned",
     "backlog": {
