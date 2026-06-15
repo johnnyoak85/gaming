@@ -1,0 +1,27 @@
+{
+    "id": "satoshi-tajiri",
+    "name": "Satoshi Tajiri",
+    "description": "Japanese game designer best known as the creator of Pokémon and founder of Game Freak.",
+    "type": "person",
+    "portrait": "satoshi-tajiri",
+    "roles": [
+        "designer",
+        "director",
+        "writer",
+        "executive"
+    ],
+    "companies": [
+        "game-freak-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "pokemon-red-version",
+        "pokemon-green-version",
+        "pokemon-blue-version",
+        "pokemon-yellow",
+        "pokemon-gold-version",
+        "pokemon-silver-version"
+    ],
+    "notes": null
+}

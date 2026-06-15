@@ -1,0 +1,33 @@
+{
+    "id": "disney-series",
+    "name": "Disney",
+    "description": "Licensed Disney game grouping for adaptations and platformers based on Disney animated films and characters.",
+    "type": "series",
+    "logo": "disney-series",
+    "circle": "minor",
+    "contains": [],
+    "companies": [],
+    "people": [],
+    "essentials": [
+        "castle-of-illusion-starring-mickey-mouse",
+        "world-of-illusion-starring-mickey-mouse-and-donald-duck",
+        "quackshot-starring-donald-duck",
+        "disneys-aladdin-snes",
+        "disneys-aladdin-genesis",
+        "the-lion-king-snes",
+        "chip-n-dale-rescue-rangers",
+        "ducktales",
+        "goof-troop",
+        "mickey-mania",
+        "epic-mickey"
+    ],
+    "eras": [
+        {
+            "title": "16-bit Licensed Platformer Era",
+            "start_year": 1993,
+            "end_year": 1995,
+            "description": "Disney film adaptations become major licensed platformers across Super Nintendo, Mega Drive, and handheld systems."
+        }
+    ],
+    "notes": null
+}

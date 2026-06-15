@@ -1,0 +1,73 @@
+{
+    "id": "pac-land-nes",
+    "name": "Pac-Land",
+    "aliases": [],
+    "cover": "pac-land-nes",
+    "release": "1985-11-21",
+    "type": "game",
+    "franchise": {
+        "series": "pac-man-series",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Retro"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "pac-in-time",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "namco-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Historically important early side-scrolling platformer.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "NES version of Namco's side-scrolling Pac-Man platformer where Pac-Man travels through towns, forests, and ghost-filled routes.",
+    "people": []
+}

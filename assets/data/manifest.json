@@ -3988,7 +3988,7 @@
         "type": "company"
     },
     {
-        "id": "teenage-mutant-ninja-turtles-ii-the-arcade-game-nes",
+        "id": "teenage-mutant-ninja-turtles-ii-the-arcade-game",
         "type": "game"
     },
     {
@@ -4964,10 +4964,6 @@
         "type": "game"
     },
     {
-        "id": "super-double-dragon",
-        "type": "game"
-    },
-    {
         "id": "teenage-mutant-ninja-turtles-fall-of-the-foot-clan",
         "type": "game"
     },
@@ -4986,5 +4982,329 @@
     {
         "id": "the-lion-king-game-boy",
         "type": "game"
+    },
+    {
+        "id": "aladdin-series",
+        "type": "series"
+    },
+    {
+        "id": "alexey-pajitnov",
+        "type": "person"
+    },
+    {
+        "id": "battle-city-nes",
+        "type": "game"
+    },
+    {
+        "id": "crawfish-interactive-company",
+        "type": "company"
+    },
+    {
+        "id": "dark-technologies-company",
+        "type": "company"
+    },
+    {
+        "id": "dig-dug-ii-nes",
+        "type": "game"
+    },
+    {
+        "id": "dig-dug-nes",
+        "type": "game"
+    },
+    {
+        "id": "disney-series",
+        "type": "series"
+    },
+    {
+        "id": "dracula-legend-series",
+        "type": "series"
+    },
+    {
+        "id": "dragon-buster-nes",
+        "type": "game"
+    },
+    {
+        "id": "flagship-company",
+        "type": "company"
+    },
+    {
+        "id": "galaxian-nes",
+        "type": "game"
+    },
+    {
+        "id": "game-freak-company",
+        "type": "company"
+    },
+    {
+        "id": "junichi-masuda",
+        "type": "person"
+    },
+    {
+        "id": "jupiter-company",
+        "type": "company"
+    },
+    {
+        "id": "ken-sugimori",
+        "type": "person"
+    },
+    {
+        "id": "legacy-of-the-wizard-nes",
+        "type": "game"
+    },
+    {
+        "id": "mappy-nes",
+        "type": "game"
+    },
+    {
+        "id": "matt-bozon",
+        "type": "person"
+    },
+    {
+        "id": "mega-man-world-series",
+        "type": "series"
+    },
+    {
+        "id": "minakuchi-engineering-company",
+        "type": "company"
+    },
+    {
+        "id": "nms-software-company",
+        "type": "company"
+    },
+    {
+        "id": "pac-land-nes",
+        "type": "game"
+    },
+    {
+        "id": "pax-softnica-company",
+        "type": "company"
+    },
+    {
+        "id": "picross-series",
+        "type": "series"
+    },
+    {
+        "id": "pokemon-series",
+        "type": "series"
+    },
+    {
+        "id": "rolling-thunder-nes",
+        "type": "game"
+    },
+    {
+        "id": "satoshi-tajiri",
+        "type": "person"
+    },
+    {
+        "id": "shantae-series",
+        "type": "series"
+    },
+    {
+        "id": "sky-kid-nes",
+        "type": "game"
+    },
+    {
+        "id": "splatterhouse-naughty-graffiti",
+        "type": "game"
+    },
+    {
+        "id": "super-mario-land-series",
+        "type": "series"
+    },
+    {
+        "id": "super-xevious-nes",
+        "type": "game"
+    },
+    {
+        "id": "taito-egret-ii-mini-arcade-collection-part-1-sd-card",
+        "type": "hardware"
+    },
+    {
+        "id": "taito-egret-ii-mini-arcade-memories-vol-1-sd-card",
+        "type": "hardware"
+    },
+    {
+        "id": "taito-egret-ii-mini-arcade-memories-vol-2-sd-card",
+        "type": "hardware"
+    },
+    {
+        "id": "taito-egret-ii-mini-arcade-memories-vol-3-sd-card",
+        "type": "hardware"
+    },
+    {
+        "id": "taito-egret-ii-mini-paddle-trackball-game-expansion-sd-card",
+        "type": "hardware"
+    },
+    {
+        "id": "tetris-series",
+        "type": "series"
+    },
+    {
+        "id": "the-jungle-book-series",
+        "type": "series"
+    },
+    {
+        "id": "the-lion-king-series",
+        "type": "series"
+    },
+    {
+        "id": "the-tower-of-druaga-nes",
+        "type": "game"
+    },
+    {
+        "id": "wario-land-series",
+        "type": "series"
+    },
+    {
+        "id": "wayforward-company",
+        "type": "company"
+    },
+    {
+        "id": "xevious-nes",
+        "type": "game"
+    },
+    {
+        "id": "babylonian-castle-saga-series",
+        "type": "series"
+    },
+    {
+        "id": "dig-dug-series",
+        "type": "series"
+    },
+    {
+        "id": "dragon-buster-series",
+        "type": "series"
+    },
+    {
+        "id": "dragon-slayer-series",
+        "type": "series"
+    },
+    {
+        "id": "m2-company",
+        "type": "company"
+    },
+    {
+        "id": "mappy-series",
+        "type": "series"
+    },
+    {
+        "id": "nihon-falcom-company",
+        "type": "company"
+    },
+    {
+        "id": "now-production-company",
+        "type": "company"
+    },
+    {
+        "id": "pac-man-championship-edition-series",
+        "type": "series"
+    },
+    {
+        "id": "rolling-thunder-series",
+        "type": "series"
+    },
+    {
+        "id": "sky-kid-series",
+        "type": "series"
+    },
+    {
+        "id": "splatterhouse-series",
+        "type": "series"
+    },
+    {
+        "id": "tank-battalion-series",
+        "type": "series"
+    },
+    {
+        "id": "xevious-series",
+        "type": "series"
+    },
+    {
+        "id": "adventures-of-mana",
+        "type": "game"
+    },
+    {
+        "id": "chris-huelsbeck",
+        "type": "person"
+    },
+    {
+        "id": "digital-eclipse-company",
+        "type": "company"
+    },
+    {
+        "id": "disneys-aladdin-final-cut",
+        "type": "game"
+    },
+    {
+        "id": "disneys-aladdin-genesis",
+        "type": "game"
+    },
+    {
+        "id": "disneys-the-jungle-book-genesis",
+        "type": "game"
+    },
+    {
+        "id": "julian-eggebrecht",
+        "type": "person"
+    },
+    {
+        "id": "manfred-trenz",
+        "type": "person"
+    },
+    {
+        "id": "mcf-company",
+        "type": "company"
+    },
+    {
+        "id": "mega-turrican-directors-cut",
+        "type": "game"
+    },
+    {
+        "id": "mega-turrican",
+        "type": "game"
+    },
+    {
+        "id": "super-turrican-directors-cut",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-ii-the-arcade-game",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-the-hyperstone-heist",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-tournament-fighters-genesis",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles-turtles-in-time",
+        "type": "game"
+    },
+    {
+        "id": "teenage-mutant-ninja-turtles",
+        "type": "game"
+    },
+    {
+        "id": "the-lion-king-genesis",
+        "type": "game"
+    },
+    {
+        "id": "turrican-3",
+        "type": "game"
+    },
+    {
+        "id": "turrican-ii-the-final-fight",
+        "type": "game"
+    },
+    {
+        "id": "turrican",
+        "type": "game"
+    },
+    {
+        "id": "virgin-games-company",
+        "type": "company"
     }
 ]

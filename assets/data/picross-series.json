@@ -1,0 +1,42 @@
+{
+    "id": "picross-series",
+    "name": "Picross",
+    "description": "Nintendo-associated nonogram puzzle series built around revealing pictures by solving numbered grid logic puzzles.",
+    "type": "series",
+    "logo": "picross-series",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "jupiter-company",
+        "ape-company"
+    ],
+    "people": [],
+    "essentials": [
+        "marios-picross",
+        "marios-super-picross",
+        "picross-ds",
+        "picross-3d",
+        "picross-3d-round-2"
+    ],
+    "eras": [
+        {
+            "title": "Mario Picross Era",
+            "start_year": 1995,
+            "end_year": 1995,
+            "description": "The Nintendo Picross identity begins through Mario-branded Game Boy and Super Famicom releases."
+        },
+        {
+            "title": "DS Revival Era",
+            "start_year": 2007,
+            "end_year": 2016,
+            "description": "Picross returns through DS and 3DS releases, including the Picross 3D branch."
+        },
+        {
+            "title": "Digital Puzzle Era",
+            "start_year": 2011,
+            "end_year": null,
+            "description": "Jupiter continues Picross through digital releases and themed puzzle collections."
+        }
+    ],
+    "notes": null
+}

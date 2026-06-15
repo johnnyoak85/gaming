@@ -1,0 +1,35 @@
+{
+    "id": "wario-land-series",
+    "name": "Wario Land",
+    "description": "Wario platforming series focused on treasure hunting, transformation mechanics, exploration, and greedy antihero comedy.",
+    "type": "series",
+    "logo": "wario-land-series",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "nintendo-company"
+    ],
+    "people": [],
+    "essentials": [
+        "wario-land-super-mario-land-3",
+        "wario-land-ii-game-boy-color",
+        "wario-land-3",
+        "wario-land-4",
+        "wario-land-the-shake-dimension"
+    ],
+    "eras": [
+        {
+            "title": "Handheld Treasure-Hunting Era",
+            "start_year": 1994,
+            "end_year": 2001,
+            "description": "The Game Boy and Game Boy Color entries define Wario Land through treasure, transformations, and exploratory platforming."
+        },
+        {
+            "title": "Console Revival Era",
+            "start_year": 2008,
+            "end_year": 2008,
+            "description": "Wario Land returns on Wii with hand-drawn presentation and classic platforming structure."
+        }
+    ],
+    "notes": null
+}

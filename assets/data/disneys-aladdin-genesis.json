@@ -1,0 +1,78 @@
+{
+    "id": "disneys-aladdin-genesis",
+    "name": "Disney's Aladdin",
+    "aliases": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaf2o.webp",
+    "release": "1993-11-11",
+    "type": "game",
+    "franchise": {
+        "series": "aladdin-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Licensed",
+            "16-bit"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "disney-classic-games-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "disneys-aladdin-final-cut",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "disneys-aladdin-snes",
+            "type": "counterpart"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "virgin-games-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "One of the defining 16-bit Disney platformers and the major Sega-side Aladdin adaptation.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Essential Disney/Virgin 16-bit platformer representation.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive platformer where Aladdin uses a sword and apples across stages based on the Disney film.",
+    "people": []
+}

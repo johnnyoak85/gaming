@@ -1,0 +1,78 @@
+{
+    "id": "teenage-mutant-ninja-turtles-the-hyperstone-heist",
+    "name": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+    "aliases": [
+        "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+        "Teenage Mutant Ninja Turtles: Return of the Shredder"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3zbs.webp",
+    "release": "1992-08-11",
+    "type": "game",
+    "franchise": {
+        "series": "teenage-mutant-ninja-turtles-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Beat 'em Up"
+        ],
+        "themes": [
+            "Superhero",
+            "Martial Arts"
+        ],
+        "tags": [
+            "Co-op",
+            "Licensed",
+            "16-bit"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "teenage-mutant-ninja-turtles-turtles-in-time",
+            "type": "counterpart"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Major Mega Drive TMNT beat 'em up and strong counterpart to Turtles in Time.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Essential Sega-side TMNT representation within Cowabunga Collection.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive beat 'em up where the Ninja Turtles fight Shredder after Manhattan is shrunk by the Hyperstone.",
+    "people": []
+}

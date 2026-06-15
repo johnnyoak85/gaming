@@ -1,0 +1,38 @@
+{
+    "id": "shantae-series",
+    "name": "Shantae",
+    "description": "Action-platform and exploration series starring Shantae, a half-genie hero who uses hair-whip attacks, dances, transformations, and magic.",
+    "type": "series",
+    "logo": "shantae-series",
+    "circle": "minor",
+    "contains": [],
+    "companies": [
+        "wayforward-company"
+    ],
+    "people": [
+        "matt-bozon"
+    ],
+    "essentials": [
+        "shantae",
+        "shantae-riskys-revenge",
+        "shantae-and-the-pirates-curse",
+        "shantae-half-genie-hero",
+        "shantae-and-the-seven-sirens",
+        "shantae-advance-risky-revolution"
+    ],
+    "eras": [
+        {
+            "title": "Handheld Origin Era",
+            "start_year": 2002,
+            "end_year": 2010,
+            "description": "The series begins as a late Game Boy Color cult release and returns through Risky's Revenge."
+        },
+        {
+            "title": "Modern Indie Era",
+            "start_year": 2014,
+            "end_year": null,
+            "description": "Pirate's Curse, Half-Genie Hero, Seven Sirens, and Risky Revolution establish Shantae as WayForward's flagship series."
+        }
+    ],
+    "notes": null
+}

@@ -1,0 +1,82 @@
+{
+    "id": "mega-turrican",
+    "name": "Mega Turrican",
+    "aliases": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l0s.webp",
+    "release": "1994-06-01",
+    "type": "game",
+    "franchise": {
+        "series": "turrican-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter",
+            "Platform"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "16-bit"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "turrican-anthology-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "mega-turrican-directors-cut",
+            "type": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "turrican-3",
+            "type": "counterpart"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "factor-5-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Major Mega Drive Turrican entry and one of the strongest console versions of the formula.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Essential Mega Drive-side Turrican representation.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive run-and-gun action game where Turrican fights The Machine using beam weapons, bombs, and a grappling arm.",
+    "people": [
+        "julian-eggebrecht",
+        "chris-huelsbeck"
+    ]
+}

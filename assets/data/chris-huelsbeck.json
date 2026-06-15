@@ -1,0 +1,22 @@
+{
+    "id": "chris-huelsbeck",
+    "name": "Chris Huelsbeck",
+    "description": "German video game composer best known for his music on Turrican, The Great Giana Sisters, Apidya, and Factor 5 projects.",
+    "type": "person",
+    "portrait": "chris-huelsbeck",
+    "roles": [
+        "composer",
+        "sound_designer"
+    ],
+    "companies": [],
+    "circle": "minor",
+    "country": "DE",
+    "essentials": [
+        "turrican-ii-the-final-fight",
+        "super-turrican",
+        "mega-turrican",
+        "apidya",
+        "the-great-giana-sisters"
+    ],
+    "notes": null
+}

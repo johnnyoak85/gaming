@@ -1,0 +1,75 @@
+{
+    "id": "rolling-thunder-nes",
+    "name": "Rolling Thunder",
+    "aliases": [],
+    "cover": "rolling-thunder-nes",
+    "release": "1989-03-17",
+    "type": "game",
+    "franchise": {
+        "series": "rolling-thunder-series",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Side-Scrolling Action",
+            "Run and Gun"
+        ],
+        "themes": [
+            "Spy",
+            "Crime"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-2",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "rolling-thunder-2",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "namco-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Stylish and influential arcade action game with deliberate spy-thriller pacing.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Major Namco arcade action title and important cinematic side-scrolling shooter.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "NES version of Namco's spy action game where Albatross infiltrates Geldra's base to rescue Leila.",
+    "people": []
+}

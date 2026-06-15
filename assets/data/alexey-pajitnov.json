@@ -1,0 +1,19 @@
+{
+    "id": "alexey-pajitnov",
+    "name": "Alexey Pajitnov",
+    "description": "Russian game designer best known as the creator of Tetris.",
+    "type": "person",
+    "portrait": "alexey-pajitnov",
+    "roles": [
+        "designer",
+        "programmer"
+    ],
+    "companies": [],
+    "circle": "major",
+    "country": "RU",
+    "essentials": [
+        "tetris",
+        "tetris-game-boy"
+    ],
+    "notes": null
+}

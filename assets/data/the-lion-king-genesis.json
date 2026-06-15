@@ -1,0 +1,69 @@
+{
+    "id": "the-lion-king-genesis",
+    "name": "The Lion King",
+    "aliases": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co63ny.webp",
+    "release": "1994-11-04",
+    "type": "game",
+    "franchise": {
+        "series": "the-lion-king-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Adventure"
+        ],
+        "tags": []
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "disney-classic-games-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "the-lion-king-snes",
+            "type": "counterpart"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "westwood-studios-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Major 16-bit Disney platformer and one of the most recognizable Lion King game adaptations.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Essential Disney 16-bit platformer representation.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive platformer following Simba from cub to adult across stages based on the Disney film.",
+    "people": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "the-lion-king-series",
+    "name": "The Lion King",
+    "description": "Licensed Disney game grouping for adaptations of The Lion King, centered on the 16-bit platformer versions.",
+    "type": "series",
+    "logo": "the-lion-king-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "westwood-studios-company",
+        "dark-technologies-company"
+    ],
+    "people": [],
+    "essentials": [
+        "the-lion-king-snes",
+        "the-lion-king-genesis"
+    ],
+    "eras": [
+        {
+            "title": "16-bit Platformer Era",
+            "start_year": 1994,
+            "end_year": 1995,
+            "description": "The Lion King becomes one of the major Disney licensed platformers across home console and handheld systems."
+        }
+    ],
+    "notes": null
+}

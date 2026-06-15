@@ -1,0 +1,73 @@
+{
+    "id": "dig-dug-nes",
+    "name": "Dig Dug",
+    "aliases": [],
+    "cover": "dig-dug-nes",
+    "release": "1985-06-04",
+    "type": "game",
+    "franchise": {
+        "series": "united-galaxy-space-force-series",
+        "subseries": "dig-dug-series"
+    },
+    "system": "nintendo-entertainment-system-system",
+    "classification": {
+        "genres": [
+            "Action"
+        ],
+        "subgenres": [
+            "Maze Action"
+        ],
+        "themes": [],
+        "tags": [
+            "Arcade Style",
+            "Retro",
+            "High Score"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-1",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dig-dug-ii-nes",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "turn_based"
+        ]
+    },
+    "companies": [
+        "namco-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "One of Namco's defining arcade action games with timeless mechanics.",
+        "rating": 5,
+        "difficulty": 2,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Essential arcade preservation title and major Namco pillar.",
+        "notes": null
+    },
+    "release_line": null,
+    "event": null,
+    "notes": null,
+    "description": "NES version of Namco's maze action game where Dig Dug defeats underground monsters with a pump and falling rocks.",
+    "people": []
+}

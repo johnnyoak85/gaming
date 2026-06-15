@@ -1,0 +1,18 @@
+{
+    "id": "dark-technologies-company",
+    "name": "Dark Technologies",
+    "description": "British developer known for handheld and console licensed games, including the Game Boy version of The Lion King.",
+    "type": "company",
+    "logo": "dark-technologies-logo",
+    "circle": "sub",
+    "founded": null,
+    "defunct": null,
+    "contains": [],
+    "country": "GB",
+    "people": [],
+    "essentials": [
+        "the-lion-king-game-boy"
+    ],
+    "eras": [],
+    "notes": null
+}

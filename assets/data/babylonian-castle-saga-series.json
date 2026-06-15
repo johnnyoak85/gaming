@@ -1,0 +1,28 @@
+{
+    "id": "babylonian-castle-saga-series",
+    "name": "Babylonian Castle Saga",
+    "description": "Namco fantasy action series beginning with The Tower of Druaga and following Gil and Ki through connected dungeon and mythology-based adventures.",
+    "type": "series",
+    "logo": "babylonian-castle-saga-logo",
+    "circle": "minor",
+    "contains": [
+        "the-tower-of-druaga-series"
+    ],
+    "companies": [
+        "namco-company"
+    ],
+    "people": [],
+    "essentials": [
+        "the-tower-of-druaga",
+        "the-return-of-ishtar"
+    ],
+    "eras": [
+        {
+            "title": "Arcade and Famicom Fantasy Era",
+            "start_year": 1984,
+            "end_year": 1988,
+            "description": "The Tower of Druaga and its early follow-ups define Namco's cryptic fantasy action lineage."
+        }
+    ],
+    "notes": null
+}

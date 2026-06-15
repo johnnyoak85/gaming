@@ -1,0 +1,25 @@
+{
+    "id": "julian-eggebrecht",
+    "name": "Julian Eggebrecht",
+    "description": "German game producer, programmer, and Factor 5 co-founder associated with Turrican and the studio's later technical action games.",
+    "type": "person",
+    "portrait": "julian-eggebrecht",
+    "roles": [
+        "producer",
+        "programmer",
+        "executive"
+    ],
+    "companies": [
+        "factor-5-company"
+    ],
+    "circle": "minor",
+    "country": "DE",
+    "essentials": [
+        "turrican-ii-the-final-fight",
+        "super-turrican",
+        "mega-turrican",
+        "star-wars-rogue-squadron",
+        "star-wars-rogue-leader-rogue-squadron-ii"
+    ],
+    "notes": null
+}

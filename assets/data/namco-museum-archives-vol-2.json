@@ -1,1 +1,95 @@
-{"id":"namco-museum-archives-vol-2","name":"Namco Museum Archives Volume 2","cover":"namco-museum-archives-vol-2","release":"2020-06-18","type":"game","franchise":{"universe":"Namco","series":null,"subseries":null},"classification":{"genres":["Compilation"],"subgenres":["Retro Collection"],"themes":["Arcade"],"tags":["Retro","Preservation","Arcade Classics","NES Era"]},"player_age":7,"access":[{"platform":"nintendo-switch","via":null,"format":"digital","status":"owned","notes":"Own digitally on Switch."}],"versions":[],"contains":["galaga","battle-city","pac-land","dig-dug-ii","super-xevious","mappy-land","dragon-slayer-iv-drasle-family","rolling-thunder","dragon-buster-ii","mendel-palace","gaplus-nes"],"relationships":[{"source":"namco-museum-archives-vol-1","type":"twin_game"}],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","versus","co_op"]},"companies":{"developer":["M2","Bandai Namco Entertainment"],"publisher":["Bandai Namco Entertainment"]},"progress":"planned","backlog":{"priority":3,"reason":"Companion Namco retro compilation with broader Famicom experimentation and arcade ports.","rating":4,"difficulty":3,"estimated_hours":40},"acquisition":{"priority":3,"reason":"Important preservation package for lesser-known Namco and Famicom-era titles.","notes":"Owned digitally on Switch."},"event":null,"notes":null,"category":"collection"}
+{
+    "id": "namco-museum-archives-vol-2",
+    "name": "Namco Museum Archives Volume 2",
+    "cover": "namco-museum-archives-vol-2",
+    "release": "2020-06-18",
+    "type": "game",
+    "franchise": {
+        "universe": "Namco",
+        "series": null,
+        "subseries": null
+    },
+    "classification": {
+        "genres": [
+            "Compilation"
+        ],
+        "subgenres": [
+            "Retro Collection"
+        ],
+        "themes": [
+            "Arcade"
+        ],
+        "tags": [
+            "Retro",
+            "Preservation",
+            "Arcade Classics",
+            "NES Era"
+        ]
+    },
+    "player_age": 7,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": null,
+            "format": "digital",
+            "status": "owned",
+            "notes": "Own digitally on Switch."
+        }
+    ],
+    "versions": [],
+    "contains": [
+        "galaga-nes",
+        "battle-city-nes",
+        "pac-land-nes",
+        "dig-dug-ii-nes",
+        "super-xevious-nes",
+        "mappy-land",
+        "legacy-of-the-wizard-nes",
+        "rolling-thunder-nes",
+        "dragon-buster-ii",
+        "mendel-palace",
+        "gaplus-nes"
+    ],
+    "relationships": [
+        {
+            "source": "namco-museum-archives-vol-1",
+            "type": "twin_game"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "modes": [
+            "solo",
+            "versus",
+            "co_op"
+        ]
+    },
+    "companies": {
+        "developer": [
+            "M2",
+            "Bandai Namco Entertainment"
+        ],
+        "publisher": [
+            "Bandai Namco Entertainment"
+        ]
+    },
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Companion Namco retro compilation with broader Famicom experimentation and arcade ports.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 40
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Important preservation package for lesser-known Namco and Famicom-era titles.",
+        "notes": "Owned digitally on Switch."
+    },
+    "event": null,
+    "notes": null,
+    "category": "collection"
+}

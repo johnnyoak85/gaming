@@ -1,0 +1,77 @@
+{
+    "id": "turrican",
+    "name": "Turrican",
+    "aliases": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l0v.webp",
+    "release": "1990-01-01",
+    "type": "game",
+    "franchise": {
+        "series": "turrican-series",
+        "subseries": null
+    },
+    "system": "amiga-ocs-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter",
+            "Platform"
+        ],
+        "subgenres": [
+            "Run and Gun",
+            "Exploration Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "European Computer"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "turrican-anthology-vol-1",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "turrican-ii-the-final-fight",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "factor-5-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Foundational European run-and-gun action game and origin point of the Turrican series.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Important European computer action milestone.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Commodore 64 run-and-gun exploration shooter where the armored Turrican battles through large science-fiction stages.",
+    "people": [
+        "manfred-trenz"
+    ]
+}

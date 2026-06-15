@@ -1,0 +1,34 @@
+{
+    "id": "tetris-series",
+    "name": "Tetris",
+    "description": "Falling-block puzzle series built around arranging tetrominoes into complete lines.",
+    "type": "series",
+    "logo": "tetris-series",
+    "circle": "major",
+    "contains": [],
+    "companies": [],
+    "people": [
+        "alexey-pajitnov"
+    ],
+    "essentials": [
+        "tetris",
+        "tetris-game-boy",
+        "tetris-effect",
+        "tetris-99"
+    ],
+    "eras": [
+        {
+            "title": "Classic Puzzle Era",
+            "start_year": 1984,
+            "end_year": 1999,
+            "description": "The core Tetris formula becomes one of the most important puzzle game designs in the medium."
+        },
+        {
+            "title": "Modern Variants Era",
+            "start_year": 2000,
+            "end_year": null,
+            "description": "Later entries reinterpret the formula through online play, audiovisual presentation, and competitive variants."
+        }
+    ],
+    "notes": null
+}

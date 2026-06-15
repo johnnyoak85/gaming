@@ -1,0 +1,18 @@
+{
+    "id": "dracula-legend-series",
+    "name": "Dracula Legend",
+    "description": "Game Boy Castlevania branch centered on Christopher Belmont and the early handheld Dracula battles.",
+    "type": "series",
+    "logo": "dracula-legend-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "konami-company"
+    ],
+    "people": [],
+    "essentials": [
+        "castlevania-ii-belmonts-revenge"
+    ],
+    "eras": [],
+    "notes": null
+}

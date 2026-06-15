@@ -1,0 +1,30 @@
+{
+    "id": "junichi-masuda",
+    "name": "Junichi Masuda",
+    "description": "Japanese composer, programmer, director, and producer best known for his long-running creative role on Pokémon.",
+    "type": "person",
+    "portrait": "junichi-masuda",
+    "roles": [
+        "composer",
+        "programmer",
+        "director",
+        "producer"
+    ],
+    "companies": [
+        "game-freak-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "pokemon-red-version",
+        "pokemon-green-version",
+        "pokemon-blue-version",
+        "pokemon-gold-version",
+        "pokemon-silver-version",
+        "pokemon-ruby-version",
+        "pokemon-sapphire-version",
+        "pokemon-diamond-version",
+        "pokemon-pearl-version"
+    ],
+    "notes": null
+}

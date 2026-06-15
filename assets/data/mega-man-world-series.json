@@ -1,0 +1,28 @@
+{
+    "id": "mega-man-world-series",
+    "name": "Mega Man World",
+    "description": "Game Boy branch of the classic Mega Man series, mixing portable adaptations of NES Robot Masters with original handheld content.",
+    "type": "series",
+    "logo": "mega-man-world-series",
+    "circle": "sub",
+    "contains": [],
+    "companies": [
+        "capcom-company",
+        "minakuchi-engineering-company"
+    ],
+    "people": [
+        "keiji-inafune"
+    ],
+    "essentials": [
+        "mega-man-v"
+    ],
+    "eras": [
+        {
+            "title": "Game Boy Era",
+            "start_year": 1991,
+            "end_year": 1994,
+            "description": "Five handheld Mega Man entries are released on Game Boy, culminating in Mega Man V with original Stardroid bosses."
+        }
+    ],
+    "notes": null
+}

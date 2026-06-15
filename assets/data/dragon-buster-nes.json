@@ -1,0 +1,76 @@
+{
+    "id": "dragon-buster-nes",
+    "name": "Dragon Buster",
+    "aliases": [],
+    "cover": "dragon-buster-nes",
+    "release": "1987-01-07",
+    "type": "game",
+    "franchise": {
+        "series": "dragon-buster-series",
+        "subseries": null
+    },
+    "system": "nintendo-entertainment-system-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "subgenres": [
+            "Action Platformer",
+            "Dungeon Crawler"
+        ],
+        "themes": [
+            "Fantasy"
+        ],
+        "tags": [
+            "Arcade Style",
+            "Retro",
+            "Dungeon"
+        ]
+    },
+    "player_age": 9,
+    "access": [
+        {
+            "platform": "nintendo-switch",
+            "via": "namco-museum-archives-vol-1",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "dragon-buster-ii-nes",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "namco-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Early fantasy action game with platforming, dungeons and boss encounters.",
+        "rating": 3,
+        "difficulty": 4,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Historically interesting Namco fantasy-action experiment.",
+        "notes": null
+    },
+    "release_line": null,
+    "event": null,
+    "notes": null,
+    "description": "NES version of Namco's fantasy action game where Clovis explores dungeons to rescue Princess Celia.",
+    "people": []
+}

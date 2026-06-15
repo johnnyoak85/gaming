@@ -1,0 +1,79 @@
+{
+    "id": "adventures-of-mana",
+    "name": "Adventures of Mana",
+    "aliases": [
+        "Legend of Mana: Final Fantasy Side Story"
+    ],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nev.webp",
+    "release": "2016-06-28",
+    "type": "game",
+    "franchise": {
+        "series": "mana-series",
+        "subseries": null
+    },
+    "system": "playstation-vita-system",
+    "classification": {
+        "genres": [
+            "RPG",
+            "Action"
+        ],
+        "subgenres": [
+            "Action RPG"
+        ],
+        "themes": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "tags": [
+            "Remake"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "playstation-vita",
+            "via": null,
+            "format": "digital",
+            "status": "wishlist",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "final-fantasy-adventure",
+            "type": "base"
+        },
+        {
+            "source": "sword-of-mana",
+            "type": "counterpart"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "mcf-company"
+    ],
+    "progress": "wishlist",
+    "backlog": {
+        "priority": 3,
+        "reason": "Modern remake of Final Fantasy Adventure and useful representation of the Mana series origin.",
+        "rating": 3,
+        "difficulty": 2,
+        "estimated_hours": 8
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Wishlist remake of the first Mana game.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "PlayStation Vita remake of Final Fantasy Adventure, the first Mana game, rebuilt as a 3D action RPG.",
+    "people": []
+}

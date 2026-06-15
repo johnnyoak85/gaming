@@ -1,0 +1,23 @@
+{
+    "id": "manfred-trenz",
+    "name": "Manfred Trenz",
+    "description": "German game designer and programmer best known as the creator of Turrican and for major Commodore 64 action games.",
+    "type": "person",
+    "portrait": "manfred-trenz",
+    "roles": [
+        "designer",
+        "programmer"
+    ],
+    "companies": [
+        "rainbow-arts-company"
+    ],
+    "circle": "minor",
+    "country": "DE",
+    "essentials": [
+        "turrican",
+        "turrican-ii-the-final-fight",
+        "the-great-giana-sisters",
+        "katakis"
+    ],
+    "notes": null
+}

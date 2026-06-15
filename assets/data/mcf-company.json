@@ -1,0 +1,25 @@
+{
+    "id": "mcf-company",
+    "name": "MCF",
+    "description": "Japanese developer credited on Adventures of Mana, the 3D remake of Final Fantasy Adventure.",
+    "type": "company",
+    "logo": "mcf-logo",
+    "circle": "sub",
+    "founded": null,
+    "defunct": null,
+    "contains": [],
+    "country": "JP",
+    "people": [],
+    "essentials": [
+        "adventures-of-mana"
+    ],
+    "eras": [
+        {
+            "title": "Mana Remake Era",
+            "start_year": 2016,
+            "end_year": 2016,
+            "description": "MCF is credited on Adventures of Mana, a remake of the first Mana game."
+        }
+    ],
+    "notes": null
+}

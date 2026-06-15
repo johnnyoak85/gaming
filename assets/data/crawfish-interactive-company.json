@@ -1,0 +1,31 @@
+{
+    "id": "crawfish-interactive-company",
+    "name": "Crawfish Interactive",
+    "description": "British handheld developer known for Game Boy Color and Game Boy Advance ports and adaptations.",
+    "type": "company",
+    "logo": "crawfish-interactive-logo",
+    "circle": "sub",
+    "founded": "1997-03-01",
+    "defunct": {
+        "date": "2002-11-01",
+        "reason": "closed",
+        "successor": null
+    },
+    "contains": [],
+    "country": "GB",
+    "people": [],
+    "essentials": [
+        "disneys-aladdin-game-boy-color",
+        "the-lion-king-game-boy-color",
+        "street-fighter-alpha-3-gba"
+    ],
+    "eras": [
+        {
+            "title": "Handheld Development Era",
+            "start_year": 1997,
+            "end_year": 2002,
+            "description": "Crawfish specializes in Game Boy Color and Game Boy Advance development before closing."
+        }
+    ],
+    "notes": null
+}

@@ -1,0 +1,25 @@
+{
+    "id": "matt-bozon",
+    "name": "Matt Bozon",
+    "description": "American game designer and director best known as the co-creator of Shantae.",
+    "type": "person",
+    "portrait": "matt-bozon",
+    "roles": [
+        "designer",
+        "director",
+        "writer"
+    ],
+    "companies": [
+        "wayforward-company"
+    ],
+    "circle": "minor",
+    "country": "US",
+    "essentials": [
+        "shantae",
+        "shantae-riskys-revenge",
+        "shantae-and-the-pirates-curse",
+        "shantae-half-genie-hero",
+        "shantae-and-the-seven-sirens"
+    ],
+    "notes": null
+}

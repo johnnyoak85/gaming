@@ -1,0 +1,25 @@
+{
+    "id": "ken-sugimori",
+    "name": "Ken Sugimori",
+    "description": "Japanese artist and designer best known for defining Pokémon's original character and creature art style.",
+    "type": "person",
+    "portrait": "ken-sugimori",
+    "roles": [
+        "artist",
+        "designer"
+    ],
+    "companies": [
+        "game-freak-company"
+    ],
+    "circle": "major",
+    "country": "JP",
+    "essentials": [
+        "pokemon-red-version",
+        "pokemon-green-version",
+        "pokemon-blue-version",
+        "pokemon-yellow",
+        "pokemon-gold-version",
+        "pokemon-silver-version"
+    ],
+    "notes": null
+}
