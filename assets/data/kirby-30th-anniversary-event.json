@@ -1,18 +1,1 @@
-{
-    "id": "kirby-30th-anniversary-event",
-    "name": "Kirby's 30th Anniversary",
-    "description": "Nintendo and HAL Laboratory's celebration of 30 years of Kirby, centered around Kirby and the Forgotten Land and anniversary events.",
-    "type": "event",
-    "logo": "kirby-30th-anniversary-logo",
-    "date": "2022-04-27",
-    "end_date": "2022-12-31",
-    "category": "anniversary",
-    "franchise": [
-        "kirby-series"
-    ],
-    "companies": [
-        "nintendo-company",
-        "hal-laboratory-company"
-    ],
-    "notes": null
-}
+{"id":"kirby-30th-anniversary-event","name":"Kirby's 30th Anniversary","description":"Nintendo and HAL Laboratory's celebration of 30 years of Kirby, centered around Kirby and the Forgotten Land and anniversary events.","type":"event","logo":"kirby-30th-anniversary-event","date":"2022-04-27","end_date":"2022-12-31","category":"anniversary","franchise":["kirby-series"],"companies":["nintendo-company","hal-laboratory-company"],"notes":null}

@@ -288,7 +288,7 @@
         "type": "game"
     },
     {
-        "id": "castlevania-bloodlines",
+        "id": "castlevania-the-new-generation",
         "type": "game"
     },
     {
@@ -984,7 +984,7 @@
         "type": "game"
     },
     {
-        "id": "flicky",
+        "id": "flicky-genesis",
         "type": "game"
     },
     {
@@ -1024,7 +1024,7 @@
         "type": "game"
     },
     {
-        "id": "game-boy--color-system",
+        "id": "game-boy-color-system",
         "type": "system"
     },
     {
@@ -3064,7 +3064,7 @@
         "type": "game"
     },
     {
-        "id": "saturn-wireless-controller",
+        "id": "retro-bit-saturn-wireless-controller",
         "type": "hardware"
     },
     {
@@ -3132,7 +3132,7 @@
         "type": "release_line"
     },
     {
-        "id": "sega_saturn-system",
+        "id": "sega-saturn-system",
         "type": "system"
     },
     {
@@ -4484,7 +4484,7 @@
         "type": "hardware"
     },
     {
-        "id": "xbox-live-arcade",
+        "id": "xbox-live-arcade-system",
         "type": "system"
     },
     {
@@ -5268,10 +5268,6 @@
         "type": "game"
     },
     {
-        "id": "teenage-mutant-ninja-turtles-ii-the-arcade-game",
-        "type": "game"
-    },
-    {
         "id": "teenage-mutant-ninja-turtles-the-hyperstone-heist",
         "type": "game"
     },
@@ -5292,10 +5288,6 @@
         "type": "game"
     },
     {
-        "id": "turrican-3",
-        "type": "game"
-    },
-    {
         "id": "turrican-ii-the-final-fight",
         "type": "game"
     },
@@ -5306,5 +5298,57 @@
     {
         "id": "virgin-games-company",
         "type": "company"
+    },
+    {
+        "id": "sega-company",
+        "type": "company"
+    },
+    {
+        "id": "sega-mega-drive-classics",
+        "type": "game"
+    },
+    {
+        "id": "shadow-dancer-the-secret-of-shinobi",
+        "type": "game"
+    },
+    {
+        "id": "shinobi-iii-return-of-the-ninja-master",
+        "type": "game"
+    },
+    {
+        "id": "shinobi-series",
+        "type": "series"
+    },
+    {
+        "id": "sonic-team-company",
+        "type": "company"
+    },
+    {
+        "id": "the-revenge-of-shinobi",
+        "type": "game"
+    },
+    {
+        "id": "travellers-tales-company",
+        "type": "company"
+    },
+    {
+        "id": "turrican-30th-anniversary-event",
+        "type": "event"
+    },
+    {
+        "id": "vectorman-2",
+        "type": "game"
+    },
+    {
+        "id": "vectorman-series",
+        "type": "series"
+    },
+    {
+        "id": "vectorman",
+        "type": "game"
+    },
+    {
+        "id": "turrican-3-payment-day",
+        "type": "game"
     }
 ]

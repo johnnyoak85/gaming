@@ -11,7 +11,7 @@
     "era": "720p",
     "system": "nintendo-wii-system",
     "compatible_with": [
-        "gamecube-system"
+        "nintendo-gamecube-system"
     ],
     "franchise": {
         "series": "wii-series",

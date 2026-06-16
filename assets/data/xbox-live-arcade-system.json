@@ -3,7 +3,7 @@
     "name": "Xbox Live Arcade",
     "description": "Xbox 360 digital game platform for smaller downloadable games, arcade rereleases, and early console indie hits.",
     "type": "system",
-    "logo": "xbox-live-arcade-logo",
+    "logo": "xbox-live-arcade-system",
     "era": null,
     "companies": [
         "microsoft-company"

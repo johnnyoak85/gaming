@@ -1,1 +1,92 @@
-{"id":"contra-hard-corps","name":"Contra: Hard Corps","cover":"contra-hard-corps","release":"1994-09-15","type":"game","franchise":{"universe":"Contra","series":"Contra","subseries":"Hard Corps"},"system":"sega-mega-drive","classification":{"genres":["Action","Shooter"],"subgenres":["Run and Gun"],"themes":["Sci-Fi"],"tags":["Retro","Hard","Branching Paths"]},"player_age":12,"access":[{"platform":"mega-drive-mini","via":null,"format":"built_in","status":"owned","notes":null},{"platform":"nintendo-switch","via":"contra-anniversary-collection","format":"contained","status":"owned","notes":null}],"versions":[{"source":"probotector","type":"regional_variant"}],"relationships":[{"source":"super-c","type":"prequel"},{"source":"hard-corps-uprising","type":"sequel"}],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","co_op"]},"companies":["Konami"],"progress":"planned","backlog":{"priority":5,"reason":"Fan-favorite Contra with branching story routes.","rating":5,"difficulty":5,"estimated_hours":3},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "contra-hard-corps",
+    "name": "Contra: Hard Corps",
+    "cover": "contra-hard-corps",
+    "release": "1994-09-15",
+    "type": "game",
+    "franchise": {
+        "series": "contra-series",
+        "subseries": "hard-corps-series"
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "subgenres": [
+            "Run and Gun"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Retro",
+            "Hard",
+            "Branching Paths"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "contra-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "probotector",
+            "type": "regional_variant"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "contra-iii-the-alien-wars",
+            "type": "prequel"
+        },
+        {
+            "source": "hard-corps-uprising",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "co_op"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Fan-favorite Contra with branching story routes.",
+        "rating": 5,
+        "difficulty": 5,
+        "estimated_hours": 3
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive Contra run-and-gun game with multiple playable characters, branching routes, and several endings.",
+    "people": [
+        "nobuya-nakazato"
+    ]
+}

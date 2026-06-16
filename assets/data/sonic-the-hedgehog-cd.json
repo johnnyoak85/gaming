@@ -1,1 +1,77 @@
-{"id":"sonic-the-hedgehog-cd","name":"Sonic the Hedgehog CD","cover":"sonic-the-hedgehog-cd","release":"1993-09-23","type":"game","franchise":{"universe":"Sonic","series":"Sonic the Hedgehog","subseries":null},"system":"sega-cd","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":["Time Travel"],"tags":["Retro"]},"player_age":6,"access":[{"platform":"nintendo-gamecube","via":"sonic-gems-collection","format":"contained","status":"owned","notes":null}],"versions":[{"source":"sonic-the-hedgehog-cd-2011","format":"remaster"}],"relationships":[{"source":"sonic-the-hedgehog","type":"prequel"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Sonic Team"],"progress":"planned","backlog":{"priority":4,"reason":"Unique Sonic entry with time travel mechanics.","rating":4,"difficulty":3,"estimated_hours":4},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "sonic-the-hedgehog-cd",
+    "name": "Sonic the Hedgehog CD",
+    "cover": "sonic-the-hedgehog-cd",
+    "release": "1993-09-23",
+    "type": "game",
+    "franchise": {
+        "universe": "Sonic",
+        "series": "Sonic the Hedgehog",
+        "subseries": null
+    },
+    "system": "mega-cd-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Time Travel"
+        ],
+        "tags": [
+            "Retro"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-gems-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "sonic-the-hedgehog-cd-2011",
+            "format": "remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog",
+            "type": "prequel"
+        }
+    ],
+    "playstyle": {
+        "players": {
+            "min": 1,
+            "max": 1
+        },
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "Sonic Team"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique Sonic entry with time travel mechanics.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null
+}

@@ -42,7 +42,7 @@ function imageFolder(type) {
   switch (type) {
     case "amiibo": return "amiibo";
     case "company": return "company";
-    case "event": return "events";
+    case "event": return "event";
     case "hardware": return "hardware";
     case "person": return "person";
     case "release_line": return "release-line";

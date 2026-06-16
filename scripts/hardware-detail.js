@@ -96,7 +96,7 @@ function imageFolder(type) {
     case "system": return "system";
     case "series": return "series";
     case "company": return "company";
-    case "event": return "events";
+    case "event": return "event";
     case "person": return "person";
     case "release_line": return "release-line";
     default: return "game";

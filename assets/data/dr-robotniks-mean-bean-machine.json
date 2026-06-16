@@ -1,1 +1,93 @@
-{"id":"dr-robotniks-mean-bean-machine","name":"Dr. Robotnik’s Mean Bean Machine","cover":"dr-robotniks-mean-bean-machine","release":"1993-11-30","type":"game","franchise":{"universe":"Sonic","series":"Dr. Robotnik's Mean Bean Machine","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Puzzle"],"subgenres":["Falling Block Puzzle"],"themes":["Comedy"],"tags":["Genesis","Versus"]},"player_age":6,"access":[{"platform":"nintendo-gamecube","via":"sonic-mega-collection","format":"contained","status":"owned","notes":null},{"platform":"mega-drive-mini","via":null,"format":"built_in","status":"owned","notes":null}],"versions":[{"source":"dr-robotniks-mean-bean-machine-8bit","format":"port"}],"relationships":[],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","versus"]},"companies":["Compile"],"progress":"planned","backlog":{"priority":4,"reason":"Definitive console version of the Puyo Puyo reskin.","rating":4,"difficulty":3,"estimated_hours":null},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "dr-robotniks-mean-bean-machine",
+    "name": "Dr. Robotnik's Mean Bean Machine",
+    "cover": "dr-robotniks-mean-bean-machine",
+    "release": "1993-11-30",
+    "type": "game",
+    "franchise": {
+        "series": "sonic-the-hedgehog-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Falling Block Puzzle"
+        ],
+        "themes": [
+            "Comedy"
+        ],
+        "tags": [
+            "Genesis",
+            "Versus"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "sega-mega-drive-classics",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "dr-robotniks-mean-bean-machine-8bit",
+            "format": "port"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "puyo-puyo",
+            "type": "counterpart"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "compile-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Definitive console version of the Puyo Puyo reskin.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": null
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive falling-block puzzle game that reworks Puyo Puyo with Sonic cartoon characters and Dr. Robotnik theming.",
+    "people": [
+        "masamitsu-niitani"
+    ]
+}

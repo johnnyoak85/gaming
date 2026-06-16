@@ -20,7 +20,7 @@ export function imageUrl(entry) {
   const folder = {
     amiibo: "amiibo",
     company: "company",
-    event: "events",
+    event: "event",
     hardware: "hardware",
     person: "person",
     release_line: "release-line",

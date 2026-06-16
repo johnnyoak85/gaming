@@ -1,1 +1,84 @@
-{"id":"sonic-and-knuckles","name":"Sonic & Knuckles","cover":"sonic-and-knuckles","release":"1994-10-18","type":"game","franchise":{"universe":"Sonic","series":"Sonic the Hedgehog","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":[],"tags":["Genesis"]},"player_age":6,"access":[{"platform":"nintendo-gamecube","via":"sonic-mega-collection","format":"contained","status":"owned","notes":null}],"versions":[{"source":"sonic-3-and-knuckles","format":"enhanced_remaster"}],"relationships":[{"source":"sonic-the-hedgehog-3","type":"prequel"},{"source":"blue-sphere","type":"spinoff"}],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","co_op"]},"companies":["Sonic Team"],"progress":"planned","backlog":{"priority":5,"reason":"Expansion cartridge completing Sonic 3.","rating":5,"difficulty":3,"estimated_hours":5},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "sonic-and-knuckles",
+    "name": "Sonic & Knuckles",
+    "cover": "sonic-and-knuckles",
+    "release": "1994-10-18",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "sonic-the-hedgehog-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Genesis"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "sonic-3-and-knuckles",
+            "format": "enhanced_remaster"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "sonic-the-hedgehog-3",
+            "type": "prequel"
+        },
+        {
+            "source": "blue-sphere",
+            "type": "spinoff"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "sonic-team-company"
+    ],
+    "people": [
+        "yuji-naka",
+        "hirokazu-yasuhara",
+        "takashi-iizuka"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 5,
+        "reason": "Standalone second half of the Sonic 3 project and key Knuckles debut.",
+        "rating": 5,
+        "difficulty": 3,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "release_line": null,
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive platformer continuing Sonic 3's Angel Island story, with Sonic and Knuckles as playable characters."
+}

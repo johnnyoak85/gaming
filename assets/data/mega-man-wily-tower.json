@@ -1,1 +1,71 @@
-{"id":"mega-man-wily-tower","name":"Mega Man: Wily Tower","cover":"mega-man-wily-tower","release":"1994-10-21","type":"game","franchise":{"universe":"Mega Man","series":"Mega Man","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":["Sci-Fi"],"tags":["Mega Drive","Exclusive","Boss Battles"]},"player_age":8,"access":[{"platform":"mega-drive-mini","via":"mega-man-the-wily-wars","format":"built_in","status":"owned","notes":null}],"versions":[],"relationships":[{"source":"mega-man-3-1994","type":"base"}],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Minakuchi Engineering"],"progress":"planned","backlog":{"priority":4,"reason":"Exclusive post-game campaign unique to The Wily Wars.","rating":4,"difficulty":4,"estimated_hours":2},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":"Unlocked after completing all three Wily Wars campaigns."}
+{
+    "id": "mega-man-wily-tower",
+    "name": "Mega Man: Wily Tower",
+    "cover": "mega-man-wily-tower",
+    "release": "1994-10-21",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "mega-man-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Sci-Fi"
+        ],
+        "tags": [
+            "Mega Drive",
+            "Exclusive",
+            "Boss Battles"
+        ]
+    },
+    "player_age": 8,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": "mega-man-the-wily-wars",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "minakuchi-engineering-company"
+    ],
+    "people": [
+        "keiji-inafune"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Exclusive post-game campaign unique to The Wily Wars.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 2
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Original extra campaign in Mega Man: The Wily Wars, unlocked after completing the three remade Mega Man games."
+}

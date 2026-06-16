@@ -3,7 +3,7 @@
         "name": "Game & Watch",
         "description": "Nintendo's LCD handheld game platform before the Game Boy, built around dedicated single-game devices and simple score-chasing play.",
         "type": "system",
-        "logo": "game-watch-logo",
+        "logo": "game-watch-system",
         "era": "classic",
         "companies": [
             "nintendo-company"

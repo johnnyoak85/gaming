@@ -70,7 +70,7 @@
         "reason": null,
         "notes": null
     },
-    "event": null,
+    "event": "turrican-30th-anniversary-event",
     "contains": [
         "turrican-3",
         "mega-turrican",

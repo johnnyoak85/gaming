@@ -1,1 +1,75 @@
-{"id":"tetris-mega-drive","name":"Tetris","cover":"tetris-mega-drive","release":"2019-09-19","type":"game","franchise":{"universe":"Tetris","series":"Tetris","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Puzzle"],"subgenres":["Tile Matching"],"themes":[],"tags":["Retro","Arcade Style","High Score"]},"player_age":5,"access":[{"platform":"sega-mega-drive-mini","via":null,"format":"built_in","status":"owned","notes":"Included as a bonus title on Mega Drive Mini."}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","versus"]},"companies":["Sega"],"progress":"planned","backlog":{"priority":2,"reason":"Historically fascinating unreleased Mega Drive version of Tetris.","rating":4,"difficulty":2,"estimated_hours":5},"acquisition":{"priority":3,"reason":"Important preservation piece due to its unreleased status and Sega history.","notes":"Included in Mega Drive Mini."},"event":null,"notes":"Originally unreleased commercially during the Mega Drive era."}
+{
+    "id": "tetris-mega-drive",
+    "name": "Tetris",
+    "cover": "tetris-mega-drive",
+    "release": "2019-09-19",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "tetris-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Puzzle"
+        ],
+        "subgenres": [
+            "Tile Matching"
+        ],
+        "themes": [],
+        "tags": [
+            "Retro",
+            "Arcade Style",
+            "High Score"
+        ]
+    },
+    "player_age": 5,
+    "access": [
+        {
+            "platform": "sega-mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": "Included as a bonus title on Mega Drive Mini."
+        }
+    ],
+    "versions": [
+        {
+            "source": "tetris",
+            "type": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "sega-company"
+    ],
+    "people": [
+        "alexey-pajitnov"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Historically fascinating unreleased Mega Drive version of Tetris.",
+        "rating": 4,
+        "difficulty": 2,
+        "estimated_hours": 5
+    },
+    "acquisition": {
+        "priority": 3,
+        "reason": "Important preservation piece due to its unreleased status and Sega history.",
+        "notes": null
+    },
+    "release_line": null,
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive version of Tetris preserved through the Mega Drive Mini after its original commercial release was cancelled."
+}

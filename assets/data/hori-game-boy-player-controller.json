@@ -11,7 +11,7 @@
     ],
     "form": "special",
     "era": null,
-    "system": "gamecube-system",
+    "system": "nintendo-gamecube-system",
     "primary_for": [
         "nintendo-gamecube"
     ],

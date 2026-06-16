@@ -1,1 +1,85 @@
-{"id":"street-fighter-ii-special-champion-edition","name":"Street Fighter II': Special Champion Edition","cover":"street-fighter-ii-special-champion-edition","release":"1993-09-27","type":"game","franchise":{"universe":"Street Fighter","series":"Street Fighter II","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Fighting"],"subgenres":["2D Fighting"],"themes":["Martial Arts"],"tags":["Mega Drive","Arcade","Competitive","Retro"]},"player_age":10,"access":[{"platform":"mega-drive-mini","via":null,"format":"built_in","status":"owned","notes":null}],"versions":[{"source":"street-fighter-ii-champion-edition","format":"base"}],"relationships":[],"playstyle":{"players":{"min":1,"max":2},"modes":["solo","versus"]},"companies":["Capcom"],"progress":"planned","backlog":{"priority":4,"reason":"Technically impressive Mega Drive adaptation combining Champion Edition and Hyper Fighting content.","rating":4,"difficulty":4,"estimated_hours":15},"acquisition":{"priority":4,"reason":"Historically important Sega-side Street Fighter II conversion.","notes":"Built into Mega Drive Mini."},"event":null,"notes":null}
+{
+    "id": "street-fighter-ii-special-champion-edition",
+    "name": "Street Fighter II': Special Champion Edition",
+    "aliases": [
+        "Street Fighter II' Plus: Champion Edition",
+        "Street Fighter II' Plus"
+    ],
+    "cover": "street-fighter-ii-special-champion-edition",
+    "release": "1993-09-27",
+    "type": "game",
+    "franchise": {
+        "series": "street-fighter-series",
+        "subseries": "street-fighter-ii-series"
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Fighting"
+        ],
+        "subgenres": [
+            "2D Fighting"
+        ],
+        "themes": [
+            "Martial Arts"
+        ],
+        "tags": [
+            "Mega Drive",
+            "Arcade",
+            "Competitive",
+            "Retro"
+        ]
+    },
+    "player_age": 10,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built_in",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "street-fighter-ii-champion-edition",
+            "format": "base"
+        },
+        {
+            "source": "street-fighter-ii-hyper-fighting",
+            "type": "counterpart"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 2,
+        "modes": [
+            "solo",
+            "versus"
+        ]
+    },
+    "companies": [
+        "capcom-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Technically impressive Mega Drive adaptation combining Champion Edition and Hyper Fighting content.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 15
+    },
+    "acquisition": {
+        "priority": 4,
+        "reason": "Historically important Sega-side Street Fighter II conversion.",
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive version of Street Fighter II combining Champion Edition content with Hyper Fighting-style options.",
+    "people": [
+        "akira-nishitani",
+        "akira-yasuda"
+    ]
+}

@@ -1,1 +1,74 @@
-{"id":"sonic-3d-blast","name":"Sonic 3D Blast","cover":"sonic-3d-blast","release":"1996-11-01","type":"game","franchise":{"universe":"Sonic","series":"Sonic","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Action","Platform"],"subgenres":["Isometric Platformer"],"themes":[],"tags":["Genesis"]},"player_age":6,"access":[{"platform":"nintendo-gamecube","via":"sonic-mega-collection","format":"contained","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Traveller's Tales"],"progress":"planned","backlog":{"priority":2,"reason":"Late-era experimental Sonic title.","rating":3,"difficulty":3,"estimated_hours":4},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "sonic-3d-blast",
+    "name": "Sonic 3D Blast",
+    "aliases": [
+        "Sonic 3D: Flickies' Island"
+    ],
+    "cover": "sonic-3d-blast",
+    "release": "1996-11-01",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "sonic-the-hedgehog-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Isometric Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Genesis"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "sega-mega-drive-classics",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "travellers-tales-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 2,
+        "reason": "Late-era experimental Sonic title.",
+        "rating": 3,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive isometric Sonic platformer where Sonic rescues Flickies from Dr. Robotnik across pseudo-3D stages."
+}

@@ -1,8 +1,8 @@
 {
-    "id": "nintendo-wii-nunchuk",
+    "id": "nintendo-wii-nunchuck",
     "name": "Nunchuk",
     "description": "Wii Remote expansion controller with analog stick and extra buttons for two-handed Wii control.",
-    "cover": "nunchuck",
+    "cover": "nintendo-wii-nunchuck",
     "release": "2006-11-19",
     "type": "hardware",
     "category": "controller",

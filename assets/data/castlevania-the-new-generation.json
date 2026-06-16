@@ -1,0 +1,86 @@
+{
+    "id": "castlevania-the-new-generation",
+    "name": "Castlevania: The New Generation",
+    "aliases": [
+        "Vampire Killer",
+        "Castlevania: Bloodlines"
+    ],
+    "cover": "castlevania-the-new-generation",
+    "release": "1994-03-17",
+    "type": "game",
+    "franchise": {
+        "series": "castlevania-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [
+            "Gothic",
+            "Horror"
+        ],
+        "tags": [
+            "Retro",
+            "Fast Paced"
+        ]
+    },
+    "player_age": 12,
+    "access": [
+        {
+            "platform": "mega-drive-mini",
+            "via": null,
+            "format": "built-in",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "castlevania-anniversary-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [
+        {
+            "source": "castlevania-portrait-of-ruin",
+            "type": "sequel"
+        }
+    ],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "konami-company"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Unique Mega Drive Castlevania entry.",
+        "rating": 4,
+        "difficulty": 4,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive Castlevania action-platformer where John Morris and Eric Lecarde fight Dracula's forces across Europe.",
+    "people": [
+        "michiru-yamane"
+    ]
+}

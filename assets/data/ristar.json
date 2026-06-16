@@ -1,1 +1,72 @@
-{"id":"ristar","name":"Ristar","cover":"ristar","release":"1995-02-16","type":"game","franchise":{"universe":null,"series":"Ristar","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":[],"tags":["Genesis"]},"player_age":6,"access":[{"platform":"nintendo-gamecube","via":"sonic-mega-collection","format":"contained","status":"owned","notes":null}],"versions":[],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Sonic Team"],"progress":"planned","backlog":{"priority":4,"reason":"Highly regarded non-Sonic platformer by Sonic Team.","rating":4,"difficulty":3,"estimated_hours":4},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "ristar",
+    "name": "Ristar",
+    "cover": "ristar",
+    "release": "1995-02-16",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "ristar-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Genesis"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        },
+        {
+            "platform": "nintendo-switch",
+            "via": "sega-mega-drive-classics",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "sonic-team-company"
+    ],
+    "people": [],
+    "progress": "planned",
+    "backlog": {
+        "priority": 4,
+        "reason": "Highly regarded non-Sonic platformer by Sonic Team.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Mega Drive platformer where Ristar grabs, swings, and attacks using extendable arms across themed planets."
+}

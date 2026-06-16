@@ -1,1 +1,73 @@
-{"id":"knuckles-in-sonic-2","name":"Knuckles in Sonic 2","cover":"knuckles-in-sonic-2","release":"1994-10-18","type":"game","franchise":{"universe":"Sonic","series":"Sonic the Hedgehog","subseries":null},"system":"sega-mega-drive","classification":{"genres":["Action","Platform"],"subgenres":["Action Platformer"],"themes":[],"tags":["Remix"]},"player_age":6,"access":[{"platform":"nintendo-gamecube","via":"sonic-mega-collection","format":"contained","status":"owned","notes":null}],"versions":[{"source":"sonic-the-hedgehog-2","format":"base"}],"relationships":[],"playstyle":{"players":{"min":1,"max":1},"modes":["solo"]},"companies":["Sonic Team"],"progress":"planned","backlog":{"priority":3,"reason":"Alternate playable version of Sonic 2.","rating":4,"difficulty":3,"estimated_hours":4},"acquisition":{"priority":null,"reason":null,"notes":null},"event":null,"notes":null}
+{
+    "id": "knuckles-in-sonic-2",
+    "name": "Knuckles in Sonic 2",
+    "cover": "knuckles-in-sonic-2",
+    "release": "1994-10-18",
+    "type": "game",
+    "category": "single_entry",
+    "franchise": {
+        "series": "sonic-the-hedgehog-series",
+        "subseries": null
+    },
+    "system": "sega-mega-drive-system",
+    "classification": {
+        "genres": [
+            "Action",
+            "Platform"
+        ],
+        "subgenres": [
+            "Action Platformer"
+        ],
+        "themes": [],
+        "tags": [
+            "Remix"
+        ]
+    },
+    "player_age": 6,
+    "access": [
+        {
+            "platform": "nintendo-gamecube",
+            "via": "sonic-mega-collection",
+            "format": "contained",
+            "status": "owned",
+            "notes": null
+        }
+    ],
+    "versions": [
+        {
+            "source": "sonic-the-hedgehog-2",
+            "format": "base"
+        }
+    ],
+    "relationships": [],
+    "playstyle": {
+        "min_players": 1,
+        "max_players": 1,
+        "modes": [
+            "solo"
+        ]
+    },
+    "companies": [
+        "sonic-team-company"
+    ],
+    "people": [
+        "yuji-naka",
+        "hirokazu-yasuhara"
+    ],
+    "progress": "planned",
+    "backlog": {
+        "priority": 3,
+        "reason": "Alternate playable version of Sonic 2.",
+        "rating": 4,
+        "difficulty": 3,
+        "estimated_hours": 4
+    },
+    "acquisition": {
+        "priority": null,
+        "reason": null,
+        "notes": null
+    },
+    "event": null,
+    "notes": null,
+    "description": "Lock-on remix of Sonic the Hedgehog 2 that lets Knuckles play through the original stages with his gliding and climbing abilities."
+}

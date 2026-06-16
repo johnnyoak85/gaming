@@ -53,7 +53,7 @@ function getImageSubfolder(type) {
     case "collection":
     case "bundle": return "game";
     case "hardware": return "hardware";
-    case "event": return "events";
+    case "event": return "event";
     case "person": return "person";
     case "release_line": return "release-line";
     case "series": return "series";

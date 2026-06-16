@@ -9,7 +9,7 @@
     "aliases": [],
     "form": "add_on",
     "era": "32-bit",
-    "system": "gamecube-system",
+    "system": "nintendo-gamecube-system",
     "primary_for": [
         "nintendo-gamecube"
     ],
